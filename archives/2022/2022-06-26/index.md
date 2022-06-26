@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 21:36:00](https://hardware.slashdot.org/story/22/06/26/2133221/here-come-the-solar-powered-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Here Come the Solar-Powered Cars](https://hardware.slashdot.org/story/22/06/26/2133221/here-come-the-solar-powered-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-26, 20:05:00](https://yro.slashdot.org/story/22/06/26/1956237/facebook-agrees-to-massive-settlement-for-data-privacy-class-action-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Agrees To Massive Settlement For Data Privacy Class Action Lawsuit](https://yro.slashdot.org/story/22/06/26/1956237/facebook-agrees-to-massive-settlement-for-data-privacy-class-action-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-26, 18:55:00](https://tech.slashdot.org/story/22/06/26/1853200/are-air-taxis-getting-closer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Air Taxis Getting Closer?](https://tech.slashdot.org/story/22/06/26/1853200/are-air-taxis-getting-closer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-26, 17:48:00](https://entertainment.slashdot.org/story/22/06/26/1746207/how-1982s-blade-runner-defined-the-sci-fi-film-genre?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How 1982's 'Blade Runner' Defined the Sci-Fi Film Genre](https://entertainment.slashdot.org/story/22/06/26/1746207/how-1982s-blade-runner-defined-the-sci-fi-film-genre?utm_source=rss1.0mainlinkanon&utm_medium=feed)
