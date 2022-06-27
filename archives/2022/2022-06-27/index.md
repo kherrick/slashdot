@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 22:10:00](https://news.slashdot.org/story/22/06/27/1851219/fintechs-face-reckoning-as-easy-money-dries-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fintechs Face Reckoning as Easy Money Dries Up](https://news.slashdot.org/story/22/06/27/1851219/fintechs-face-reckoning-as-easy-money-dries-up?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-27, 21:30:00](https://tech.slashdot.org/story/22/06/27/1856233/google-hangouts-is-shutting-down-in-november?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Hangouts is Shutting Down in November](https://tech.slashdot.org/story/22/06/27/1856233/google-hangouts-is-shutting-down-in-november?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-27, 20:52:00](https://slashdot.org/story/22/06/27/2051233/ftx-exploring-a-deal-to-buy-robinhood?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTX Exploring a Deal To Buy Robinhood](https://slashdot.org/story/22/06/27/2051233/ftx-exploring-a-deal-to-buy-robinhood?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-27, 20:10:00](https://developers.slashdot.org/story/22/06/27/1844244/svelte-origins-a-javascript-documentary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Svelte Origins: a JavaScript Documentary](https://developers.slashdot.org/story/22/06/27/1844244/svelte-origins-a-javascript-documentary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
