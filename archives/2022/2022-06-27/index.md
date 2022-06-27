@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 21:30:00](https://tech.slashdot.org/story/22/06/27/1856233/google-hangouts-is-shutting-down-in-november?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Hangouts is Shutting Down in November](https://tech.slashdot.org/story/22/06/27/1856233/google-hangouts-is-shutting-down-in-november?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-27, 20:52:00](https://slashdot.org/story/22/06/27/2051233/ftx-exploring-a-deal-to-buy-robinhood?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTX Exploring a Deal To Buy Robinhood](https://slashdot.org/story/22/06/27/2051233/ftx-exploring-a-deal-to-buy-robinhood?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-27, 20:10:00](https://developers.slashdot.org/story/22/06/27/1844244/svelte-origins-a-javascript-documentary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Svelte Origins: a JavaScript Documentary](https://developers.slashdot.org/story/22/06/27/1844244/svelte-origins-a-javascript-documentary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-27, 19:31:00](https://games.slashdot.org/story/22/06/27/1834203/popular-game-valorant-will-start-listening-to-your-voice-chat-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Popular Game Valorant Will Start Listening To Your Voice Chat Next Month](https://games.slashdot.org/story/22/06/27/1834203/popular-game-valorant-will-start-listening-to-your-voice-chat-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
