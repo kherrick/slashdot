@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 20:53:00](https://news.slashdot.org/story/22/06/28/198214/mozilla-releases-firefox-102?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Releases Firefox 102](https://news.slashdot.org/story/22/06/28/198214/mozilla-releases-firefox-102?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-28, 20:10:00](https://tech.slashdot.org/story/22/06/28/1916213/google-makes-earth-engine-available-to-all-businesses-and-governments?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Makes Earth Engine Available To All Businesses and Governments](https://tech.slashdot.org/story/22/06/28/1916213/google-makes-earth-engine-available-to-all-businesses-and-governments?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-28, 19:30:00](https://science.slashdot.org/story/22/06/28/1926257/nasas-capstone-mission-launches-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA's CAPSTONE Mission Launches To the Moon](https://science.slashdot.org/story/22/06/28/1926257/nasas-capstone-mission-launches-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-06-28, 18:50:00](https://yro.slashdot.org/story/22/06/28/1834257/bored-apes-creator-sues-conceptual-artist-for-copying-its-nfts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bored Apes Creator Sues Conceptual Artist For Copying Its NFTs](https://yro.slashdot.org/story/22/06/28/1834257/bored-apes-creator-sues-conceptual-artist-for-copying-its-nfts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
