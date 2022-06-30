@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-06-30](index.md)
+
+* [2022-06-30, 01:30:00](https://tech.slashdot.org/story/22/06/29/2134210/californias-attempt-to-protect-kids-online-could-end-adults-internet-anonymity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California's Attempt To Protect Kids Online Could End Adults' Internet Anonymity](https://tech.slashdot.org/story/22/06/29/2134210/californias-attempt-to-protect-kids-online-could-end-adults-internet-anonymity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-06-30, 00:50:00](https://apple.slashdot.org/story/22/06/29/2126208/brazil-is-also-considering-making-usb-c-chargers-mandatory-for-iphones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brazil Is Also Considering Making USB-C Chargers Mandatory For iPhones](https://apple.slashdot.org/story/22/06/29/2126208/brazil-is-also-considering-making-usb-c-chargers-mandatory-for-iphones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-06-30, 00:30:00](https://slashdot.org/story/22/06/29/2213207/unity-laying-off-hundreds-of-staffers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Unity Laying Off Hundreds of Staffers](https://slashdot.org/story/22/06/29/2213207/unity-laying-off-hundreds-of-staffers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-06-30, 00:10:00](https://tech.slashdot.org/story/22/06/29/2121257/meta-sparks-anger-by-charging-for-vr-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Sparks Anger By Charging For VR Apps](https://tech.slashdot.org/story/22/06/29/2121257/meta-sparks-anger-by-charging-for-vr-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
