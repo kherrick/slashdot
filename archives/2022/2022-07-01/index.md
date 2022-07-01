@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 21:22:00](https://tech.slashdot.org/story/22/07/01/1956206/doj-files-charges-against-baller-ape-club-rug-pull?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DOJ Files Charges Against Baller Ape Club 'Rug Pull'](https://tech.slashdot.org/story/22/07/01/1956206/doj-files-charges-against-baller-ape-club-rug-pull?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 20:41:00](https://tech.slashdot.org/story/22/07/01/1953214/thunderbird-102-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Thunderbird 102 Released](https://tech.slashdot.org/story/22/07/01/1953214/thunderbird-102-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 20:00:00](https://slashdot.org/story/22/07/01/1948214/tiktok-confirms-some-china-based-employees-can-access-us-user-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TikTok Confirms Some China-Based Employees Can Access US User Data](https://slashdot.org/story/22/07/01/1948214/tiktok-confirms-some-china-based-employees-can-access-us-user-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 19:20:00](https://slashdot.org/story/22/07/01/1825219/amazon-agrees-to-drop-prime-cancellation-dark-patterns-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Agrees To Drop Prime Cancellation 'Dark Patterns' in Europe](https://slashdot.org/story/22/07/01/1825219/amazon-agrees-to-drop-prime-cancellation-dark-patterns-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
