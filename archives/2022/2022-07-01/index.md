@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 16:40:00](https://tech.slashdot.org/story/22/07/01/1459210/eu-moves-to-rein-in-wild-west-of-crypto-assets-with-new-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Moves To Rein in 'Wild West' of Crypto Assets With New Rules](https://tech.slashdot.org/story/22/07/01/1459210/eu-moves-to-rein-in-wild-west-of-crypto-assets-with-new-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 16:01:00](https://tech.slashdot.org/story/22/07/01/1423215/facebook-groups-are-being-revamped-to-look-like-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Groups Are Being Revamped To Look Like Discord](https://tech.slashdot.org/story/22/07/01/1423215/facebook-groups-are-being-revamped-to-look-like-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 15:22:00](https://tech.slashdot.org/story/22/07/01/1410259/adt-is-betting-google-can-drag-it-into-the-future?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ADT Is Betting Google Can Drag It Into the Future](https://tech.slashdot.org/story/22/07/01/1410259/adt-is-betting-google-can-drag-it-into-the-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 14:40:00](https://science.slashdot.org/story/22/07/01/1430200/whose-rocket-hit-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Whose Rocket Hit the Moon?](https://science.slashdot.org/story/22/07/01/1430200/whose-rocket-hit-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
