@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 16:01:00](https://tech.slashdot.org/story/22/07/01/1423215/facebook-groups-are-being-revamped-to-look-like-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Groups Are Being Revamped To Look Like Discord](https://tech.slashdot.org/story/22/07/01/1423215/facebook-groups-are-being-revamped-to-look-like-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 15:22:00](https://tech.slashdot.org/story/22/07/01/1410259/adt-is-betting-google-can-drag-it-into-the-future?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ADT Is Betting Google Can Drag It Into the Future](https://tech.slashdot.org/story/22/07/01/1410259/adt-is-betting-google-can-drag-it-into-the-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 14:40:00](https://science.slashdot.org/story/22/07/01/1430200/whose-rocket-hit-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Whose Rocket Hit the Moon?](https://science.slashdot.org/story/22/07/01/1430200/whose-rocket-hit-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-01, 14:02:00](https://slashdot.org/story/22/07/01/142251/microsoft-cloud-computing-system-suffering-from-global-shortage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Cloud Computing System Suffering From Global Shortage](https://slashdot.org/story/22/07/01/142251/microsoft-cloud-computing-system-suffering-from-global-shortage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
