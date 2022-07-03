@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 17:34:00](https://slashdot.org/story/22/07/03/0022255/the-batting-lab-the-bad-news-bears-meet-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Batting Lab': the Bad News Bears Meet AI?](https://slashdot.org/story/22/07/03/0022255/the-batting-lab-the-bad-news-bears-meet-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-03, 16:34:00](https://science.slashdot.org/story/22/07/03/0156251/nasas-sls-mega-rocket-could-launch-within-8-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA's SLS Mega-Rocket Could Launch Within 8 Weeks](https://science.slashdot.org/story/22/07/03/0156251/nasas-sls-mega-rocket-could-launch-within-8-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-03, 15:34:00](https://yro.slashdot.org/story/22/07/03/1440256/school-recovers-ransomware-paid-in-bitcoin---makes-a-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [School Recovers Ransomware Paid in Bitcoin - Makes a Profit](https://yro.slashdot.org/story/22/07/03/1440256/school-recovers-ransomware-paid-in-bitcoin---makes-a-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-03, 14:34:00](https://science.slashdot.org/story/22/07/03/0223238/researchers-grow-food-plants-without-sunlight?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Grow Food Plants Without Sunlight](https://science.slashdot.org/story/22/07/03/0223238/researchers-grow-food-plants-without-sunlight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
