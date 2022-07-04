@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-04](index.md)
+
+* [2022-07-04, 01:34:00](https://hardware.slashdot.org/story/22/07/04/0026219/berlin-builds-a-giant-thermos-to-help-heat-homes-this-winter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Berlin Builds a Giant Thermos to Help Heat Homes This Winter](https://hardware.slashdot.org/story/22/07/04/0026219/berlin-builds-a-giant-thermos-to-help-heat-homes-this-winter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
