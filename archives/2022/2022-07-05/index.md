@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-05](index.md)
+
+* [2022-07-05, 01:30:00](https://developers.slashdot.org/story/22/07/04/193233/vim-90-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vim 9.0 Released](https://developers.slashdot.org/story/22/07/04/193233/vim-90-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
