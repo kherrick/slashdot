@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 21:25:00](https://tech.slashdot.org/story/22/07/05/1945234/3-d-printing-grows-beyond-its-novelty-roots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [3-D Printing Grows Beyond Its Novelty Roots](https://tech.slashdot.org/story/22/07/05/1945234/3-d-printing-grows-beyond-its-novelty-roots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-05, 20:45:00](https://news.slashdot.org/story/22/07/05/1935246/inside-the-dying-art-of-subtitling?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inside the Dying Art of Subtitling](https://news.slashdot.org/story/22/07/05/1935246/inside-the-dying-art-of-subtitling?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-05, 20:08:00](https://science.slashdot.org/story/22/07/05/1931226/sand-battery-could-solve-green-energys-big-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Sand Battery Could Solve Green Energy's Big Problem'](https://science.slashdot.org/story/22/07/05/1931226/sand-battery-could-solve-green-energys-big-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-05, 19:27:00](https://science.slashdot.org/story/22/07/05/1926259/fields-medals-in-mathematics-won-by-four-under-age-40?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fields Medals in Mathematics Won by Four Under Age 40](https://science.slashdot.org/story/22/07/05/1926259/fields-medals-in-mathematics-won-by-four-under-age-40?utm_source=rss1.0mainlinkanon&utm_medium=feed)
