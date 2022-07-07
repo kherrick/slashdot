@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 20:00:00](https://games.slashdot.org/story/22/07/07/1847207/playstation-store-will-remove-customers-purchased-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PlayStation Store Will Remove Customers' Purchased Movies](https://games.slashdot.org/story/22/07/07/1847207/playstation-store-will-remove-customers-purchased-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-07, 19:21:00](https://news.slashdot.org/story/22/07/07/185253/ftc-settles-with-weber-grills-over-right-to-repair?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Settles With Weber Grills Over 'Right To Repair'](https://news.slashdot.org/story/22/07/07/185253/ftc-settles-with-weber-grills-over-right-to-repair?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-07, 18:40:00](https://science.slashdot.org/story/22/07/07/1719216/what-makes-sea-dragons-so-strange?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Makes Sea Dragons So Strange](https://science.slashdot.org/story/22/07/07/1719216/what-makes-sea-dragons-so-strange?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-07, 18:00:00](https://slashdot.org/story/22/07/07/1730228/how-war-in-ukraine-roiled-russias-coolest-company?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How War in Ukraine Roiled Russia's 'Coolest Company'](https://slashdot.org/story/22/07/07/1730228/how-war-in-ukraine-roiled-russias-coolest-company?utm_source=rss1.0mainlinkanon&utm_medium=feed)
