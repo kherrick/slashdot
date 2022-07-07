@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-07](index.md)
+
+* [2022-07-07, 02:02:00](https://it.slashdot.org/story/22/07/06/2120208/uk-could-force-e2e-encrypted-platforms-to-do-csam-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Could Force E2E Encrypted Platforms To Do CSAM-Scanning](https://it.slashdot.org/story/22/07/06/2120208/uk-could-force-e2e-encrypted-platforms-to-do-csam-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-07, 01:25:00](https://linux.slashdot.org/story/22/07/06/2348255/systemd-creator-lands-at-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Systemd Creator Lands At Microsoft](https://linux.slashdot.org/story/22/07/06/2348255/systemd-creator-lands-at-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-07, 00:45:00](https://games.slashdot.org/story/22/07/06/2040206/microsofts-xcloud-game-streaming-looks-worse-on-linux-than-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's xCloud Game Streaming Looks Worse On Linux Than Windows](https://games.slashdot.org/story/22/07/06/2040206/microsofts-xcloud-game-streaming-looks-worse-on-linux-than-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-07, 00:02:00](https://news.slashdot.org/story/22/07/06/2022201/mi5-and-fbi-heads-issue-joint-warning-on-chinese-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MI5 and FBI Heads Issue Joint Warning On Chinese Spying](https://news.slashdot.org/story/22/07/06/2022201/mi5-and-fbi-heads-issue-joint-warning-on-chinese-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
