@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 18:40:00](https://science.slashdot.org/story/22/07/07/1719216/what-makes-sea-dragons-so-strange?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Makes Sea Dragons So Strange](https://science.slashdot.org/story/22/07/07/1719216/what-makes-sea-dragons-so-strange?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-07, 18:00:00](https://slashdot.org/story/22/07/07/1730228/how-war-in-ukraine-roiled-russias-coolest-company?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How War in Ukraine Roiled Russia's 'Coolest Company'](https://slashdot.org/story/22/07/07/1730228/how-war-in-ukraine-roiled-russias-coolest-company?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-07, 17:21:00](https://tech.slashdot.org/story/22/07/07/1710257/europe-faces-facebook-blackout?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Faces Facebook Blackout](https://tech.slashdot.org/story/22/07/07/1710257/europe-faces-facebook-blackout?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-07, 16:43:00](https://tech.slashdot.org/story/22/07/07/1643238/meta-is-dumping-facebook-logins-as-its-metaverse-id-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta is Dumping Facebook Logins as Its Metaverse ID System](https://tech.slashdot.org/story/22/07/07/1643238/meta-is-dumping-facebook-logins-as-its-metaverse-id-system?utm_source=rss1.0mainlinkanon&utm_medium=feed)
