@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-09](index.md)
+
+* [2022-07-09, 01:25:00](https://hardware.slashdot.org/story/22/07/08/2212253/tesla-to-expand-its-us-supercharger-network-to-other-evs-in-late-2022?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tesla To Expand Its US Supercharger Network To Other EVs In Late 2022](https://hardware.slashdot.org/story/22/07/08/2212253/tesla-to-expand-its-us-supercharger-network-to-other-evs-in-late-2022?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-09, 00:45:00](https://it.slashdot.org/story/22/07/08/229223/most-government-websites-serve-tracking-cookies-without-consent-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Most Government Websites Serve Tracking Cookies Without Consent, Report Finds](https://it.slashdot.org/story/22/07/08/229223/most-government-websites-serve-tracking-cookies-without-consent-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-09, 00:02:00](https://hardware.slashdot.org/story/22/07/08/2111230/north-carolina-looks-to-remove-public-ev-chargers-probably-to-the-trash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [North Carolina Looks To Remove Public EV Chargers, Probably To the Trash](https://hardware.slashdot.org/story/22/07/08/2111230/north-carolina-looks-to-remove-public-ev-chargers-probably-to-the-trash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
