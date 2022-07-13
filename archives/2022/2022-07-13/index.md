@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 10:00:00](https://linux.slashdot.org/story/22/07/13/0545252/red-hat-names-new-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Red Hat Names New CEO](https://linux.slashdot.org/story/22/07/13/0545252/red-hat-names-new-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-13, 07:00:00](https://apple.slashdot.org/story/22/07/13/0536212/apple-and-jony-ive-are-parting-ways?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple and Jony Ive Are Parting Ways](https://apple.slashdot.org/story/22/07/13/0536212/apple-and-jony-ive-are-parting-ways?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-13, 03:30:00](https://science.slashdot.org/story/22/07/12/216227/genetically-engineered-pig-hearts-transplanted-into-dead-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Genetically Engineered Pig Hearts Transplanted Into Dead People](https://science.slashdot.org/story/22/07/12/216227/genetically-engineered-pig-hearts-transplanted-into-dead-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2022-07-13, 02:02:00](https://science.slashdot.org/story/22/07/12/2057217/edits-to-a-cholesterol-gene-could-stop-the-biggest-killer-on-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Edits To a Cholesterol Gene Could Stop the Biggest Killer On Earth](https://science.slashdot.org/story/22/07/12/2057217/edits-to-a-cholesterol-gene-could-stop-the-biggest-killer-on-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
