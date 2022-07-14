@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-14](index.md)
+
+* [2022-07-14, 00:23:00](https://slashdot.org/story/22/07/14/0021216/celsius-to-file-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Celsius To File For Bankruptcy](https://slashdot.org/story/22/07/14/0021216/celsius-to-file-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-14, 00:02:00](https://news.slashdot.org/story/22/07/13/2037205/a-bored-chinese-housewife-spent-years-falsifying-russian-history-on-wikipedia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Bored Chinese Housewife Spent Years Falsifying Russian History On Wikipedia](https://news.slashdot.org/story/22/07/13/2037205/a-bored-chinese-housewife-spent-years-falsifying-russian-history-on-wikipedia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
