@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-15](index.md)
+
+* [2022-07-15, 02:02:00](https://science.slashdot.org/story/22/07/14/2136230/some-beijing-travelers-asked-to-wear-covid-monitoring-bracelets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Some Beijing Travelers Asked To Wear COVID Monitoring Bracelets](https://science.slashdot.org/story/22/07/14/2136230/some-beijing-travelers-asked-to-wear-covid-monitoring-bracelets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-15, 01:25:00](https://tech.slashdot.org/story/22/07/14/2131242/microsoft-moves-to-new-windows-development-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Moves To New Windows Development Cycle](https://tech.slashdot.org/story/22/07/14/2131242/microsoft-moves-to-new-windows-development-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-15, 00:45:00](https://hardware.slashdot.org/story/22/07/14/2123236/base-model-macbook-air-with-m2-chip-has-slower-ssd-speeds-in-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Base Model MacBook Air With M2 Chip Has Slower SSD Speeds In Benchmarks](https://hardware.slashdot.org/story/22/07/14/2123236/base-model-macbook-air-with-m2-chip-has-slower-ssd-speeds-in-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2022-07-15, 00:02:00](https://hardware.slashdot.org/story/22/07/14/2113228/panasonic-to-build-4-billion-battery-plant-in-kansas-to-meet-tesla-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Panasonic To Build $4 Billion Battery Plant In Kansas To Meet Tesla Demand](https://hardware.slashdot.org/story/22/07/14/2113228/panasonic-to-build-4-billion-battery-plant-in-kansas-to-meet-tesla-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
