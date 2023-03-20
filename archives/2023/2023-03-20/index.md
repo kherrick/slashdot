@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-20](index.md)
+
+* [2023-03-20, 01:37:00](https://linux.slashdot.org/story/23/03/19/2343248/system76-meerkat-mini-linux-pc---now-with-up-to-intel-core-i7-1260p?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [System76 Meerkat Mini-Linux PC - Now with Up to Intel Core i7-1260P](https://linux.slashdot.org/story/23/03/19/2343248/system76-meerkat-mini-linux-pc---now-with-up-to-intel-core-i7-1260p?utm_source=rss1.0mainlinkanon&utm_medium=feed)
