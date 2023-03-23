@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-23](index.md)
+
+* [2023-03-23, 00:02:00](https://tech.slashdot.org/story/23/03/22/2116236/fcc-fines-15-year-old-pirate-radio-station-in-nyc-2-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC Fines 15 Year-Old Pirate Radio Station In NYC $2 Million](https://tech.slashdot.org/story/23/03/22/2116236/fcc-fines-15-year-old-pirate-radio-station-in-nyc-2-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
