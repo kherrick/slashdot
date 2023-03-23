@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 17:20:00](https://slashdot.org/story/23/03/23/1257232/arm-seeks-to-raise-prices-ahead-of-hotly-anticipated-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Arm Seeks To Raise Prices Ahead of Hotly Anticipated IPO](https://slashdot.org/story/23/03/23/1257232/arm-seeks-to-raise-prices-ahead-of-hotly-anticipated-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-23, 16:40:00](https://tech.slashdot.org/story/23/03/23/1254246/accenture-to-cut-19000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Accenture To Cut 19,000 Jobs](https://tech.slashdot.org/story/23/03/23/1254246/accenture-to-cut-19000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-23, 16:00:00](https://slashdot.org/story/23/03/23/1253201/risk-of-industrial-capture-looms-over-ai-revolution?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Risk of 'Industrial Capture' Looms Over AI Revolution](https://slashdot.org/story/23/03/23/1253201/risk-of-industrial-capture-looms-over-ai-revolution?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-23, 15:20:00](https://news.slashdot.org/story/23/03/23/1247237/jpmorgan-test-will-ditch-cards-to-let-consumers-pay-with-palm-or-face-instead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [JPMorgan Test Will Ditch Cards To Let Consumers Pay with Palm or Face Instead](https://news.slashdot.org/story/23/03/23/1247237/jpmorgan-test-will-ditch-cards-to-let-consumers-pay-with-palm-or-face-instead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
