@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 23:20:00](https://slashdot.org/story/23/03/30/2126213/roku-to-cut-200-jobs-or-6-of-its-workforce-in-second-round-of-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Roku To Cut 200 Jobs, or 6% of Its Workforce, In Second Round of Layoffs](https://slashdot.org/story/23/03/30/2126213/roku-to-cut-200-jobs-or-6-of-its-workforce-in-second-round-of-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 22:40:00](https://news.slashdot.org/story/23/03/30/2122247/missouri-reps-vote-to-completely-defund-states-public-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Missouri Reps Vote To Completely Defund State's Public Libraries](https://news.slashdot.org/story/23/03/30/2122247/missouri-reps-vote-to-completely-defund-states-public-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 22:00:00](https://slashdot.org/story/23/03/30/1852221/lenovo-gives-up-on-its-dream-of-android-gaming-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lenovo Gives Up on Its Dream of Android Gaming Phones](https://slashdot.org/story/23/03/30/1852221/lenovo-gives-up-on-its-dream-of-android-gaming-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 21:20:00](https://games.slashdot.org/story/23/03/30/2115212/e3-2023-has-been-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [E3 2023 Has Been Canceled](https://games.slashdot.org/story/23/03/30/2115212/e3-2023-has-been-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed)
