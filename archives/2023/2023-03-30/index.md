@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 21:20:00](https://games.slashdot.org/story/23/03/30/2115212/e3-2023-has-been-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [E3 2023 Has Been Canceled](https://games.slashdot.org/story/23/03/30/2115212/e3-2023-has-been-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 20:40:00](https://slashdot.org/story/23/03/30/1910207/south-korea-passes-tax-break-driven-chips-act-as-protectionism-fears-mount?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korea Passes Tax Break-Driven 'Chips Act' as Protectionism Fears Mount](https://slashdot.org/story/23/03/30/1910207/south-korea-passes-tax-break-driven-chips-act-as-protectionism-fears-mount?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 20:00:00](https://slashdot.org/story/23/03/30/192229/inside-the-deepfake-porn-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inside the Deepfake Porn Economy](https://slashdot.org/story/23/03/30/192229/inside-the-deepfake-porn-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 19:20:00](https://tech.slashdot.org/story/23/03/30/1914249/us-partner-countries-call-for-controls-to-counter-misuse-of-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US, Partner Countries Call For Controls To Counter Misuse of Spyware](https://tech.slashdot.org/story/23/03/30/1914249/us-partner-countries-call-for-controls-to-counter-misuse-of-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
