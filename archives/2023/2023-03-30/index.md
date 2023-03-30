@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 22:00:00](https://slashdot.org/story/23/03/30/1852221/lenovo-gives-up-on-its-dream-of-android-gaming-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lenovo Gives Up on Its Dream of Android Gaming Phones](https://slashdot.org/story/23/03/30/1852221/lenovo-gives-up-on-its-dream-of-android-gaming-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 21:20:00](https://games.slashdot.org/story/23/03/30/2115212/e3-2023-has-been-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [E3 2023 Has Been Canceled](https://games.slashdot.org/story/23/03/30/2115212/e3-2023-has-been-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 20:40:00](https://slashdot.org/story/23/03/30/1910207/south-korea-passes-tax-break-driven-chips-act-as-protectionism-fears-mount?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korea Passes Tax Break-Driven 'Chips Act' as Protectionism Fears Mount](https://slashdot.org/story/23/03/30/1910207/south-korea-passes-tax-break-driven-chips-act-as-protectionism-fears-mount?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-03-30, 20:00:00](https://slashdot.org/story/23/03/30/192229/inside-the-deepfake-porn-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inside the Deepfake Porn Economy](https://slashdot.org/story/23/03/30/192229/inside-the-deepfake-porn-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
