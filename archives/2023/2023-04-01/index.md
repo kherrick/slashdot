@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 01:25:00](https://tech.slashdot.org/story/23/03/31/2252248/youtube-tricks-chatgpt-into-generating-windows-95-keys?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Tricks ChatGPT Into Generating Windows 95 Keys](https://tech.slashdot.org/story/23/03/31/2252248/youtube-tricks-chatgpt-into-generating-windows-95-keys?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-04-01, 00:45:00](https://tech.slashdot.org/story/23/03/31/2248202/glitch-in-system-upgrade-identified-as-cause-of-delays-at-singapore-immigration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Glitch In System Upgrade Identified As Cause of Delays At Singapore Immigration](https://tech.slashdot.org/story/23/03/31/2248202/glitch-in-system-upgrade-identified-as-cause-of-delays-at-singapore-immigration?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-01, 00:02:00](https://slashdot.org/story/23/03/31/2115236/chinas-chip-industry-will-be-reborn-under-us-sanctions-says-huawei?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's Chip Industry Will Be 'Reborn' Under US Sanctions, Says Huawei](https://slashdot.org/story/23/03/31/2115236/chinas-chip-industry-will-be-reborn-under-us-sanctions-says-huawei?utm_source=rss1.0mainlinkanon&utm_medium=feed)
