@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-02](index.md)
+
+* [2023-04-02, 01:34:00](https://apple.slashdot.org/story/23/04/01/2326247/steve-jobs-has-a-new-memoir-to-be-published-more-than-11-years-after-his-death?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Steve Jobs Has a New 'Memoir', to Be Published More than 11 Years After His Death](https://apple.slashdot.org/story/23/04/01/2326247/steve-jobs-has-a-new-memoir-to-be-published-more-than-11-years-after-his-death?utm_source=rss1.0mainlinkanon&utm_medium=feed)
