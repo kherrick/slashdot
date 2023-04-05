@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 18:03:00](https://news.slashdot.org/story/23/04/05/182255/us-backed-vcs-are-funding-chinas-answer-to-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US-Backed VCs Are Funding China's Answer To OpenAI](https://news.slashdot.org/story/23/04/05/182255/us-backed-vcs-are-funding-chinas-answer-to-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-05, 17:20:00](https://slashdot.org/story/23/04/05/1713213/india-opts-against-ai-regulation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India Opts Against AI Regulation](https://slashdot.org/story/23/04/05/1713213/india-opts-against-ai-regulation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-05, 16:55:00](https://tech.slashdot.org/story/23/04/05/1656219/south-africa-fights-to-keep-phone-networks-up-as-lights-go-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Africa Fights To Keep Phone Networks Up as Lights Go Out](https://tech.slashdot.org/story/23/04/05/1656219/south-africa-fights-to-keep-phone-networks-up-as-lights-go-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-05, 16:05:00](https://news.slashdot.org/story/23/04/05/165209/klaus-teuber-creator-of-the-board-game-catan-dies-at-70?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Klaus Teuber, Creator of the Board Game Catan, Dies at 70](https://news.slashdot.org/story/23/04/05/165209/klaus-teuber-creator-of-the-board-game-catan-dies-at-70?utm_source=rss1.0mainlinkanon&utm_medium=feed)
