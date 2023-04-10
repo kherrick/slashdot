@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 18:40:00](https://tech.slashdot.org/story/23/04/10/1726259/if-we-lose-the-internet-archive-were-screwed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [If We Lose the Internet Archive, We're Screwed](https://tech.slashdot.org/story/23/04/10/1726259/if-we-lose-the-internet-archive-were-screwed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-10, 18:01:00](https://news.slashdot.org/story/23/04/10/175252/time-set-for-national-mobile-phone-emergency-alert-test?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Time Set For National Mobile Phone Emergency Alert Test](https://news.slashdot.org/story/23/04/10/175252/time-set-for-national-mobile-phone-emergency-alert-test?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-10, 17:20:00](https://tech.slashdot.org/story/23/04/10/1632219/openbsd-73-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenBSD 7.3 Released](https://tech.slashdot.org/story/23/04/10/1632219/openbsd-73-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-10, 16:40:00](https://it.slashdot.org/story/23/04/10/1620228/fbi-warns-against-using-public-phone-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI Warns Against Using Public Phone Charging Stations](https://it.slashdot.org/story/23/04/10/1620228/fbi-warns-against-using-public-phone-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
