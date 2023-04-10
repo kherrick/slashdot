@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 17:20:00](https://tech.slashdot.org/story/23/04/10/1632219/openbsd-73-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenBSD 7.3 Released](https://tech.slashdot.org/story/23/04/10/1632219/openbsd-73-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-10, 16:40:00](https://it.slashdot.org/story/23/04/10/1620228/fbi-warns-against-using-public-phone-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI Warns Against Using Public Phone Charging Stations](https://it.slashdot.org/story/23/04/10/1620228/fbi-warns-against-using-public-phone-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-10, 16:00:00](https://developers.slashdot.org/story/23/04/10/1544245/khan-academy-chief-says-gpt-4-is-ready-to-be-a-tutor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Khan Academy Chief Says GPT-4 is Ready To Be a Tutor](https://developers.slashdot.org/story/23/04/10/1544245/khan-academy-chief-says-gpt-4-is-ready-to-be-a-tutor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-10, 15:25:00](https://news.slashdot.org/story/23/04/10/1525204/us-bank-lending-slumps-by-most-on-record-in-final-weeks-of-march?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Bank Lending Slumps by Most on Record in Final Weeks of March](https://news.slashdot.org/story/23/04/10/1525204/us-bank-lending-slumps-by-most-on-record-in-final-weeks-of-march?utm_source=rss1.0mainlinkanon&utm_medium=feed)
