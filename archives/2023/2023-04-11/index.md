@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 20:41:00](https://news.slashdot.org/story/23/04/11/1657244/europe-is-bracing-for-another-devastating-drought?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe is Bracing For (Another) Devastating Drought](https://news.slashdot.org/story/23/04/11/1657244/europe-is-bracing-for-another-devastating-drought?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-11, 20:01:00](https://apple.slashdot.org/story/23/04/11/1745213/france-eyeing-antitrust-action-against-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Eyeing Antitrust Action Against Apple](https://apple.slashdot.org/story/23/04/11/1745213/france-eyeing-antitrust-action-against-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-11, 19:21:00](https://news.slashdot.org/story/23/04/11/1722225/windows-defender-finally-squashes-firefox-bug-that-ate-cpus-for-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows Defender Finally Squashes Firefox Bug That Ate CPUs For 5 Years](https://news.slashdot.org/story/23/04/11/1722225/windows-defender-finally-squashes-firefox-bug-that-ate-cpus-for-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-11, 18:42:00](https://entertainment.slashdot.org/story/23/04/11/1714213/why-are-movies-so-dark-these-days?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Are Movies So Dark These Days?](https://entertainment.slashdot.org/story/23/04/11/1714213/why-are-movies-so-dark-these-days?utm_source=rss1.0mainlinkanon&utm_medium=feed)
