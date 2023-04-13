@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 10:00:00](https://science.slashdot.org/story/23/04/12/2345208/study-reveals-cancers-infinite-ability-to-evolve?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Study Reveals Cancer's 'Infinite' Ability To Evolve](https://science.slashdot.org/story/23/04/12/2345208/study-reveals-cancers-infinite-ability-to-evolve?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-13, 07:00:00](https://science.slashdot.org/story/23/04/12/2326221/physicists-discover-that-gravity-can-create-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Physicists Discover That Gravity Can Create Light](https://science.slashdot.org/story/23/04/12/2326221/physicists-discover-that-gravity-can-create-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-13, 03:30:00](https://science.slashdot.org/story/23/04/12/235248/inside-the-3d-printed-box-in-texas-where-humans-will-prepare-for-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inside the 3D-Printed Box In Texas Where Humans Will Prepare For Mars](https://science.slashdot.org/story/23/04/12/235248/inside-the-3d-printed-box-in-texas-where-humans-will-prepare-for-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-13, 02:02:00](https://news.slashdot.org/story/23/04/12/2253240/how-did-earth-get-its-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Did Earth Get Its Water?](https://news.slashdot.org/story/23/04/12/2253240/how-did-earth-get-its-water?utm_source=rss1.0mainlinkanon&utm_medium=feed)
