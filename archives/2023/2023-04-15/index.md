@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-15](index.md)
+
+* [2023-04-15, 00:45:00](https://hardware.slashdot.org/story/23/04/14/2135221/china-the-largest-buyer-of-chipmaking-machines-as-sales-hit-an-all-time-high?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China the Largest Buyer of Chipmaking Machines As Sales Hit An All-Time High](https://hardware.slashdot.org/story/23/04/14/2135221/china-the-largest-buyer-of-chipmaking-machines-as-sales-hit-an-all-time-high?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-04-15, 00:02:00](https://tech.slashdot.org/story/23/04/14/2113249/mass-layoffs-and-absentee-bosses-create-a-morale-crisis-at-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mass Layoffs and Absentee Bosses Create a Morale Crisis At Meta](https://tech.slashdot.org/story/23/04/14/2113249/mass-layoffs-and-absentee-bosses-create-a-morale-crisis-at-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed)
