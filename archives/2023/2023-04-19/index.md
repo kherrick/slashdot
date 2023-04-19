@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 20:00:00](https://slashdot.org/story/23/04/19/1939202/disney-set-to-eliminate-thousands-of-jobs-starting-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney Set To Eliminate Thousands of Jobs Starting Next Week](https://slashdot.org/story/23/04/19/1939202/disney-set-to-eliminate-thousands-of-jobs-starting-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-19, 19:20:00](https://news.slashdot.org/story/23/04/19/194212/the-end-of-computer-magazines-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The End of Computer Magazines in America](https://news.slashdot.org/story/23/04/19/194212/the-end-of-computer-magazines-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-19, 18:40:00](https://yro.slashdot.org/story/23/04/19/1838224/used-routers-often-come-loaded-with-corporate-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Used Routers Often Come Loaded With Corporate Secrets](https://yro.slashdot.org/story/23/04/19/1838224/used-routers-often-come-loaded-with-corporate-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-19, 18:00:00](https://tech.slashdot.org/story/23/04/19/1741250/windows-11-start-menu-ads-look-set-to-get-even-worse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 11 Start Menu Ads Look Set To Get Even Worse](https://tech.slashdot.org/story/23/04/19/1741250/windows-11-start-menu-ads-look-set-to-get-even-worse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
