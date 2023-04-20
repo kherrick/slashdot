@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 01:25:00](https://mobile.slashdot.org/story/23/04/19/2251211/google-fi-gets-third-rebrand-in-8-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Fi Gets Third Rebrand In 8 Years](https://mobile.slashdot.org/story/23/04/19/2251211/google-fi-gets-third-rebrand-in-8-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-04-20, 00:45:00](https://news.slashdot.org/story/23/04/19/2245214/why-video-editors-are-switching-to-davinci-resolve-in-droves?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Video Editors Are Switching To DaVinci Resolve In Droves](https://news.slashdot.org/story/23/04/19/2245214/why-video-editors-are-switching-to-davinci-resolve-in-droves?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-20, 00:02:00](https://yro.slashdot.org/story/23/04/19/2110237/facebook-users-can-now-file-a-claim-for-725-million-privacy-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Users Can Now File a Claim For $725 Million Privacy Settlement](https://yro.slashdot.org/story/23/04/19/2110237/facebook-users-can-now-file-a-claim-for-725-million-privacy-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
