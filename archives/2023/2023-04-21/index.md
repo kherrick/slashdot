@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-21](index.md)
+
+* [2023-04-21, 01:10:00](https://tech.slashdot.org/story/23/04/20/2355235/jack-dorseys-bluesky-app-is-now-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jack Dorsey's Bluesky App Is Now On Android](https://tech.slashdot.org/story/23/04/20/2355235/jack-dorseys-bluesky-app-is-now-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-04-21, 00:50:00](https://slashdot.org/story/23/04/20/2339229/collapsed-turkish-crypto-exchange-thodexs-ceo-faruk-ozer-extradited-arrested-in-istanbul?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Collapsed Turkish Crypto Exchange Thodex's CEO Faruk Ozer Extradited, Arrested In Istanbul](https://slashdot.org/story/23/04/20/2339229/collapsed-turkish-crypto-exchange-thodexs-ceo-faruk-ozer-extradited-arrested-in-istanbul?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-04-21, 00:30:00](https://tech.slashdot.org/story/23/04/20/2346246/zuckerberg-says-meta-may-not-be-through-with-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zuckerberg Says Meta May Not Be Through With Layoffs](https://tech.slashdot.org/story/23/04/20/2346246/zuckerberg-says-meta-may-not-be-through-with-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-04-21, 00:10:00](https://slashdot.org/story/23/04/20/212240/huawei-launches-in-house-software-system-after-being-cut-off-from-us-services?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei Launches In-house Software System After Being Cut Off From US Services](https://slashdot.org/story/23/04/20/212240/huawei-launches-in-house-software-system-after-being-cut-off-from-us-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
