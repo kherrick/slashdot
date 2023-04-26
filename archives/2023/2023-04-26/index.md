@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 14:40:00](https://tech.slashdot.org/story/23/04/26/0915243/metas-clegg-invokes-anti-china-rhetoric-against-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta's Clegg Invokes Anti-China Rhetoric Against TikTok](https://tech.slashdot.org/story/23/04/26/0915243/metas-clegg-invokes-anti-china-rhetoric-against-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-26, 13:00:00](https://linux.slashdot.org/story/23/04/26/0023238/linux-kernel-63-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Kernel 6.3 Released](https://linux.slashdot.org/story/23/04/26/0023238/linux-kernel-63-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-26, 11:13:00](https://news.slashdot.org/story/23/04/26/1113230/microsofts-69-billion-activision-deal-blocked-by-uk-watchdog?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's $69 Billion Activision Deal Blocked by UK Watchdog](https://news.slashdot.org/story/23/04/26/1113230/microsofts-69-billion-activision-deal-blocked-by-uk-watchdog?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-04-26, 10:00:00](https://hardware.slashdot.org/story/23/04/26/0014227/microsoft-suggests-businesses-buy-fewer-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Suggests Businesses Buy Fewer PCs](https://hardware.slashdot.org/story/23/04/26/0014227/microsoft-suggests-businesses-buy-fewer-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
