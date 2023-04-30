@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-30](index.md)
+
+* [2023-04-30, 02:16:00](https://yro.slashdot.org/story/23/04/29/0323229/can-openai-trademark-gpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can OpenAI Trademark 'GPT'?](https://yro.slashdot.org/story/23/04/29/0323229/can-openai-trademark-gpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
