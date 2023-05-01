@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 11:34:00](https://hardware.slashdot.org/story/23/05/01/0328246/researchers-build-worlds-first-wooden-transistor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Build World's First Wooden Transistor ](https://hardware.slashdot.org/story/23/05/01/0328246/researchers-build-worlds-first-wooden-transistor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-01, 07:44:00](https://mobile.slashdot.org/story/23/05/01/0429241/are-public-wifi-and-phone-chargers-actually-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Public Wifi and Phone Chargers Actually Safe?](https://mobile.slashdot.org/story/23/05/01/0429241/are-public-wifi-and-phone-chargers-actually-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-01, 04:59:00](https://idle.slashdot.org/story/23/05/01/0457250/the-people-turning-time-into-a-currency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The People Turning Time Into a Currency](https://idle.slashdot.org/story/23/05/01/0457250/the-people-turning-time-into-a-currency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-01, 02:03:00](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['sudo' and 'su' Are Being Rewritten In Rust For Memory Safety](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
