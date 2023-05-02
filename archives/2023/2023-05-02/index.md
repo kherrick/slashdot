@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-02](index.md)
+
+* [2023-05-02, 00:02:00](https://tech.slashdot.org/story/23/05/01/2122249/report-faa-overruled-engineers-let-boing-max-keep-flying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Report: FAA Overruled Engineers, Let Boing Max Keep Flying](https://tech.slashdot.org/story/23/05/01/2122249/report-faa-overruled-engineers-let-boing-max-keep-flying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
