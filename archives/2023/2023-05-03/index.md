@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 16:41:00](https://slashdot.org/story/23/05/03/1635252/amazon-aggregators-who-raised-16-billion-are-now-teetering?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon 'Aggregators' Who Raised $16 Billion Are Now Teetering](https://slashdot.org/story/23/05/03/1635252/amazon-aggregators-who-raised-16-billion-are-now-teetering?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-03, 16:04:00](https://tech.slashdot.org/story/23/05/03/164209/chrome-to-drop-lock-icon-showing-https-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chrome To Drop Lock Icon Showing HTTPS Status](https://tech.slashdot.org/story/23/05/03/164209/chrome-to-drop-lock-icon-showing-https-status?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-03, 15:22:00](https://it.slashdot.org/story/23/05/03/1521231/chatgpt-related-malware-on-the-rise-meta-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ChatGPT-related Malware on the Rise, Meta Says](https://it.slashdot.org/story/23/05/03/1521231/chatgpt-related-malware-on-the-rise-meta-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-03, 14:41:00](https://tech.slashdot.org/story/23/05/03/141242/ai-will-cause-real-damage-microsoft-chief-economist-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI 'Will Cause Real Damage,' Microsoft Chief Economist Warns](https://tech.slashdot.org/story/23/05/03/141242/ai-will-cause-real-damage-microsoft-chief-economist-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
