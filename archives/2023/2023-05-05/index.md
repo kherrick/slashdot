@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 03:30:00](https://slashdot.org/story/23/05/05/0011212/mexico-considers-the-40-hour-workweek?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mexico Considers the 40-Hour Workweek](https://slashdot.org/story/23/05/05/0011212/mexico-considers-the-40-hour-workweek?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-05, 02:02:00](https://games.slashdot.org/story/23/05/04/2349242/the-2023-video-game-hall-of-fame-inductees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The 2023 Video Game Hall of Fame Inductees](https://games.slashdot.org/story/23/05/04/2349242/the-2023-video-game-hall-of-fame-inductees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-05, 01:25:00](https://tech.slashdot.org/story/23/05/04/2340213/porn-vpn-searches-soar-in-utah-amid-age-verification-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Porn VPN Searches Soar In Utah Amid Age Verification Bill](https://tech.slashdot.org/story/23/05/04/2340213/porn-vpn-searches-soar-in-utah-amid-age-verification-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-05, 00:45:00](https://yro.slashdot.org/story/23/05/04/2327243/el-salvador-president-signs-law-eliminating-taxes-on-tech-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [El Salvador President Signs Law Eliminating Taxes On Tech Innovations](https://yro.slashdot.org/story/23/05/04/2327243/el-salvador-president-signs-law-eliminating-taxes-on-tech-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
