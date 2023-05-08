@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 07:34:00](https://tech.slashdot.org/story/23/05/08/0155212/slack-announces-ai-powered-conversation-summaries-and-message-writing-assistance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slack Announces 'AI-Powered' Conversation Summaries and Message-Writing Assistance](https://tech.slashdot.org/story/23/05/08/0155212/slack-announces-ai-powered-conversation-summaries-and-message-writing-assistance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-08, 03:34:00](https://yro.slashdot.org/story/23/05/08/0243251/elizabeth-holmes-speaks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elizabeth Holmes Speaks](https://yro.slashdot.org/story/23/05/08/0243251/elizabeth-holmes-speaks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-08, 01:44:00](https://developers.slashdot.org/story/23/05/08/0015216/why-the-creator-of-ruby-on-rails-prefers-dynamic-typing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why the Creator of Ruby on Rails Prefers Dynamic Typing](https://developers.slashdot.org/story/23/05/08/0015216/why-the-creator-of-ruby-on-rails-prefers-dynamic-typing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
