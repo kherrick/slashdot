@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 22:02:00](https://hardware.slashdot.org/story/23/05/09/2114240/researchers-craft-a-fully-edible-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Craft a Fully Edible Battery](https://hardware.slashdot.org/story/23/05/09/2114240/researchers-craft-a-fully-edible-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-09, 21:20:00](https://news.slashdot.org/story/23/05/09/209204/fbi-says-it-has-sabotaged-hacking-tool-created-by-elite-russian-spies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI Says It Has Sabotaged Hacking Tool Created By Elite Russian Spies](https://news.slashdot.org/story/23/05/09/209204/fbi-says-it-has-sabotaged-hacking-tool-created-by-elite-russian-spies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-09, 20:41:00](https://tech.slashdot.org/story/23/05/09/1947236/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Spotify Ejects Thousands of AI-made Songs in Purge of Fake Streams](https://tech.slashdot.org/story/23/05/09/1947236/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-09, 20:02:00](https://tech.slashdot.org/story/23/05/09/202206/monoliths-are-not-dinosaurs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Monoliths Are Not Dinosaurs'](https://tech.slashdot.org/story/23/05/09/202206/monoliths-are-not-dinosaurs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
