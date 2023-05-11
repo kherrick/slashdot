@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 02:02:00](https://tech.slashdot.org/story/23/05/10/225247/googles-new-pixel-tablet-is-a-500-slate-for-the-home?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's New Pixel Tablet Is a $500 Slate For the Home](https://tech.slashdot.org/story/23/05/10/225247/googles-new-pixel-tablet-is-a-500-slate-for-the-home?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-05-11, 01:25:00](https://yro.slashdot.org/story/23/05/10/2157256/former-coinbase-product-manager-gets-two-years-for-insider-trading?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Former Coinbase Product Manager Gets Two Years For Insider Trading](https://yro.slashdot.org/story/23/05/10/2157256/former-coinbase-product-manager-gets-two-years-for-insider-trading?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-11, 00:45:00](https://news.slashdot.org/story/23/05/10/2148202/hulu-content-will-be-added-to-disney?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hulu Content Will Be Added To Disney+](https://news.slashdot.org/story/23/05/10/2148202/hulu-content-will-be-added-to-disney?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-11, 00:02:00](https://news.slashdot.org/story/23/05/10/2143218/amazon-in-talks-to-buy-indian-video-giant-mx-player?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon In Talks To Buy Indian Video Giant MX Player](https://news.slashdot.org/story/23/05/10/2143218/amazon-in-talks-to-buy-indian-video-giant-mx-player?utm_source=rss1.0mainlinkanon&utm_medium=feed)
