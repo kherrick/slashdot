@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 03:30:00](https://news.slashdot.org/story/23/05/11/2116238/epa-proposes-crackdown-on-power-plant-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EPA Proposes Crackdown On Power Plant Carbon Emissions](https://news.slashdot.org/story/23/05/11/2116238/epa-proposes-crackdown-on-power-plant-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-12, 02:02:00](https://hardware.slashdot.org/story/23/05/11/2111219/pure-storage-no-more-hard-drives-will-be-sold-after-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pure Storage: No More Hard Drives Will Be Sold After 2028](https://hardware.slashdot.org/story/23/05/11/2111219/pure-storage-no-more-hard-drives-will-be-sold-after-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-12, 01:25:00](https://it.slashdot.org/story/23/05/11/211242/google-brings-dark-web-monitoring-at-all-us-gmail-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Brings Dark Web Monitoring At All US Gmail Users](https://it.slashdot.org/story/23/05/11/211242/google-brings-dark-web-monitoring-at-all-us-gmail-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-12, 00:42:00](https://tech.slashdot.org/story/23/05/11/210257/will-ai-become-the-new-mckinsey?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will AI Become the New McKinsey?](https://tech.slashdot.org/story/23/05/11/210257/will-ai-become-the-new-mckinsey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
