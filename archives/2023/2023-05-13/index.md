@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 01:25:00](https://it.slashdot.org/story/23/05/12/2041222/discord-discloses-data-breach-after-support-agent-got-hacked?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discord Discloses Data Breach After Support Agent Got Hacked](https://it.slashdot.org/story/23/05/12/2041222/discord-discloses-data-breach-after-support-agent-got-hacked?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-05-13, 00:45:00](https://apple.slashdot.org/story/23/05/12/2032208/apple-silicon-macs-now-natively-support-unreal-engine-5?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Silicon Macs Now Natively Support Unreal Engine 5](https://apple.slashdot.org/story/23/05/12/2032208/apple-silicon-macs-now-natively-support-unreal-engine-5?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-13, 00:02:00](https://mobile.slashdot.org/story/23/05/12/2117232/bluetooth-tags-for-androids-3-billion-strong-tracking-network-are-here?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluetooth Tags For Android's 3 Billion-Strong Tracking Network Are Here](https://mobile.slashdot.org/story/23/05/12/2117232/bluetooth-tags-for-androids-3-billion-strong-tracking-network-are-here?utm_source=rss1.0mainlinkanon&utm_medium=feed)
