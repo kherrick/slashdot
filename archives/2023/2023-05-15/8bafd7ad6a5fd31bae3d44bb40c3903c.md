@@ -1,0 +1,3 @@
+# [Published on 2023-05-15](index.md)
+
+* [2023-05-15, 14:04:00](https://entertainment.slashdot.org/story/23/05/15/145223/startup-plans-to-give-away-500000-free-4k-tvs-the-catch-the-sets-have-a-second-screen-that-constantly-shows-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Startup Plans To Give Away 500,000 Free 4K TVs. The Catch? The Sets Have a Second Screen That Constantly Shows Ads](https://entertainment.slashdot.org/story/23/05/15/145223/startup-plans-to-give-away-500000-free-4k-tvs-the-catch-the-sets-have-a-second-screen-that-constantly-shows-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
