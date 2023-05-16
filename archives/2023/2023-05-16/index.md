@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 16:00:00](https://apple.slashdot.org/story/23/05/16/152238/iphones-will-be-able-to-speak-in-your-voice-with-15-minutes-of-training?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iPhones Will Be Able To Speak in Your Voice With 15 Minutes of Training](https://apple.slashdot.org/story/23/05/16/152238/iphones-will-be-able-to-speak-in-your-voice-with-15-minutes-of-training?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-16, 15:22:00](https://tech.slashdot.org/story/23/05/16/1522251/google-to-delete-inactive-accounts-starting-december?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Delete Inactive Accounts Starting December](https://tech.slashdot.org/story/23/05/16/1522251/google-to-delete-inactive-accounts-starting-december?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-16, 14:46:00](https://tech.slashdot.org/story/23/05/16/1446217/vodafone-plans-11000-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vodafone Plans 11,000 Job Cuts](https://tech.slashdot.org/story/23/05/16/1446217/vodafone-plans-11000-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-16, 14:00:00](https://slashdot.org/story/23/05/16/1356220/eu-states-approve-worlds-first-comprehensive-crypto-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU States Approve World's First Comprehensive Crypto Rules](https://slashdot.org/story/23/05/16/1356220/eu-states-approve-worlds-first-comprehensive-crypto-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
