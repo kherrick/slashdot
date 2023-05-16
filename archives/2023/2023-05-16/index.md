@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 14:46:00](https://tech.slashdot.org/story/23/05/16/1446217/vodafone-plans-11000-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vodafone Plans 11,000 Job Cuts](https://tech.slashdot.org/story/23/05/16/1446217/vodafone-plans-11000-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-16, 14:00:00](https://slashdot.org/story/23/05/16/1356220/eu-states-approve-worlds-first-comprehensive-crypto-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU States Approve World's First Comprehensive Crypto Rules](https://slashdot.org/story/23/05/16/1356220/eu-states-approve-worlds-first-comprehensive-crypto-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-16, 13:00:00](https://it.slashdot.org/story/23/05/16/0331223/microsoft-is-scanning-the-inside-of-password-protected-zip-files-for-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Is Scanning the Inside of Password-Protected Zip Files For Malware](https://it.slashdot.org/story/23/05/16/0331223/microsoft-is-scanning-the-inside-of-password-protected-zip-files-for-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-16, 10:00:00](https://science.slashdot.org/story/23/05/16/047215/dream-glove-boosts-creativity-during-sleep?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Dream Glove' Boosts Creativity During Sleep](https://science.slashdot.org/story/23/05/16/047215/dream-glove-boosts-creativity-during-sleep?utm_source=rss1.0mainlinkanon&utm_medium=feed)
