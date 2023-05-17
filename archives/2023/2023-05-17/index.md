@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 17:20:00](https://radio.slashdot.org/story/23/05/17/1711207/congress-moves-to-preserve-am-radio-in-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Congress Moves To Preserve AM Radio in Cars](https://radio.slashdot.org/story/23/05/17/1711207/congress-moves-to-preserve-am-radio-in-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-17, 16:40:00](https://hardware.slashdot.org/story/23/05/17/1612239/logitech-partners-with-ifixit-for-self-repairs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Logitech Partners With iFixit for Self-Repairs](https://hardware.slashdot.org/story/23/05/17/1612239/logitech-partners-with-ifixit-for-self-repairs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-17, 16:05:00](https://tech.slashdot.org/story/23/05/17/165231/ibm-google-give-150-million-for-us-japan-quantum-computing-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM, Google Give $150 Million for US-Japan Quantum-Computing Push](https://tech.slashdot.org/story/23/05/17/165231/ibm-google-give-150-million-for-us-japan-quantum-computing-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-17, 15:22:00](https://tech.slashdot.org/story/23/05/17/1522250/amazon-unveils-new-gadgets-as-ai-race-heats-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Unveils New Gadgets as AI Race Heats Up](https://tech.slashdot.org/story/23/05/17/1522250/amazon-unveils-new-gadgets-as-ai-race-heats-up?utm_source=rss1.0mainlinkanon&utm_medium=feed)
