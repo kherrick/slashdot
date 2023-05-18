@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 22:40:00](https://news.slashdot.org/story/23/05/18/219254/bluesky-social-just-took-a-big-open-source-step-forward?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky Social Just Took a Big Open-Source Step Forward](https://news.slashdot.org/story/23/05/18/219254/bluesky-social-just-took-a-big-open-source-step-forward?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-18, 22:00:00](https://yro.slashdot.org/story/23/05/18/2054250/supreme-court-rules-against-reexamining-section-230?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Supreme Court Rules Against Reexamining Section 230](https://yro.slashdot.org/story/23/05/18/2054250/supreme-court-rules-against-reexamining-section-230?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-18, 21:20:00](https://apple.slashdot.org/story/23/05/18/2043254/openai-launches-free-chatgpt-app-for-ios?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Launches Free ChatGPT App For iOS](https://apple.slashdot.org/story/23/05/18/2043254/openai-launches-free-chatgpt-app-for-ios?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-18, 20:40:00](https://slashdot.org/story/23/05/18/2039234/alibaba-to-spin-off-its-cloud-ai-and-business-messenger-unit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Alibaba To Spin Off Its Cloud, AI and Business Messenger Unit](https://slashdot.org/story/23/05/18/2039234/alibaba-to-spin-off-its-cloud-ai-and-business-messenger-unit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
