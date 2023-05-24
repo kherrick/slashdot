@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 18:37:00](https://developers.slashdot.org/story/23/05/24/1838223/pypi-was-subpoenaed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PyPI Was Subpoenaed](https://developers.slashdot.org/story/23/05/24/1838223/pypi-was-subpoenaed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-24, 18:01:00](https://news.slashdot.org/story/23/05/24/1654219/france-bans-short-haul-flights-to-cut-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Bans Short-haul Flights To Cut Carbon Emissions](https://news.slashdot.org/story/23/05/24/1654219/france-bans-short-haul-flights-to-cut-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-24, 17:20:00](https://slashdot.org/story/23/05/24/1638259/amazons-answer-to-chatgpt-seen-as-incomplete?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon's Answer To ChatGPT Seen as Incomplete](https://slashdot.org/story/23/05/24/1638259/amazons-answer-to-chatgpt-seen-as-incomplete?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-24, 16:42:00](https://apple.slashdot.org/story/23/05/24/1642235/apple-plans-to-turn-locked-iphones-into-smart-displays-with-ios-17?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Plans To Turn Locked iPhones Into Smart Displays With iOS 17](https://apple.slashdot.org/story/23/05/24/1642235/apple-plans-to-turn-locked-iphones-into-smart-displays-with-ios-17?utm_source=rss1.0mainlinkanon&utm_medium=feed)
