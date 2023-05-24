@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 20:01:00](https://tech.slashdot.org/story/23/05/24/1921216/amd-has-a-one-liner-to-help-speed-up-linux-system-resume-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Has A One-Liner To Help Speed Up Linux System Resume Time](https://tech.slashdot.org/story/23/05/24/1921216/amd-has-a-one-liner-to-help-speed-up-linux-system-resume-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-24, 19:20:00](https://tech.slashdot.org/story/23/05/24/1841204/metas-efficiency-layoffs-take-a-toll-on-employee-productivity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta's 'Efficiency' Layoffs Take a Toll on Employee Productivity](https://tech.slashdot.org/story/23/05/24/1841204/metas-efficiency-layoffs-take-a-toll-on-employee-productivity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-24, 18:37:00](https://developers.slashdot.org/story/23/05/24/1838223/pypi-was-subpoenaed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PyPI Was Subpoenaed](https://developers.slashdot.org/story/23/05/24/1838223/pypi-was-subpoenaed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-24, 18:01:00](https://news.slashdot.org/story/23/05/24/1654219/france-bans-short-haul-flights-to-cut-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Bans Short-haul Flights To Cut Carbon Emissions](https://news.slashdot.org/story/23/05/24/1654219/france-bans-short-haul-flights-to-cut-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
