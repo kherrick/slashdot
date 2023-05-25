@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 22:20:00](https://tech.slashdot.org/story/23/05/25/2115222/intel-mulls-cutting-ties-to-16-and-32-bit-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Mulls Cutting Ties To 16 and 32-Bit Support](https://tech.slashdot.org/story/23/05/25/2115222/intel-mulls-cutting-ties-to-16-and-32-bit-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-25, 21:40:00](https://entertainment.slashdot.org/story/23/05/25/215237/moviepass-is-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MoviePass Is Back](https://entertainment.slashdot.org/story/23/05/25/215237/moviepass-is-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-25, 20:55:00](https://news.slashdot.org/story/23/05/25/2050259/supreme-court-limits-epas-authority-under-the-clean-water-act?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Supreme Court Limits EPA's Authority Under the Clean Water Act](https://news.slashdot.org/story/23/05/25/2050259/supreme-court-limits-epas-authority-under-the-clean-water-act?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-25, 20:17:00](https://tech.slashdot.org/story/23/05/25/2017239/paradigm-broadening-crypto-only-focus-to-areas-including-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Paradigm Broadening Crypto-only Focus To Areas Including AI](https://tech.slashdot.org/story/23/05/25/2017239/paradigm-broadening-crypto-only-focus-to-areas-including-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
