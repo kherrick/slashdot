@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 23:40:00](https://tech.slashdot.org/story/23/05/25/2229212/ibm-wants-to-build-a-100000-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Wants To Build a 100,000-Qubit Quantum Computer](https://tech.slashdot.org/story/23/05/25/2229212/ibm-wants-to-build-a-100000-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-25, 23:00:00](https://tech.slashdot.org/story/23/05/25/2121217/captcha-is-asking-users-to-identify-objects-that-dont-exist?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Captcha Is Asking Users To Identify Objects That Don't Exist](https://tech.slashdot.org/story/23/05/25/2121217/captcha-is-asking-users-to-identify-objects-that-dont-exist?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-25, 22:20:00](https://tech.slashdot.org/story/23/05/25/2115222/intel-mulls-cutting-ties-to-16-and-32-bit-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Mulls Cutting Ties To 16 and 32-Bit Support](https://tech.slashdot.org/story/23/05/25/2115222/intel-mulls-cutting-ties-to-16-and-32-bit-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-25, 21:40:00](https://entertainment.slashdot.org/story/23/05/25/215237/moviepass-is-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MoviePass Is Back](https://entertainment.slashdot.org/story/23/05/25/215237/moviepass-is-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
