@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 03:34:00](https://tech.slashdot.org/story/23/05/28/0229203/are-we-headed-to-a-future-with-autonomous-robot-soldiers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are We Headed to a Future With Autonomous Robot Soldiers?](https://tech.slashdot.org/story/23/05/28/0229203/are-we-headed-to-a-future-with-autonomous-robot-soldiers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-28, 01:34:00](https://tech.slashdot.org/story/23/05/28/0124209/microsoft-announces-cloud-powered-os-backup-and-restore-for-windows-11-better-arm-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Announces Cloud-Powered OS Backup and Restore for Windows 11, Better ARM Support](https://tech.slashdot.org/story/23/05/28/0124209/microsoft-announces-cloud-powered-os-backup-and-restore-for-windows-11-better-arm-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
