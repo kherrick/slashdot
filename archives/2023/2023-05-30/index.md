@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 02:00:00](https://entertainment.slashdot.org/story/23/05/29/2040220/indias-jiocinema-breaks-world-record-with-free-cricket-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India's JioCinema Breaks World Record With Free Cricket Streaming](https://entertainment.slashdot.org/story/23/05/29/2040220/indias-jiocinema-breaks-world-record-with-free-cricket-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-05-30, 00:30:00](https://games.slashdot.org/story/23/05/29/2037250/cd-projekt-is-not-for-sale-ceo-clarifies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CD Projekt is Not For Sale, CEO Clarifies](https://games.slashdot.org/story/23/05/29/2037250/cd-projekt-is-not-for-sale-ceo-clarifies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
