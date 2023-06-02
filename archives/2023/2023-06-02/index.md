@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 14:40:00](https://mobile.slashdot.org/story/23/06/02/1256240/amazon-is-in-talks-to-offer-free-mobile-service-to-us-prime-members?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Is in Talks To Offer Free Mobile Service To US Prime Members](https://mobile.slashdot.org/story/23/06/02/1256240/amazon-is-in-talks-to-offer-free-mobile-service-to-us-prime-members?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-02, 13:00:00](https://mobile.slashdot.org/story/23/06/02/0221201/motorola-unveils-its-4th-gen-foldable-the-moto-razr?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Motorola Unveils Its 4th-Gen Foldable, the Moto Razr+](https://mobile.slashdot.org/story/23/06/02/0221201/motorola-unveils-its-4th-gen-foldable-the-moto-razr?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-02, 10:40:00](https://slashdot.org/story/23/06/02/1039236/fidelity-cuts-reddit-valuation-by-41?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fidelity Cuts Reddit Valuation By 41%](https://slashdot.org/story/23/06/02/1039236/fidelity-cuts-reddit-valuation-by-41?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-02, 10:00:00](https://tech.slashdot.org/story/23/06/02/029224/japan-to-launch-satellite-made-of-wood-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan To Launch Satellite Made of Wood In 2024](https://tech.slashdot.org/story/23/06/02/029224/japan-to-launch-satellite-made-of-wood-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
