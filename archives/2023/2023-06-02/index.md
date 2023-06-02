@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 10:00:00](https://tech.slashdot.org/story/23/06/02/029224/japan-to-launch-satellite-made-of-wood-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan To Launch Satellite Made of Wood In 2024](https://tech.slashdot.org/story/23/06/02/029224/japan-to-launch-satellite-made-of-wood-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-02, 07:00:00](https://science.slashdot.org/story/23/06/02/0159243/first-livestream-of-images-from-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Livestream of Images From Mars](https://science.slashdot.org/story/23/06/02/0159243/first-livestream-of-images-from-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-02, 03:30:00](https://science.slashdot.org/story/23/06/01/2235200/new-device-generates-electricity-from-thin-air?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Device Generates Electricity From Thin Air](https://science.slashdot.org/story/23/06/01/2235200/new-device-generates-electricity-from-thin-air?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-02, 02:02:00](https://hardware.slashdot.org/story/23/06/01/2229222/north-america-is-now-the-growth-leader-for-new-battery-factories?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [North America Is Now the Growth Leader For New Battery Factories](https://hardware.slashdot.org/story/23/06/01/2229222/north-america-is-now-the-growth-leader-for-new-battery-factories?utm_source=rss1.0mainlinkanon&utm_medium=feed)
