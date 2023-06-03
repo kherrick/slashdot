@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 19:34:00](https://it.slashdot.org/story/23/06/03/0553239/hundreds-of-amazon-workers-staged-a-walkout-wednesday?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hundreds of Amazon Workers Staged a Walkout Wednesday](https://it.slashdot.org/story/23/06/03/0553239/hundreds-of-amazon-workers-staged-a-walkout-wednesday?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-03, 18:34:00](https://linux.slashdot.org/story/23/06/03/1638240/red-hat-is-dropping-its-support-for-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Red Hat is Dropping Its Support for LibreOffice](https://linux.slashdot.org/story/23/06/03/1638240/red-hat-is-dropping-its-support-for-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-03, 17:34:00](https://slashdot.org/story/23/06/03/0514232/chatgpt-is-already-taking-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ChatGPT is Already Taking Jobs](https://slashdot.org/story/23/06/03/0514232/chatgpt-is-already-taking-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-03, 16:34:00](https://hardware.slashdot.org/story/23/06/03/0310243/uber-eats-to-deploy-2000-autonomous-delivery-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Uber Eats to Deploy 2,000 Autonomous Delivery Robots](https://hardware.slashdot.org/story/23/06/03/0310243/uber-eats-to-deploy-2000-autonomous-delivery-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
