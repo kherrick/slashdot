@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 18:45:00](https://apple.slashdot.org/story/23/06/05/1845237/apple-vision-pro-is-apples-new-ar-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Vision Pro is Apple's New AR Headset](https://apple.slashdot.org/story/23/06/05/1845237/apple-vision-pro-is-apples-new-ar-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-05, 18:00:00](https://apple.slashdot.org/story/23/06/05/1749210/apple-unveils-m2-ultra-processor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Unveils M2 Ultra Processor](https://apple.slashdot.org/story/23/06/05/1749210/apple-unveils-m2-ultra-processor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-05, 17:20:00](https://apple.slashdot.org/story/23/06/05/1716255/apples-new-15-inch-macbook-air-is-the-worlds-thinnest?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's New 15-inch MacBook Air is the 'World's Thinnest'](https://apple.slashdot.org/story/23/06/05/1716255/apples-new-15-inch-macbook-air-is-the-worlds-thinnest?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-05, 16:40:00](https://slashdot.org/story/23/06/05/1542243/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Generated Content Should Be Labelled, EU Commissioner Jourova Says](https://slashdot.org/story/23/06/05/1542243/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
