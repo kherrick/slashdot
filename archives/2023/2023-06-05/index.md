@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 11:34:00](https://yro.slashdot.org/story/23/06/05/0341232/judge-clears-massachusetts-to-finally-enforce-its-right-to-repair-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Judge Clears Massachusetts to Finally Enforce Its Right-to-Repair Law](https://yro.slashdot.org/story/23/06/05/0341232/judge-clears-massachusetts-to-finally-enforce-its-right-to-repair-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-05, 07:18:00](https://slashdot.org/story/23/06/05/0317226/the-tech-industry-was-deflating-then-came-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Tech Industry was Deflating.  Then Came ChatGPT'](https://slashdot.org/story/23/06/05/0317226/the-tech-industry-was-deflating-then-came-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-05, 03:06:00](https://it.slashdot.org/story/23/06/05/031232/data-stolen-through-flaw-in-moveit-transfer-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Data Stolen Through Flaw in MOVEit Transfer, Researchers Say](https://it.slashdot.org/story/23/06/05/031232/data-stolen-through-flaw-in-moveit-transfer-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
