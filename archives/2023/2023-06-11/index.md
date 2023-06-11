@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 03:53:00](https://linux.slashdot.org/story/23/06/11/0333242/debian-12-bookworm-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Debian 12 'Bookworm' Released](https://linux.slashdot.org/story/23/06/11/0333242/debian-12-bookworm-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-11, 01:53:00](https://tech.slashdot.org/story/23/06/10/1731256/us-surgeon-general-warns-on-possible-social-media-harms-for-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Surgeon General Warns on Possible Social Media Harms for Teens](https://tech.slashdot.org/story/23/06/10/1731256/us-surgeon-general-warns-on-possible-social-media-harms-for-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed)
