@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-13](index.md)
+
+* [2023-06-13, 00:45:00](https://hardware.slashdot.org/story/23/06/12/2148255/us-to-allow-south-korean-taiwan-chip-makers-to-keep-operations-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US To Allow South Korean, Taiwan Chip Makers To Keep Operations In China](https://hardware.slashdot.org/story/23/06/12/2148255/us-to-allow-south-korean-taiwan-chip-makers-to-keep-operations-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-13, 00:02:00](https://entertainment.slashdot.org/story/23/06/12/2131259/tv-torrent-group-cakes-quits-the-scene-and-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TV Torrent Group CAKES Quits the Scene and Shuts Down](https://entertainment.slashdot.org/story/23/06/12/2131259/tv-torrent-group-cakes-quits-the-scene-and-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
