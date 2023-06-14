@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 07:00:00](https://news.slashdot.org/story/23/06/14/0312240/meta-open-sources-an-ai-powered-music-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Open Sources An AI-Powered Music Generator](https://news.slashdot.org/story/23/06/14/0312240/meta-open-sources-an-ai-powered-music-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-14, 03:30:00](https://news.slashdot.org/story/23/06/14/0153257/ocean-temperatures-are-off-the-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ocean Temperatures Are Off the Charts](https://news.slashdot.org/story/23/06/14/0153257/ocean-temperatures-are-off-the-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-14, 02:02:00](https://yro.slashdot.org/story/23/06/14/0140212/us-judge-temporarily-blocks-microsoft-acquisition-of-activision?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Judge Temporarily Blocks Microsoft Acquisition of Activision](https://yro.slashdot.org/story/23/06/14/0140212/us-judge-temporarily-blocks-microsoft-acquisition-of-activision?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-14, 01:25:00](https://developers.slashdot.org/story/23/06/13/2143218/google-homes-script-editor-is-now-live?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Home's Script Editor Is Now Live](https://developers.slashdot.org/story/23/06/13/2143218/google-homes-script-editor-is-now-live?utm_source=rss1.0mainlinkanon&utm_medium=feed)
