@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 22:57:00](https://hardware.slashdot.org/story/23/06/17/045206/why-evs-wont-crash-the-electric-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why EVs Won't Crash the Electric Grid](https://hardware.slashdot.org/story/23/06/17/045206/why-evs-wont-crash-the-electric-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-17, 21:57:00](https://linux.slashdot.org/story/23/06/17/2140258/dev-boots-linux-292612-times-to-find-kernel-bug?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dev Boots Linux 292,612 Times to Find Kernel Bug](https://linux.slashdot.org/story/23/06/17/2140258/dev-boots-linux-292612-times-to-find-kernel-bug?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-17, 20:56:00](https://science.slashdot.org/story/23/06/17/2053258/a-startup-tries-making-medicine-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Startup Tries Making Medicine in Space](https://science.slashdot.org/story/23/06/17/2053258/a-startup-tries-making-medicine-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-17, 19:39:00](https://developers.slashdot.org/story/23/06/17/1934235/is-ai-an-excuse-for-not-learning-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is AI an Excuse for Not Learning To Code?](https://developers.slashdot.org/story/23/06/17/1934235/is-ai-an-excuse-for-not-learning-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
