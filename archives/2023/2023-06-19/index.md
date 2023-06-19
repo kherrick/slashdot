@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 17:23:00](https://tech.slashdot.org/story/23/06/19/1723259/postgresql-reconsiders-its-process-based-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PostgreSQL Reconsiders Its Process-Based Model](https://tech.slashdot.org/story/23/06/19/1723259/postgresql-reconsiders-its-process-based-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-19, 16:53:00](https://slashdot.org/story/23/06/19/1653259/eu-to-air-ideas-on-guarding-prized-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU To Air Ideas on Guarding Prized Technology](https://slashdot.org/story/23/06/19/1653259/eu-to-air-ideas-on-guarding-prized-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-19, 16:00:00](https://slashdot.org/story/23/06/19/1530256/intel-to-spend-33-billion-in-germany-in-landmark-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel To Spend $33 Billion in Germany in Landmark Expansion](https://slashdot.org/story/23/06/19/1530256/intel-to-spend-33-billion-in-germany-in-landmark-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-19, 15:20:00](https://apple.slashdot.org/story/23/06/19/150219/apple-is-taking-on-apples-in-a-truly-weird-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Is Taking On Apples in a Truly Weird Trademark Battle](https://apple.slashdot.org/story/23/06/19/150219/apple-is-taking-on-apples-in-a-truly-weird-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
