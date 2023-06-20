@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-20](index.md)
+
+* [2023-06-20, 01:25:00](https://mobile.slashdot.org/story/23/06/19/2238210/asus-urges-customers-to-patch-critical-router-vulnerabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ASUS Urges Customers To Patch Critical Router Vulnerabilities](https://mobile.slashdot.org/story/23/06/19/2238210/asus-urges-customers-to-patch-critical-router-vulnerabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-20, 00:45:00](https://slashdot.org/story/23/06/19/2234209/gen-z-is-taking-courses-on-how-to-send-an-email-and-what-to-wear-in-the-office-according-to-a-wsj-report?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gen-Z Is Taking Courses On How To Send An Email and What To Wear In the Office, According to a WSJ Report](https://slashdot.org/story/23/06/19/2234209/gen-z-is-taking-courses-on-how-to-send-an-email-and-what-to-wear-in-the-office-according-to-a-wsj-report?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-20, 00:02:00](https://news.slashdot.org/story/23/06/19/217225/intel-to-invest-25-billion-in-israel-factory-in-record-deal-netanyahu-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel To Invest $25 Billion In Israel Factory In Record Deal, Netanyahu Says](https://news.slashdot.org/story/23/06/19/217225/intel-to-invest-25-billion-in-israel-factory-in-record-deal-netanyahu-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
