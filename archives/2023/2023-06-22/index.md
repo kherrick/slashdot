@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-22](index.md)
+
+* [2023-06-22, 01:25:00](https://developers.slashdot.org/story/23/06/21/2145216/intels-new-font-for-low-vision-developers-is-causing-design-drama-for-coders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel's New Font For Low-Vision Developers Is Causing Design Drama For Coders](https://developers.slashdot.org/story/23/06/21/2145216/intels-new-font-for-low-vision-developers-is-causing-design-drama-for-coders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-22, 00:02:00](https://tech.slashdot.org/story/23/06/21/2134249/googles-new-standard-for-chromeos-chromebook-x?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's New Standard For ChromeOS: 'Chromebook X'](https://tech.slashdot.org/story/23/06/21/2134249/googles-new-standard-for-chromeos-chromebook-x?utm_source=rss1.0mainlinkanon&utm_medium=feed)
