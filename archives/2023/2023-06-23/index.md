@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 19:00:00](https://science.slashdot.org/story/23/06/23/1838233/doctor-walmart-will-see-you-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Doctor Walmart Will See You Now](https://science.slashdot.org/story/23/06/23/1838233/doctor-walmart-will-see-you-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-23, 18:33:00](https://news.slashdot.org/story/23/06/23/1833244/titan-sub-ceo-dismissed-safety-warnings-as-baseless-cries-emails-show?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Titan Sub CEO Dismissed Safety Warnings as 'Baseless Cries', Emails Show](https://news.slashdot.org/story/23/06/23/1833244/titan-sub-ceo-dismissed-safety-warnings-as-baseless-cries-emails-show?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-23, 17:32:00](https://news.slashdot.org/story/23/06/23/1732242/epa-is-putting-together-a-youth-council?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EPA is Putting Together a Youth Council](https://news.slashdot.org/story/23/06/23/1732242/epa-is-putting-together-a-youth-council?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-23, 16:52:00](https://tech.slashdot.org/story/23/06/23/1653210/reddit-sales-growth-slowdown-preceded-fight-over-new-api-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Sales Growth Slowdown Preceded Fight Over New API Fees](https://tech.slashdot.org/story/23/06/23/1653210/reddit-sales-growth-slowdown-preceded-fight-over-new-api-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
