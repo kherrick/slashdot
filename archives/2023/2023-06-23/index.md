@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 07:00:00](https://games.slashdot.org/story/23/06/23/0515246/e3-is-not-returning-anytime-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [E3 Is Not Returning Anytime Soon](https://games.slashdot.org/story/23/06/23/0515246/e3-is-not-returning-anytime-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-23, 03:30:00](https://slashdot.org/story/23/06/22/2218243/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The People Paid To Train AI Are Outsourcing Their Work To AI](https://slashdot.org/story/23/06/22/2218243/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-23, 02:02:00](https://tech.slashdot.org/story/23/06/22/2214216/ford-gets-92-billion-to-help-us-catch-up-with-chinas-ev-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ford Gets $9.2 Billion To Help US Catch Up With China's EV Dominance](https://tech.slashdot.org/story/23/06/22/2214216/ford-gets-92-billion-to-help-us-catch-up-with-chinas-ev-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-06-23, 01:25:00](https://tech.slashdot.org/story/23/06/22/220214/kissing-or-licking-microphone-is-sexual-twitch-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Kissing or Licking' Microphone Is Sexual, Twitch Says](https://tech.slashdot.org/story/23/06/22/220214/kissing-or-licking-microphone-is-sexual-twitch-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
