@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-27](index.md)
+
+* [2023-06-27, 01:40:00](https://hardware.slashdot.org/story/23/06/26/2243206/renewables-growth-did-not-dent-fossil-fuel-dominance-in-2022-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Renewables Growth Did Not Dent Fossil Fuel Dominance In 2022, Report Says](https://hardware.slashdot.org/story/23/06/26/2243206/renewables-growth-did-not-dent-fossil-fuel-dominance-in-2022-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-27, 01:00:00](https://tech.slashdot.org/story/23/06/26/2233211/reddit-mods-are-calling-for-an-affordable-return-for-third-party-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Mods Are Calling For An 'Affordable Return' For Third-Party Apps](https://tech.slashdot.org/story/23/06/26/2233211/reddit-mods-are-calling-for-an-affordable-return-for-third-party-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-27, 00:20:00](https://yro.slashdot.org/story/23/06/26/2225223/z-library-releases-tor-enabled-desktop-launcher-to-improve-accessibility?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Z-Library Releases Tor-Enabled Desktop Launcher To Improve 'Accessibility'](https://yro.slashdot.org/story/23/06/26/2225223/z-library-releases-tor-enabled-desktop-launcher-to-improve-accessibility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
