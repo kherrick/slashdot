@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-30](index.md)
+
+* [2023-06-30, 01:30:00](https://tech.slashdot.org/story/23/06/29/2138256/meta-is-planning-to-let-people-in-the-eu-download-apps-through-facebook?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Is Planning To Let People In the EU Download Apps Through Facebook](https://tech.slashdot.org/story/23/06/29/2138256/meta-is-planning-to-let-people-in-the-eu-download-apps-through-facebook?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-30, 00:50:00](https://tech.slashdot.org/story/23/06/29/219224/brave-aims-to-curb-practice-of-websites-that-port-scan-visitors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brave Aims To Curb Practice of Websites That Port Scan Visitors](https://tech.slashdot.org/story/23/06/29/219224/brave-aims-to-curb-practice-of-websites-that-port-scan-visitors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-06-30, 00:10:00](https://tech.slashdot.org/story/23/06/29/2058226/google-kills-its-project-iris-augmented-reality-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Kills Its 'Project Iris' Augmented Reality Glasses](https://tech.slashdot.org/story/23/06/29/2058226/google-kills-its-project-iris-augmented-reality-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
