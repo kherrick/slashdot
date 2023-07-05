@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 18:00:00](https://yro.slashdot.org/story/23/07/05/1728205/piracy-is-coming-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Piracy Is Coming Back'](https://yro.slashdot.org/story/23/07/05/1728205/piracy-is-coming-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-05, 17:20:00](https://slashdot.org/story/23/07/05/1714240/financial-models-on-climate-risk-implausible-say-actuaries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Financial Models on Climate Risk 'Implausible,' Say Actuaries](https://slashdot.org/story/23/07/05/1714240/financial-models-on-climate-risk-implausible-say-actuaries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-05, 16:40:00](https://slashdot.org/story/23/07/05/1637242/booming-traffic-to-openais-chatgpt-posts-first-ever-monthly-dip-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Booming Traffic To OpenAI's ChatGPT Posts First Ever Monthly Dip in June](https://slashdot.org/story/23/07/05/1637242/booming-traffic-to-openais-chatgpt-posts-first-ever-monthly-dip-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-05, 16:06:00](https://slashdot.org/story/23/07/05/166243/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon CEO Asks His Hollywood Studio To Explain Its Big Spending](https://slashdot.org/story/23/07/05/166243/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed)
