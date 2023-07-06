@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-06](index.md)
+
+* [2023-07-06, 00:20:00](https://tech.slashdot.org/story/23/07/05/2254227/macron-accused-of-authoritarianism-after-threat-to-cut-off-social-media-during-riots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Macron Accused of Authoritarianism After Threat To Cut Off Social Media During Riots](https://tech.slashdot.org/story/23/07/05/2254227/macron-accused-of-authoritarianism-after-threat-to-cut-off-social-media-during-riots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
