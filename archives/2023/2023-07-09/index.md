@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 19:34:00](https://yro.slashdot.org/story/23/07/09/1847221/should-public-buses-be-free?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Should Public Buses Be Free?](https://yro.slashdot.org/story/23/07/09/1847221/should-public-buses-be-free?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-09, 18:34:00](https://tech.slashdot.org/story/23/07/09/1757230/as-botdefense-leaves-antagonistic-reddit-mods-fear-spam-overload?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As BotDefense Leaves 'Antagonistic' Reddit, Mods Fear Spam Overload](https://tech.slashdot.org/story/23/07/09/1757230/as-botdefense-leaves-antagonistic-reddit-mods-fear-spam-overload?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-09, 17:34:00](https://games.slashdot.org/story/23/07/09/1634232/freeciv-3d-in-the-browser-now-ready?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Freeciv 3D In the Browser Now Ready!](https://games.slashdot.org/story/23/07/09/1634232/freeciv-3d-in-the-browser-now-ready?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-09, 16:34:00](https://hardware.slashdot.org/story/23/07/08/1815226/why-south-koreans-are-rushing-to-stockpile-sea-salt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why South Koreans Are Rushing To Stockpile Sea Salt](https://hardware.slashdot.org/story/23/07/08/1815226/why-south-koreans-are-rushing-to-stockpile-sea-salt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
