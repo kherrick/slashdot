@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 23:40:00](https://tech.slashdot.org/story/23/07/10/2055231/instagrams-threads-surpasses-100-million-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Instagram's Threads Surpasses 100 Million Users](https://tech.slashdot.org/story/23/07/10/2055231/instagrams-threads-surpasses-100-million-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-10, 23:00:00](https://linux.slashdot.org/story/23/07/10/2042253/torvalds-calls-for-calm-as-bcachefs-filesystem-doesnt-make-linux-65?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Torvalds Calls For Calm as Bcachefs Filesystem Doesn't Make Linux 6.5](https://linux.slashdot.org/story/23/07/10/2042253/torvalds-calls-for-calm-as-bcachefs-filesystem-doesnt-make-linux-65?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-10, 22:20:00](https://games.slashdot.org/story/23/07/10/2032241/sega-of-america-workers-overwhelmingly-vote-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sega of America Workers Overwhelmingly Vote To Unionize](https://games.slashdot.org/story/23/07/10/2032241/sega-of-america-workers-overwhelmingly-vote-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-10, 21:40:00](https://news.slashdot.org/story/23/07/10/2030249/why-are-vietnams-schools-so-good?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Are Vietnam's Schools So Good?](https://news.slashdot.org/story/23/07/10/2030249/why-are-vietnams-schools-so-good?utm_source=rss1.0mainlinkanon&utm_medium=feed)
