@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-16](index.md)
+
+* [2023-07-16, 01:34:00](https://news.slashdot.org/story/23/07/15/233244/if-vanmoof-ebikes-locks-you-out-of-your-own-bike-a-rival-companys-app-could-help?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [If VanMoof eBikes Locks You Out of Your Own Bike, a Rival Company's App Could Help](https://news.slashdot.org/story/23/07/15/233244/if-vanmoof-ebikes-locks-you-out-of-your-own-bike-a-rival-companys-app-could-help?utm_source=rss1.0mainlinkanon&utm_medium=feed)
