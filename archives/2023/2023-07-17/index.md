@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 03:34:00](https://tech.slashdot.org/story/23/07/17/0052232/teenager-denied-flight-boarding-for-skiplagging-the-money-saving-lifehack-airlines-hate?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Teenager Denied Flight Boarding for 'Skiplagging', the Money-Saving Lifehack Airlines Hate](https://tech.slashdot.org/story/23/07/17/0052232/teenager-denied-flight-boarding-for-skiplagging-the-money-saving-lifehack-airlines-hate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-17, 01:34:00](https://games.slashdot.org/story/23/07/16/2158219/sony-agrees-to-10-year-call-of-duty-deal-with-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Agrees to 10-Year 'Call of Duty' Deal with Microsoft](https://games.slashdot.org/story/23/07/16/2158219/sony-agrees-to-10-year-call-of-duty-deal-with-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
