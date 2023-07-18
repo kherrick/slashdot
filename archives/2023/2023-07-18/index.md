@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 22:40:00](https://it.slashdot.org/story/23/07/18/2032248/us-government-launches-its-long-awaited-iot-security-labeling-program?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Government Launches Its Long-Awaited IoT Security Labeling Program](https://it.slashdot.org/story/23/07/18/2032248/us-government-launches-its-long-awaited-iot-security-labeling-program?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-18, 22:00:00](https://slashdot.org/story/23/07/18/209255/eus-ai-lobbying-blitz-gets-lukewarm-response-in-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU's AI Lobbying Blitz Gets Lukewarm Response in Asia](https://slashdot.org/story/23/07/18/209255/eus-ai-lobbying-blitz-gets-lukewarm-response-in-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-18, 21:20:00](https://news.slashdot.org/story/23/07/18/202233/sec-is-worried-chatbots-could-fuel-a-market-panic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SEC is Worried Chatbots Could Fuel a Market Panic](https://news.slashdot.org/story/23/07/18/202233/sec-is-worried-chatbots-could-fuel-a-market-panic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-18, 20:40:00](https://slashdot.org/story/23/07/18/1952254/logitech-buys-stream-deck-rival-loupedeck?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Logitech Buys Stream Deck Rival Loupedeck](https://slashdot.org/story/23/07/18/1952254/logitech-buys-stream-deck-rival-loupedeck?utm_source=rss1.0mainlinkanon&utm_medium=feed)
