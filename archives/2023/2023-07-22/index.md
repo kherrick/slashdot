@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 01:00:00](https://linux.slashdot.org/story/23/07/21/2138223/slackware-linux-distribution-turns-30-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slackware Linux Distribution Turns 30 Years Old](https://linux.slashdot.org/story/23/07/21/2138223/slackware-linux-distribution-turns-30-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-22, 00:20:00](https://tech.slashdot.org/story/23/07/21/2135204/telegram-adds-stories-for-premium-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Telegram Adds Stories For Premium Subscribers](https://tech.slashdot.org/story/23/07/21/2135204/telegram-adds-stories-for-premium-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
