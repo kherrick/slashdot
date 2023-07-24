@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 16:00:00](https://slashdot.org/story/23/07/24/133216/androids-now-better-than-ios-instagram-boss-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android's Now Better Than iOS, Instagram Boss Says](https://slashdot.org/story/23/07/24/133216/androids-now-better-than-ios-instagram-boss-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-24, 15:20:00](https://slashdot.org/story/23/07/24/1238210/sam-altmans-worldcoin-eyeball-scanning-crypto-project-launches?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman's Worldcoin Eyeball-Scanning Crypto Project Launches](https://slashdot.org/story/23/07/24/1238210/sam-altmans-worldcoin-eyeball-scanning-crypto-project-launches?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-24, 14:40:00](https://tech.slashdot.org/story/23/07/24/1242213/rental-cars-are-the-new-airbnb?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rental Cars Are the New Airbnb](https://tech.slashdot.org/story/23/07/24/1242213/rental-cars-are-the-new-airbnb?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-24, 14:00:00](https://it.slashdot.org/story/23/07/24/1252226/norway-government-ministries-hit-by-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Norway Government Ministries Hit By Cyber Attack](https://it.slashdot.org/story/23/07/24/1252226/norway-government-ministries-hit-by-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
