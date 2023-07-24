@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 19:42:00](https://it.slashdot.org/story/23/07/24/1942216/researchers-find-backdoor-in-encrypted-police-and-military-radios?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Find 'Backdoor' in Encrypted Police and Military Radios](https://it.slashdot.org/story/23/07/24/1942216/researchers-find-backdoor-in-encrypted-police-and-military-radios?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-24, 18:21:00](https://tech.slashdot.org/story/23/07/24/1821246/google-owes-3387-million-in-chromecast-patent-case-us-jury-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Owes $338.7 Million in Chromecast Patent Case, US Jury Says](https://tech.slashdot.org/story/23/07/24/1821246/google-owes-3387-million-in-chromecast-patent-case-us-jury-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-24, 17:20:00](https://hardware.slashdot.org/story/23/07/24/139240/flip-phones-are-having-a-moment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Flip Phones Are Having a Moment](https://hardware.slashdot.org/story/23/07/24/139240/flip-phones-are-having-a-moment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-24, 16:40:00](https://entertainment.slashdot.org/story/23/07/24/135251/spotify-hikes-prices-of-premium-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Spotify Hikes Prices of Premium Plans](https://entertainment.slashdot.org/story/23/07/24/135251/spotify-hikes-prices-of-premium-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
