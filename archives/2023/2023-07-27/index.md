@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 16:05:00](https://it.slashdot.org/story/23/07/27/165212/hackers-are-infecting-call-of-duty-players-with-a-self-spreading-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hackers Are Infecting Call of Duty Players With a Self-spreading Malware](https://it.slashdot.org/story/23/07/27/165212/hackers-are-infecting-call-of-duty-players-with-a-self-spreading-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-27, 15:23:00](https://news.slashdot.org/story/23/07/27/1523235/era-of-global-boiling-has-arrived-un-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Era of Global Boiling Has Arrived, UN Chief Says](https://news.slashdot.org/story/23/07/27/1523235/era-of-global-boiling-has-arrived-un-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-27, 14:40:00](https://yro.slashdot.org/story/23/07/27/1437204/ufo-reports-demand-greater-transparency-lawmakers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UFO Reports Demand Greater Transparency, Lawmakers Say](https://yro.slashdot.org/story/23/07/27/1437204/ufo-reports-demand-greater-transparency-lawmakers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-07-27, 14:02:00](https://games.slashdot.org/story/23/07/27/142258/sony-has-sold-40-million-ps5s?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Has Sold 40 Million PS5s](https://games.slashdot.org/story/23/07/27/142258/sony-has-sold-40-million-ps5s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
