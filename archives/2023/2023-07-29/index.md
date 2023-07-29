@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-29](index.md)
+
+* [2023-07-29, 02:02:00](https://science.slashdot.org/story/23/07/28/2133255/ai-helps-crack-salt-waters-curious-electrical-properties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Helps Crack Salt Water's Curious Electrical Properties](https://science.slashdot.org/story/23/07/28/2133255/ai-helps-crack-salt-waters-curious-electrical-properties?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-07-29, 01:25:00](https://tech.slashdot.org/story/23/07/28/2119226/tors-shadowy-reputation-will-only-end-if-we-all-use-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Tor's Shadowy Reputation Will Only End If We All Use It'](https://tech.slashdot.org/story/23/07/28/2119226/tors-shadowy-reputation-will-only-end-if-we-all-use-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-07-29, 00:45:00](https://hardware.slashdot.org/story/23/07/28/2111239/inside-the-worlds-largest-3d-printed-neighborhood-in-texas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inside the World's Largest 3D-Printed Neighborhood In Texas](https://hardware.slashdot.org/story/23/07/28/2111239/inside-the-worlds-largest-3d-printed-neighborhood-in-texas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-07-29, 00:02:00](https://yro.slashdot.org/story/23/07/28/2047209/moveit-hackers-accessed-health-data-of-at-least-8-million-individuals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MOVEit Hackers Accessed Health Data of 'At Least' 8 Million Individuals](https://yro.slashdot.org/story/23/07/28/2047209/moveit-hackers-accessed-health-data-of-at-least-8-million-individuals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
