@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-31](index.md)
+
+* [2023-07-31, 01:59:00](https://hardware.slashdot.org/story/23/07/31/0128257/elon-musk-predicts-electricity-shortage-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elon Musk Predicts Electricity Shortage in Two Years](https://hardware.slashdot.org/story/23/07/31/0128257/elon-musk-predicts-electricity-shortage-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
