@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 15:22:00](https://tech.slashdot.org/story/23/08/01/154249/youtube-uses-ai-to-summarize-videos-in-latest-test?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Uses AI To Summarize Videos in Latest Test](https://tech.slashdot.org/story/23/08/01/154249/youtube-uses-ai-to-summarize-videos-in-latest-test?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-01, 14:52:00](https://tech.slashdot.org/story/23/08/01/1452226/meta-to-seek-user-consent-for-targeted-ads-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta To Seek User Consent for Targeted Ads in the EU](https://tech.slashdot.org/story/23/08/01/1452226/meta-to-seek-user-consent-for-targeted-ads-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-01, 14:00:00](https://science.slashdot.org/story/23/08/01/140239/amazon-rolls-out-its-virtual-health-clinic-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Rolls Out Its Virtual Health Clinic Nationwide](https://science.slashdot.org/story/23/08/01/140239/amazon-rolls-out-its-virtual-health-clinic-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-01, 13:00:00](https://tech.slashdot.org/story/23/08/01/0652258/google-assistant-to-get-an-ai-makeover?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Assistant To Get an AI Makeover](https://tech.slashdot.org/story/23/08/01/0652258/google-assistant-to-get-an-ai-makeover?utm_source=rss1.0mainlinkanon&utm_medium=feed)
