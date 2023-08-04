@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 16:51:00](https://tech.slashdot.org/story/23/08/04/1651254/google-offers-on-campus-hotel-special-to-help-lure-workers-back-to-the-office?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Offers On-Campus Hotel 'Special' To Help Lure Workers Back To the Office](https://tech.slashdot.org/story/23/08/04/1651254/google-offers-on-campus-hotel-special-to-help-lure-workers-back-to-the-office?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-04, 16:06:00](https://slashdot.org/story/23/08/04/167213/india-delays-laptop-import-restrictions-order?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India Delays Laptop Import Restrictions Order](https://slashdot.org/story/23/08/04/167213/india-delays-laptop-import-restrictions-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-04, 15:22:00](https://slashdot.org/story/23/08/04/1522250/qualcomm-chip-sales-down-25-percent-plans-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qualcomm Chip Sales Down 25 Percent, Plans Layoffs](https://slashdot.org/story/23/08/04/1522250/qualcomm-chip-sales-down-25-percent-plans-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-04, 14:40:00](https://apple.slashdot.org/story/23/08/04/1424222/apple-hits-1-billion-paid-subscriptions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Hits 1 Billion Paid Subscriptions](https://apple.slashdot.org/story/23/08/04/1424222/apple-hits-1-billion-paid-subscriptions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
