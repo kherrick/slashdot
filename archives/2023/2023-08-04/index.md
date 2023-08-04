@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 22:00:00](https://slashdot.org/story/23/08/04/1915205/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qualcomm, One of Arm's Biggest Customers, Starts a RISC-V Joint Venture](https://slashdot.org/story/23/08/04/1915205/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-04, 21:20:00](https://yro.slashdot.org/story/23/08/04/1835238/razzlekhan-and-husband-guilty-of-bitcoin-launder?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Razzlekhan and Husband Guilty of Bitcoin Launder](https://yro.slashdot.org/story/23/08/04/1835238/razzlekhan-and-husband-guilty-of-bitcoin-launder?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-04, 20:40:00](https://yro.slashdot.org/story/23/08/04/1822241/softbank-sues-former-irl-ceo-for-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SoftBank Sues Former IRL CEO For Fraud](https://yro.slashdot.org/story/23/08/04/1822241/softbank-sues-former-irl-ceo-for-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-04, 20:00:00](https://news.slashdot.org/story/23/08/04/1755242/canadian-government-services-to-become-digital-first?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canadian Government Services To Become 'Digital First'](https://news.slashdot.org/story/23/08/04/1755242/canadian-government-services-to-become-digital-first?utm_source=rss1.0mainlinkanon&utm_medium=feed)
