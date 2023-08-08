@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 18:15:00](https://entertainment.slashdot.org/story/23/08/08/1915248/nerdcore-is-dead-long-live-nerdcore?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nerdcore Is Dead (Long Live Nerdcore)](https://entertainment.slashdot.org/story/23/08/08/1915248/nerdcore-is-dead-long-live-nerdcore?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 17:35:00](https://tech.slashdot.org/story/23/08/08/1735223/google-fails-to-end-5-billion-consumer-privacy-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Fails To End $5 Billion Consumer Privacy Lawsuit](https://tech.slashdot.org/story/23/08/08/1735223/google-fails-to-end-5-billion-consumer-privacy-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 16:48:00](https://hardware.slashdot.org/story/23/08/08/1648233/nvidia-unveils-faster-chip-aimed-at-cementing-ai-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Unveils Faster Chip Aimed at Cementing AI Dominance](https://hardware.slashdot.org/story/23/08/08/1648233/nvidia-unveils-faster-chip-aimed-at-cementing-ai-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 16:01:00](https://it.slashdot.org/story/23/08/08/1550229/now-you-can-block-openais-web-crawler?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Now You Can Block OpenAI's Web Crawler](https://it.slashdot.org/story/23/08/08/1550229/now-you-can-block-openais-web-crawler?utm_source=rss1.0mainlinkanon&utm_medium=feed)
