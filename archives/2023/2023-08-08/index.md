@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 01:25:00](https://hardware.slashdot.org/story/23/08/07/2118235/raspberry-pis-found-in-abandoned-spin-scooters-in-seattle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Raspberry Pis Found In Abandoned Spin Scooters In Seattle](https://hardware.slashdot.org/story/23/08/07/2118235/raspberry-pis-found-in-abandoned-spin-scooters-in-seattle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-08-08, 00:45:00](https://tech.slashdot.org/story/23/08/07/2048238/microsofts-ai-powered-bing-chat-is-coming-to-mobile-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's AI-Powered Bing Chat Is Coming To Mobile Browsers](https://tech.slashdot.org/story/23/08/07/2048238/microsofts-ai-powered-bing-chat-is-coming-to-mobile-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 00:02:00](https://tech.slashdot.org/story/23/08/07/216200/google-maps-has-become-an-eyesore?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Google Maps Has Become an Eyesore'](https://tech.slashdot.org/story/23/08/07/216200/google-maps-has-become-an-eyesore?utm_source=rss1.0mainlinkanon&utm_medium=feed)
