@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 16:01:00](https://it.slashdot.org/story/23/08/08/1550229/now-you-can-block-openais-web-crawler?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Now You Can Block OpenAI's Web Crawler](https://it.slashdot.org/story/23/08/08/1550229/now-you-can-block-openais-web-crawler?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 15:20:00](https://news.slashdot.org/story/23/08/08/1455202/floods-fires-and-torrential-rains-further-bedevil-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Floods, Fires and Torrential Rains Further Bedevil Europe](https://news.slashdot.org/story/23/08/08/1455202/floods-fires-and-torrential-rains-further-bedevil-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 14:44:00](https://slashdot.org/story/23/08/08/1444257/disney-creates-task-force-to-explore-ai-and-cut-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney Creates Task Force To Explore AI and Cut Costs](https://slashdot.org/story/23/08/08/1444257/disney-creates-task-force-to-explore-ai-and-cut-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-08, 14:00:00](https://tech.slashdot.org/story/23/08/08/1358223/meta-is-giving-up-on-messengers-sms-feature?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta is Giving Up on Messenger's SMS Feature](https://tech.slashdot.org/story/23/08/08/1358223/meta-is-giving-up-on-messengers-sms-feature?utm_source=rss1.0mainlinkanon&utm_medium=feed)
