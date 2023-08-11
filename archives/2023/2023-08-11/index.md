@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 14:40:00](https://news.slashdot.org/story/23/08/11/1221250/the-open-source-licensing-war-is-over?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Open Source Licensing War is Over'](https://news.slashdot.org/story/23/08/11/1221250/the-open-source-licensing-war-is-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-11, 12:08:00](https://science.slashdot.org/story/23/08/11/128226/russias-luna-25-mission-launches-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia's Luna 25 Mission Launches To the Moon](https://science.slashdot.org/story/23/08/11/128226/russias-luna-25-mission-launches-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-11, 10:00:00](https://science.slashdot.org/story/23/08/11/0220206/mars-rover-finds-signs-of-seasonal-floods?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mars Rover Finds Signs of Seasonal Floods](https://science.slashdot.org/story/23/08/11/0220206/mars-rover-finds-signs-of-seasonal-floods?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-11, 07:00:00](https://tech.slashdot.org/story/23/08/11/0211237/texas-could-get-a-205-mph-bullet-train-zipping-between-houston-and-dallas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Texas Could Get a 205-MPH Bullet Train Zipping Between Houston and Dallas](https://tech.slashdot.org/story/23/08/11/0211237/texas-could-get-a-205-mph-bullet-train-zipping-between-houston-and-dallas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
