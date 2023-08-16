@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 19:32:00](https://slashdot.org/story/23/08/16/1932226/linus-tech-tips-pauses-production-as-controversy-swirls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linus Tech Tips Pauses Production as Controversy Swirls](https://slashdot.org/story/23/08/16/1932226/linus-tech-tips-pauses-production-as-controversy-swirls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-16, 19:09:00](https://slashdot.org/story/23/08/16/199225/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ex-Google CEO Eric Schmidt To Launch AI-Science Moonshot](https://slashdot.org/story/23/08/16/199225/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-16, 18:23:00](https://tech.slashdot.org/story/23/08/16/1823215/nyc-bans-tiktok-on-city-owned-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NYC Bans TikTok on City-Owned Devices](https://tech.slashdot.org/story/23/08/16/1823215/nyc-bans-tiktok-on-city-owned-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-16, 17:49:00](https://news.slashdot.org/story/23/08/16/1749232/uk-to-host-ai-safety-summit-at-start-of-november?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK To Host AI Safety Summit at Start of November](https://news.slashdot.org/story/23/08/16/1749232/uk-to-host-ai-safety-summit-at-start-of-november?utm_source=rss1.0mainlinkanon&utm_medium=feed)
