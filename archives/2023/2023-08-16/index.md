@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-16](index.md)
+
+* [2023-08-16, 00:45:00](https://slashdot.org/story/23/08/15/2235228/top-physicist-says-chatbots-are-just-glorified-tape-recorders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Top Physicist Says Chatbots Are Just 'Glorified Tape Recorders'](https://slashdot.org/story/23/08/15/2235228/top-physicist-says-chatbots-are-just-glorified-tape-recorders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-08-16, 00:02:00](https://yro.slashdot.org/story/23/08/15/2037221/court-orders-sportsbay-to-pay-almost-half-a-billion-dollars-for-violating-dmca?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Court Orders SportsBay To Pay Almost Half a Billion Dollars For Violating DMCA](https://yro.slashdot.org/story/23/08/15/2037221/court-orders-sportsbay-to-pay-almost-half-a-billion-dollars-for-violating-dmca?utm_source=rss1.0mainlinkanon&utm_medium=feed)
