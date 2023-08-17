@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-17](index.md)
+
+* [2023-08-17, 00:02:00](https://slashdot.org/story/23/08/16/2231257/adobe-and-microsoft-break-some-old-files-by-removing-postscript-font-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Adobe and Microsoft Break Some Old Files By Removing PostScript Font Support](https://slashdot.org/story/23/08/16/2231257/adobe-and-microsoft-break-some-old-files-by-removing-postscript-font-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
