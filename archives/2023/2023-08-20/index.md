@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-20](index.md)
+
+* [2023-08-20, 01:34:00](https://news.slashdot.org/story/23/08/20/0044259/schools-are-now-teaching-about-chatgpt-and-ai-so-their-students-arent-left-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Schools are Now Teaching About ChatGPT and AI So Their Students Aren't Left Behind](https://news.slashdot.org/story/23/08/20/0044259/schools-are-now-teaching-about-chatgpt-and-ai-so-their-students-arent-left-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed)
