@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 14:40:00](https://developers.slashdot.org/story/23/08/22/1425228/microsoft-announces-python-in-excel?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Announces Python In Excel](https://developers.slashdot.org/story/23/08/22/1425228/microsoft-announces-python-in-excel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-22, 14:00:00](https://slashdot.org/story/23/08/22/1338254/ibm-to-sell-weather-business?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM To Sell Weather Business](https://slashdot.org/story/23/08/22/1338254/ibm-to-sell-weather-business?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-22, 10:00:00](https://slashdot.org/story/23/08/22/064203/microsoft-kills-kinect-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Kills Kinect Again](https://slashdot.org/story/23/08/22/064203/microsoft-kills-kinect-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-22, 07:00:00](https://science.slashdot.org/story/23/08/22/0557238/spacexs-bandwagon-program-is-a-big-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SpaceX's Bandwagon Program Is a Big Deal](https://science.slashdot.org/story/23/08/22/0557238/spacexs-bandwagon-program-is-a-big-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
