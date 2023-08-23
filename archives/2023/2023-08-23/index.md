@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-23](index.md)
+
+* [2023-08-23, 00:45:00](https://yro.slashdot.org/story/23/08/22/2247223/bitcoin-developers-push-back-against-craig-wrights-claim-to-billions-of-dollars-in-bitcoin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bitcoin Developers Push Back Against Craig Wright's Claim to Billions of Dollars in Bitcoin](https://yro.slashdot.org/story/23/08/22/2247223/bitcoin-developers-push-back-against-craig-wrights-claim-to-billions-of-dollars-in-bitcoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-08-23, 00:02:00](https://news.slashdot.org/story/23/08/22/2046249/trudeau-denounces-metas-news-block-as-fires-force-evacuations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trudeau Denounces Meta's News Block As Fires Force Evacuations](https://news.slashdot.org/story/23/08/22/2046249/trudeau-denounces-metas-news-block-as-fires-force-evacuations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
