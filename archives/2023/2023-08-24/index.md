@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 19:20:00](https://news.slashdot.org/story/23/08/24/1753237/mastercard-binance-to-end-crypto-card-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mastercard, Binance To End Crypto Card Partnership](https://news.slashdot.org/story/23/08/24/1753237/mastercard-binance-to-end-crypto-card-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-24, 18:40:00](https://slashdot.org/story/23/08/24/1826239/nvidia-hits-new-all-time-high?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Hits New All-Time High](https://slashdot.org/story/23/08/24/1826239/nvidia-hits-new-all-time-high?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-24, 18:01:00](https://news.slashdot.org/story/23/08/24/1739253/germany-set-to-miss-net-zero-by-2045-target-as-climate-efforts-falter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Germany Set To Miss Net Zero By 2045 Target as Climate Efforts Falter](https://news.slashdot.org/story/23/08/24/1739253/germany-set-to-miss-net-zero-by-2045-target-as-climate-efforts-falter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-24, 17:21:00](https://hardware.slashdot.org/story/23/08/24/1721216/dropbox-ends-unlimited-cloud-storage-following-google-change?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dropbox Ends Unlimited Cloud Storage Following Google Change](https://hardware.slashdot.org/story/23/08/24/1721216/dropbox-ends-unlimited-cloud-storage-following-google-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
