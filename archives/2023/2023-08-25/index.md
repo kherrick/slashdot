@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 17:20:00](https://news.slashdot.org/story/23/08/25/1313209/us-tackles-crypto-tax-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Tackles Crypto Tax Mess](https://news.slashdot.org/story/23/08/25/1313209/us-tackles-crypto-tax-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-25, 16:40:00](https://news.slashdot.org/story/23/08/25/153254/california-firefighters-are-training-ai-to-detect-wildfires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Firefighters Are Training AI To Detect Wildfires](https://news.slashdot.org/story/23/08/25/153254/california-firefighters-are-training-ai-to-detect-wildfires?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-25, 16:00:00](https://it.slashdot.org/story/23/08/25/1241245/citizen-suspends-sales-of-its-latest-smartwatch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Citizen Suspends Sales of Its Latest Smartwatch](https://it.slashdot.org/story/23/08/25/1241245/citizen-suspends-sales-of-its-latest-smartwatch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-25, 15:20:00](https://yro.slashdot.org/story/23/08/25/1514251/nsa-orders-employees-to-spy-on-the-world-with-dignity-and-respect?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NSA Orders Employees To Spy on the World 'With Dignity and Respect'](https://yro.slashdot.org/story/23/08/25/1514251/nsa-orders-employees-to-spy-on-the-world-with-dignity-and-respect?utm_source=rss1.0mainlinkanon&utm_medium=feed)
