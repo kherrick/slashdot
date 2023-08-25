@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-25](index.md)
+
+* [2023-08-25, 00:02:00](https://tech.slashdot.org/story/23/08/24/2147224/tesla-wins-permit-approval-for-diner-and-drive-in-movie-supercharger-in-la?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tesla Wins Permit Approval For Diner and Drive-In Movie Supercharger In LA](https://tech.slashdot.org/story/23/08/24/2147224/tesla-wins-permit-approval-for-diner-and-drive-in-movie-supercharger-in-la?utm_source=rss1.0mainlinkanon&utm_medium=feed)
