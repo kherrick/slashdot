@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 01:25:00](https://news.slashdot.org/story/23/08/24/2233242/firefox-users-may-import-chrome-extensions-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firefox Users May Import Chrome Extensions Now](https://news.slashdot.org/story/23/08/24/2233242/firefox-users-may-import-chrome-extensions-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-08-25, 00:45:00](https://apple.slashdot.org/story/23/08/24/2154203/apples-vision-pro-labs-are-drawing-audible-gasps-from-developers-says-company?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's Vision Pro Labs Are Drawing Audible Gasps From Developers, Says Company](https://apple.slashdot.org/story/23/08/24/2154203/apples-vision-pro-labs-are-drawing-audible-gasps-from-developers-says-company?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-25, 00:02:00](https://tech.slashdot.org/story/23/08/24/2147224/tesla-wins-permit-approval-for-diner-and-drive-in-movie-supercharger-in-la?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tesla Wins Permit Approval For Diner and Drive-In Movie Supercharger In LA](https://tech.slashdot.org/story/23/08/24/2147224/tesla-wins-permit-approval-for-diner-and-drive-in-movie-supercharger-in-la?utm_source=rss1.0mainlinkanon&utm_medium=feed)
