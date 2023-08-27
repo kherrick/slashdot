@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 23:19:00](https://linux.slashdot.org/story/23/08/27/2316212/whats-new-in-linux-65?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What's New in Linux 6.5?](https://linux.slashdot.org/story/23/08/27/2316212/whats-new-in-linux-65?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-27, 21:02:00](https://science.slashdot.org/story/23/08/27/210213/cerns-large-hadron-collider-makes-its-first-observations-of-neutrinos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CERN's Large Hadron Collider Makes Its First Observations of Neutrinos](https://science.slashdot.org/story/23/08/27/210213/cerns-large-hadron-collider-makes-its-first-observations-of-neutrinos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-27, 19:40:00](https://hardware.slashdot.org/story/23/08/27/1933250/japan-says-seawater-radioactivity-below-limits-near-fukushima?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan Says Seawater Radioactivity Below Limits Near Fukushima](https://hardware.slashdot.org/story/23/08/27/1933250/japan-says-seawater-radioactivity-below-limits-near-fukushima?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-27, 18:41:00](https://linux.slashdot.org/story/23/08/27/1532207/can-you-run-linux-on-a-commodore-64?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can You Run Linux On a Commodore 64?](https://linux.slashdot.org/story/23/08/27/1532207/can-you-run-linux-on-a-commodore-64?utm_source=rss1.0mainlinkanon&utm_medium=feed)
