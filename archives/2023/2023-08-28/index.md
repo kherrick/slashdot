@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 16:03:00](https://news.slashdot.org/story/23/08/28/163213/youtube-tv-urged-to-drop-600-less-than-cable-ad-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube TV Urged To Drop '$600 Less Than Cable' Ad Claim](https://news.slashdot.org/story/23/08/28/163213/youtube-tv-urged-to-drop-600-less-than-cable-ad-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-28, 15:20:00](https://news.slashdot.org/story/23/08/28/0657254/raimondo-crucial-us-china-have-stable-economic-relationship?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Raimondo: Crucial US, China Have Stable Economic Relationship](https://news.slashdot.org/story/23/08/28/0657254/raimondo-crucial-us-china-have-stable-economic-relationship?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-28, 14:40:00](https://yro.slashdot.org/story/23/08/28/1438226/hackers-can-silently-grab-your-ip-through-skype?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hackers Can Silently Grab Your IP Through Skype](https://yro.slashdot.org/story/23/08/28/1438226/hackers-can-silently-grab-your-ip-through-skype?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-28, 14:00:00](https://news.slashdot.org/story/23/08/28/0653246/new-eu-climate-change-rules-anger-blocs-farmers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New EU Climate Change Rules Anger Bloc's Farmers](https://news.slashdot.org/story/23/08/28/0653246/new-eu-climate-change-rules-anger-blocs-farmers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
