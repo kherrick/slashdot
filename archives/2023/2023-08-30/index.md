@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 15:24:00](https://tech.slashdot.org/story/23/08/30/1525238/freebsd-can-now-boot-in-25-milliseconds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ FreeBSD Can Now Boot in 25 Milliseconds](https://tech.slashdot.org/story/23/08/30/1525238/freebsd-can-now-boot-in-25-milliseconds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-30, 14:47:00](https://news.slashdot.org/story/23/08/30/1447219/visa-mastercard-prepare-to-raise-credit-card-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Visa, Mastercard Prepare To Raise Credit-Card Fees](https://news.slashdot.org/story/23/08/30/1447219/visa-mastercard-prepare-to-raise-credit-card-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-30, 14:07:00](https://tech.slashdot.org/story/23/08/30/147233/google-discontinues-pixel-pass-subscription?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Discontinues Pixel Pass Subscription](https://tech.slashdot.org/story/23/08/30/147233/google-discontinues-pixel-pass-subscription?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-08-30, 13:00:00](https://slashdot.org/story/23/08/30/0653223/meet-aleph-alpha-europes-answer-to-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meet Aleph Alpha, Europe's Answer To OpenAI](https://slashdot.org/story/23/08/30/0653223/meet-aleph-alpha-europes-answer-to-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
