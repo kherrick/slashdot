@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 01:25:00](https://games.slashdot.org/story/23/08/31/2227216/saints-row-developer-volition-has-been-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Saints Row Developer Volition Has Been Shut Down](https://games.slashdot.org/story/23/08/31/2227216/saints-row-developer-volition-has-been-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-01, 00:45:00](https://hardware.slashdot.org/story/23/08/31/2214247/apple-experimenting-with-3d-printing-to-create-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Experimenting With 3D Printing To Create Devices](https://hardware.slashdot.org/story/23/08/31/2214247/apple-experimenting-with-3d-printing-to-create-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-01, 00:02:00](https://tech.slashdot.org/story/23/08/31/2317216/magic-leap-ar-headset-will-cease-to-function-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Magic Leap AR Headset Will 'Cease To Function' In 2025](https://tech.slashdot.org/story/23/08/31/2317216/magic-leap-ar-headset-will-cease-to-function-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
