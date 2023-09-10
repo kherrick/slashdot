@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-10](index.md)
+
+* [2023-09-10, 01:56:00](https://idle.slashdot.org/story/23/09/10/0153250/cleanup-begins-at-burning-man-site-a-few-abandoned-cars-plus-a-burned-out-rv?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cleanup Begins at Burning Man Site: a Few Abandoned Cars, Plus a Burned-Out RV](https://idle.slashdot.org/story/23/09/10/0153250/cleanup-begins-at-burning-man-site-a-few-abandoned-cars-plus-a-burned-out-rv?utm_source=rss1.0mainlinkanon&utm_medium=feed)
