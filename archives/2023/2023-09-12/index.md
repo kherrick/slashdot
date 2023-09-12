@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 05:25:00](https://news.slashdot.org/story/23/09/12/0522249/credit-card-disputes-keep-rising-at-visa-as-e-commerce-booms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Credit Card Disputes Keep Rising at Visa as E-Commerce Booms](https://news.slashdot.org/story/23/09/12/0522249/credit-card-disputes-keep-rising-at-visa-as-e-commerce-booms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-12, 02:01:00](https://tech.slashdot.org/story/23/09/11/1913221/whatsapp-is-working-on-cross-platform-messaging?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [WhatsApp is Working on Cross-Platform Messaging](https://tech.slashdot.org/story/23/09/11/1913221/whatsapp-is-working-on-cross-platform-messaging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
