@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-13](index.md)
+
+* [2023-09-13, 01:30:00](https://tech.slashdot.org/story/23/09/12/1449221/gasoline-diesel-vehicles-dominate-indias-auto-market-evs-lag?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gasoline, Diesel Vehicles Dominate India's Auto Market, EVs Lag](https://tech.slashdot.org/story/23/09/12/1449221/gasoline-diesel-vehicles-dominate-indias-auto-market-evs-lag?utm_source=rss1.0mainlinkanon&utm_medium=feed)
