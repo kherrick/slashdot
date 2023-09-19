@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-19](index.md)
+
+* [2023-09-19, 00:01:00](https://it.slashdot.org/story/23/09/18/2058216/37-signals-says-cloud-repatriation-plan-has-already-saved-it-1-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [37 Signals Says Cloud Repatriation Plan Has Already Saved It $1 Million](https://it.slashdot.org/story/23/09/18/2058216/37-signals-says-cloud-repatriation-plan-has-already-saved-it-1-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
