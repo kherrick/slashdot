@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 01:25:00](https://games.slashdot.org/story/23/09/18/2123258/meta-is-killing-two-oculus-quest-games-without-explanation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Is Killing Two Oculus Quest Games Without Explanation](https://games.slashdot.org/story/23/09/18/2123258/meta-is-killing-two-oculus-quest-games-without-explanation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-09-19, 00:45:00](https://hardware.slashdot.org/story/23/09/18/210216/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Modder Turns Framework Laptop PCB Into a Handheld Gaming PC](https://hardware.slashdot.org/story/23/09/18/210216/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-19, 00:01:00](https://it.slashdot.org/story/23/09/18/2058216/37-signals-says-cloud-repatriation-plan-has-already-saved-it-1-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [37 Signals Says Cloud Repatriation Plan Has Already Saved It $1 Million](https://it.slashdot.org/story/23/09/18/2058216/37-signals-says-cloud-repatriation-plan-has-already-saved-it-1-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
