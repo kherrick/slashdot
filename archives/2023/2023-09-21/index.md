@@ -1,0 +1,11 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-21](index.md)
+
+* [2023-09-21, 03:30:00](https://news.slashdot.org/story/23/09/20/2034240/french-drillers-may-have-stumbled-upon-a-mammoth-hydrogen-deposit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [French Drillers May Have Stumbled Upon a Mammoth Hydrogen Deposit](https://news.slashdot.org/story/23/09/20/2034240/french-drillers-may-have-stumbled-upon-a-mammoth-hydrogen-deposit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-09-21, 02:02:00](https://science.slashdot.org/story/23/09/20/2027233/neuralink-is-recruiting-subjects-for-the-first-human-trial-of-its-brain-computer-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Neuralink Is Recruiting Subjects For the First Human Trial of Its Brain-Computer Interface](https://science.slashdot.org/story/23/09/20/2027233/neuralink-is-recruiting-subjects-for-the-first-human-trial-of-its-brain-computer-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-09-21, 01:25:00](https://games.slashdot.org/story/23/09/20/2022245/parents-in-us-offered-refunds-for-purchases-kids-made-in-fortnite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Parents In US Offered Refunds For Purchases Kids Made In Fortnite](https://games.slashdot.org/story/23/09/20/2022245/parents-in-us-offered-refunds-for-purchases-kids-made-in-fortnite?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-09-21, 00:45:00](https://slashdot.org/story/23/09/20/2015210/airbnbs-naba-banerjee-reduced-partying-by-55-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Airbnb's Naba Banerjee Reduced Partying By 55% In Two Years](https://slashdot.org/story/23/09/20/2015210/airbnbs-naba-banerjee-reduced-partying-by-55-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-09-21, 00:02:00](https://yro.slashdot.org/story/23/09/20/208251/fcc-plays-whack-a-mole-with-telcos-accused-of-profiting-from-robocalls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC Plays Whack-a-Mole With Telcos Accused of Profiting From Robocalls](https://yro.slashdot.org/story/23/09/20/208251/fcc-plays-whack-a-mole-with-telcos-accused-of-profiting-from-robocalls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
