@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 15:00:00](https://mobile.slashdot.org/story/23/09/22/1429202/nearly-500-smartphone-brands-have-left-the-market-since-2017?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nearly 500 Smartphone Brands Have Left the Market Since 2017](https://mobile.slashdot.org/story/23/09/22/1429202/nearly-500-smartphone-brands-have-left-the-market-since-2017?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-22, 14:00:00](https://slashdot.org/story/23/09/22/140227/amazon-to-run-ads-on-prime-video-in-key-markets-starting-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon To Run Ads on Prime Video in Key Markets Starting in 2024](https://slashdot.org/story/23/09/22/140227/amazon-to-run-ads-on-prime-video-in-key-markets-starting-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-22, 12:30:00](https://it.slashdot.org/story/23/09/22/0930240/android-14-adds-support-for-using-smartphones-as-webcams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android 14 Adds Support for Using Smartphones as Webcams](https://it.slashdot.org/story/23/09/22/0930240/android-14-adds-support-for-using-smartphones-as-webcams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-22, 09:05:00](https://news.slashdot.org/story/23/09/22/094224/95-of-nfts-may-now-be-worthless?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [95% of NFTs May Now Be Worthless](https://news.slashdot.org/story/23/09/22/094224/95-of-nfts-may-now-be-worthless?utm_source=rss1.0mainlinkanon&utm_medium=feed)
