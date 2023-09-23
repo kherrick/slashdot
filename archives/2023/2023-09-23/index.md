@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 05:00:00](https://science.slashdot.org/story/23/09/22/1948241/advances-in-eye-scans-and-protein-structure-win-2023-lasker-awards?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Advances in Eye Scans and Protein Structure Win 2023 Lasker Awards](https://science.slashdot.org/story/23/09/22/1948241/advances-in-eye-scans-and-protein-structure-win-2023-lasker-awards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-23, 02:01:00](https://slashdot.org/story/23/09/22/169203/chinas-ai-war-of-a-hundred-models-heads-for-a-shakeout?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's AI 'War of a Hundred Models' Heads For a Shakeout](https://slashdot.org/story/23/09/22/169203/chinas-ai-war-of-a-hundred-models-heads-for-a-shakeout?utm_source=rss1.0mainlinkanon&utm_medium=feed)
