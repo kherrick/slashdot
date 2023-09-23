@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-23](index.md)
+
+* [2023-09-23, 02:01:00](https://slashdot.org/story/23/09/22/169203/chinas-ai-war-of-a-hundred-models-heads-for-a-shakeout?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's AI 'War of a Hundred Models' Heads For a Shakeout](https://slashdot.org/story/23/09/22/169203/chinas-ai-war-of-a-hundred-models-heads-for-a-shakeout?utm_source=rss1.0mainlinkanon&utm_medium=feed)
