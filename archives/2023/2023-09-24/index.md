@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-24](index.md)
+
+* [2023-09-24, 00:06:00](https://hardware.slashdot.org/story/23/09/24/002243/new-york-city-deploys-420-pound-robocop-to-patrol-subway-station?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York City Deploys 420-Pound RoboCop to Patrol Subway Station](https://hardware.slashdot.org/story/23/09/24/002243/new-york-city-deploys-420-pound-robocop-to-patrol-subway-station?utm_source=rss1.0mainlinkanon&utm_medium=feed)
