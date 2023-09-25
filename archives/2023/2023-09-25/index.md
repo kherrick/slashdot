@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 18:40:00](https://yro.slashdot.org/story/23/09/25/1826206/jpex-appears-to-be-a-178-million-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [JPEX Appears To Be a $178 Million Fraud](https://yro.slashdot.org/story/23/09/25/1826206/jpex-appears-to-be-a-178-million-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-25, 18:01:00](https://slashdot.org/story/23/09/25/1628226/chatgpt-can-now-respond-with-spoken-words?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ChatGPT Can Now Respond With Spoken Words](https://slashdot.org/story/23/09/25/1628226/chatgpt-can-now-respond-with-spoken-words?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-25, 17:20:00](https://tech.slashdot.org/story/23/09/25/1719232/reddit-will-start-paying-you-real-money-for-your-karma?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Will Start Paying You Real Money For Your Karma](https://tech.slashdot.org/story/23/09/25/1719232/reddit-will-start-paying-you-real-money-for-your-karma?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-25, 16:40:00](https://mobile.slashdot.org/story/23/09/25/1620256/huawei-mostly-omits-mentioning-mate-60-phone-in-two-hour-event?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei Mostly Omits Mentioning Mate 60 Phone in Two-Hour Event](https://mobile.slashdot.org/story/23/09/25/1620256/huawei-mostly-omits-mentioning-mate-60-phone-in-two-hour-event?utm_source=rss1.0mainlinkanon&utm_medium=feed)
