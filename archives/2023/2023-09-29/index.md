@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 15:20:00](https://slashdot.org/story/23/09/29/1447249/intel-hails-landmark-as-high-volume-euv-production-begins-at-irish-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Hails 'Landmark' as High-Volume EUV Production Begins at Irish Plant](https://slashdot.org/story/23/09/29/1447249/intel-hails-landmark-as-high-volume-euv-production-begins-at-irish-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-29, 14:40:00](https://news.slashdot.org/story/23/09/29/1431234/richard-stallman-says-he-has-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ Richard Stallman Says He Has Cancer](https://news.slashdot.org/story/23/09/29/1431234/richard-stallman-says-he-has-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-29, 13:06:00](https://news.slashdot.org/story/23/09/29/136216/senator-dianne-feinstein-oldest-member-of-congress-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Senator Dianne Feinstein, Oldest Member of Congress, Dies at 90](https://news.slashdot.org/story/23/09/29/136216/senator-dianne-feinstein-oldest-member-of-congress-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-09-29, 13:06:00](https://news.slashdot.org/story/23/09/29/136216/senator-dianne-feinstein-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Senator Dianne Feinstein Dies at 90](https://news.slashdot.org/story/23/09/29/136216/senator-dianne-feinstein-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed)
