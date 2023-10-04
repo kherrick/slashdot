@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-04](index.md)
+
+* [2023-10-04, 00:02:00](https://slashdot.org/story/23/10/03/2027212/microsoft-overhauls-onedrive-with-a-big-new-design-ai-copilot-integration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Overhauls OneDrive With a Big New Design, AI Copilot Integration](https://slashdot.org/story/23/10/03/2027212/microsoft-overhauls-onedrive-with-a-big-new-design-ai-copilot-integration?utm_source=rss1.0mainlinkanon&utm_medium=feed)
