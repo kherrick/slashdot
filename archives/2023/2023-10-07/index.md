@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 01:25:00](https://slashdot.org/story/23/10/06/2024251/lenovo-to-offer-android-pcs-starting-with-an-all-in-one-that-can-pack-a-core-i9?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lenovo To Offer Android PCs, Starting With an All-In-One That Can Pack a Core i9](https://slashdot.org/story/23/10/06/2024251/lenovo-to-offer-android-pcs-starting-with-an-all-in-one-that-can-pack-a-core-i9?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-10-07, 00:45:00](https://yro.slashdot.org/story/23/10/06/2018201/23andme-scraping-incident-leaked-data-on-13-million-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [23andMe Scraping Incident Leaked Data On 1.3 Million Users](https://yro.slashdot.org/story/23/10/06/2018201/23andme-scraping-incident-leaked-data-on-13-million-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-07, 00:02:00](https://yro.slashdot.org/story/23/10/06/2012206/man-jailed-in-uks-first-treason-conviction-in-40-years-was-encouraged-by-ai-chatbot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Man Jailed In UK's First Treason Conviction In 40 Years Was Encouraged By AI Chatbot](https://yro.slashdot.org/story/23/10/06/2012206/man-jailed-in-uks-first-treason-conviction-in-40-years-was-encouraged-by-ai-chatbot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
