@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 20:10:00](https://it.slashdot.org/story/23/10/08/208250/im-a-luddite---and-why-you-should-be-one-too?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['I'm a Luddite - and Why You Should Be One Too'](https://it.slashdot.org/story/23/10/08/208250/im-a-luddite---and-why-you-should-be-one-too?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-08, 18:34:00](https://slashdot.org/story/23/10/08/1654232/will-the-placebo-effect-mold-how-we-see-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will the Placebo Effect Mold How We See AI?](https://slashdot.org/story/23/10/08/1654232/will-the-placebo-effect-mold-how-we-see-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-08, 17:34:00](https://yro.slashdot.org/story/23/10/08/1641214/california-becomes-first-us-state-to-ban-four-toxic-food-additives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Becomes First US State to Ban Four 'Toxic' Food Additives](https://yro.slashdot.org/story/23/10/08/1641214/california-becomes-first-us-state-to-ban-four-toxic-food-additives?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-08, 16:34:00](https://developers.slashdot.org/story/23/10/08/0414238/openai-to-release-its-python-sdk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI to Release Its Python SDK](https://developers.slashdot.org/story/23/10/08/0414238/openai-to-release-its-python-sdk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
