@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 20:00:00](https://science.slashdot.org/story/23/10/09/1852239/postdoc-career-optimism-on-the-rise?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Postdoc Career Optimism On the Rise](https://science.slashdot.org/story/23/10/09/1852239/postdoc-career-optimism-on-the-rise?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-09, 19:20:00](https://science.slashdot.org/story/23/10/09/1914250/decomposing-language-models-into-understandable-components?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Decomposing Language Models Into Understandable Components](https://science.slashdot.org/story/23/10/09/1914250/decomposing-language-models-into-understandable-components?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-09, 18:40:00](https://news.slashdot.org/story/23/10/09/1840215/microplastics-detected-in-clouds-hanging-atop-two-japanese-mountains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microplastics Detected in Clouds Hanging Atop Two Japanese Mountains](https://news.slashdot.org/story/23/10/09/1840215/microplastics-detected-in-clouds-hanging-atop-two-japanese-mountains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-09, 18:01:00](https://slashdot.org/story/23/10/09/1711202/crypto-venture-funding-drops-63?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Crypto Venture Funding Drops 63%](https://slashdot.org/story/23/10/09/1711202/crypto-venture-funding-drops-63?utm_source=rss1.0mainlinkanon&utm_medium=feed)
