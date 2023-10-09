@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-09](index.md)
+
+* [2023-10-09, 03:23:00](https://tech.slashdot.org/story/23/10/09/0320200/what-microsofts-ceo-said-in-court-about-google---and-its-own-1998-antitrust-case?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Microsoft's CEO Said in Court About Google - And Its Own 1998 Antitrust Case](https://tech.slashdot.org/story/23/10/09/0320200/what-microsofts-ceo-said-in-court-about-google---and-its-own-1998-antitrust-case?utm_source=rss1.0mainlinkanon&utm_medium=feed)
