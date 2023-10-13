@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-13](index.md)
+
+* [2023-10-13, 00:02:00](https://news.slashdot.org/story/23/10/12/210211/act-test-scores-for-us-students-drop-to-a-30-year-low?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ACT Test Scores For US Students Drop To a 30-Year Low](https://news.slashdot.org/story/23/10/12/210211/act-test-scores-for-us-students-drop-to-a-30-year-low?utm_source=rss1.0mainlinkanon&utm_medium=feed)
