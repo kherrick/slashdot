@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 14:40:00](https://slashdot.org/story/23/10/16/127208/minecraft-has-sold-over-300-million-copies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Minecraft Has Sold Over 300 Million Copies](https://slashdot.org/story/23/10/16/127208/minecraft-has-sold-over-300-million-copies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-16, 14:01:00](https://news.slashdot.org/story/23/10/16/123235/why-the-us-government-has-5-billion-in-bitcoin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why the US Government Has $5 Billion in Bitcoin](https://news.slashdot.org/story/23/10/16/123235/why-the-us-government-has-5-billion-in-bitcoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-16, 11:36:00](https://news.slashdot.org/story/23/10/16/0028222/have-economists-contributed-to-inequality?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Have Economists Contributed to Inequality?](https://news.slashdot.org/story/23/10/16/0028222/have-economists-contributed-to-inequality?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-16, 07:34:00](https://apple.slashdot.org/story/23/10/16/029202/caltech-ends-its-wi-fi-lawsuit-against-apple-and-broadcom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Caltech Ends Its Wi-Fi Lawsuit Against Apple and Broadcom](https://apple.slashdot.org/story/23/10/16/029202/caltech-ends-its-wi-fi-lawsuit-against-apple-and-broadcom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
