@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 20:05:00](https://it.slashdot.org/story/23/10/20/1953233/in-memory-database-redis-wants-to-dabble-in-disk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [In-memory Database Redis Wants To Dabble in Disk](https://it.slashdot.org/story/23/10/20/1953233/in-memory-database-redis-wants-to-dabble-in-disk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-20, 19:25:00](https://slashdot.org/story/23/10/20/1915219/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Nvidia AI Agent, Powered by GPT-4, Can Train Robots](https://slashdot.org/story/23/10/20/1915219/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-20, 18:59:00](https://slashdot.org/story/23/10/20/1859255/mind-blowing-ibm-chip-speeds-up-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Mind-Blowing' IBM Chip Speeds Up AI](https://slashdot.org/story/23/10/20/1859255/mind-blowing-ibm-chip-speeds-up-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-20, 18:05:00](https://slashdot.org/story/23/10/20/185223/faze-clan-acquired-for-17-million-one-year-after-its-725-million-spac?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Faze Clan Acquired for $17 Million, One Year After Its $725 Million SPAC](https://slashdot.org/story/23/10/20/185223/faze-clan-acquired-for-17-million-one-year-after-its-725-million-spac?utm_source=rss1.0mainlinkanon&utm_medium=feed)
