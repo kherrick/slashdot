@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 03:34:00](https://it.slashdot.org/story/23/10/21/220230/whats-behind-the-cybersecurity-jobs-shortage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What's Behind the Cybersecurity Jobs Shortage?](https://it.slashdot.org/story/23/10/21/220230/whats-behind-the-cybersecurity-jobs-shortage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-22, 01:34:00](https://news.slashdot.org/story/23/10/21/2233254/plans-abandoned-for-first-1300-mile-carbon-capture-pipeline-across-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plans Abandoned for First 1,300-Mile Carbon-Capture Pipeline Across the US](https://news.slashdot.org/story/23/10/21/2233254/plans-abandoned-for-first-1300-mile-carbon-capture-pipeline-across-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
