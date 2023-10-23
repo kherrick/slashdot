@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 03:34:00](https://yro.slashdot.org/story/23/10/22/239257/california-law-limits-bitcoin-atm-transactions-to-1000-to-thwart-scammers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Law Limits Bitcoin ATM Transactions to $1,000 to Thwart Scammers](https://yro.slashdot.org/story/23/10/22/239257/california-law-limits-bitcoin-atm-transactions-to-1000-to-thwart-scammers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-23, 01:34:00](https://science.slashdot.org/story/23/10/23/004220/nasa-transmits-patches-to-the-two-voyager-probes-launched-in-1977?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Transmits Patches to the Two Voyager Probes Launched in 1977](https://science.slashdot.org/story/23/10/23/004220/nasa-transmits-patches-to-the-two-voyager-probes-launched-in-1977?utm_source=rss1.0mainlinkanon&utm_medium=feed)
