@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-24](index.md)
+
+* [2023-10-24, 00:45:00](https://slashdot.org/story/23/10/24/0044223/bitcoin-blasts-past-33000-as-optimism-for-btc-spot-etf-surges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bitcoin Blasts Past $33,000 As Optimism For BTC Spot ETF Surges](https://slashdot.org/story/23/10/24/0044223/bitcoin-blasts-past-33000-as-optimism-for-btc-spot-etf-surges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-10-24, 00:02:00](https://news.slashdot.org/story/23/10/23/2126257/us-wants-to-officially-treat-crypto-anonymity-services-as-suspected-money-launderers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Wants To Officially Treat Crypto Anonymity Services As Suspected Money Launderers](https://news.slashdot.org/story/23/10/23/2126257/us-wants-to-officially-treat-crypto-anonymity-services-as-suspected-money-launderers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
