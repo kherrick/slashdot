@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 15:16:00](https://news.slashdot.org/story/23/10/25/1516240/sergey-brins-airship-gets-faa-clearance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sergey Brin's Airship Gets FAA Clearance](https://news.slashdot.org/story/23/10/25/1516240/sergey-brins-airship-gets-faa-clearance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-25, 14:40:00](https://apple.slashdot.org/story/23/10/25/1440242/apple-raises-prices-of-tv-arcade-one-news?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Raises Prices of TV+, Arcade, One, News+](https://apple.slashdot.org/story/23/10/25/1440242/apple-raises-prices-of-tv-arcade-one-news?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-25, 14:00:00](https://games.slashdot.org/story/23/10/25/1354210/new-ps5s-optional-disc-drive-requires-an-internet-connection-to-connect?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New PS5's Optional Disc Drive Requires an Internet Connection To Connect](https://games.slashdot.org/story/23/10/25/1354210/new-ps5s-optional-disc-drive-requires-an-internet-connection-to-connect?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-25, 13:00:00](https://hardware.slashdot.org/story/23/10/25/0151254/sifive-lays-off-hundreds-of-risc-v-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SiFive Lays Off Hundreds of RISC-V Developers](https://hardware.slashdot.org/story/23/10/25/0151254/sifive-lays-off-hundreds-of-risc-v-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
