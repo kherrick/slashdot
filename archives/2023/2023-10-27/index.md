@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 16:00:00](https://slashdot.org/story/23/10/27/134251/united-nations-creates-advisory-body-to-address-ai-governance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [United Nations Creates Advisory Body To Address AI Governance](https://slashdot.org/story/23/10/27/134251/united-nations-creates-advisory-body-to-address-ai-governance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-27, 15:20:00](https://tech.slashdot.org/story/23/10/27/108227/the-restaurant-nearest-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Restaurant Nearest Google](https://tech.slashdot.org/story/23/10/27/108227/the-restaurant-nearest-google?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-27, 14:40:00](https://tech.slashdot.org/story/23/10/27/0910232/pirg-petitions-microsoft-to-extend-the-life-of-windows-10?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PIRG Petitions Microsoft To Extend the Life of Windows 10](https://tech.slashdot.org/story/23/10/27/0910232/pirg-petitions-microsoft-to-extend-the-life-of-windows-10?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-10-27, 14:00:00](https://slashdot.org/story/23/10/27/096236/ticketmasters-still-hiding-ticket-fees-senator-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ticketmaster's Still Hiding Ticket Fees, Senator Says](https://slashdot.org/story/23/10/27/096236/ticketmasters-still-hiding-ticket-fees-senator-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
