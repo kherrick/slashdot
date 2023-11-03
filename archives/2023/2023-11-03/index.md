@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 22:02:00](https://news.slashdot.org/story/23/11/03/2028245/jeff-bezos-moves-to-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jeff Bezos Moves To Florida](https://news.slashdot.org/story/23/11/03/2028245/jeff-bezos-moves-to-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-03, 21:20:00](https://linux.slashdot.org/story/23/11/03/2017256/openela-drops-first-rhel-enterprise-linux-compatible-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenELA Drops First RHEL, 'Enterprise Linux' Compatible Source Code](https://linux.slashdot.org/story/23/11/03/2017256/openela-drops-first-rhel-enterprise-linux-compatible-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-03, 20:40:00](https://science.slashdot.org/story/23/11/03/206253/ken-mattingly-astronaut-scrubbed-from-apollo-13-is-dead-at-87?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ken Mattingly, Astronaut Scrubbed From Apollo 13, Is Dead At 87](https://science.slashdot.org/story/23/11/03/206253/ken-mattingly-astronaut-scrubbed-from-apollo-13-is-dead-at-87?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-03, 20:01:00](https://science.slashdot.org/story/23/11/03/1910224/a-giant-leap-for-the-leap-second?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Giant Leap for the Leap Second](https://science.slashdot.org/story/23/11/03/1910224/a-giant-leap-for-the-leap-second?utm_source=rss1.0mainlinkanon&utm_medium=feed)
