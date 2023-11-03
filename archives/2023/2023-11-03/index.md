@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-03](index.md)
+
+* [2023-11-03, 00:02:00](https://news.slashdot.org/story/23/11/02/2042229/mint-is-shutting-down-and-its-pushing-users-toward-credit-karma?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mint Is Shutting Down, and It's Pushing Users Toward Credit Karma](https://news.slashdot.org/story/23/11/02/2042229/mint-is-shutting-down-and-its-pushing-users-toward-credit-karma?utm_source=rss1.0mainlinkanon&utm_medium=feed)
