@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 10:00:00](https://science.slashdot.org/story/23/11/03/2333221/nasa-spacecraft-discovers-tiny-moon-around-asteroid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Spacecraft Discovers Tiny Moon Around Asteroid](https://science.slashdot.org/story/23/11/03/2333221/nasa-spacecraft-discovers-tiny-moon-around-asteroid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-04, 07:00:00](https://science.slashdot.org/story/23/11/03/235229/nasa-open-to-extending-iss-beyond-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Open To Extending ISS Beyond 2030](https://science.slashdot.org/story/23/11/03/235229/nasa-open-to-extending-iss-beyond-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-04, 03:30:00](https://science.slashdot.org/story/23/11/03/2052206/leap-seconds-could-become-leap-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Leap Seconds Could Become Leap Minutes](https://science.slashdot.org/story/23/11/03/2052206/leap-seconds-could-become-leap-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-04, 01:00:00](https://tech.slashdot.org/story/23/11/03/2250223/vw-groups-troubled-cariad-software-division-to-lay-off-2000-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VW Group's Troubled Cariad Software Division To Lay Off 2,000 Workers](https://tech.slashdot.org/story/23/11/03/2250223/vw-groups-troubled-cariad-software-division-to-lay-off-2000-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
