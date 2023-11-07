@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 15:20:00](https://slashdot.org/story/23/11/07/1459233/how-a-refund-fraud-gang-stole-700000-from-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How a 'Refund Fraud' Gang Stole $700,000 From Amazon](https://slashdot.org/story/23/11/07/1459233/how-a-refund-fraud-gang-stole-700000-from-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-07, 14:40:00](https://hardware.slashdot.org/story/23/11/07/140216/intel-races-to-catch-rivals-as-ai-boom-supercharges-chip-competition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Races To Catch Rivals as AI Boom Supercharges Chip Competition](https://hardware.slashdot.org/story/23/11/07/140216/intel-races-to-catch-rivals-as-ai-boom-supercharges-chip-competition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-07, 14:00:00](https://slashdot.org/story/23/11/07/1331258/wework-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [WeWork Files For Bankruptcy](https://slashdot.org/story/23/11/07/1331258/wework-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-07, 13:00:00](https://yro.slashdot.org/story/23/11/07/008222/encryption-king-arrested-in-turkey?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Encryption King' Arrested In Turkey](https://yro.slashdot.org/story/23/11/07/008222/encryption-king-arrested-in-turkey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
