@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 14:00:00](https://slashdot.org/story/23/11/07/1331258/wework-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [WeWork Files For Bankruptcy](https://slashdot.org/story/23/11/07/1331258/wework-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-07, 13:00:00](https://yro.slashdot.org/story/23/11/07/008222/encryption-king-arrested-in-turkey?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Encryption King' Arrested In Turkey](https://yro.slashdot.org/story/23/11/07/008222/encryption-king-arrested-in-turkey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-07, 10:00:00](https://hardware.slashdot.org/story/23/11/07/0021226/ps5-slim-teardown-reveals-everything-different-about-the-slightly-smaller-console?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PS5 'Slim' Teardown Reveals Everything Different About the Slightly Smaller Console](https://hardware.slashdot.org/story/23/11/07/0021226/ps5-slim-teardown-reveals-everything-different-about-the-slightly-smaller-console?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-07, 07:00:00](https://it.slashdot.org/story/23/11/07/0016204/scientist-claims-quantum-rsa-2048-encryption-cracking-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientist Claims Quantum RSA-2048 Encryption Cracking Breakthrough](https://it.slashdot.org/story/23/11/07/0016204/scientist-claims-quantum-rsa-2048-encryption-cracking-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed)
