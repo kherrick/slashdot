@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-08](index.md)
+
+* [2023-11-08, 00:50:00](https://yro.slashdot.org/story/23/11/07/2352229/intel-to-build-secure-enclave-chip-facilities-for-defense-applications?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel To Build 'Secure Enclave' Chip Facilities For Defense Applications](https://yro.slashdot.org/story/23/11/07/2352229/intel-to-build-secure-enclave-chip-facilities-for-defense-applications?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-11-08, 00:10:00](https://tech.slashdot.org/story/23/11/07/2312208/cruise-confirms-robotaxis-rely-on-human-assistance-every-four-to-five-miles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cruise Confirms Robotaxis Rely On Human Assistance Every Four To Five Miles](https://tech.slashdot.org/story/23/11/07/2312208/cruise-confirms-robotaxis-rely-on-human-assistance-every-four-to-five-miles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
