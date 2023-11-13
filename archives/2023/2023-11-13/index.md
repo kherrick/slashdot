@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 22:00:00](https://apple.slashdot.org/story/23/11/13/195245/apple-gets-36-of-google-revenue-in-search-deal-witness-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Gets 36% of Google Revenue in Search Deal, Witness Says](https://apple.slashdot.org/story/23/11/13/195245/apple-gets-36-of-google-revenue-in-search-deal-witness-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-13, 21:20:00](https://slashdot.org/story/23/11/13/1855213/exxonmobil-is-a-lithium-company-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ExxonMobil Is a Lithium Company Now](https://slashdot.org/story/23/11/13/1855213/exxonmobil-is-a-lithium-company-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-13, 20:40:00](https://it.slashdot.org/story/23/11/13/1814230/new-york-plans-cyber-rules-for-hospitals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York Plans Cyber Rules for Hospitals](https://it.slashdot.org/story/23/11/13/1814230/new-york-plans-cyber-rules-for-hospitals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-13, 20:00:00](https://news.slashdot.org/story/23/11/13/1844204/countries-meet-in-kenya-to-thrash-out-global-plastic-pollution-treaty?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Countries Meet in Kenya To Thrash Out Global Plastic Pollution Treaty](https://news.slashdot.org/story/23/11/13/1844204/countries-meet-in-kenya-to-thrash-out-global-plastic-pollution-treaty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
