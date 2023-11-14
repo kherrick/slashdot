@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-14](index.md)
+
+* [2023-11-14, 00:45:00](https://news.slashdot.org/story/23/11/13/2258234/zelle-begins-refunds-for-imposter-scams-after-government-pressure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zelle Begins Refunds For Imposter Scams After Government Pressure](https://news.slashdot.org/story/23/11/13/2258234/zelle-begins-refunds-for-imposter-scams-after-government-pressure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-11-14, 00:02:00](https://it.slashdot.org/story/23/11/13/2149210/healthcare-giant-mclaren-reveals-data-on-22-million-patients-stolen-during-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Healthcare Giant McLaren Reveals Data On 2.2 Million Patients Stolen During Ransomware Attack](https://it.slashdot.org/story/23/11/13/2149210/healthcare-giant-mclaren-reveals-data-on-22-million-patients-stolen-during-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
