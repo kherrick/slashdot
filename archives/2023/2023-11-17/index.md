@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 15:20:00](https://apple.slashdot.org/story/23/11/17/1150251/apple-says-rcs-messages-will-have-green-bubbles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Says RCS Messages Will Have Green Bubbles ](https://apple.slashdot.org/story/23/11/17/1150251/apple-says-rcs-messages-will-have-green-bubbles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-17, 14:40:00](https://slashdot.org/story/23/11/17/0744234/amazon-aggregator-thrasio-prepares-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Aggregator Thrasio Prepares For Bankruptcy](https://slashdot.org/story/23/11/17/0744234/amazon-aggregator-thrasio-prepares-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-17, 14:01:00](https://tech.slashdot.org/story/23/11/17/0231200/sonos-teases-plans-to-enter-headphones-product-category?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sonos Teases Plans To Enter Headphones Product Category](https://tech.slashdot.org/story/23/11/17/0231200/sonos-teases-plans-to-enter-headphones-product-category?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-17, 13:00:00](https://tech.slashdot.org/story/23/11/17/0224218/old-manifest-v2-chrome-extensions-will-be-disabled-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Old Manifest V2 Chrome Extensions Will Be Disabled In 2024](https://tech.slashdot.org/story/23/11/17/0224218/old-manifest-v2-chrome-extensions-will-be-disabled-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
