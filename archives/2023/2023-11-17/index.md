@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 23:00:00](https://news.slashdot.org/story/23/11/17/2221255/canada-court-overturns-government-ruling-that-some-plastics-are-toxic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canada Court Overturns Government Ruling That Some Plastics Are Toxic](https://news.slashdot.org/story/23/11/17/2221255/canada-court-overturns-government-ruling-that-some-plastics-are-toxic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-17, 22:16:00](https://slashdot.org/story/23/11/17/2214245/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Unauthorized 'David Attenborough' AI Clone Narrates Developer's Life, Goes Viral](https://slashdot.org/story/23/11/17/2214245/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-17, 21:23:00](https://slashdot.org/story/23/11/17/2137216/sam-altman-fired-as-ceo-of-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman fired as CEO of OpenAI](https://slashdot.org/story/23/11/17/2137216/sam-altman-fired-as-ceo-of-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-17, 21:23:00](https://news.slashdot.org/story/23/11/17/2137216/sam-altman-fired-as-ceo-of-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman fired as CEO of OpenAI](https://news.slashdot.org/story/23/11/17/2137216/sam-altman-fired-as-ceo-of-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
