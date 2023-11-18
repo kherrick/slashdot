@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-18](index.md)
+
+* [2023-11-18, 00:20:00](https://yro.slashdot.org/story/23/11/17/2237246/online-atrocity-database-exposed-thousands-of-vulnerable-people-in-congo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Online Atrocity Database Exposed Thousands of Vulnerable People In Congo](https://yro.slashdot.org/story/23/11/17/2237246/online-atrocity-database-exposed-thousands-of-vulnerable-people-in-congo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
