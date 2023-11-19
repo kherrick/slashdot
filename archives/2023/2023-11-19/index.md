@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-19](index.md)
+
+* [2023-11-19, 00:59:00](https://slashdot.org/story/23/11/19/0055242/openai-investors-plot-last-minute-push-with-microsoft-to-reinstate-sam-altman-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Investors Plot Last-Minute Push With Microsoft To Reinstate Sam Altman As CEO](https://slashdot.org/story/23/11/19/0055242/openai-investors-plot-last-minute-push-with-microsoft-to-reinstate-sam-altman-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
