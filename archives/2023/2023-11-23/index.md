@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 15:10:00](https://slashdot.org/story/23/11/23/1511203/anthony-levandowski-reboots-church-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthony Levandowski Reboots Church of AI](https://slashdot.org/story/23/11/23/1511203/anthony-levandowski-reboots-church-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-23, 14:00:00](https://tech.slashdot.org/story/23/11/23/1339259/reflecting-on-18-years-at-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Reflecting on 18 Years at Google'](https://tech.slashdot.org/story/23/11/23/1339259/reflecting-on-18-years-at-google?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-23, 13:00:00](https://tech.slashdot.org/story/23/11/22/2333234/cloudflare-blocks-abusive-content-on-its-ethereum-gateway?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Blocks Abusive Content On Its Ethereum Gateway](https://tech.slashdot.org/story/23/11/22/2333234/cloudflare-blocks-abusive-content-on-its-ethereum-gateway?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-23, 10:00:00](https://science.slashdot.org/story/23/11/23/0155202/nasa-chooses-blue-origins-rocket-to-launch-smallsat-mission-to-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Chooses Blue Origin's Rocket To Launch Smallsat Mission To Mars](https://science.slashdot.org/story/23/11/23/0155202/nasa-chooses-blue-origins-rocket-to-launch-smallsat-mission-to-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
