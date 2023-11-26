@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-26](index.md)
+
+* [2023-11-26, 02:34:00](https://tech.slashdot.org/story/23/11/26/0011205/google-confirms-its-schedule-for-disabling-third-party-cookies-in-chrome---starting-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Confirms Its Schedule for Disabling Third-Party Cookies in Chrome - Starting in 2024](https://tech.slashdot.org/story/23/11/26/0011205/google-confirms-its-schedule-for-disabling-third-party-cookies-in-chrome---starting-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
