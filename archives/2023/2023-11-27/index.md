@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-27](index.md)
+
+* [2023-11-27, 02:34:00](https://news.slashdot.org/story/23/11/27/0135253/fewer-people-moving-in-california-are-moving-into-the-state-than-anywhere-else?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fewer People Moving in California Are Moving Into the State Than Anywhere Else](https://news.slashdot.org/story/23/11/27/0135253/fewer-people-moving-in-california-are-moving-into-the-state-than-anywhere-else?utm_source=rss1.0mainlinkanon&utm_medium=feed)
