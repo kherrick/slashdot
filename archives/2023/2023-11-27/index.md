@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 18:40:00](https://slashdot.org/story/23/11/27/1745200/videoconferencing-fatigue-is-real-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Videoconferencing Fatigue is Real, Study Finds](https://slashdot.org/story/23/11/27/1745200/videoconferencing-fatigue-is-real-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-27, 18:00:00](https://news.slashdot.org/story/23/11/27/1737244/germany-to-compensate-power-users-hit-by-grid-bottlenecks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Germany To Compensate Power Users Hit by Grid Bottlenecks](https://news.slashdot.org/story/23/11/27/1737244/germany-to-compensate-power-users-hit-by-grid-bottlenecks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-27, 17:20:00](https://tech.slashdot.org/story/23/11/27/1657241/russia-puts-spokesman-for-facebook-owner-meta-on-a-wanted-list?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia Puts Spokesman For Facebook-owner Meta on a Wanted List](https://tech.slashdot.org/story/23/11/27/1657241/russia-puts-spokesman-for-facebook-owner-meta-on-a-wanted-list?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-27, 16:40:00](https://science.slashdot.org/story/23/11/27/1420214/there-is-a-scientific-fraud-epidemic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['There is a Scientific Fraud Epidemic'](https://science.slashdot.org/story/23/11/27/1420214/there-is-a-scientific-fraud-epidemic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
