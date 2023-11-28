@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 15:20:00](https://science.slashdot.org/story/23/11/28/1352248/internet-use-does-not-appear-to-harm-mental-health-oxford-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Internet Use Does Not Appear To Harm Mental Health, Oxford Study Finds](https://science.slashdot.org/story/23/11/28/1352248/internet-use-does-not-appear-to-harm-mental-health-oxford-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-28, 14:40:00](https://slashdot.org/story/23/11/28/062228/evernote-pushes-users-to-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Evernote Pushes Users To Upgrade](https://slashdot.org/story/23/11/28/062228/evernote-pushes-users-to-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-28, 14:00:00](https://politics.slashdot.org/story/23/11/28/134214/2024-is-the-biggest-election-year-in-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [2024 is the Biggest Election Year in History](https://politics.slashdot.org/story/23/11/28/134214/2024-is-the-biggest-election-year-in-history?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-28, 13:00:00](https://news.slashdot.org/story/23/11/28/029222/youtube-is-getting-into-games-too?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Is Getting Into Games, Too](https://news.slashdot.org/story/23/11/28/029222/youtube-is-getting-into-games-too?utm_source=rss1.0mainlinkanon&utm_medium=feed)
