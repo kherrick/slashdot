@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 16:20:00](https://slashdot.org/story/23/11/29/1620251/techs-new-normal-microcuts-over-growth-at-all-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tech's New Normal: Microcuts Over Growth at All Costs](https://slashdot.org/story/23/11/29/1620251/techs-new-normal-microcuts-over-growth-at-all-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-29, 15:20:00](https://tech.slashdot.org/story/23/11/29/1517212/samsung-expands-in-house-web-browser-to-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Samsung Expands In-house Web Browser To Windows](https://tech.slashdot.org/story/23/11/29/1517212/samsung-expands-in-house-web-browser-to-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-29, 14:44:00](https://news.slashdot.org/story/23/11/29/1444249/deal-to-keep-15c-hopes-alive-is-within-reach-says-cop28-president?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Deal To Keep 1.5C Hopes Alive is Within Reach, Says Cop28 President](https://news.slashdot.org/story/23/11/29/1444249/deal-to-keep-15c-hopes-alive-is-within-reach-says-cop28-president?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-11-29, 14:00:00](https://apple.slashdot.org/story/23/11/29/1332226/apple-censored-robert-de-niros-gotham-speech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Censored Robert De Niro's Gotham Speech](https://apple.slashdot.org/story/23/11/29/1332226/apple-censored-robert-de-niros-gotham-speech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
