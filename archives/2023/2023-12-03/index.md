@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 04:34:00](https://hardware.slashdot.org/story/23/12/03/0010244/apples-chip-lab-now-15-years-old-with-thousands-of-engineers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's Chip Lab: Now 15 Years Old With Thousands of Engineers](https://hardware.slashdot.org/story/23/12/03/0010244/apples-chip-lab-now-15-years-old-with-thousands-of-engineers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-03, 02:34:00](https://news.slashdot.org/story/23/12/03/0134224/openzfs-fixes-data-corruption-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenZFS Fixes Data Corruption Issue](https://news.slashdot.org/story/23/12/03/0134224/openzfs-fixes-data-corruption-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
