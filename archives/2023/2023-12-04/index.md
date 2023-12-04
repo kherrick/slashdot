@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 15:20:00](https://slashdot.org/story/23/12/04/1415259/spotify-cuts-17-jobs-amid-rising-capital-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Spotify Cuts 17% Jobs Amid Rising Capital Costs](https://slashdot.org/story/23/12/04/1415259/spotify-cuts-17-jobs-amid-rising-capital-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-04, 14:40:00](https://slashdot.org/story/23/12/04/1411250/ibm-claims-quantum-computing-research-milestone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Claims Quantum Computing Research Milestone](https://slashdot.org/story/23/12/04/1411250/ibm-claims-quantum-computing-research-milestone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-04, 14:00:00](https://hardware.slashdot.org/story/23/12/04/1350235/want-to-store-a-message-in-dna-thatll-be-1000?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Want To Store a Message in DNA? That'll Be $1,000](https://hardware.slashdot.org/story/23/12/04/1350235/want-to-store-a-message-in-dna-thatll-be-1000?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-04, 12:34:00](https://it.slashdot.org/story/23/12/04/0637210/is-there-really-a-shortage-of-information-security-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is There Really a Shortage of Information Security Workers?](https://it.slashdot.org/story/23/12/04/0637210/is-there-really-a-shortage-of-information-security-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
