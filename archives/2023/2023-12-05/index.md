@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 14:00:00](https://news.slashdot.org/story/23/12/05/0745251/firefox-on-the-brink?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firefox On the Brink?](https://news.slashdot.org/story/23/12/05/0745251/firefox-on-the-brink?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-05, 13:00:00](https://tech.slashdot.org/story/23/12/05/0726255/meta-ibm-create-industrywide-ai-alliance-to-share-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta, IBM Create Industrywide AI Alliance To Share Technology](https://tech.slashdot.org/story/23/12/05/0726255/meta-ibm-create-industrywide-ai-alliance-to-share-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-05, 10:00:00](https://news.slashdot.org/story/23/12/05/018235/the-uk-tries-once-again-to-age-gate-pornography?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The UK Tries, Once Again, To Age-Gate Pornography](https://news.slashdot.org/story/23/12/05/018235/the-uk-tries-once-again-to-age-gate-pornography?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-05, 07:00:00](https://science.slashdot.org/story/23/12/05/0043231/research-finds-that-renting-ages-you-faster-than-smoking-obesity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Research Finds That Renting Ages You Faster Than Smoking, Obesity](https://science.slashdot.org/story/23/12/05/0043231/research-finds-that-renting-ages-you-faster-than-smoking-obesity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
