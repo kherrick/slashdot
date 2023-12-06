@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 16:00:00](https://slashdot.org/story/23/12/06/1247205/intel-calls-amds-chips-snake-oil?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Calls AMD's Chips 'Snake Oil'](https://slashdot.org/story/23/12/06/1247205/intel-calls-amds-chips-snake-oil?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-06, 15:22:00](https://tech.slashdot.org/story/23/12/06/1522216/google-just-unveiled-gemini?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Just Unveiled Gemini](https://tech.slashdot.org/story/23/12/06/1522216/google-just-unveiled-gemini?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-06, 14:05:00](https://apple.slashdot.org/story/23/12/06/145207/governments-spying-on-apple-google-users-through-push-notifications?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Governments Spying on Apple, Google Users Through Push Notifications](https://apple.slashdot.org/story/23/12/06/145207/governments-spying-on-apple-google-users-through-push-notifications?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-06, 13:00:00](https://yro.slashdot.org/story/23/12/06/0140200/ai-models-may-enable-a-new-era-of-mass-spying-says-bruce-schneier?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Models May Enable a New Era of Mass Spying, Says Bruce Schneier](https://yro.slashdot.org/story/23/12/06/0140200/ai-models-may-enable-a-new-era-of-mass-spying-says-bruce-schneier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
