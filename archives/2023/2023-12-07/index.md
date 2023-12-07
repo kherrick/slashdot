@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-07](index.md)
+
+* [2023-12-07, 00:20:00](https://hardware.slashdot.org/story/23/12/06/2224201/meta-and-microsoft-to-buy-amds-new-ai-chip-as-alternative-to-nvidias?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta and Microsoft To Buy AMD's New AI Chip As Alternative To Nvidia's](https://hardware.slashdot.org/story/23/12/06/2224201/meta-and-microsoft-to-buy-amds-new-ai-chip-as-alternative-to-nvidias?utm_source=rss1.0mainlinkanon&utm_medium=feed)
