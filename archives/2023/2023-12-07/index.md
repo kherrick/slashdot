@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 18:00:00](https://slashdot.org/story/23/12/07/1350249/maybe-we-already-have-runaway-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Maybe We Already Have Runaway Machines](https://slashdot.org/story/23/12/07/1350249/maybe-we-already-have-runaway-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-07, 17:20:00](https://tech.slashdot.org/story/23/12/07/1647226/early-impressions-of-googles-gemini-arent-great?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Early Impressions of Google's Gemini Aren't Great](https://tech.slashdot.org/story/23/12/07/1647226/early-impressions-of-googles-gemini-arent-great?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-07, 16:40:00](https://hardware.slashdot.org/story/23/12/07/165225/hp-tv-ads-claim-its-printers-are-made-to-be-less-hated?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HP TV Ads Claim Its Printers Are 'Made To Be Less Hated'](https://hardware.slashdot.org/story/23/12/07/165225/hp-tv-ads-claim-its-printers-are-made-to-be-less-hated?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-07, 16:00:00](https://slashdot.org/story/23/12/07/1224201/bungie-devs-say-atmosphere-is-soul-crushing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bungie Devs Say Atmosphere Is 'Soul-Crushing'](https://slashdot.org/story/23/12/07/1224201/bungie-devs-say-atmosphere-is-soul-crushing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
