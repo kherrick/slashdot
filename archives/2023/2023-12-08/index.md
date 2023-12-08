@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-08](index.md)
+
+* [2023-12-08, 02:02:00](https://yro.slashdot.org/story/23/12/07/2338209/ftc-tries-again-to-stop-microsofts-already-closed-deal-for-activision?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Tries Again To Stop Microsoft's Already-Closed Deal For Activision](https://yro.slashdot.org/story/23/12/07/2338209/ftc-tries-again-to-stop-microsofts-already-closed-deal-for-activision?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-12-08, 01:25:00](https://mobile.slashdot.org/story/23/12/07/239203/fairphone-5-scores-a-perfect-10-from-ifixit-for-repairability?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fairphone 5 Scores a Perfect 10 From iFixit For Repairability](https://mobile.slashdot.org/story/23/12/07/239203/fairphone-5-scores-a-perfect-10-from-ifixit-for-repairability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-12-08, 00:45:00](https://yro.slashdot.org/story/23/12/07/2257237/a-massive-repair-lawsuit-against-john-deere-clears-a-major-hurdle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Massive Repair Lawsuit Against John Deere Clears a Major Hurdle](https://yro.slashdot.org/story/23/12/07/2257237/a-massive-repair-lawsuit-against-john-deere-clears-a-major-hurdle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-12-08, 00:02:00](https://it.slashdot.org/story/23/12/07/2243245/meta-defies-fbi-opposition-to-encryption-brings-e2ee-to-facebook-messenger?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Defies FBI Opposition To Encryption, Brings E2EE To Facebook, Messenger](https://it.slashdot.org/story/23/12/07/2243245/meta-defies-fbi-opposition-to-encryption-brings-e2ee-to-facebook-messenger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
