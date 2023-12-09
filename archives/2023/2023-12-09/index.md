@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 03:30:00](https://science.slashdot.org/story/23/12/08/2059222/fda-approves-crispr-based-medicine-for-treatment-of-sickle-cell-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FDA Approves CRISPR-Based Medicine For Treatment of Sickle Cell Disease](https://science.slashdot.org/story/23/12/08/2059222/fda-approves-crispr-based-medicine-for-treatment-of-sickle-cell-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-09, 02:02:00](https://yro.slashdot.org/story/23/12/08/2052256/white-house-threatens-patents-of-high-priced-drugs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [White House Threatens Patents of High-Priced Drugs](https://yro.slashdot.org/story/23/12/08/2052256/white-house-threatens-patents-of-high-priced-drugs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-09, 01:25:00](https://slashdot.org/story/23/12/08/2043258/baldurs-gate-3-wins-game-of-the-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Baldur's Gate 3 Wins Game of the Year](https://slashdot.org/story/23/12/08/2043258/baldurs-gate-3-wins-game-of-the-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-09, 01:00:00](https://tech.slashdot.org/story/23/12/08/2030210/threads-adds-hashtags-ahead-of-eu-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Threads Adds Hashtags Ahead of EU Launch](https://tech.slashdot.org/story/23/12/08/2030210/threads-adds-hashtags-ahead-of-eu-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
