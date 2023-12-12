@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-12](index.md)
+
+* [2023-12-12, 00:45:00](https://mobile.slashdot.org/story/23/12/11/2154256/apple-releases-spatial-video-recording-on-iphone-15-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Releases Spatial Video Recording On iPhone 15 Pro](https://mobile.slashdot.org/story/23/12/11/2154256/apple-releases-spatial-video-recording-on-iphone-15-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-12-12, 00:02:00](https://slashdot.org/story/23/12/11/215238/huawei-to-start-building-first-european-factory-in-france?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei To Start Building First European Factory In France](https://slashdot.org/story/23/12/11/215238/huawei-to-start-building-first-european-factory-in-france?utm_source=rss1.0mainlinkanon&utm_medium=feed)
