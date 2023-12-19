@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 18:58:00](https://news.slashdot.org/story/23/12/19/1858245/uk-to-introduce-carbon-tax-on-steel-imports-from-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK To Introduce Carbon Tax on Steel Imports from 2027](https://news.slashdot.org/story/23/12/19/1858245/uk-to-introduce-carbon-tax-on-steel-imports-from-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-19, 17:30:00](https://games.slashdot.org/story/23/12/19/1730242/sonys-video-game-plans-leaked-by-ransomware-group?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony's Video Game Plans Leaked By Ransomware Group](https://games.slashdot.org/story/23/12/19/1730242/sonys-video-game-plans-leaked-by-ransomware-group?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-19, 16:45:00](https://slashdot.org/story/23/12/19/1646258/amazons-ai-product-reviews-seen-exaggerating-negative-feedback?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon's AI Product Reviews Seen Exaggerating Negative Feedback](https://slashdot.org/story/23/12/19/1646258/amazons-ai-product-reviews-seen-exaggerating-negative-feedback?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-19, 16:00:00](https://slashdot.org/story/23/12/19/1558235/toshiba-to-be-delisted-after-74-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Toshiba To Be Delisted After 74 Years](https://slashdot.org/story/23/12/19/1558235/toshiba-to-be-delisted-after-74-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
