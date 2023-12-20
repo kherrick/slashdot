@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-20](index.md)
+
+* [2023-12-20, 00:45:00](https://apple.slashdot.org/story/23/12/19/227227/next-beeper-mini-fix-requires-users-to-have-a-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Next Beeper Mini Fix Requires Users To Have a Mac](https://apple.slashdot.org/story/23/12/19/227227/next-beeper-mini-fix-requires-users-to-have-a-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2023-12-20, 00:02:00](https://slashdot.org/story/23/12/19/2211232/tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TomTom Creates AI-Based Conversational Assistant For Vehicles With Microsoft](https://slashdot.org/story/23/12/19/2211232/tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
