@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 22:00:00](https://it.slashdot.org/story/23/12/21/1927235/arxiv-now-offers-papers-in-html-format?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [arXiv Now Offers Papers in HTML Format](https://it.slashdot.org/story/23/12/21/1927235/arxiv-now-offers-papers-in-html-format?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-21, 21:20:00](https://yro.slashdot.org/story/23/12/21/197230/uk-police-to-be-able-to-run-face-recognition-searches-on-50-million-driving-licence-holders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Police To Be Able To Run Face Recognition Searches on 50 Million Driving Licence Holders](https://yro.slashdot.org/story/23/12/21/197230/uk-police-to-be-able-to-run-face-recognition-searches-on-50-million-driving-licence-holders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-21, 20:40:00](https://news.slashdot.org/story/23/12/21/1915223/why-the-us-is-pumping-more-oil-than-any-country-in-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why the US Is Pumping More Oil Than Any Country in History](https://news.slashdot.org/story/23/12/21/1915223/why-the-us-is-pumping-more-oil-than-any-country-in-history?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-21, 19:23:00](https://slashdot.org/story/23/12/21/1924206/hyperloop-one-to-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hyperloop One To Shut Down](https://slashdot.org/story/23/12/21/1924206/hyperloop-one-to-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
