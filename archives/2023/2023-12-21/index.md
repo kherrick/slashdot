@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 23:20:00](https://yro.slashdot.org/story/23/12/21/2214238/teen-gta-vi-hacker-sentenced-to-indefinite-hospital-order?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Teen GTA VI Hacker Sentenced To Indefinite Hospital Order](https://yro.slashdot.org/story/23/12/21/2214238/teen-gta-vi-hacker-sentenced-to-indefinite-hospital-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-21, 23:00:00](https://games.slashdot.org/story/23/12/21/2222209/8-year-old-chess-prodigy-wins-title-at-european-championships?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [8-Year-Old Chess Prodigy Wins Title At European Championships](https://games.slashdot.org/story/23/12/21/2222209/8-year-old-chess-prodigy-wins-title-at-european-championships?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-21, 22:40:00](https://hardware.slashdot.org/story/23/12/21/226254/massachusetts-lawmakers-mull-killer-robot-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Massachusetts Lawmakers Mull 'Killer Robot' Bill](https://hardware.slashdot.org/story/23/12/21/226254/massachusetts-lawmakers-mull-killer-robot-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-21, 22:00:00](https://it.slashdot.org/story/23/12/21/1927235/arxiv-now-offers-papers-in-html-format?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [arXiv Now Offers Papers in HTML Format](https://it.slashdot.org/story/23/12/21/1927235/arxiv-now-offers-papers-in-html-format?utm_source=rss1.0mainlinkanon&utm_medium=feed)
