@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 22:03:00](https://linux.slashdot.org/story/23/12/24/221229/a-proposed-change-for-fedora-40-unify-usrbin-with-usrsbin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Proposed Change for Fedora 40:  Unify<nobr> <wbr></nobr>/usr/bin With<nobr> <wbr></nobr>/usr/sbin](https://linux.slashdot.org/story/23/12/24/221229/a-proposed-change-for-fedora-40-unify-usrbin-with-usrsbin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-24, 20:56:00](https://slashdot.org/story/23/12/24/0641202/what-kind-of-bubble-is-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['What Kind of Bubble Is AI?'](https://slashdot.org/story/23/12/24/0641202/what-kind-of-bubble-is-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-24, 20:56:00](https://slashdot.org/story/23/12/24/0641202/what-kind-of-bubble-is-ai-?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Kind of Bubble Is AI ?](https://slashdot.org/story/23/12/24/0641202/what-kind-of-bubble-is-ai-?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-24, 18:49:00](https://entertainment.slashdot.org/story/23/12/24/1848209/dcs-aquaman-and-the-lost-kingdom-flops-at-the-box-office?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DC's 'Aquaman and the Lost Kingdom' Flops at the Box Office](https://entertainment.slashdot.org/story/23/12/24/1848209/dcs-aquaman-and-the-lost-kingdom-flops-at-the-box-office?utm_source=rss1.0mainlinkanon&utm_medium=feed)
