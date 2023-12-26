@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 15:30:00](https://yro.slashdot.org/story/23/12/26/1457226/codeorg-sues-whitehat-jr-for-3-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Code.org Sues WhiteHat Jr. For $3 Million](https://yro.slashdot.org/story/23/12/26/1457226/codeorg-sues-whitehat-jr-for-3-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-26, 14:30:00](https://slashdot.org/story/23/12/26/137235/intel-to-invest-25-billion-in-israel-after-winning-incentives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel To Invest $25 Billion in Israel After Winning Incentives](https://slashdot.org/story/23/12/26/137235/intel-to-invest-25-billion-in-israel-after-winning-incentives?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-26, 13:05:00](https://apple.slashdot.org/story/23/12/26/134241/apple-watch-import-ban-takes-effect-after-biden-administration-passes-on-veto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Watch Import Ban Takes Effect After Biden Administration Passes on Veto](https://apple.slashdot.org/story/23/12/26/134241/apple-watch-import-ban-takes-effect-after-biden-administration-passes-on-veto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-26, 10:03:00](https://tech.slashdot.org/story/23/12/26/103207/the-beauty-of-finished-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Beauty of Finished Software](https://tech.slashdot.org/story/23/12/26/103207/the-beauty-of-finished-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
