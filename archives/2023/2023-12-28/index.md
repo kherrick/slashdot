@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 20:40:00](https://hardware.slashdot.org/story/23/12/28/1824212/amazon-plans-to-make-its-own-hydrogen-to-power-vehicles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Plans To Make Its Own Hydrogen To Power Vehicles](https://hardware.slashdot.org/story/23/12/28/1824212/amazon-plans-to-make-its-own-hydrogen-to-power-vehicles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-28, 20:00:00](https://slashdot.org/story/23/12/28/1815252/online-retailer-zulily-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Online Retailer Zulily is Shutting Down](https://slashdot.org/story/23/12/28/1815252/online-retailer-zulily-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-28, 19:20:00](https://tech.slashdot.org/story/23/12/28/1750234/google-agrees-to-settle-chrome-incognito-mode-class-action-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Agrees To Settle Chrome Incognito Mode Class Action Lawsuit](https://tech.slashdot.org/story/23/12/28/1750234/google-agrees-to-settle-chrome-incognito-mode-class-action-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-28, 18:40:00](https://tech.slashdot.org/story/23/12/28/188258/why-37signals-abandoned-the-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why 37Signals Abandoned the Cloud](https://tech.slashdot.org/story/23/12/28/188258/why-37signals-abandoned-the-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
