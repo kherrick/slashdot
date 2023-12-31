@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 12:34:00](https://science.slashdot.org/story/23/12/30/224223/could-we-build-a-concert-venue-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Could We Build a Concert Venue in Space?](https://science.slashdot.org/story/23/12/30/224223/could-we-build-a-concert-venue-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 08:34:00](https://science.slashdot.org/story/23/12/30/1825238/behold---the-best-space-images-of-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Behold - the Best Space Images of 2023'](https://science.slashdot.org/story/23/12/30/1825238/behold---the-best-space-images-of-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 05:35:00](https://news.slashdot.org/story/23/12/31/050218/20-of-americas-plants-and-animals-are-at-risk-of-extinction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [20% of America's Plants and Animals are At Risk of Extinction](https://news.slashdot.org/story/23/12/31/050218/20-of-americas-plants-and-animals-are-at-risk-of-extinction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 02:45:00](https://tech.slashdot.org/story/23/12/31/0223221/how-electric-cars-are-already-upending-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Electric Cars are Already Upending America](https://tech.slashdot.org/story/23/12/31/0223221/how-electric-cars-are-already-upending-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
