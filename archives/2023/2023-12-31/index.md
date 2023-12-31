@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 21:10:00](https://entertainment.slashdot.org/story/23/12/31/219219/aquaman-2-has-made-just-12-of-what-aquaman-1-earned?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Aquaman 2' Has Made Just 12% of What 'Aquaman 1' Earned](https://entertainment.slashdot.org/story/23/12/31/219219/aquaman-2-has-made-just-12-of-what-aquaman-1-earned?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 18:34:00](https://tech.slashdot.org/story/23/12/31/1736233/is-the-internet-about-to-get-weird-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is the Internet About to Get Weird Again?](https://tech.slashdot.org/story/23/12/31/1736233/is-the-internet-about-to-get-weird-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 17:34:00](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Source-Based Gentoo Linux Goes Binary](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 16:34:00](https://tech.slashdot.org/story/23/12/31/0327223/how-digital-twin-technology-is-revolutionizing-the-auto-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How 'Digital Twin' Technology Is Revolutionizing the Auto Industry](https://tech.slashdot.org/story/23/12/31/0327223/how-digital-twin-technology-is-revolutionizing-the-auto-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
