@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 17:34:00](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Source-Based Gentoo Linux Goes Binary](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 16:34:00](https://tech.slashdot.org/story/23/12/31/0327223/how-digital-twin-technology-is-revolutionizing-the-auto-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How 'Digital Twin' Technology Is Revolutionizing the Auto Industry](https://tech.slashdot.org/story/23/12/31/0327223/how-digital-twin-technology-is-revolutionizing-the-auto-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 15:34:00](https://tech.slashdot.org/story/23/12/31/0017205/how-a-cray-1-supercomputer-compares-to-a-raspberry-pi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How a Cray-1 Supercomputer Compares to a Raspberry Pi](https://tech.slashdot.org/story/23/12/31/0017205/how-a-cray-1-supercomputer-compares-to-a-raspberry-pi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2023-12-31, 12:34:00](https://science.slashdot.org/story/23/12/30/224223/could-we-build-a-concert-venue-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Could We Build a Concert Venue in Space?](https://science.slashdot.org/story/23/12/30/224223/could-we-build-a-concert-venue-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
