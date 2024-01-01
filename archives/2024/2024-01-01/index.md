@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 12:34:00](https://slashdot.org/story/24/01/01/0527256/will-ai-just-waste-everyones-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will AI Just Waste Everyone's Time?](https://slashdot.org/story/24/01/01/0527256/will-ai-just-waste-everyones-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-01, 08:00:00](https://news.slashdot.org/story/24/01/01/0241243/2023-will-be-remembered-as-the-year-climate-change-arrived?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [2023 Will Be Remembered as the Year Climate Change Arrived](https://news.slashdot.org/story/24/01/01/0241243/2023-will-be-remembered-as-the-year-climate-change-arrived?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-01, 05:00:00](https://meta.slashdot.org/story/24/01/01/0156259/what-were-slashdots-top-10-stories-of-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Were Slashdot's Top 10 Stories of 2023?](https://meta.slashdot.org/story/24/01/01/0156259/what-were-slashdots-top-10-stories-of-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-01, 02:08:00](https://science.slashdot.org/story/24/01/01/0129241/will-2024-bring-a-major-turning-point-in-us-health-care?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will 2024 Bring a 'Major Turning Point' in US Health Care?](https://science.slashdot.org/story/24/01/01/0129241/will-2024-bring-a-major-turning-point-in-us-health-care?utm_source=rss1.0mainlinkanon&utm_medium=feed)
