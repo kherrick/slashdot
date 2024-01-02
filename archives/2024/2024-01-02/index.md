@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 16:40:00](https://slashdot.org/story/24/01/02/1639240/texas-is-exploring-role-of-ai-in-government?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Texas Is Exploring Role of AI in Government](https://slashdot.org/story/24/01/02/1639240/texas-is-exploring-role-of-ai-in-government?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-02, 16:00:00](https://news.slashdot.org/story/24/01/02/1542229/new-spin-on-a-revolving-door-pentagon-officials-turned-venture-capitalists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists](https://news.slashdot.org/story/24/01/02/1542229/new-spin-on-a-revolving-door-pentagon-officials-turned-venture-capitalists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-02, 15:23:00](https://tech.slashdot.org/story/24/01/02/1523251/mozilla-ceo-wants-business-to-pick-up-the-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla CEO Wants Business To Pick Up the Pace](https://tech.slashdot.org/story/24/01/02/1523251/mozilla-ceo-wants-business-to-pick-up-the-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-02, 14:40:00](https://news.slashdot.org/story/24/01/02/149259/indias-food-security-problem-is-also-the-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India's Food-Security Problem Is Also the World's](https://news.slashdot.org/story/24/01/02/149259/indias-food-security-problem-is-also-the-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
