@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 18:14:00](https://news.slashdot.org/story/24/01/02/1814220/harvard-president-claudine-gay-resigns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Harvard President Claudine Gay Resigns](https://news.slashdot.org/story/24/01/02/1814220/harvard-president-claudine-gay-resigns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-02, 17:20:00](https://games.slashdot.org/story/24/01/02/1658246/tetris-has-finally-been-beaten-after-34-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tetris Has Finally Been Beaten After 34 Years](https://games.slashdot.org/story/24/01/02/1658246/tetris-has-finally-been-beaten-after-34-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-02, 16:40:00](https://slashdot.org/story/24/01/02/1639240/texas-is-exploring-role-of-ai-in-government?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Texas Is Exploring Role of AI in Government](https://slashdot.org/story/24/01/02/1639240/texas-is-exploring-role-of-ai-in-government?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-02, 16:00:00](https://news.slashdot.org/story/24/01/02/1542229/new-spin-on-a-revolving-door-pentagon-officials-turned-venture-capitalists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists](https://news.slashdot.org/story/24/01/02/1542229/new-spin-on-a-revolving-door-pentagon-officials-turned-venture-capitalists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
