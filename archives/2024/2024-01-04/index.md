@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 18:07:00](https://slashdot.org/story/24/01/04/187248/openai-to-launch-gpt-store-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI To Launch GPT Store Next Week](https://slashdot.org/story/24/01/04/187248/openai-to-launch-gpt-store-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-04, 17:23:00](https://news.slashdot.org/story/24/01/04/1722259/germanys-emissions-hit-70-year-low-as-it-reduces-reliance-on-coal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Germany's Emissions Hit 70-Year Low As It Reduces Reliance on Coal](https://news.slashdot.org/story/24/01/04/1722259/germanys-emissions-hit-70-year-low-as-it-reduces-reliance-on-coal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-04, 16:47:00](https://tech.slashdot.org/story/24/01/04/1647258/lg-develops-oled-monitor-that-can-hit-480hz-refresh-rate?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LG Develops OLED Monitor That Can Hit 480Hz Refresh Rate](https://tech.slashdot.org/story/24/01/04/1647258/lg-develops-oled-monitor-that-can-hit-480hz-refresh-rate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-04, 16:00:00](https://it.slashdot.org/story/24/01/04/1522236/museum-world-hit-by-cyberattack-on-widely-used-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Museum World Hit by Cyberattack on Widely Used Software](https://it.slashdot.org/story/24/01/04/1522236/museum-world-hit-by-cyberattack-on-widely-used-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
