@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 21:20:00](https://it.slashdot.org/story/24/01/05/1817257/microsoft-pulls-the-plug-on-wordpad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Pulls the Plug on WordPad](https://it.slashdot.org/story/24/01/05/1817257/microsoft-pulls-the-plug-on-wordpad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-05, 20:40:00](https://hardware.slashdot.org/story/24/01/05/1721242/huawei-teardown-shows-5nm-chip-made-in-taiwan-not-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei Teardown Shows 5nm Chip Made in Taiwan, Not China](https://hardware.slashdot.org/story/24/01/05/1721242/huawei-teardown-shows-5nm-chip-made-in-taiwan-not-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-05, 20:02:00](https://news.slashdot.org/story/24/01/05/1714223/fda-issues-first-approval-for-mass-drug-imports-to-states-from-canada?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FDA Issues First Approval for Mass Drug Imports To States From Canada](https://news.slashdot.org/story/24/01/05/1714223/fda-issues-first-approval-for-mass-drug-imports-to-states-from-canada?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-05, 19:20:00](https://science.slashdot.org/story/24/01/05/1733245/flowers-are-evolving-to-have-less-sex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Flowers Are Evolving To Have Less Sex](https://science.slashdot.org/story/24/01/05/1733245/flowers-are-evolving-to-have-less-sex?utm_source=rss1.0mainlinkanon&utm_medium=feed)
