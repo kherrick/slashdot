@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-06](index.md)
+
+* [2024-01-06, 00:02:00](https://science.slashdot.org/story/24/01/05/2212205/drones-are-the-new-drug-mules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Drones Are the New Drug Mules](https://science.slashdot.org/story/24/01/05/2212205/drones-are-the-new-drug-mules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
