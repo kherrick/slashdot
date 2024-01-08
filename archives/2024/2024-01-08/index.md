@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 18:40:00](https://slashdot.org/story/24/01/08/1715210/deloitte-rolls-out-ai-chatbot-to-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Deloitte Rolls Out AI Chatbot To Employees](https://slashdot.org/story/24/01/08/1715210/deloitte-rolls-out-ai-chatbot-to-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-08, 18:00:00](https://hardware.slashdot.org/story/24/01/08/1639233/nvidia-unveils-geforce-rtx-40-super-series?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Unveils GeForce RTX 40 SUPER Series](https://hardware.slashdot.org/story/24/01/08/1639233/nvidia-unveils-geforce-rtx-40-super-series?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-08, 17:20:00](https://mobile.slashdot.org/story/24/01/08/1619205/wi-fi-7-is-ready-to-go-mainstream?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Wi-Fi 7 is Ready To Go Mainstream](https://mobile.slashdot.org/story/24/01/08/1619205/wi-fi-7-is-ready-to-go-mainstream?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-08, 16:40:00](https://tech.slashdot.org/story/24/01/08/1449254/apples-3500-vision-pro-starts-shipping-in-february?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's $3,500 Vision Pro Starts Shipping in February](https://tech.slashdot.org/story/24/01/08/1449254/apples-3500-vision-pro-starts-shipping-in-february?utm_source=rss1.0mainlinkanon&utm_medium=feed)
