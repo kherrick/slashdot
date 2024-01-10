@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 22:50:00](https://mobile.slashdot.org/story/24/01/10/2154214/startup-debuts-pocket-ai-companion-sells-out-10000-in-one-day?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Startup Debuts Pocket AI Companion, Sells Out 10,000 In One Day](https://mobile.slashdot.org/story/24/01/10/2154214/startup-debuts-pocket-ai-companion-sells-out-10000-in-one-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-10, 22:10:00](https://news.slashdot.org/story/24/01/10/2146220/microsoft-debates-what-to-do-with-ai-lab-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Debates What To Do With AI Lab In China](https://news.slashdot.org/story/24/01/10/2146220/microsoft-debates-what-to-do-with-ai-lab-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-10, 21:33:00](https://slashdot.org/story/24/01/10/2132216/sec-approves-11-spot-bitcoin-etfs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SEC Approves 11 Spot Bitcoin ETFs](https://slashdot.org/story/24/01/10/2132216/sec-approves-11-spot-bitcoin-etfs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-10, 21:33:00](https://slashdot.org/story/24/01/10/2132216/cboe-says-bitcoin-etfs-to-start-trading-thursday?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CBOE Says Bitcoin ETFs To Start Trading Thursday](https://slashdot.org/story/24/01/10/2132216/cboe-says-bitcoin-etfs-to-start-trading-thursday?utm_source=rss1.0mainlinkanon&utm_medium=feed)
