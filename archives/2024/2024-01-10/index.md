@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 18:40:00](https://science.slashdot.org/story/24/01/10/1741217/nasa-postpones-plans-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Postpones Plans To Send Humans To Moon](https://science.slashdot.org/story/24/01/10/1741217/nasa-postpones-plans-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-10, 18:00:00](https://linux.slashdot.org/story/24/01/10/1727219/linux-devices-are-under-attack-by-a-never-before-seen-worm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Devices Are Under Attack By a Never-Before-Seen Worm](https://linux.slashdot.org/story/24/01/10/1727219/linux-devices-are-under-attack-by-a-never-before-seen-worm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-10, 17:21:00](https://tech.slashdot.org/story/24/01/10/1721241/openai-launches-new-store-for-users-to-share-custom-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Launches New Store For Users To Share Custom Chatbots](https://tech.slashdot.org/story/24/01/10/1721241/openai-launches-new-store-for-users-to-share-custom-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-10, 16:40:00](https://entertainment.slashdot.org/story/24/01/10/1558209/music-streams-hit-4-trillion-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Music Streams Hit 4 Trillion in 2023](https://entertainment.slashdot.org/story/24/01/10/1558209/music-streams-hit-4-trillion-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
