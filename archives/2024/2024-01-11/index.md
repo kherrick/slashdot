@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-11](index.md)
+
+* [2024-01-11, 00:50:00](https://yro.slashdot.org/story/24/01/10/2316231/englishman-who-posed-as-hyperverse-ceo-says-sorry-to-investors-who-lost-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Englishman Who Posed As HyperVerse CEO Says Sorry To Investors Who Lost Millions](https://yro.slashdot.org/story/24/01/10/2316231/englishman-who-posed-as-hyperverse-ceo-says-sorry-to-investors-who-lost-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-01-11, 00:10:00](https://developers.slashdot.org/story/24/01/10/2255228/brave-search-can-now-deliver-results-for-programming-queries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brave Search Can Now Deliver Results For Programming Queries](https://developers.slashdot.org/story/24/01/10/2255228/brave-search-can-now-deliver-results-for-programming-queries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
