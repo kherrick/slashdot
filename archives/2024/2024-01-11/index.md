@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 09:31:00](https://slashdot.org/story/24/01/11/0930256/is-india-done-with-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is India Done With Crypto?](https://slashdot.org/story/24/01/11/0930256/is-india-done-with-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-11, 07:00:00](https://science.slashdot.org/story/24/01/11/0042216/nasa-selects-bold-proposal-to-swarm-proxima-centauri-with-tiny-probes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Selects Bold Proposal To 'Swarm' Proxima Centauri With Tiny Probes](https://science.slashdot.org/story/24/01/11/0042216/nasa-selects-bold-proposal-to-swarm-proxima-centauri-with-tiny-probes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-11, 06:03:00](https://tech.slashdot.org/story/24/01/11/062240/google-cuts-hundreds-of-jobs-in-engineering-and-other-divisions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Cuts Hundreds of Jobs in Engineering and Other Divisions](https://tech.slashdot.org/story/24/01/11/062240/google-cuts-hundreds-of-jobs-in-engineering-and-other-divisions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-11, 03:30:00](https://tech.slashdot.org/story/24/01/10/2331234/new-device-allows-users-to-scroll-with-their-tongue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Device Allows Users To Scroll With Their Tongue](https://tech.slashdot.org/story/24/01/10/2331234/new-device-allows-users-to-scroll-with-their-tongue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
