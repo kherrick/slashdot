@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-13](index.md)
+
+* [2024-01-13, 00:02:00](https://mobile.slashdot.org/story/24/01/12/2259213/android-15-could-bring-widgets-back-to-the-lock-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android 15 Could Bring Widgets Back To the Lock Screen](https://mobile.slashdot.org/story/24/01/12/2259213/android-15-could-bring-widgets-back-to-the-lock-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
