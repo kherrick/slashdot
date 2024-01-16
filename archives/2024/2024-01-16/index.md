@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 14:40:00](https://slashdot.org/story/24/01/16/1413236/chip-software-firm-synopsys-agrees-to-buy-ansys-for-35-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chip-Software Firm Synopsys Agrees To Buy Ansys for $35 Billion](https://slashdot.org/story/24/01/16/1413236/chip-software-firm-synopsys-agrees-to-buy-ansys-for-35-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-16, 14:00:00](https://slashdot.org/story/24/01/16/1339228/ubisoft-wants-you-to-be-comfortable-not-owning-your-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ubisoft Wants You To Be Comfortable Not Owning Your Games](https://slashdot.org/story/24/01/16/1339228/ubisoft-wants-you-to-be-comfortable-not-owning-your-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-16, 13:00:00](https://news.slashdot.org/story/24/01/16/0055204/the-world-could-get-its-first-trillionaire-within-10-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The World Could Get Its First Trillionaire Within 10 Years](https://news.slashdot.org/story/24/01/16/0055204/the-world-could-get-its-first-trillionaire-within-10-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-16, 10:00:00](https://tech.slashdot.org/story/24/01/16/0047210/bluesky-launches-rss-feeds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky Launches RSS Feeds](https://tech.slashdot.org/story/24/01/16/0047210/bluesky-launches-rss-feeds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
