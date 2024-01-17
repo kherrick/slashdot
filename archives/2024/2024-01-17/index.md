@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 16:00:00](https://tech.slashdot.org/story/24/01/17/1410231/india-puts-tech-firms-on-notice-over-deepfakes-inaction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India Puts Tech Firms on Notice Over Deepfakes Inaction](https://tech.slashdot.org/story/24/01/17/1410231/india-puts-tech-firms-on-notice-over-deepfakes-inaction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-17, 15:20:00](https://it.slashdot.org/story/24/01/17/1423212/jpmorgan-suffers-45-billion-cyber-attacks-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [JPMorgan Suffers 45 Billion Cyber Attacks a Day](https://it.slashdot.org/story/24/01/17/1423212/jpmorgan-suffers-45-billion-cyber-attacks-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-17, 14:40:00](https://it.slashdot.org/story/24/01/17/140226/cyber-attacks-are-one-of-the-biggest-threats-facing-healthcare-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cyber Attacks Are One of the Biggest Threats Facing Healthcare Systems](https://it.slashdot.org/story/24/01/17/140226/cyber-attacks-are-one-of-the-biggest-threats-facing-healthcare-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-17, 14:00:00](https://tech.slashdot.org/story/24/01/17/116235/brace-yourself-ipv6-is-coming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brace Yourself, IPv6 is Coming](https://tech.slashdot.org/story/24/01/17/116235/brace-yourself-ipv6-is-coming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
