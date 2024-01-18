@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 23:00:00](https://tech.slashdot.org/story/24/01/18/2135244/google-is-rolling-out-webgpu-for-next-gen-gaming-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Is Rolling Out WebGPU For Next-Gen Gaming On Android](https://tech.slashdot.org/story/24/01/18/2135244/google-is-rolling-out-webgpu-for-next-gen-gaming-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-18, 22:40:00](https://slashdot.org/story/24/01/18/2116233/reddit-seeks-to-launch-ipo-in-march?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Seeks To Launch IPO In March](https://slashdot.org/story/24/01/18/2116233/reddit-seeks-to-launch-ipo-in-march?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-18, 22:00:00](https://yro.slashdot.org/story/24/01/18/2112213/stablecoins-enabled-40-billion-in-crypto-crime-since-2022?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Stablecoins' Enabled $40 Billion In Crypto Crime Since 2022](https://yro.slashdot.org/story/24/01/18/2112213/stablecoins-enabled-40-billion-in-crypto-crime-since-2022?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-18, 21:20:00](https://tech.slashdot.org/story/24/01/18/1742232/coursera-saw-signups-for-ai-courses-every-minute-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Coursera Saw Signups For AI Courses Every Minute in 2023](https://tech.slashdot.org/story/24/01/18/1742232/coursera-saw-signups-for-ai-courses-every-minute-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
