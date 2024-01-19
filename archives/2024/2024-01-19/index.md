@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 14:00:00](https://tech.slashdot.org/story/24/01/19/0835245/where-have-all-the-websites-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Where Have All the Websites Gone?'](https://tech.slashdot.org/story/24/01/19/0835245/where-have-all-the-websites-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 13:00:00](https://hardware.slashdot.org/story/24/01/18/2352248/sam-altman-says-ai-depends-on-energy-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman Says AI Depends On Energy Breakthrough](https://hardware.slashdot.org/story/24/01/18/2352248/sam-altman-says-ai-depends-on-energy-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 12:48:00](https://news.slashdot.org/story/24/01/19/1247247/boeing-cargo-plane-makes-emergency-landing-in-miami-after-engine-malfunction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boeing Cargo Plane Makes Emergency Landing in Miami After 'Engine Malfunction'](https://news.slashdot.org/story/24/01/19/1247247/boeing-cargo-plane-makes-emergency-landing-in-miami-after-engine-malfunction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 11:03:00](https://news.slashdot.org/story/24/01/19/113203/david-mills-an-internet-pioneer-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [David Mills, an Internet Pioneer, Has Died](https://news.slashdot.org/story/24/01/19/113203/david-mills-an-internet-pioneer-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed)
