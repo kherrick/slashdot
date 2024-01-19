@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 22:05:00](https://hardware.slashdot.org/story/24/01/19/221252/japans-slim-probe-lands-on-moon-but-suffers-power-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan's SLIM Probe Lands On Moon, But Suffers Power Problem](https://hardware.slashdot.org/story/24/01/19/221252/japans-slim-probe-lands-on-moon-but-suffers-power-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 21:20:00](https://science.slashdot.org/story/24/01/19/0826227/why-every-coffee-shop-looks-the-same?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Every Coffee Shop Looks the Same](https://science.slashdot.org/story/24/01/19/0826227/why-every-coffee-shop-looks-the-same?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 20:41:00](https://hardware.slashdot.org/story/24/01/19/1149214/30tb-hard-drives-are-nearly-here?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [30TB Hard Drives Are Nearly Here](https://hardware.slashdot.org/story/24/01/19/1149214/30tb-hard-drives-are-nearly-here?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 20:00:00](https://tech.slashdot.org/story/24/01/19/0946251/huawei-makes-a-break-from-android-with-next-version-of-harmony-os?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei Makes a Break From Android With Next Version of Harmony OS](https://tech.slashdot.org/story/24/01/19/0946251/huawei-makes-a-break-from-android-with-next-version-of-harmony-os?utm_source=rss1.0mainlinkanon&utm_medium=feed)
