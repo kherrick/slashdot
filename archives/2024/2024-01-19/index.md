@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 16:00:00](https://tech.slashdot.org/story/24/01/19/1137253/how-much-of-the-world-is-it-possible-to-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Much of the World Is It Possible to Model?](https://tech.slashdot.org/story/24/01/19/1137253/how-much-of-the-world-is-it-possible-to-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 15:20:00](https://news.slashdot.org/story/24/01/19/0857255/airbus-is-pulling-ahead-as-boeings-troubles-mount?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Airbus Is Pulling Ahead as Boeing's Troubles Mount](https://news.slashdot.org/story/24/01/19/0857255/airbus-is-pulling-ahead-as-boeings-troubles-mount?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 14:40:00](https://apple.slashdot.org/story/24/01/19/1241221/apple-offers-to-open-mobile-payments-to-third-parties-amid-eu-antitrust-case?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Offers To Open Mobile Payments To Third Parties Amid EU Antitrust Case](https://apple.slashdot.org/story/24/01/19/1241221/apple-offers-to-open-mobile-payments-to-third-parties-amid-eu-antitrust-case?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-19, 14:00:00](https://tech.slashdot.org/story/24/01/19/0835245/where-have-all-the-websites-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Where Have All the Websites Gone?'](https://tech.slashdot.org/story/24/01/19/0835245/where-have-all-the-websites-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
