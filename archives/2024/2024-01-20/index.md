@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-20](index.md)
+
+* [2024-01-20, 00:02:00](https://hardware.slashdot.org/story/24/01/19/2154233/researchers-claim-first-functioning-graphene-based-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Claim First Functioning Graphene-Based Chip](https://hardware.slashdot.org/story/24/01/19/2154233/researchers-claim-first-functioning-graphene-based-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
