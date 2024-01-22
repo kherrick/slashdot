@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 20:00:00](https://tech.slashdot.org/story/24/01/22/1849250/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Humans Still Cheaper Than AI in Vast Majority of Jobs, MIT Finds](https://tech.slashdot.org/story/24/01/22/1849250/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 19:20:00](https://news.slashdot.org/story/24/01/22/1833240/uk-university-to-beam-in-hologram-lecturers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK University To Beam in Hologram Lecturers](https://news.slashdot.org/story/24/01/22/1833240/uk-university-to-beam-in-hologram-lecturers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 18:40:00](https://news.slashdot.org/story/24/01/22/1747248/exxon-takes-activists-to-court-over-emissions-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Exxon Takes Activists To Court Over Emissions Proposal](https://news.slashdot.org/story/24/01/22/1747248/exxon-takes-activists-to-court-over-emissions-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 18:00:00](https://slashdot.org/story/24/01/22/1732257/bracing-for-impact-agi-trades?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bracing for Impact: AGI Trades](https://slashdot.org/story/24/01/22/1732257/bracing-for-impact-agi-trades?utm_source=rss1.0mainlinkanon&utm_medium=feed)
