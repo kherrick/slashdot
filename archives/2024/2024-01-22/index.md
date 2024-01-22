@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 15:20:00](https://slashdot.org/story/24/01/22/146230/terraform-labs-files-for-bankruptcy-protection-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Terraform Labs Files For Bankruptcy Protection in the US](https://slashdot.org/story/24/01/22/146230/terraform-labs-files-for-bankruptcy-protection-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 14:40:00](https://politics.slashdot.org/story/24/01/22/142258/openai-suspends-developer-behind-dean-phillips-bot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Suspends Developer Behind Dean Phillips Bot](https://politics.slashdot.org/story/24/01/22/142258/openai-suspends-developer-behind-dean-phillips-bot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 14:00:00](https://news.slashdot.org/story/24/01/22/1348226/faa-calls-for-door-plug-checks-on-second-boeing-jet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FAA Calls for Door-Plug Checks on Second Boeing Jet](https://news.slashdot.org/story/24/01/22/1348226/faa-calls-for-door-plug-checks-on-second-boeing-jet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 12:34:00](https://entertainment.slashdot.org/story/24/01/22/0445204/remembering-the-1970s-era-technology-of-devo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Remembering The 1970s-Era Technology of Devo](https://entertainment.slashdot.org/story/24/01/22/0445204/remembering-the-1970s-era-technology-of-devo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
