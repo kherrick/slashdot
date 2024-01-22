@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 17:21:00](https://science.slashdot.org/story/24/01/22/1442259/cameroon-starts-world-first-malaria-mass-vaccine-rollout?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cameroon Starts World-First Malaria Mass Vaccine Rollout](https://science.slashdot.org/story/24/01/22/1442259/cameroon-starts-world-first-malaria-mass-vaccine-rollout?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 16:40:00](https://tech.slashdot.org/story/24/01/22/1630252/you-are-not-an-embassy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['You Are Not An Embassy'](https://tech.slashdot.org/story/24/01/22/1630252/you-are-not-an-embassy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 16:00:00](https://tech.slashdot.org/story/24/01/22/1434244/predatory-loan-apps-are-thriving-in-google-play-store-despite-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Predatory Loan Apps Are Thriving in Google Play Store, Despite Ban](https://tech.slashdot.org/story/24/01/22/1434244/predatory-loan-apps-are-thriving-in-google-play-store-despite-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-22, 15:20:00](https://slashdot.org/story/24/01/22/146230/terraform-labs-files-for-bankruptcy-protection-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Terraform Labs Files For Bankruptcy Protection in the US](https://slashdot.org/story/24/01/22/146230/terraform-labs-files-for-bankruptcy-protection-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
