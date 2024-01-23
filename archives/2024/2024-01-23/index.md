@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 19:00:00](https://science.slashdot.org/story/24/01/23/1734221/gummy-vitamins-are-just-candy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gummy Vitamins Are Just Candy](https://science.slashdot.org/story/24/01/23/1734221/gummy-vitamins-are-just-candy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-23, 18:00:00](https://slashdot.org/story/24/01/23/1713232/google-chrome-gains-ai-features-including-a-writing-helper?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Chrome Gains AI Features Including a Writing Helper](https://slashdot.org/story/24/01/23/1713232/google-chrome-gains-ai-features-including-a-writing-helper?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-23, 17:00:00](https://games.slashdot.org/story/24/01/23/1417247/china-quietly-pulls-draft-gaming-rules-from-website?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Quietly Pulls Draft Gaming Rules From Website](https://games.slashdot.org/story/24/01/23/1417247/china-quietly-pulls-draft-gaming-rules-from-website?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-23, 16:00:00](https://tech.slashdot.org/story/24/01/23/1522227/we-need-to-talk-about-franklin-templeton?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [We Need To Talk About Franklin Templeton](https://tech.slashdot.org/story/24/01/23/1522227/we-need-to-talk-about-franklin-templeton?utm_source=rss1.0mainlinkanon&utm_medium=feed)
