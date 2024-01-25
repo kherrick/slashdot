@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 17:00:00](https://science.slashdot.org/story/24/01/25/1627249/the-cancer-that-doctors-dont-want-to-call-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Cancer That Doctors Don't Want to Call Cancer](https://science.slashdot.org/story/24/01/25/1627249/the-cancer-that-doctors-dont-want-to-call-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-25, 15:40:00](https://news.slashdot.org/story/24/01/25/1530239/hugo-awards-under-fire-over-censorship-accusations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hugo Awards Under Fire Over Censorship Accusations](https://news.slashdot.org/story/24/01/25/1530239/hugo-awards-under-fire-over-censorship-accusations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-25, 15:06:00](https://games.slashdot.org/story/24/01/25/156224/microsoft-cuts-1900-activision-blizzard-and-xbox-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Cuts 1,900 Activision Blizzard and Xbox Jobs](https://games.slashdot.org/story/24/01/25/156224/microsoft-cuts-1900-activision-blizzard-and-xbox-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-25, 14:01:00](https://yro.slashdot.org/story/24/01/25/141206/streaming-pirates-are-hollywoods-new-villains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Streaming Pirates Are Hollywood's New Villains](https://yro.slashdot.org/story/24/01/25/141206/streaming-pirates-are-hollywoods-new-villains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
