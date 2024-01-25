@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 08:00:00](https://tech.slashdot.org/story/24/01/25/0048202/nyc-first-to-designate-social-media-as-environmental-toxin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NYC First To Designate Social Media as Environmental Toxin](https://tech.slashdot.org/story/24/01/25/0048202/nyc-first-to-designate-social-media-as-environmental-toxin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-25, 04:00:00](https://news.slashdot.org/story/24/01/25/0314242/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boeing, Not Spirit, Mis-installed Piece That Blew Off Alaska MAX 9 Jet](https://news.slashdot.org/story/24/01/25/0314242/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-25, 03:00:00](https://apple.slashdot.org/story/24/01/25/0251200/the-mac-turns-40?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Mac Turns 40](https://apple.slashdot.org/story/24/01/25/0251200/the-mac-turns-40?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-25, 02:00:00](https://news.slashdot.org/story/24/01/25/0045235/doomsday-clock-stays-at-90-seconds-to-midnight?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Doomsday Clock Stays at 90 Seconds To Midnight](https://news.slashdot.org/story/24/01/25/0045235/doomsday-clock-stays-at-90-seconds-to-midnight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
