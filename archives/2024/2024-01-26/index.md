@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-26](index.md)
+
+* [2024-01-26, 00:01:00](https://slashdot.org/story/24/01/25/2126207/ftc-launches-inquiry-into-ai-deals-by-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Launches Inquiry Into AI Deals by Tech Giants](https://slashdot.org/story/24/01/25/2126207/ftc-launches-inquiry-into-ai-deals-by-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
