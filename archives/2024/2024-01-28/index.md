@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 18:34:00](https://hardware.slashdot.org/story/24/01/28/1724216/could-americas-rooftop-solar-industry-be-on-the-verge-of-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Could America's Rooftop Solar Industry Be On the Verge of Collapse?](https://hardware.slashdot.org/story/24/01/28/1724216/could-americas-rooftop-solar-industry-be-on-the-verge-of-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-28, 17:34:00](https://news.slashdot.org/story/24/01/28/0547210/london-accused-of-wrongly-fining-hundreds-of-thousands-of-eu-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [London Accused of Wrongly Fining Hundreds of Thousands of EU Drivers](https://news.slashdot.org/story/24/01/28/0547210/london-accused-of-wrongly-fining-hundreds-of-thousands-of-eu-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-28, 16:34:00](https://slashdot.org/story/24/01/28/054252/is-cloud-the-new-mainframe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Cloud the New Mainframe?](https://slashdot.org/story/24/01/28/054252/is-cloud-the-new-mainframe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-28, 15:34:00](https://developers.slashdot.org/story/24/01/28/070252/oracles-plans-for-java-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle's Plans for Java in 2024](https://developers.slashdot.org/story/24/01/28/070252/oracles-plans-for-java-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
