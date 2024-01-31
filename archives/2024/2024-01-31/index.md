@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 16:45:00](https://science.slashdot.org/story/24/01/31/166251/add-bacteria-to-the-list-of-things-that-can-run-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Add Bacteria To the List of Things That Can Run Doom](https://science.slashdot.org/story/24/01/31/166251/add-bacteria-to-the-list-of-things-that-can-run-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-31, 16:00:00](https://slashdot.org/story/24/01/31/1532255/23andmes-fall-from-6-billion-to-nearly-0?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [23andMe's Fall From $6 Billion To Nearly $0](https://slashdot.org/story/24/01/31/1532255/23andmes-fall-from-6-billion-to-nearly-0?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-31, 15:20:00](https://hardware.slashdot.org/story/24/01/31/1430214/google-one-is-about-to-hit-100-million-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google One is About To Hit 100 Million Subscribers](https://hardware.slashdot.org/story/24/01/31/1430214/google-one-is-about-to-hit-100-million-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-01-31, 14:40:00](https://slashdot.org/story/24/01/31/1422258/paypal-to-cut-about-2500-jobs-as-rivals-snag-market-share?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PayPal To Cut About 2,500 Jobs as Rivals Snag Market Share](https://slashdot.org/story/24/01/31/1422258/paypal-to-cut-about-2500-jobs-as-rivals-snag-market-share?utm_source=rss1.0mainlinkanon&utm_medium=feed)
