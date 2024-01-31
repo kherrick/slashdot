@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-31](index.md)
+
+* [2024-01-31, 00:10:00](https://yro.slashdot.org/story/24/01/30/2318257/german-police-secure-2-billion-in-bitcoin-from-pirate-site-operators?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [German Police Secure $2 Billion In Bitcoin From Pirate Site Operators](https://yro.slashdot.org/story/24/01/30/2318257/german-police-secure-2-billion-in-bitcoin-from-pirate-site-operators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
