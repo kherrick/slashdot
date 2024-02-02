@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 18:00:00](https://tech.slashdot.org/story/24/02/02/1753203/google-searchs-cache-links-are-officially-being-retired?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Search's Cache Links Are Officially Being Retired](https://tech.slashdot.org/story/24/02/02/1753203/google-searchs-cache-links-are-officially-being-retired?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-02, 17:20:00](https://news.slashdot.org/story/24/02/02/1720233/joe-rogan-gets-new-spotify-deal-worth-up-to-250-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Joe Rogan Gets New Spotify Deal Worth Up To $250 Million](https://news.slashdot.org/story/24/02/02/1720233/joe-rogan-gets-new-spotify-deal-worth-up-to-250-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-02, 16:40:00](https://tech.slashdot.org/story/24/02/02/1557207/panasonic-sells-off-its-vr-subsidiary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Panasonic Sells Off Its VR Subsidiary](https://tech.slashdot.org/story/24/02/02/1557207/panasonic-sells-off-its-vr-subsidiary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-02, 16:00:00](https://it.slashdot.org/story/24/02/02/1534229/making-a-pdf-thats-larger-than-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Making a PDF That's Larger Than Germany](https://it.slashdot.org/story/24/02/02/1534229/making-a-pdf-thats-larger-than-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed)
