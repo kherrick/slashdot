@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 16:45:00](https://slashdot.org/story/24/02/05/1615206/snap-to-lay-off-10-of-global-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Snap To Lay Off 10% of Global Workforce](https://slashdot.org/story/24/02/05/1615206/snap-to-lay-off-10-of-global-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-05, 16:07:00](https://games.slashdot.org/story/24/02/05/166222/microsoft-weighs-launching-some-games-including-indiana-jones-on-the-ps5?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Weighs Launching Some Games, Including Indiana Jones, on the PS5](https://games.slashdot.org/story/24/02/05/166222/microsoft-weighs-launching-some-games-including-indiana-jones-on-the-ps5?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-05, 15:20:00](https://tech.slashdot.org/story/24/02/05/1516202/taylor-swift-deepfakes-originated-from-ai-challenge-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Taylor Swift Deepfakes Originated From AI Challenge, Report Says](https://tech.slashdot.org/story/24/02/05/1516202/taylor-swift-deepfakes-originated-from-ai-challenge-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-05, 14:44:00](https://slashdot.org/story/24/02/05/1443220/europe-regulates-its-way-to-last-place?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Europe Regulates Its Way To Last Place'](https://slashdot.org/story/24/02/05/1443220/europe-regulates-its-way-to-last-place?utm_source=rss1.0mainlinkanon&utm_medium=feed)
