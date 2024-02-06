@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-06](index.md)
+
+* [2024-02-06, 00:10:00](https://news.slashdot.org/story/24/02/06/005232/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hugging Face Launches Open Source AI Assistant Maker To Rival OpenAI's Custom GPTs](https://news.slashdot.org/story/24/02/06/005232/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
