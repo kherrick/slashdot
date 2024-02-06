@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 01:30:00](https://news.slashdot.org/story/24/02/06/0038256/dartmouth-college-reinstates-the-sat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dartmouth College Reinstates the SAT](https://news.slashdot.org/story/24/02/06/0038256/dartmouth-college-reinstates-the-sat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-02-06, 00:50:00](https://yro.slashdot.org/story/24/02/06/0018222/self-proclaimed-bitcoin-inventors-claim-a-brazen-lie-london-court-told?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Self-Proclaimed Bitcoin Inventor's Claim 'a Brazen Lie,' London Court Told](https://yro.slashdot.org/story/24/02/06/0018222/self-proclaimed-bitcoin-inventors-claim-a-brazen-lie-london-court-told?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-06, 00:10:00](https://news.slashdot.org/story/24/02/06/005232/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hugging Face Launches Open Source AI Assistant Maker To Rival OpenAI's Custom GPTs](https://news.slashdot.org/story/24/02/06/005232/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
