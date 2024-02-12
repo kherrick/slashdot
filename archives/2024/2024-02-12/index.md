@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 14:40:00](https://tech.slashdot.org/story/24/02/12/1433240/the-unsettling-scourge-of-obituary-spam?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Unsettling Scourge of Obituary Spam](https://tech.slashdot.org/story/24/02/12/1433240/the-unsettling-scourge-of-obituary-spam?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-12, 14:07:00](https://news.slashdot.org/story/24/02/12/147243/morgan-stanley-says-firms-are-focused-on-costs-like-never-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Morgan Stanley Says Firms Are Focused on Costs Like Never Before](https://news.slashdot.org/story/24/02/12/147243/morgan-stanley-says-firms-are-focused-on-costs-like-never-before?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-12, 12:34:00](https://linux.slashdot.org/story/24/02/11/2049252/damn-small-linux-is-back---but-bigger?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Damn Small Linux' is Back - But Bigger](https://linux.slashdot.org/story/24/02/11/2049252/damn-small-linux-is-back---but-bigger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-12, 08:29:00](https://tech.slashdot.org/story/24/02/12/069220/google-shareholders-to-receive-350-million-in-lawsuit-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Shareholders to Receive $350 Million in Lawsuit Settlement](https://tech.slashdot.org/story/24/02/12/069220/google-shareholders-to-receive-350-million-in-lawsuit-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
