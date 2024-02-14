@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 23:20:00](https://yro.slashdot.org/story/24/02/14/224239/amazon-sued-over-prime-video-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Sued Over Prime Video Ads](https://yro.slashdot.org/story/24/02/14/224239/amazon-sued-over-prime-video-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-14, 22:40:00](https://yro.slashdot.org/story/24/02/14/2158219/us-patent-office-confirms-ai-cant-hold-patents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Patent Office Confirms AI Can't Hold Patents](https://yro.slashdot.org/story/24/02/14/2158219/us-patent-office-confirms-ai-cant-hold-patents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-14, 22:00:00](https://it.slashdot.org/story/24/02/14/2152202/backdoors-that-let-cops-decrypt-messages-violate-human-rights-eu-court-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Backdoors That Let Cops Decrypt Messages Violate Human Rights, EU Court Says](https://it.slashdot.org/story/24/02/14/2152202/backdoors-that-let-cops-decrypt-messages-violate-human-rights-eu-court-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-14, 21:20:00](https://news.slashdot.org/story/24/02/14/1859225/lyfts-ceo-says-my-bad-on-margin-error-it-was-one-zero?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lyft's CEO Says 'My Bad' on Margin Error, 'It Was One Zero'](https://news.slashdot.org/story/24/02/14/1859225/lyfts-ceo-says-my-bad-on-margin-error-it-was-one-zero?utm_source=rss1.0mainlinkanon&utm_medium=feed)
