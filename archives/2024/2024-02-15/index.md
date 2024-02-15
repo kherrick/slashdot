@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 15:22:00](https://tech.slashdot.org/story/24/02/15/1458215/openai-develops-web-search-product-in-challenge-to-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Develops Web Search Product in Challenge To Google](https://tech.slashdot.org/story/24/02/15/1458215/openai-develops-web-search-product-in-challenge-to-google?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-15, 14:44:00](https://science.slashdot.org/story/24/02/15/1445202/scientists-resort-to-once-unthinkable-solutions-to-cool-the-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Resort To Once-Unthinkable Solutions To Cool the Planet](https://science.slashdot.org/story/24/02/15/1445202/scientists-resort-to-once-unthinkable-solutions-to-cool-the-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-15, 13:32:00](https://news.slashdot.org/story/24/02/15/1332204/uk-falls-into-recession?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Falls Into Recession](https://news.slashdot.org/story/24/02/15/1332204/uk-falls-into-recession?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-15, 13:00:00](https://slashdot.org/story/24/02/15/0456212/cisco-will-lay-off-more-than-4000-in-5-staff-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cisco Will Lay Off More Than 4,000 In 5% Staff Cut](https://slashdot.org/story/24/02/15/0456212/cisco-will-lay-off-more-than-4000-in-5-staff-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
