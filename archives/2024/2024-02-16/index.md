@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 22:40:00](https://slashdot.org/story/24/02/16/2128205/microsoft-retires-azure-iot-central-in-platform-rethink?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft 'Retires' Azure IoT Central In Platform Rethink](https://slashdot.org/story/24/02/16/2128205/microsoft-retires-azure-iot-central-in-platform-rethink?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-16, 22:00:00](https://apple.slashdot.org/story/24/02/16/2120252/apple-unbanned-epic-so-it-can-make-an-ios-games-store-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Unbanned Epic So It Can Make an iOS Games Store In the EU](https://apple.slashdot.org/story/24/02/16/2120252/apple-unbanned-epic-so-it-can-make-an-ios-games-store-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-16, 21:20:00](https://news.slashdot.org/story/24/02/16/1711253/ny-governor-wants-to-criminalize-deceptive-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NY Governor Wants To Criminalize Deceptive AI](https://news.slashdot.org/story/24/02/16/1711253/ny-governor-wants-to-criminalize-deceptive-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-16, 20:42:00](https://news.slashdot.org/story/24/02/16/1751240/no-gpt-trademark-for-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [No 'GPT' Trademark For OpenAI](https://news.slashdot.org/story/24/02/16/1751240/no-gpt-trademark-for-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
