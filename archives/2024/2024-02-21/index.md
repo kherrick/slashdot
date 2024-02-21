@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-21](index.md)
+
+* [2024-02-21, 00:45:00](https://yro.slashdot.org/story/24/02/20/2313219/cox-communications-wins-order-overturning-1-billion-us-copyright-verdict?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cox Communications Wins Order Overturning $1 Billion US Copyright Verdict](https://yro.slashdot.org/story/24/02/20/2313219/cox-communications-wins-order-overturning-1-billion-us-copyright-verdict?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-02-21, 00:02:00](https://it.slashdot.org/story/24/02/20/2127259/fingerprints-can-be-recreated-from-the-sounds-made-when-swiping-on-a-touchscreen?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fingerprints Can Be Recreated From the Sounds Made When Swiping On a Touchscreen](https://it.slashdot.org/story/24/02/20/2127259/fingerprints-can-be-recreated-from-the-sounds-made-when-swiping-on-a-touchscreen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
