@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 23:20:00](https://slashdot.org/story/24/02/22/2138227/the-justice-department-gets-a-chief-ai-officer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Justice Department Gets a Chief AI Officer](https://slashdot.org/story/24/02/22/2138227/the-justice-department-gets-a-chief-ai-officer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-22, 22:40:00](https://tech.slashdot.org/story/24/02/22/2133228/bluesky-now-open-to-federation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky Now Open To Federation](https://tech.slashdot.org/story/24/02/22/2133228/bluesky-now-open-to-federation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-22, 22:02:00](https://mobile.slashdot.org/story/24/02/22/2127240/att-restores-service-after-massive-nationwide-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AT&amp;T Restores Service After Massive, Nationwide Outage](https://mobile.slashdot.org/story/24/02/22/2127240/att-restores-service-after-massive-nationwide-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-22, 21:20:00](https://slashdot.org/story/24/02/22/1851240/can-any-english-word-be-turned-into-a-synonym-for-drunk-not-all-but-many-can?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can Any English Word Be Turned Into a Synonym For 'Drunk'? Not All, But Many Can.](https://slashdot.org/story/24/02/22/1851240/can-any-english-word-be-turned-into-a-synonym-for-drunk-not-all-but-many-can?utm_source=rss1.0mainlinkanon&utm_medium=feed)
