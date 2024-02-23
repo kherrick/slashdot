@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 10:00:00](https://tech.slashdot.org/story/24/02/23/0121256/mercedes-benz-backs-off-plan-to-only-sell-evs-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mercedes-Benz Backs Off Plan To Only Sell EVs By 2030](https://tech.slashdot.org/story/24/02/23/0121256/mercedes-benz-backs-off-plan-to-only-sell-evs-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 07:00:00](https://news.slashdot.org/story/24/02/23/0114211/switzerland-calls-on-un-to-explore-possibility-of-solar-geoengineering?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Switzerland Calls On UN To Explore Possibility of Solar Geoengineering](https://news.slashdot.org/story/24/02/23/0114211/switzerland-calls-on-un-to-explore-possibility-of-solar-geoengineering?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 03:30:00](https://slashdot.org/story/24/02/23/011255/facial-recognition-system-passes-test-on-michelangelos-david?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facial-Recognition System Passes Test On Michelangelo's David](https://slashdot.org/story/24/02/23/011255/facial-recognition-system-passes-test-on-michelangelos-david?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 01:40:00](https://tech.slashdot.org/story/24/02/23/0038255/reddit-files-to-go-public?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Files To Go Public](https://tech.slashdot.org/story/24/02/23/0038255/reddit-files-to-go-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
