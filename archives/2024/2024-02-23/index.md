@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 03:30:00](https://slashdot.org/story/24/02/23/011255/facial-recognition-system-passes-test-on-michelangelos-david?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facial-Recognition System Passes Test On Michelangelo's David](https://slashdot.org/story/24/02/23/011255/facial-recognition-system-passes-test-on-michelangelos-david?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 01:40:00](https://tech.slashdot.org/story/24/02/23/0038255/reddit-files-to-go-public?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Files To Go Public](https://tech.slashdot.org/story/24/02/23/0038255/reddit-files-to-go-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 01:02:00](https://news.slashdot.org/story/24/02/22/2151226/yale-reinstates-standardized-test-requirement-for-admission?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Yale Reinstates Standardized Test Requirement For Admission](https://news.slashdot.org/story/24/02/22/2151226/yale-reinstates-standardized-test-requirement-for-admission?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 00:25:00](https://science.slashdot.org/story/24/02/23/0020215/us-lands-unmanned-odysseus-spacecraft-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Lands Unmanned 'Odysseus' Spacecraft On Moon](https://science.slashdot.org/story/24/02/23/0020215/us-lands-unmanned-odysseus-spacecraft-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
