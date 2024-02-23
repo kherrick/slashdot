@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 17:20:00](https://hardware.slashdot.org/story/24/02/23/1645227/humanes-ai-pin-is-slightly-delayed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Humane's AI Pin is Slightly Delayed](https://hardware.slashdot.org/story/24/02/23/1645227/humanes-ai-pin-is-slightly-delayed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 16:40:00](https://news.slashdot.org/story/24/02/23/1625203/the-sun-just-launched-three-huge-solar-flares-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Sun Just Launched Three Huge Solar Flares in 24 Hours.](https://news.slashdot.org/story/24/02/23/1625203/the-sun-just-launched-three-huge-solar-flares-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 16:00:00](https://slashdot.org/story/24/02/23/1557228/nvidia-hits-2-trillion-valuation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Hits $2 Trillion Valuation](https://slashdot.org/story/24/02/23/1557228/nvidia-hits-2-trillion-valuation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-23, 15:24:00](https://news.slashdot.org/story/24/02/23/1521240/leisure-firm-in-uk-told-scanning-staff-faces-is-illegal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Leisure Firm in UK Told Scanning Staff Faces is Illegal](https://news.slashdot.org/story/24/02/23/1521240/leisure-firm-in-uk-told-scanning-staff-faces-is-illegal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
