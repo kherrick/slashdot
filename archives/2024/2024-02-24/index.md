@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 13:00:00](https://slashdot.org/story/24/02/24/0020232/tinder-owner-inks-deal-with-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tinder Owner Inks Deal With OpenAI](https://slashdot.org/story/24/02/24/0020232/tinder-owner-inks-deal-with-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-24, 10:00:00](https://yro.slashdot.org/story/24/02/24/0012232/vending-machine-error-reveals-secret-face-image-database-of-college-students?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vending Machine Error Reveals Secret Face Image Database of College Students](https://yro.slashdot.org/story/24/02/24/0012232/vending-machine-error-reveals-secret-face-image-database-of-college-students?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-24, 07:00:00](https://science.slashdot.org/story/24/02/24/007214/odysseus-moon-lander-tipped-over-on-touchdown?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Odysseus Moon Lander 'Tipped Over On Touchdown'](https://science.slashdot.org/story/24/02/24/007214/odysseus-moon-lander-tipped-over-on-touchdown?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-24, 03:30:00](https://science.slashdot.org/story/24/02/23/2354247/air-pollution-could-be-significant-cause-of-dementia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Air Pollution Could Be Significant Cause of Dementia](https://science.slashdot.org/story/24/02/23/2354247/air-pollution-could-be-significant-cause-of-dementia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
