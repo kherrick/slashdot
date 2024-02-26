@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 23:40:00](https://games.slashdot.org/story/24/02/26/2152212/doom-is-now-playable-on-a-lawnmower?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Doom Is Now Playable On a Lawnmower](https://games.slashdot.org/story/24/02/26/2152212/doom-is-now-playable-on-a-lawnmower?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-26, 23:00:00](https://yro.slashdot.org/story/24/02/26/2126253/open-source-movie-streaming-project-movie-web-shut-down-by-hollywood-complaint?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Open Source Movie Streaming Project 'Movie-Web' Shut Down By Hollywood Complaint](https://yro.slashdot.org/story/24/02/26/2126253/open-source-movie-streaming-project-movie-web-shut-down-by-hollywood-complaint?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-26, 22:20:00](https://mobile.slashdot.org/story/24/02/26/2115224/oneplus-watch-2-launches-with-wear-os-4-100-hour-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OnePlus Watch 2 Launches With Wear OS 4, 100-Hour Battery](https://mobile.slashdot.org/story/24/02/26/2115224/oneplus-watch-2-launches-with-wear-os-4-100-hour-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-26, 21:40:00](https://hardware.slashdot.org/story/24/02/26/214237/every-pc-is-going-to-be-an-ai-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Every PC Is Going To Be an AI PC'](https://hardware.slashdot.org/story/24/02/26/214237/every-pc-is-going-to-be-an-ai-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
