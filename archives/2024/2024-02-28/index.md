@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 23:20:00](https://slashdot.org/story/24/02/28/2143227/reddit-discloses-bitcoin-and-ether-investments-in-ipo-filing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Discloses Bitcoin and Ether Investments In IPO Filing](https://slashdot.org/story/24/02/28/2143227/reddit-discloses-bitcoin-and-ether-investments-in-ipo-filing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-28, 22:40:00](https://tech.slashdot.org/story/24/02/28/2137237/kde-plasma-6-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [KDE Plasma 6 Released](https://tech.slashdot.org/story/24/02/28/2137237/kde-plasma-6-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-28, 22:02:00](https://yro.slashdot.org/story/24/02/28/2129221/sbf-asks-for-5-year-prison-sentence-calls-100-year-recommendation-grotesque?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SBF Asks For 5-Year Prison Sentence, Calls 100-Year Recommendation 'Grotesque'](https://yro.slashdot.org/story/24/02/28/2129221/sbf-asks-for-5-year-prison-sentence-calls-100-year-recommendation-grotesque?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-28, 21:21:00](https://hardware.slashdot.org/story/24/02/28/2030237/intel-puts-1nm-process-10a-on-the-roadmap-for-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Puts 1nm Process (10A) on the Roadmap For 2027](https://hardware.slashdot.org/story/24/02/28/2030237/intel-puts-1nm-process-10a-on-the-roadmap-for-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed)
