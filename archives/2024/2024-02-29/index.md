@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 03:30:00](https://news.slashdot.org/story/24/02/29/0234206/wildfires-threaten-nuclear-weapons-plant-in-texas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Wildfires Threaten Nuclear Weapons Plant In Texas](https://news.slashdot.org/story/24/02/29/0234206/wildfires-threaten-nuclear-weapons-plant-in-texas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-29, 01:25:00](https://yro.slashdot.org/story/24/02/29/003212/the-intercept-raw-story-and-alternet-sue-openai-and-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Intercept, Raw Story, and AlterNet Sue OpenAI and Microsoft](https://yro.slashdot.org/story/24/02/29/003212/the-intercept-raw-story-and-alternet-sue-openai-and-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-29, 01:01:00](https://news.slashdot.org/story/24/02/28/2352248/cloudflare-makes-pingora-rust-framework-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Makes Pingora Rust Framework Open-Source](https://news.slashdot.org/story/24/02/28/2352248/cloudflare-makes-pingora-rust-framework-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-02-29, 00:45:00](https://slashdot.org/story/24/02/28/2238244/european-parliament-bans-amazon-from-its-premises?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [European Parliament Bans Amazon From Its Premises](https://slashdot.org/story/24/02/28/2238244/european-parliament-bans-amazon-from-its-premises?utm_source=rss1.0mainlinkanon&utm_medium=feed)
