@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-29](index.md)
+
+* [2024-02-29, 01:01:00](https://news.slashdot.org/story/24/02/28/2352248/cloudflare-makes-pingora-rust-framework-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Makes Pingora Rust Framework Open-Source](https://news.slashdot.org/story/24/02/28/2352248/cloudflare-makes-pingora-rust-framework-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-02-29, 00:45:00](https://slashdot.org/story/24/02/28/2238244/european-parliament-bans-amazon-from-its-premises?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [European Parliament Bans Amazon From Its Premises](https://slashdot.org/story/24/02/28/2238244/european-parliament-bans-amazon-from-its-premises?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-02-29, 00:02:00](https://slashdot.org/story/24/02/28/2345233/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [StarCoder 2 Is a Code-Generating AI That Runs On Most GPUs](https://slashdot.org/story/24/02/28/2345233/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
