@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 21:22:00](https://developers.slashdot.org/story/24/03/01/1912250/stack-overflow-to-charge-llm-developers-for-access-to-its-coding-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stack Overflow To Charge LLM Developers For Access To Its Coding Content](https://developers.slashdot.org/story/24/03/01/1912250/stack-overflow-to-charge-llm-developers-for-access-to-its-coding-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-01, 20:41:00](https://news.slashdot.org/story/24/03/01/190220/worldwide-obesity-tops-1-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Worldwide Obesity Tops 1 Billion](https://news.slashdot.org/story/24/03/01/190220/worldwide-obesity-tops-1-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-01, 20:01:00](https://news.slashdot.org/story/24/03/01/1854225/carbon-emissions-reached-record-high-in-2023-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Carbon Emissions Reached Record High in 2023, IEA Says](https://news.slashdot.org/story/24/03/01/1854225/carbon-emissions-reached-record-high-in-2023-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-01, 19:20:00](https://slashdot.org/story/24/03/01/1821259/the-business-of-winding-down-startups-is-booming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Business of Winding Down Startups is Booming](https://slashdot.org/story/24/03/01/1821259/the-business-of-winding-down-startups-is-booming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
