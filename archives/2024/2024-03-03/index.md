@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 03:04:00](https://news.slashdot.org/story/24/03/03/030200/french-court-issues-damages-award-for-violation-of-gpl?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [French Court Issues Damages Award For Violation of GPL](https://news.slashdot.org/story/24/03/03/030200/french-court-issues-damages-award-for-violation-of-gpl?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-03, 00:20:00](https://tech.slashdot.org/story/24/03/03/0016230/boeing-now-also-ordered-to-fix-anti-ice-system-on-737-max-787-jets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boeing Now Also Ordered to Fix Anti-Ice System on 737 Max, 787 Jets](https://tech.slashdot.org/story/24/03/03/0016230/boeing-now-also-ordered-to-fix-anti-ice-system-on-737-max-787-jets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
