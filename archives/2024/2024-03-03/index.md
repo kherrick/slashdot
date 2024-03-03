@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 20:45:00](https://it.slashdot.org/story/24/03/03/2042227/researchers-create-ai-worms-that-can-spread-from-one-system-to-another?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Create AI Worms That Can Spread From One System to Another](https://it.slashdot.org/story/24/03/03/2042227/researchers-create-ai-worms-that-can-spread-from-one-system-to-another?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-03, 19:03:00](https://news.slashdot.org/story/24/03/03/190208/how-ai-is-taking-water-from-the-desert?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How AI is Taking Water From the Desert](https://news.slashdot.org/story/24/03/03/190208/how-ai-is-taking-water-from-the-desert?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-03, 17:34:00](https://developers.slashdot.org/story/24/03/03/035222/communications-of-the-acm-is-now-open-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Communications of the ACM' Is Now Open Access](https://developers.slashdot.org/story/24/03/03/035222/communications-of-the-acm-is-now-open-access?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-03, 16:34:00](https://slashdot.org/story/24/03/03/0523250/huaweis-new-cpu-matches-zen-3-in-single-core-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei's New CPU Matches Zen 3 In Single-Core Performance](https://slashdot.org/story/24/03/03/0523250/huaweis-new-cpu-matches-zen-3-in-single-core-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
