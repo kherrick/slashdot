@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 15:20:00](https://developers.slashdot.org/story/24/03/07/1511252/ai-prompt-engineering-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Prompt Engineering Is Dead'](https://developers.slashdot.org/story/24/03/07/1511252/ai-prompt-engineering-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-07, 14:01:00](https://science.slashdot.org/story/24/03/07/0614207/millions-of-research-papers-at-risk-of-disappearing-from-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Millions of Research Papers at Risk of Disappearing From the Internet](https://science.slashdot.org/story/24/03/07/0614207/millions-of-research-papers-at-risk-of-disappearing-from-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-07, 13:00:00](https://yro.slashdot.org/story/24/03/07/0732221/bipartisan-bill-could-force-bytedance-to-divest-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bipartisan Bill Could Force ByteDance To Divest TikTok](https://yro.slashdot.org/story/24/03/07/0732221/bipartisan-bill-could-force-bytedance-to-divest-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-07, 10:00:00](https://news.slashdot.org/story/24/03/07/0719222/teachers-are-embracing-chatgpt-powered-grading?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Teachers Are Embracing ChatGPT-Powered Grading](https://news.slashdot.org/story/24/03/07/0719222/teachers-are-embracing-chatgpt-powered-grading?utm_source=rss1.0mainlinkanon&utm_medium=feed)
