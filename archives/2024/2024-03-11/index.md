@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 16:55:00](https://yro.slashdot.org/story/24/03/11/1627246/airbnb-is-banning-indoor-security-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Airbnb is Banning Indoor Security Cameras](https://yro.slashdot.org/story/24/03/11/1627246/airbnb-is-banning-indoor-security-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-11, 16:20:00](https://linux.slashdot.org/story/24/03/11/1620223/linux-69-will-be-the-first-to-top-10-million-git-objects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux 6.9 Will Be the First To Top 10 Million Git Objects](https://linux.slashdot.org/story/24/03/11/1620223/linux-69-will-be-the-first-to-top-10-million-git-objects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-11, 15:35:00](https://tech.slashdot.org/story/24/03/11/1535207/jensen-huang-says-even-free-ai-chips-from-competitors-cant-beat-nvidias-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jensen Huang Says Even Free AI Chips From Competitors Can't Beat Nvidia's GPUs](https://tech.slashdot.org/story/24/03/11/1535207/jensen-huang-says-even-free-ai-chips-from-competitors-cant-beat-nvidias-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-11, 14:40:00](https://slashdot.org/story/24/03/11/1343209/xai-will-open-source-grok-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [xAI Will Open-Source Grok This Week](https://slashdot.org/story/24/03/11/1343209/xai-will-open-source-grok-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
