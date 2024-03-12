@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 01:25:00](https://yro.slashdot.org/story/24/03/11/2319210/over-15000-roku-accounts-sold-to-buy-streaming-subscriptions-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Over 15,000 Roku Accounts Sold To Buy Streaming Subscriptions, Devices](https://yro.slashdot.org/story/24/03/11/2319210/over-15000-roku-accounts-sold-to-buy-streaming-subscriptions-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-03-12, 00:45:00](https://science.slashdot.org/story/24/03/11/238248/surgeons-perform-uks-first-operation-using-apples-vision-pro-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Surgeons Perform UK's First Operation Using Apple's Vision Pro Headset](https://science.slashdot.org/story/24/03/11/238248/surgeons-perform-uks-first-operation-using-apples-vision-pro-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-12, 00:02:00](https://news.slashdot.org/story/24/03/11/2044247/youtube-stops-recommending-videos-when-signed-out-of-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Stops Recommending Videos When Signed Out of Google](https://news.slashdot.org/story/24/03/11/2044247/youtube-stops-recommending-videos-when-signed-out-of-google?utm_source=rss1.0mainlinkanon&utm_medium=feed)
