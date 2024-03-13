@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 20:40:00](https://news.slashdot.org/story/24/03/13/207225/who-uses-legacy-admissions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Who Uses Legacy Admissions?](https://news.slashdot.org/story/24/03/13/207225/who-uses-legacy-admissions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-13, 20:01:00](https://yro.slashdot.org/story/24/03/13/1959225/americas-last-top-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America's Last Top Models](https://yro.slashdot.org/story/24/03/13/1959225/americas-last-top-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-13, 19:20:00](https://apple.slashdot.org/story/24/03/13/1854220/epic-says-apple-violated-app-store-injunction-seeks-contempt-order?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Epic Says Apple Violated App Store Injunction, Seeks Contempt Order](https://apple.slashdot.org/story/24/03/13/1854220/epic-says-apple-violated-app-store-injunction-seeks-contempt-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-13, 18:40:00](https://tech.slashdot.org/story/24/03/13/1823251/waymo-to-launch-commercial-robotaxi-service-in-austin-by-end-of-the-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waymo To Launch Commercial Robotaxi Service in Austin By End of the Year](https://tech.slashdot.org/story/24/03/13/1823251/waymo-to-launch-commercial-robotaxi-service-in-austin-by-end-of-the-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
