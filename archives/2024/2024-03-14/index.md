@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 14:03:00](https://slashdot.org/story/24/03/14/143255/china-hits-out-at-us-push-to-ban-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Hits Out at US Push To Ban TikTok](https://slashdot.org/story/24/03/14/143255/china-hits-out-at-us-push-to-ban-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-14, 13:00:00](https://science.slashdot.org/story/24/03/14/055244/paul-alexander-the-man-in-the-iron-lung-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Paul Alexander, 'The Man In the Iron Lung', Has Died](https://science.slashdot.org/story/24/03/14/055244/paul-alexander-the-man-in-the-iron-lung-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-14, 10:00:00](https://news.slashdot.org/story/24/03/14/0456245/sxsw-audiences-loudly-boo-festival-videos-touting-the-virtues-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SXSW Audiences Loudly Boo Festival Videos Touting the Virtues of AI](https://news.slashdot.org/story/24/03/14/0456245/sxsw-audiences-loudly-boo-festival-videos-touting-the-virtues-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-14, 07:00:00](https://science.slashdot.org/story/24/03/14/0446221/faa-grants-license-for-spacexs-third-starship-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FAA Grants License For SpaceX's Third Starship Launch](https://science.slashdot.org/story/24/03/14/0446221/faa-grants-license-for-spacexs-third-starship-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
