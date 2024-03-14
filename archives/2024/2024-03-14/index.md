@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 16:10:00](https://tech.slashdot.org/story/24/03/14/166232/undersea-cable-damage-causes-internet-outages-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Undersea Cable Damage Causes Internet Outages Across Africa](https://tech.slashdot.org/story/24/03/14/166232/undersea-cable-damage-causes-internet-outages-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-14, 15:28:00](https://slashdot.org/story/24/03/14/1528227/outdoor-voices-to-close-all-stores-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Outdoor Voices To Close All Stores This Week](https://slashdot.org/story/24/03/14/1528227/outdoor-voices-to-close-all-stores-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-14, 14:41:00](https://slashdot.org/story/24/03/14/1428252/craig-wright-is-not-bitcoin-creator-satoshi-nakamoto-judge-declares?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://slashdot.org/story/24/03/14/1428252/craig-wright-is-not-bitcoin-creator-satoshi-nakamoto-judge-declares?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-14, 14:03:00](https://slashdot.org/story/24/03/14/143255/china-hits-out-at-us-push-to-ban-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Hits Out at US Push To Ban TikTok](https://slashdot.org/story/24/03/14/143255/china-hits-out-at-us-push-to-ban-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
