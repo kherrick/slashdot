@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 10:00:00](https://slashdot.org/story/24/03/16/044205/is-ai-ruining-etsy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is AI Ruining Etsy?](https://slashdot.org/story/24/03/16/044205/is-ai-ruining-etsy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 07:00:00](https://science.slashdot.org/story/24/03/16/0347239/scientists-reveal-never-before-seen-map-of-the-milky-ways-central-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Reveal Never-Before-Seen Map of the Milky Way's Central Engine](https://science.slashdot.org/story/24/03/16/0347239/scientists-reveal-never-before-seen-map-of-the-milky-ways-central-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 03:30:00](https://hardware.slashdot.org/story/24/03/15/2345230/first-large-offshore-us-wind-farm-delivers-power-to-local-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Large Offshore US Wind Farm Delivers Power To Local Grid](https://hardware.slashdot.org/story/24/03/15/2345230/first-large-offshore-us-wind-farm-delivers-power-to-local-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 02:10:00](https://tech.slashdot.org/story/24/03/15/2340257/tech-layoffs-highest-since-dot-com-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tech Layoffs Highest Since Dot-Com Crash](https://tech.slashdot.org/story/24/03/15/2340257/tech-layoffs-highest-since-dot-com-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
