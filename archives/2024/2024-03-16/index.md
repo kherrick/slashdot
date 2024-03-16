@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 00:50:00](https://apple.slashdot.org/story/24/03/15/2248222/apple-acquires-startup-darwinai-as-ai-efforts-ramp-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Acquires Startup DarwinAI As AI Efforts Ramp Up](https://apple.slashdot.org/story/24/03/15/2248222/apple-acquires-startup-darwinai-as-ai-efforts-ramp-up?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 00:10:00](https://it.slashdot.org/story/24/03/15/2033201/mcdonalds-it-systems-outage-shuts-some-restaurants-globally?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [McDonald's IT Systems Outage Shuts Some Restaurants Globally](https://it.slashdot.org/story/24/03/15/2033201/mcdonalds-it-systems-outage-shuts-some-restaurants-globally?utm_source=rss1.0mainlinkanon&utm_medium=feed)
