@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 15:34:00](https://linux.slashdot.org/story/24/03/16/0340220/linux-distributors-alliance-continues-long-term-support-for-linux-414?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Distributors' Alliance Continues Long-Term Support for Linux 4.14](https://linux.slashdot.org/story/24/03/16/0340220/linux-distributors-alliance-continues-long-term-support-for-linux-414?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 14:34:00](https://tech.slashdot.org/story/24/03/16/0034207/what-happened-to-other-china-owned-social-media-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Happened to Other China-Owned Social Media Apps?](https://tech.slashdot.org/story/24/03/16/0034207/what-happened-to-other-china-owned-social-media-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 13:00:00](https://yro.slashdot.org/story/24/03/16/0410210/florida-man-sues-gm-and-lexisnexis-over-sale-of-his-cadillac-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Florida Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://yro.slashdot.org/story/24/03/16/0410210/florida-man-sues-gm-and-lexisnexis-over-sale-of-his-cadillac-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-16, 10:00:00](https://slashdot.org/story/24/03/16/044205/is-ai-ruining-etsy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is AI Ruining Etsy?](https://slashdot.org/story/24/03/16/044205/is-ai-ruining-etsy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
