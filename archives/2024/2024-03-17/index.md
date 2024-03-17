@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 19:56:00](https://slashdot.org/story/24/03/17/1911222/why-are-so-many-ai-chatbots-dumb-as-rocks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Are So Many AI Chatbots 'Dumb as Rocks'?](https://slashdot.org/story/24/03/17/1911222/why-are-so-many-ai-chatbots-dumb-as-rocks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-17, 18:56:00](https://developers.slashdot.org/story/24/03/17/1810257/freelibre-gnucobol-compiler-reaches-maturity-can-compete-with-proprietary-offerings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Free/Libre 'GnuCOBOL' Compiler Reaches Maturity, Can Compete with Proprietary Offerings](https://developers.slashdot.org/story/24/03/17/1810257/freelibre-gnucobol-compiler-reaches-maturity-can-compete-with-proprietary-offerings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-17, 17:56:00](https://science.slashdot.org/story/24/03/17/1754255/whats-next-for-spacexs-starship?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What's Next for SpaceX's Starship?](https://science.slashdot.org/story/24/03/17/1754255/whats-next-for-spacexs-starship?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-17, 16:34:00](https://yro.slashdot.org/story/24/03/16/0036245/eff-opposes-americas-proposed-tiktok-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EFF Opposes America's Proposed TikTok Ban](https://yro.slashdot.org/story/24/03/16/0036245/eff-opposes-americas-proposed-tiktok-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
