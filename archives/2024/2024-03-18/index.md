@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 18:00:00](https://science.slashdot.org/story/24/03/18/1716247/ai-generated-science?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI-Generated Science](https://science.slashdot.org/story/24/03/18/1716247/ai-generated-science?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-18, 17:20:00](https://it.slashdot.org/story/24/03/18/1642246/fujitsu-says-it-was-hacked-warns-of-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fujitsu Says It Was Hacked, Warns of Data Breach](https://it.slashdot.org/story/24/03/18/1642246/fujitsu-says-it-was-hacked-warns-of-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-18, 16:40:00](https://tech.slashdot.org/story/24/03/18/1515241/google-researchers-unveil-vlogger-an-ai-that-can-bring-still-photos-to-life?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Researchers Unveil 'VLOGGER', an AI That Can Bring Still Photos To Life](https://tech.slashdot.org/story/24/03/18/1515241/google-researchers-unveil-vlogger-an-ai-that-can-bring-still-photos-to-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-18, 16:00:00](https://news.slashdot.org/story/24/03/18/150246/grok-ai-goes-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Grok AI Goes Open Source](https://news.slashdot.org/story/24/03/18/150246/grok-ai-goes-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
