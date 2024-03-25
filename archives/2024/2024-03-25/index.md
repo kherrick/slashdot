@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 03:34:00](https://hardware.slashdot.org/story/24/03/24/224233/californias-successful-dam-removal-project-continues?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California's Successful Dam-Removal Project Continues](https://hardware.slashdot.org/story/24/03/24/224233/californias-successful-dam-removal-project-continues?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-25, 01:34:00](https://news.slashdot.org/story/24/03/24/2335232/has-silicon-valley-style-startup-disruption-arrived-for-book-publishing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Has 'Silicon Valley-style Startup Disruption' Arrived for Book Publishing?](https://news.slashdot.org/story/24/03/24/2335232/has-silicon-valley-style-startup-disruption-arrived-for-book-publishing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
