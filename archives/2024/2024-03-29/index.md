@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 23:00:00](https://tech.slashdot.org/story/24/03/29/2057202/linkedin-moves-in-on-tiktoks-turf-with-short-form-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LinkedIn Moves In On TikTok's Turf With Short-Form Videos](https://tech.slashdot.org/story/24/03/29/2057202/linkedin-moves-in-on-tiktoks-turf-with-short-form-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-29, 22:20:00](https://tech.slashdot.org/story/24/03/29/2046236/20-years-of-gmail?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [20 Years of Gmail](https://tech.slashdot.org/story/24/03/29/2046236/20-years-of-gmail?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-29, 21:40:00](https://yro.slashdot.org/story/24/03/29/2039238/nycs-government-chatbot-is-lying-about-city-laws-and-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NYC's Government Chatbot Is Lying About City Laws and Regulations](https://yro.slashdot.org/story/24/03/29/2039238/nycs-government-chatbot-is-lying-about-city-laws-and-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-29, 21:00:00](https://slashdot.org/story/24/03/29/1915222/microsoft-openai-plan-100-billlion-stargate-ai-supercomputer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft, OpenAI Plan $100 Billlion 'Stargate' AI Supercomputer](https://slashdot.org/story/24/03/29/1915222/microsoft-openai-plan-100-billlion-stargate-ai-supercomputer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
