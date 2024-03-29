@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 21:00:00](https://slashdot.org/story/24/03/29/1915222/microsoft-openai-plan-100-billlion-stargate-ai-supercomputer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft, OpenAI Plan $100 Billlion 'Stargate' AI Supercomputer](https://slashdot.org/story/24/03/29/1915222/microsoft-openai-plan-100-billlion-stargate-ai-supercomputer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-29, 20:20:00](https://tech.slashdot.org/story/24/03/29/1910235/google-podcasts-service-shuts-down-in-the-us-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Podcasts Service Shuts Down in the US Next Week](https://tech.slashdot.org/story/24/03/29/1910235/google-podcasts-service-shuts-down-in-the-us-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-29, 19:40:00](https://hardware.slashdot.org/story/24/03/29/198209/half-of-russian-made-chips-are-defective?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Half of Russian-Made Chips Are Defective](https://hardware.slashdot.org/story/24/03/29/198209/half-of-russian-made-chips-are-defective?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-03-29, 19:05:00](https://slashdot.org/story/24/03/29/193257/openai-reveals-ai-tool-to-recreate-human-voices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Reveals AI Tool To Recreate Human Voices](https://slashdot.org/story/24/03/29/193257/openai-reveals-ai-tool-to-recreate-human-voices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
