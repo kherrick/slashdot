@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-02](index.md)
+
+* [2024-04-02, 00:40:00](https://slashdot.org/story/24/04/01/2125252/discord-to-start-showing-ads-this-week-after-history-of-shunning-them?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discord To Start Showing Ads This Week After History of Shunning Them](https://slashdot.org/story/24/04/01/2125252/discord-to-start-showing-ads-this-week-after-history-of-shunning-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-04-02, 00:01:00](https://news.slashdot.org/story/24/04/01/2055203/record-heat-in-europe-asia-closes-another-extremely-warm-month-for-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Record Heat in Europe, Asia Closes Another Extremely Warm Month For Planet](https://news.slashdot.org/story/24/04/01/2055203/record-heat-in-europe-asia-closes-another-extremely-warm-month-for-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
