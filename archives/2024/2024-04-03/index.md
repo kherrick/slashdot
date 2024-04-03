@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 19:21:00](https://tech.slashdot.org/story/24/04/03/1611227/us-eu-to-use-ai-to-seek-alternate-chemicals-for-making-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US, EU To Use AI To Seek Alternate Chemicals for Making Chips](https://tech.slashdot.org/story/24/04/03/1611227/us-eu-to-use-ai-to-seek-alternate-chemicals-for-making-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-03, 18:40:00](https://entertainment.slashdot.org/story/24/04/03/1810245/new-matrix-movie-in-works?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New 'Matrix' Movie in Works](https://entertainment.slashdot.org/story/24/04/03/1810245/new-matrix-movie-in-works?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-03, 18:00:00](https://tech.slashdot.org/story/24/04/03/1757230/microsoft-reveals-subscription-pricing-for-using-windows-10-beyond-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Reveals Subscription Pricing for Using Windows 10 Beyond 2025](https://tech.slashdot.org/story/24/04/03/1757230/microsoft-reveals-subscription-pricing-for-using-windows-10-beyond-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-03, 17:20:00](https://news.slashdot.org/story/24/04/03/1454232/business-schools-are-going-all-in-on-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Business Schools Are Going All In on AI](https://news.slashdot.org/story/24/04/03/1454232/business-schools-are-going-all-in-on-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
