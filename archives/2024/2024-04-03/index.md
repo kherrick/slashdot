@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 08:30:00](https://news.slashdot.org/story/24/04/03/0830217/taiwan-quake-puts-worlds-most-advanced-chips-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Taiwan Quake Puts World's Most Advanced Chips at Risk](https://news.slashdot.org/story/24/04/03/0830217/taiwan-quake-puts-worlds-most-advanced-chips-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-03, 07:00:00](https://science.slashdot.org/story/24/04/03/0050232/nasa-to-create-time-standard-for-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA To Create Time Standard For the Moon](https://science.slashdot.org/story/24/04/03/0050232/nasa-to-create-time-standard-for-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-03, 03:30:00](https://science.slashdot.org/story/24/04/02/230223/russia-might-have-caused-havana-syndrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Russia Might Have Caused Havana Syndrome'](https://science.slashdot.org/story/24/04/02/230223/russia-might-have-caused-havana-syndrome?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-03, 01:30:00](https://tech.slashdot.org/story/24/04/02/2250236/intel-discloses-7-billion-operating-loss-for-chip-making-unit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Discloses $7 Billion Operating Loss For Chip-Making Unit](https://tech.slashdot.org/story/24/04/02/2250236/intel-discloses-7-billion-operating-loss-for-chip-making-unit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
