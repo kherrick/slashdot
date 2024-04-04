@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 14:10:00](https://tech.slashdot.org/story/24/04/04/1410250/google-weighs-offer-for-32-billion-marketing-firm-hubspot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Weighs Offer for $32 Billion Marketing Firm HubSpot](https://tech.slashdot.org/story/24/04/04/1410250/google-weighs-offer-for-32-billion-marketing-firm-hubspot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-04, 14:01:00](https://news.slashdot.org/story/24/04/04/141214/only-57-companies-produced-80-of-global-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Only 57 Companies Produced 80% of Global Carbon Dioxide](https://news.slashdot.org/story/24/04/04/141214/only-57-companies-produced-80-of-global-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-04, 13:00:00](https://search.slashdot.org/story/24/04/04/0233236/google-considers-charging-for-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Considers Charging For AI-Powered Search](https://search.slashdot.org/story/24/04/04/0233236/google-considers-charging-for-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-04, 10:00:00](https://science.slashdot.org/story/24/04/04/0225250/are-your-solar-eclipse-glasses-fake?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Your Solar Eclipse Glasses Fake?](https://science.slashdot.org/story/24/04/04/0225250/are-your-solar-eclipse-glasses-fake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
