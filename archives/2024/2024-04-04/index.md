@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 14:01:00](https://news.slashdot.org/story/24/04/04/141214/only-57-companies-produced-80-of-global-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Only 57 Companies Produced 80% of Global Carbon Dioxide](https://news.slashdot.org/story/24/04/04/141214/only-57-companies-produced-80-of-global-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-04, 13:00:00](https://search.slashdot.org/story/24/04/04/0233236/google-considers-charging-for-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Considers Charging For AI-Powered Search](https://search.slashdot.org/story/24/04/04/0233236/google-considers-charging-for-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-04, 10:00:00](https://science.slashdot.org/story/24/04/04/0225250/are-your-solar-eclipse-glasses-fake?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Your Solar Eclipse Glasses Fake?](https://science.slashdot.org/story/24/04/04/0225250/are-your-solar-eclipse-glasses-fake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-04, 07:00:00](https://science.slashdot.org/story/24/04/04/0212212/nasa-picks-3-companies-to-help-astronauts-drive-around-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Picks 3 Companies to Help Astronauts Drive Around the Moon](https://science.slashdot.org/story/24/04/04/0212212/nasa-picks-3-companies-to-help-astronauts-drive-around-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
