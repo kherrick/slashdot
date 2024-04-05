@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-05](index.md)
+
+* [2024-04-05, 00:02:00](https://games.slashdot.org/story/24/04/04/2133237/roblox-executive-says-children-making-money-on-the-platform-isnt-exploitation-its-a-gift?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Roblox Executive Says Children Making Money On the Platform Isn't Exploitation, It's a Gift](https://games.slashdot.org/story/24/04/04/2133237/roblox-executive-says-children-making-money-on-the-platform-isnt-exploitation-its-a-gift?utm_source=rss1.0mainlinkanon&utm_medium=feed)
