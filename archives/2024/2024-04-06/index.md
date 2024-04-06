@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 18:34:00](https://news.slashdot.org/story/24/04/06/0541216/ais-impact-on-cs-education-likened-to-calculators-impact-on-math-education?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ AI's Impact on CS Education Likened to Calculator's Impact on Math Education](https://news.slashdot.org/story/24/04/06/0541216/ais-impact-on-cs-education-likened-to-calculators-impact-on-math-education?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-06, 17:34:00](https://news.slashdot.org/story/24/04/06/0218253/is-the-us-about-to-pass-a-landmark-online-privacy-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is The US About To Pass a Landmark Online Privacy Bill?](https://news.slashdot.org/story/24/04/06/0218253/is-the-us-about-to-pass-a-landmark-online-privacy-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-06, 16:34:00](https://tech.slashdot.org/story/24/04/06/1628248/elon-musk-says-tesla-will-unveil-its-robotaxi-on-august-8?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elon Musk Says Tesla Will Unveil Its Robotaxi on August 8](https://tech.slashdot.org/story/24/04/06/1628248/elon-musk-says-tesla-will-unveil-its-robotaxi-on-august-8?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-06, 15:34:00](https://tech.slashdot.org/story/24/04/06/0519207/openbsd-75-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenBSD 7.5 Released](https://tech.slashdot.org/story/24/04/06/0519207/openbsd-75-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
