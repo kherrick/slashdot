@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 16:00:00](https://yro.slashdot.org/story/24/04/09/158218/insurers-are-spying-on-your-home-from-the-sky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Insurers Are Spying on Your Home From the Sky](https://yro.slashdot.org/story/24/04/09/158218/insurers-are-spying-on-your-home-from-the-sky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-09, 15:21:00](https://apple.slashdot.org/story/24/04/09/1520243/beeper-took-on-apples-imessage-dominance-now-its-been-acquired?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Beeper Took On Apple's iMessage Dominance. Now It's Been Acquired](https://apple.slashdot.org/story/24/04/09/1520243/beeper-took-on-apples-imessage-dominance-now-its-been-acquired?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-09, 14:42:00](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-09, 14:01:00](https://tech.slashdot.org/story/24/04/09/1332218/googles-gemini-pro-15-enters-public-preview-on-vertex-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Gemini Pro 1.5 Enters Public Preview on Vertex AI](https://tech.slashdot.org/story/24/04/09/1332218/googles-gemini-pro-15-enters-public-preview-on-vertex-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
