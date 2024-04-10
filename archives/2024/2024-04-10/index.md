@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 22:41:00](https://news.slashdot.org/story/24/04/10/201235/new-bill-would-force-ai-companies-to-reveal-use-of-copyrighted-art?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Bill Would Force AI Companies To Reveal Use of Copyrighted Art](https://news.slashdot.org/story/24/04/10/201235/new-bill-would-force-ai-companies-to-reveal-use-of-copyrighted-art?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-10, 22:00:00](https://yro.slashdot.org/story/24/04/10/1956256/mpa-has-big-plans-to-crack-down-on-movie-piracy-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MPA Has Big Plans To Crack Down on Movie Piracy Again](https://yro.slashdot.org/story/24/04/10/1956256/mpa-has-big-plans-to-crack-down-on-movie-piracy-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-10, 21:20:00](https://news.slashdot.org/story/24/04/10/1950253/more-books-than-ever-targeted-for-bans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [More Books Than Ever Targeted For Bans](https://news.slashdot.org/story/24/04/10/1950253/more-books-than-ever-targeted-for-bans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-10, 20:40:00](https://news.slashdot.org/story/24/04/10/1942254/auto-insurance-prices-have-gone-nuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Auto Insurance Prices Have Gone Nuts](https://news.slashdot.org/story/24/04/10/1942254/auto-insurance-prices-have-gone-nuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
