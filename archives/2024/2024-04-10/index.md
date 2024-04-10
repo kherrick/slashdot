@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 14:20:00](https://yro.slashdot.org/story/24/04/10/148253/proton-acquires-standard-notes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Proton Acquires Standard Notes](https://yro.slashdot.org/story/24/04/10/148253/proton-acquires-standard-notes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-10, 13:40:00](https://tech.slashdot.org/story/24/04/10/0252206/waymo-launches-paid-robotaxi-service-in-los-angeles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waymo Launches Paid Robotaxi Service In Los Angeles](https://tech.slashdot.org/story/24/04/10/0252206/waymo-launches-paid-robotaxi-service-in-los-angeles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-10, 13:00:00](https://yro.slashdot.org/story/24/04/10/0220241/cox-plans-to-take-piracy-liability-battle-to-the-supreme-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cox Plans To Take Piracy Liability Battle To the Supreme Court](https://yro.slashdot.org/story/24/04/10/0220241/cox-plans-to-take-piracy-liability-battle-to-the-supreme-court?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-10, 10:00:00](https://science.slashdot.org/story/24/04/09/2137252/synchron-readies-large-scale-brain-implant-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Synchron Readies Large-Scale Brain Implant Trial](https://science.slashdot.org/story/24/04/09/2137252/synchron-readies-large-scale-brain-implant-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)
