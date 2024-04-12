@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 15:00:00](https://news.slashdot.org/story/24/04/12/147224/canadian-legislators-accused-of-using-ai-to-produce-20000-amendments?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canadian Legislators Accused of Using AI To Produce 20,000 Amendments](https://news.slashdot.org/story/24/04/12/147224/canadian-legislators-accused-of-using-ai-to-produce-20000-amendments?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-12, 14:20:00](https://yro.slashdot.org/story/24/04/12/0723259/google-is-killing-its-vpn-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Is Killing Its VPN Service](https://yro.slashdot.org/story/24/04/12/0723259/google-is-killing-its-vpn-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-12, 13:40:00](https://features.slashdot.org/story/24/04/12/0344213/openai-makes-chatgpt-more-direct-less-verbose?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Makes ChatGPT 'More Direct, Less Verbose'](https://features.slashdot.org/story/24/04/12/0344213/openai-makes-chatgpt-more-direct-less-verbose?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-12, 13:00:00](https://apple.slashdot.org/story/24/04/12/0341227/apple-to-expand-presence-in-florida-with-new-miami-office?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple To Expand Presence In Florida With New Miami Office](https://apple.slashdot.org/story/24/04/12/0341227/apple-to-expand-presence-in-florida-with-new-miami-office?utm_source=rss1.0mainlinkanon&utm_medium=feed)
