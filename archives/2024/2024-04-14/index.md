@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-14](index.md)
+
+* [2024-04-14, 02:33:00](https://hardware.slashdot.org/story/24/04/14/020205/could-a-new-charge-double-the-service-life-of-li-ion-batteries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Could a New Charge Double the Service-life of Li-Ion Batteries?](https://hardware.slashdot.org/story/24/04/14/020205/could-a-new-charge-double-the-service-life-of-li-ion-batteries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
