@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 14:07:00](https://news.slashdot.org/story/24/04/18/148205/us-air-force-confirms-first-successful-ai-dogfight?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Air Force Confirms First Successful AI Dogfight](https://news.slashdot.org/story/24/04/18/148205/us-air-force-confirms-first-successful-ai-dogfight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-18, 13:07:00](https://tech.slashdot.org/story/24/04/18/136235/google-terminates-28-employees-for-protest-of-israeli-cloud-contract?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Terminates 28 Employees For Protest of Israeli Cloud Contract](https://tech.slashdot.org/story/24/04/18/136235/google-terminates-28-employees-for-protest-of-israeli-cloud-contract?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-18, 12:00:00](https://slashdot.org/story/24/04/18/0636230/inside-amazons-secret-operation-to-gather-intel-on-rivals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inside Amazon's Secret Operation To Gather Intel on Rivals](https://slashdot.org/story/24/04/18/0636230/inside-amazons-secret-operation-to-gather-intel-on-rivals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-18, 10:00:00](https://hardware.slashdot.org/story/24/04/17/2324242/is-8gb-of-ram-enough-for-a-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is 8GB of RAM Enough For a Mac?](https://hardware.slashdot.org/story/24/04/17/2324242/is-8gb-of-ram-enough-for-a-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed)
