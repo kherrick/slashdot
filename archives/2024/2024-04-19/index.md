@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 22:40:00](https://slashdot.org/story/24/04/19/2031224/23andme-ceo-anne-wojcicki-considers-taking-company-private?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [23andMe CEO Anne Wojcicki Considers Taking Company Private](https://slashdot.org/story/24/04/19/2031224/23andme-ceo-anne-wojcicki-considers-taking-company-private?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-19, 22:02:00](https://tech.slashdot.org/story/24/04/19/2024202/women-who-code-shuts-down-unexpectedly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Women Who Code' Shuts Down Unexpectedly](https://tech.slashdot.org/story/24/04/19/2024202/women-who-code-shuts-down-unexpectedly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-19, 21:25:00](https://science.slashdot.org/story/24/04/19/2017244/a-chess-formula-is-taking-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Chess Formula Is Taking Over the World](https://science.slashdot.org/story/24/04/19/2017244/a-chess-formula-is-taking-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-19, 20:45:00](https://news.slashdot.org/story/24/04/19/1949228/epa-will-make-polluters-pay-to-clean-up-two-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EPA Will Make Polluters Pay To Clean Up Two 'Forever Chemicals'](https://news.slashdot.org/story/24/04/19/1949228/epa-will-make-polluters-pay-to-clean-up-two-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
