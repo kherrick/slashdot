@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 17:20:00](https://news.slashdot.org/story/24/04/23/1657246/ftc-to-vote-on-noncompete-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC To Vote On Noncompete Ban](https://news.slashdot.org/story/24/04/23/1657246/ftc-to-vote-on-noncompete-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 16:40:00](https://news.slashdot.org/story/24/04/23/1632227/no-one-buys-books-any-more?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [No One Buys Books Any More](https://news.slashdot.org/story/24/04/23/1632227/no-one-buys-books-any-more?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 16:01:00](https://linux.slashdot.org/story/24/04/23/1452255/fedora-linux-40-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fedora Linux 40 Officially Released](https://linux.slashdot.org/story/24/04/23/1452255/fedora-linux-40-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 15:20:00](https://slashdot.org/story/24/04/23/154206/chinas-ageing-tech-workers-hit-by-curse-of-35?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's Ageing Tech Workers Hit By 'Curse of 35'](https://slashdot.org/story/24/04/23/154206/chinas-ageing-tech-workers-hit-by-curse-of-35?utm_source=rss1.0mainlinkanon&utm_medium=feed)
