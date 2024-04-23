@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 23:20:00](https://entertainment.slashdot.org/story/24/04/23/2144258/what-comes-after-oled-meet-qdel?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Comes After OLED? Meet QDEL](https://entertainment.slashdot.org/story/24/04/23/2144258/what-comes-after-oled-meet-qdel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 22:40:00](https://meta.slashdot.org/story/24/04/23/2056254/the-ray-ban-meta-smart-glasses-have-multimodel-ai-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Ray-Ban Meta Smart Glasses Have Multimodel AI Now](https://meta.slashdot.org/story/24/04/23/2056254/the-ray-ban-meta-smart-glasses-have-multimodel-ai-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 22:00:00](https://slashdot.org/story/24/04/23/2041238/hashicorp-reportedly-being-acquired-by-ibm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HashiCorp Reportedly Being Acquired By IBM](https://slashdot.org/story/24/04/23/2041238/hashicorp-reportedly-being-acquired-by-ibm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 21:22:00](https://it.slashdot.org/story/24/04/23/2034256/ex-amazon-exec-claims-she-was-asked-to-ignore-copyright-law-in-race-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ex-Amazon Exec Claims She Was Asked To Ignore Copyright Law in Race To AI](https://it.slashdot.org/story/24/04/23/2034256/ex-amazon-exec-claims-she-was-asked-to-ignore-copyright-law-in-race-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
