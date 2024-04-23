@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 18:45:00](https://yro.slashdot.org/story/24/04/23/1843214/how-gm-tricked-millions-of-drivers-into-being-spied-on?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How GM Tricked Millions of Drivers Into Being Spied On](https://yro.slashdot.org/story/24/04/23/1843214/how-gm-tricked-millions-of-drivers-into-being-spied-on?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 18:01:00](https://apple.slashdot.org/story/24/04/23/1722254/apple-cuts-vision-pro-shipments-as-demand-falls-sharply-beyond-expectations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Cuts Vision Pro Shipments As Demand Falls 'Sharply Beyond Expectations'](https://apple.slashdot.org/story/24/04/23/1722254/apple-cuts-vision-pro-shipments-as-demand-falls-sharply-beyond-expectations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 17:20:00](https://news.slashdot.org/story/24/04/23/1657246/ftc-to-vote-on-noncompete-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC To Vote On Noncompete Ban](https://news.slashdot.org/story/24/04/23/1657246/ftc-to-vote-on-noncompete-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-23, 16:40:00](https://news.slashdot.org/story/24/04/23/1632227/no-one-buys-books-any-more?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [No One Buys Books Any More](https://news.slashdot.org/story/24/04/23/1632227/no-one-buys-books-any-more?utm_source=rss1.0mainlinkanon&utm_medium=feed)
