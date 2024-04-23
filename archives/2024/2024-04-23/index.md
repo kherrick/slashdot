@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-23](index.md)
+
+* [2024-04-23, 00:02:00](https://mobile.slashdot.org/story/24/04/22/209252/huawei-wants-to-take-homegrown-harmonyos-phone-platform-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huawei Wants To Take Homegrown HarmonyOS Phone Platform Worldwide](https://mobile.slashdot.org/story/24/04/22/209252/huawei-wants-to-take-homegrown-harmonyos-phone-platform-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
