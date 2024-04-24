@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 17:20:00](https://tech.slashdot.org/story/24/04/24/1641235/the-man-who-killed-google-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Man Who Killed Google Search'](https://tech.slashdot.org/story/24/04/24/1641235/the-man-who-killed-google-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 16:41:00](https://tech.slashdot.org/story/24/04/24/1559252/windows-11-now-comes-with-its-own-adware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 11 Now Comes With Its Own Adware](https://tech.slashdot.org/story/24/04/24/1559252/windows-11-now-comes-with-its-own-adware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 15:25:00](https://slashdot.org/story/24/04/24/1529240/diamond-market-shows-serious-cracks-from-man-made-stones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Diamond Market Shows Serious Cracks From Man-Made Stones](https://slashdot.org/story/24/04/24/1529240/diamond-market-shows-serious-cracks-from-man-made-stones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 15:14:00](https://news.slashdot.org/story/24/04/24/1514216/biden-signs-tiktok-divest-or-ban-bill-into-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Biden Signs TikTok 'Divest or Ban' Bill Into Law](https://news.slashdot.org/story/24/04/24/1514216/biden-signs-tiktok-divest-or-ban-bill-into-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
