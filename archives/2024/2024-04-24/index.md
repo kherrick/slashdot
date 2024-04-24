@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 18:41:00](https://apple.slashdot.org/story/24/04/24/1738234/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Releases OpenELM: Small, Open Source AI Models Designed To Run On-device](https://apple.slashdot.org/story/24/04/24/1738234/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 18:02:00](https://hardware.slashdot.org/story/24/04/24/1711252/framework-wont-be-just-a-laptop-company-anymore?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Framework Won't Be Just a Laptop Company Anymore](https://hardware.slashdot.org/story/24/04/24/1711252/framework-wont-be-just-a-laptop-company-anymore?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 17:20:00](https://tech.slashdot.org/story/24/04/24/1641235/the-man-who-killed-google-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Man Who Killed Google Search'](https://tech.slashdot.org/story/24/04/24/1641235/the-man-who-killed-google-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 16:41:00](https://tech.slashdot.org/story/24/04/24/1559252/windows-11-now-comes-with-its-own-adware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 11 Now Comes With Its Own Adware](https://tech.slashdot.org/story/24/04/24/1559252/windows-11-now-comes-with-its-own-adware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
