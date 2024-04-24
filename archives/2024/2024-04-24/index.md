@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 15:25:00](https://slashdot.org/story/24/04/24/1529240/diamond-market-shows-serious-cracks-from-man-made-stones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Diamond Market Shows Serious Cracks From Man-Made Stones](https://slashdot.org/story/24/04/24/1529240/diamond-market-shows-serious-cracks-from-man-made-stones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 15:14:00](https://news.slashdot.org/story/24/04/24/1514216/biden-signs-tiktok-divest-or-ban-bill-into-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Biden Signs TikTok 'Divest or Ban' Bill Into Law](https://news.slashdot.org/story/24/04/24/1514216/biden-signs-tiktok-divest-or-ban-bill-into-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 14:40:00](https://it.slashdot.org/story/24/04/24/1432240/qualcomm-is-cheating-on-their-snapdragon-x-elitepro-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qualcomm Is Cheating On Their Snapdragon X Elite/Pro Benchmarks](https://it.slashdot.org/story/24/04/24/1432240/qualcomm-is-cheating-on-their-snapdragon-x-elitepro-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-24, 13:38:00](https://tech.slashdot.org/story/24/04/24/1338225/nvidia-to-acquire-runai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NVIDIA To Acquire Run:ai](https://tech.slashdot.org/story/24/04/24/1338225/nvidia-to-acquire-runai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
