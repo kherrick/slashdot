@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-24](index.md)
+
+* [2024-04-24, 00:02:00](https://it.slashdot.org/story/24/04/23/2158231/change-healthcare-finally-admits-it-paid-ransomware-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Change Healthcare Finally Admits It Paid Ransomware Hackers](https://it.slashdot.org/story/24/04/23/2158231/change-healthcare-finally-admits-it-paid-ransomware-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
