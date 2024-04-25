@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 21:10:00](https://news.slashdot.org/story/24/04/25/2036234/ubuntu-2404-lts-noble-numbat-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ubuntu 24.04 LTS 'Noble Numbat' Officially Released](https://news.slashdot.org/story/24/04/25/2036234/ubuntu-2404-lts-noble-numbat-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-25, 20:50:00](https://entertainment.slashdot.org/story/24/04/25/2044216/twilio-founder-buys-satire-site-the-onion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Twilio Founder Buys Satire Site 'The Onion'](https://entertainment.slashdot.org/story/24/04/25/2044216/twilio-founder-buys-satire-site-the-onion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-25, 20:32:00](https://news.slashdot.org/story/24/04/25/2031208/stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stripe To Start Taking Crypto Payments, Starting With USDC Stablecoin](https://news.slashdot.org/story/24/04/25/2031208/stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-25, 19:50:00](https://tech.slashdot.org/story/24/04/25/1948234/fcc-votes-to-restore-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC Votes To Restore Net Neutrality Rules](https://tech.slashdot.org/story/24/04/25/1948234/fcc-votes-to-restore-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
