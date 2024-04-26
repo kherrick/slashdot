@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 18:40:00](https://it.slashdot.org/story/24/04/26/1736254/captchas-are-getting-harder?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Captchas Are Getting Harder](https://it.slashdot.org/story/24/04/26/1736254/captchas-are-getting-harder?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-26, 18:02:00](https://tech.slashdot.org/story/24/04/26/1714201/gnome-foundation-to-focus-on-fundraising-after-years-running-a-deficit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GNOME Foundation To Focus On Fundraising After Years Running A Deficit](https://tech.slashdot.org/story/24/04/26/1714201/gnome-foundation-to-focus-on-fundraising-after-years-running-a-deficit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-26, 17:20:00](https://news.slashdot.org/story/24/04/26/1612231/chinese-drone-maker-dji-might-get-banned-next-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chinese Drone Maker DJI Might Get Banned Next in the US](https://news.slashdot.org/story/24/04/26/1612231/chinese-drone-maker-dji-might-get-banned-next-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-26, 16:40:00](https://yro.slashdot.org/story/24/04/26/151228/android-tvs-can-expose-user-email-inboxes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android TVs Can Expose User Email Inboxes](https://yro.slashdot.org/story/24/04/26/151228/android-tvs-can-expose-user-email-inboxes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
