@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-27](index.md)
+
+* [2024-04-27, 00:02:00](https://developers.slashdot.org/story/24/04/26/219218/fake-job-interviews-target-developers-with-new-python-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fake Job Interviews Target Developers With New Python Backdoor](https://developers.slashdot.org/story/24/04/26/219218/fake-job-interviews-target-developers-with-new-python-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
