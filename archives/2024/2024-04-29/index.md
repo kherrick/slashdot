@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-29](index.md)
+
+* [2024-04-29, 01:41:00](https://hardware.slashdot.org/story/24/04/29/004219/a-coal-billionaire-is-building-the-worlds-biggest-clean-energy-plant---five-times-the-size-of-paris?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Coal Billionaire is Building the World's Biggest Clean Energy Plant - Five Times the Size of Paris](https://hardware.slashdot.org/story/24/04/29/004219/a-coal-billionaire-is-building-the-worlds-biggest-clean-energy-plant---five-times-the-size-of-paris?utm_source=rss1.0mainlinkanon&utm_medium=feed)
