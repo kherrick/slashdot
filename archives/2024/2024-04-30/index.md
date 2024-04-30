@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 23:40:00](https://games.slashdot.org/story/24/04/30/2152203/dave-busters-to-allow-customers-to-bet-on-arcade-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dave &amp; Buster's To Allow Customers To Bet On Arcade Games](https://games.slashdot.org/story/24/04/30/2152203/dave-busters-to-allow-customers-to-bet-on-arcade-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-30, 23:00:00](https://tech.slashdot.org/story/24/04/30/219252/systemd-announces-run0-sudo-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Systemd Announces 'run0' Sudo Alternative](https://tech.slashdot.org/story/24/04/30/219252/systemd-announces-run0-sudo-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-30, 22:20:00](https://slashdot.org/story/24/04/30/2048242/binance-founder-changpeng-zhao-sentenced-to-4-months-in-prison?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Binance Founder Changpeng Zhao Sentenced To 4 Months In Prison](https://slashdot.org/story/24/04/30/2048242/binance-founder-changpeng-zhao-sentenced-to-4-months-in-prison?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-30, 21:40:00](https://news.slashdot.org/story/24/04/30/2036241/bruce-perens-emits-draft-post-open-zero-cost-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bruce Perens Emits Draft Post-Open Zero Cost License](https://news.slashdot.org/story/24/04/30/2036241/bruce-perens-emits-draft-post-open-zero-cost-license?utm_source=rss1.0mainlinkanon&utm_medium=feed)
