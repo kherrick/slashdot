@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 14:30:00](https://apple.slashdot.org/story/24/04/30/1430252/apple-confirms-iphone-alarm-failure-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Confirms iPhone Alarm Failure Reports](https://apple.slashdot.org/story/24/04/30/1430252/apple-confirms-iphone-alarm-failure-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-30, 14:01:00](https://apple.slashdot.org/story/24/04/30/142210/apple-targets-google-staff-to-build-ai-team?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Targets Google Staff To Build AI Team](https://apple.slashdot.org/story/24/04/30/142210/apple-targets-google-staff-to-build-ai-team?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-30, 13:00:00](https://slashdot.org/story/24/04/30/0119235/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Copilot Workspace Is GitHub's Take On AI-Powered Software Engineering](https://slashdot.org/story/24/04/30/0119235/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-04-30, 10:00:00](https://tech.slashdot.org/story/24/04/30/0053223/nasas-psyche-hits-25-mbps-from-140-miles-away?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA's Psyche Hits 25 Mbps From 140 Miles Away](https://tech.slashdot.org/story/24/04/30/0053223/nasas-psyche-hits-25-mbps-from-140-miles-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)
