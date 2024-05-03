@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 07:00:00](https://mobile.slashdot.org/story/24/05/02/222205/hubble-network-makes-bluetooth-connection-with-a-satellite-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hubble Network Makes Bluetooth Connection With a Satellite For the First Time](https://mobile.slashdot.org/story/24/05/02/222205/hubble-network-makes-bluetooth-connection-with-a-satellite-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-03, 03:30:00](https://science.slashdot.org/story/24/05/02/2159209/fda-qualifies-apple-watchs-afib-history-for-use-in-clinical-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FDA Qualifies Apple Watch's AFib History For Use In Clinical Studies](https://science.slashdot.org/story/24/05/02/2159209/fda-qualifies-apple-watchs-afib-history-for-use-in-clinical-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
