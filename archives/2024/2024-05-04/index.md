@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 00:50:00](https://tech.slashdot.org/story/24/05/03/224203/us-official-urges-china-russia-to-declare-ai-will-not-control-nuclear-weapons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Official Urges China, Russia To Declare AI Will Not Control Nuclear Weapons](https://tech.slashdot.org/story/24/05/03/224203/us-official-urges-china-russia-to-declare-ai-will-not-control-nuclear-weapons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-04, 00:10:00](https://apple.slashdot.org/story/24/05/03/2217202/apple-announces-largest-ever-110-billion-share-buyback-as-iphone-sales-drop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces Largest-Ever $110 Billion Share Buyback As iPhone Sales Drop](https://apple.slashdot.org/story/24/05/03/2217202/apple-announces-largest-ever-110-billion-share-buyback-as-iphone-sales-drop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
