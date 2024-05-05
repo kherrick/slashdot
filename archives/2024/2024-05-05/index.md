@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-05](index.md)
+
+* [2024-05-05, 01:33:00](https://idle.slashdot.org/story/24/05/05/0037217/ai-powered-horsegpt-fails-to-predict-this-years-kentucky-derby-winner?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI-Powered 'HorseGPT' Fails to Predict This Year's Kentucky Derby Winner](https://idle.slashdot.org/story/24/05/05/0037217/ai-powered-horsegpt-fails-to-predict-this-years-kentucky-derby-winner?utm_source=rss1.0mainlinkanon&utm_medium=feed)
