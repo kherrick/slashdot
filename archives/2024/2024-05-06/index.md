@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 03:34:00](https://entertainment.slashdot.org/story/24/05/05/1715226/how-star-wars-was-influenced-by-san-francisco---and-architecture?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How 'Star Wars' was Influenced by San Francisco - and Architecture](https://entertainment.slashdot.org/story/24/05/05/1715226/how-star-wars-was-influenced-by-san-francisco---and-architecture?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-06, 01:35:00](https://science.slashdot.org/story/24/05/05/2333251/scientists-find-a-missing-link-between-poor-diet-and-higher-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Find a 'Missing Link' Between Poor Diet and Higher Cancer Risk](https://science.slashdot.org/story/24/05/05/2333251/scientists-find-a-missing-link-between-poor-diet-and-higher-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
