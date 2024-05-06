@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 20:42:00](https://tech.slashdot.org/story/24/05/06/2014239/the-good-enough-trap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Good Enough Trap'](https://tech.slashdot.org/story/24/05/06/2014239/the-good-enough-trap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-06, 20:04:00](https://news.slashdot.org/story/24/05/06/204257/shell-sold-millions-of-phantom-carbon-credits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Shell Sold Millions of 'Phantom' Carbon Credits](https://news.slashdot.org/story/24/05/06/204257/shell-sold-millions-of-phantom-carbon-credits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-06, 19:31:00](https://news.slashdot.org/story/24/05/06/1932203/north-yorkshire-apostrophe-fans-demand-road-signs-with-nowt-taken-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [North Yorkshire Apostrophe Fans Demand Road Signs With Nowt Taken Out](https://news.slashdot.org/story/24/05/06/1932203/north-yorkshire-apostrophe-fans-demand-road-signs-with-nowt-taken-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-06, 18:42:00](https://it.slashdot.org/story/24/05/06/1841237/google-is-changing-how-you-set-up-2fa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google is Changing How You Set Up 2FA](https://it.slashdot.org/story/24/05/06/1841237/google-is-changing-how-you-set-up-2fa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
