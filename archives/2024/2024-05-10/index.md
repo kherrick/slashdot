@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 15:23:00](https://it.slashdot.org/story/24/05/10/1522256/fbi-working-towards-nabbing-scattered-spider-hackers-official-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI Working Towards Nabbing Scattered Spider Hackers, Official Says](https://it.slashdot.org/story/24/05/10/1522256/fbi-working-towards-nabbing-scattered-spider-hackers-official-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-10, 14:42:00](https://tech.slashdot.org/story/24/05/10/1442244/will-chatbots-eat-indias-it-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will Chatbots Eat India's IT Industry?](https://tech.slashdot.org/story/24/05/10/1442244/will-chatbots-eat-indias-it-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-10, 14:00:00](https://entertainment.slashdot.org/story/24/05/10/1357258/streaming-is-cable-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Streaming is Cable Now](https://entertainment.slashdot.org/story/24/05/10/1357258/streaming-is-cable-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-10, 13:00:00](https://science.slashdot.org/story/24/05/10/0110234/the-most-detailed-3d-reconstruction-of-human-brain-tissue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Most Detailed 3D Reconstruction of Human Brain Tissue](https://science.slashdot.org/story/24/05/10/0110234/the-most-detailed-3d-reconstruction-of-human-brain-tissue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
