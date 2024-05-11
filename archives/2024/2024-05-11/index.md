@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-11](index.md)
+
+* [2024-05-11, 00:49:00](https://news.slashdot.org/story/24/05/10/2212226/g5-severe-geomagnetic-storm-watch-issued-for-first-time-since-2003?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [G5 Severe Geomagnetic Storm Watch Issued For First Time Since 2003](https://news.slashdot.org/story/24/05/10/2212226/g5-severe-geomagnetic-storm-watch-issued-for-first-time-since-2003?utm_source=rss1.0mainlinkanon&utm_medium=feed)
