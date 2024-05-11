@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 22:34:00](https://linux.slashdot.org/story/24/05/10/231215/rhel-and-rocky-and-alma-linux-94-released---plus-ai-offerings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [RHEL (and Rocky and Alma Linux) 9.4 Released - Plus AI Offerings](https://linux.slashdot.org/story/24/05/10/231215/rhel-and-rocky-and-alma-linux-94-released---plus-ai-offerings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-11, 21:34:00](https://hardware.slashdot.org/story/24/05/11/1731202/the-people-who-wont-give-up-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The People Who Won't Give Up Floppy Disks](https://hardware.slashdot.org/story/24/05/11/1731202/the-people-who-wont-give-up-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-11, 20:34:00](https://science.slashdot.org/story/24/05/11/1516229/could-stem-cells-one-day-cure-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Could Stem Cells One Day Cure Diabetes?](https://science.slashdot.org/story/24/05/11/1516229/could-stem-cells-one-day-cure-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-11, 19:34:00](https://tech.slashdot.org/story/24/05/11/1348216/lightweight-dillo-browser-resurrected-tls-but-no-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ Lightweight Dillo Browser Resurrected: TLS But No JavaScript](https://tech.slashdot.org/story/24/05/11/1348216/lightweight-dillo-browser-resurrected-tls-but-no-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed)
