@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 21:34:00](https://hardware.slashdot.org/story/24/05/11/1731202/the-people-who-wont-give-up-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The People Who Won't Give Up Floppy Disks](https://hardware.slashdot.org/story/24/05/11/1731202/the-people-who-wont-give-up-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-11, 20:34:00](https://science.slashdot.org/story/24/05/11/1516229/could-stem-cells-one-day-cure-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Could Stem Cells One Day Cure Diabetes?](https://science.slashdot.org/story/24/05/11/1516229/could-stem-cells-one-day-cure-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-11, 19:34:00](https://tech.slashdot.org/story/24/05/11/1348216/lightweight-dillo-browser-resurrected-tls-but-no-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ Lightweight Dillo Browser Resurrected: TLS But No JavaScript](https://tech.slashdot.org/story/24/05/11/1348216/lightweight-dillo-browser-resurrected-tls-but-no-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-11, 18:34:00](https://science.slashdot.org/story/24/05/11/0421237/nasas-plan-to-build-a-levitating-robot-train-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA's Plan To Build a Levitating Robot Train on the Moon](https://science.slashdot.org/story/24/05/11/0421237/nasas-plan-to-build-a-levitating-robot-train-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
