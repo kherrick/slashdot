@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 17:34:00](https://tech.slashdot.org/story/24/05/12/1513234/photographer-sets-world-record-for-fastest-drone-flight-at-298-mph?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Photographer Sets World Record for Fastest Drone Flight at 298 MPH](https://tech.slashdot.org/story/24/05/12/1513234/photographer-sets-world-record-for-fastest-drone-flight-at-298-mph?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-12, 16:34:00](https://science.slashdot.org/story/24/05/11/2311207/is-dark-matters-main-rival-theory-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Dark Matter's Main Rival Theory Dead?](https://science.slashdot.org/story/24/05/11/2311207/is-dark-matters-main-rival-theory-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-12, 15:34:00](https://hardware.slashdot.org/story/24/05/12/035214/father-of-sql-says-yes-to-nosql?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Father of SQL Says Yes to NoSQL](https://hardware.slashdot.org/story/24/05/12/035214/father-of-sql-says-yes-to-nosql?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-12, 14:34:00](https://linux.slashdot.org/story/24/05/11/229219/amd-core-performance-boost-for-linux-getting-per-cpu-core-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Core Performance Boost For Linux Getting Per-CPU Core Controls](https://linux.slashdot.org/story/24/05/11/229219/amd-core-performance-boost-for-linux-getting-per-cpu-core-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
