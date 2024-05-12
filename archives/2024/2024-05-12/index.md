@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 01:34:00](https://tech.slashdot.org/story/24/05/12/010247/google-employees-question-execs-over-decline-in-morale-after-blowout-earnings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Employees Question Execs Over 'Decline in Morale' After Blowout Earnings](https://tech.slashdot.org/story/24/05/12/010247/google-employees-question-execs-over-decline-in-morale-after-blowout-earnings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-12, 00:04:00](https://linux.slashdot.org/story/24/05/10/2256230/red-hat-and-ciq-offer-extend-support-for-rhel-7-and-centos-7?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Red Hat (and CIQ) Offer Extend Support for RHEL 7 (and CentOS 7)](https://linux.slashdot.org/story/24/05/10/2256230/red-hat-and-ciq-offer-extend-support-for-rhel-7-and-centos-7?utm_source=rss1.0mainlinkanon&utm_medium=feed)
