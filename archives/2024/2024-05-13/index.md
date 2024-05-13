@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 03:54:00](https://tech.slashdot.org/story/24/05/12/2330229/will-smarter-cars-bring-optimized-traffic-lights?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will Smarter Cars Bring 'Optimized' Traffic Lights?](https://tech.slashdot.org/story/24/05/12/2330229/will-smarter-cars-bring-optimized-traffic-lights?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-13, 01:34:00](https://news.slashdot.org/story/24/05/13/0033229/australia-criticized-for-ramping-up-gas-extraction-through-2050-and-beyond?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Australia Criticized For Ramping Up Gas Extraction Through '2050 and Beyond'](https://news.slashdot.org/story/24/05/13/0033229/australia-criticized-for-ramping-up-gas-extraction-through-2050-and-beyond?utm_source=rss1.0mainlinkanon&utm_medium=feed)
