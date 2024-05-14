@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-14](index.md)
+
+* [2024-05-14, 00:02:00](https://news.slashdot.org/story/24/05/13/2054205/ibm-open-sources-its-granite-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Open-Sources Its Granite AI Models](https://news.slashdot.org/story/24/05/13/2054205/ibm-open-sources-its-granite-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
