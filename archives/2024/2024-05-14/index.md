@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 07:00:00](https://tech.slashdot.org/story/24/05/14/0235219/cruise-is-back-driving-autonomously-after-pedestrian-dragging-incident?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cruise Is Back Driving Autonomously After Pedestrian-Dragging Incident](https://tech.slashdot.org/story/24/05/14/0235219/cruise-is-back-driving-autonomously-after-pedestrian-dragging-incident?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-14, 03:30:00](https://ask.slashdot.org/story/24/05/14/0127226/slashdot-asks-how-do-you-protest-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot Asks: How Do You Protest AI Development?](https://ask.slashdot.org/story/24/05/14/0127226/slashdot-asks-how-do-you-protest-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-14, 02:02:00](https://tech.slashdot.org/story/24/05/14/014243/intel-aurora-supercomputer-breaks-exascale-barrier?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Aurora Supercomputer Breaks Exascale Barrier](https://tech.slashdot.org/story/24/05/14/014243/intel-aurora-supercomputer-breaks-exascale-barrier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-14, 01:25:00](https://apple.slashdot.org/story/24/05/14/0056209/chatgpt-is-getting-a-mac-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ChatGPT Is Getting a Mac App](https://apple.slashdot.org/story/24/05/14/0056209/chatgpt-is-getting-a-mac-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
