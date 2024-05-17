@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-17](index.md)
+
+* [2024-05-17, 00:01:00](https://tech.slashdot.org/story/24/05/16/2057243/sony-lays-down-the-gauntlet-on-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Lays Down the Gauntlet on AI](https://tech.slashdot.org/story/24/05/16/2057243/sony-lays-down-the-gauntlet-on-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
