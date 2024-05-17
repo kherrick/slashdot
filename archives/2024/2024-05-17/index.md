@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 23:20:00](https://hardware.slashdot.org/story/24/05/17/236259/wd-rolls-out-new-25-inch-hdds-for-the-first-time-in-7-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [WD Rolls Out New 2.5-Inch HDDs For the First Time In 7 Years](https://hardware.slashdot.org/story/24/05/17/236259/wd-rolls-out-new-25-inch-hdds-for-the-first-time-in-7-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-17, 22:40:00](https://tech.slashdot.org/story/24/05/17/2119221/palantirs-first-ever-ai-warfare-conference?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Palantir's First-Ever AI Warfare Conference](https://tech.slashdot.org/story/24/05/17/2119221/palantirs-first-ever-ai-warfare-conference?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-17, 22:00:00](https://slashdot.org/story/24/05/17/2055218/openai-strikes-reddit-deal-to-train-its-ai-on-your-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Strikes Reddit Deal To Train Its AI On Your Posts](https://slashdot.org/story/24/05/17/2055218/openai-strikes-reddit-deal-to-train-its-ai-on-your-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-17, 21:20:00](https://tech.slashdot.org/story/24/05/17/2047249/france-bans-tiktok-in-new-caledonia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Bans TikTok In New Caledonia](https://tech.slashdot.org/story/24/05/17/2047249/france-bans-tiktok-in-new-caledonia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
