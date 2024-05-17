@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 17:20:00](https://apple.slashdot.org/story/24/05/17/1652254/apple-plans-a-thinner-iphone-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Plans a Thinner iPhone in 2025](https://apple.slashdot.org/story/24/05/17/1652254/apple-plans-a-thinner-iphone-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-17, 16:40:00](https://apple.slashdot.org/story/24/05/17/1634213/apple-geofences-third-party-browser-engine-work-for-eu-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Geofences Third-Party Browser Engine Work for EU Devices](https://apple.slashdot.org/story/24/05/17/1634213/apple-geofences-third-party-browser-engine-work-for-eu-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-17, 16:03:00](https://tech.slashdot.org/story/24/05/17/163227/vw-and-renault-end-talks-to-develop-affordable-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VW and Renault End Talks To Develop Affordable EV](https://tech.slashdot.org/story/24/05/17/163227/vw-and-renault-end-talks-to-develop-affordable-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-17, 15:25:00](https://tech.slashdot.org/story/24/05/17/1525207/openais-long-term-ai-risk-team-has-disbanded?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://tech.slashdot.org/story/24/05/17/1525207/openais-long-term-ai-risk-team-has-disbanded?utm_source=rss1.0mainlinkanon&utm_medium=feed)
