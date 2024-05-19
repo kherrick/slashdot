@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-19](index.md)
+
+* [2024-05-19, 01:04:00](https://linux.slashdot.org/story/24/05/19/0030248/why-a-frozen-distribution-linux-kernel-isnt-the-safest-choice-for-security?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why a 'Frozen' Distribution Linux Kernel Isn't the Safest Choice for Security](https://linux.slashdot.org/story/24/05/19/0030248/why-a-frozen-distribution-linux-kernel-isnt-the-safest-choice-for-security?utm_source=rss1.0mainlinkanon&utm_medium=feed)
