@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 22:40:00](https://games.slashdot.org/story/24/05/21/211237/ign-scoops-up-eurogamer-rock-paper-shotgun-and-more?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IGN Scoops Up Eurogamer, Rock Paper Shotgun, and More](https://games.slashdot.org/story/24/05/21/211237/ign-scoops-up-eurogamer-rock-paper-shotgun-and-more?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-21, 22:20:00](https://entertainment.slashdot.org/story/24/05/21/223209/sonos-enters-the-headphones-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sonos Enters the Headphones Market](https://entertainment.slashdot.org/story/24/05/21/223209/sonos-enters-the-headphones-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-21, 22:02:00](https://apple.slashdot.org/story/24/05/21/2059242/apple-says-us-antitrust-lawsuit-should-be-dismissed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Says US Antitrust Lawsuit Should Be Dismissed](https://apple.slashdot.org/story/24/05/21/2059242/apple-says-us-antitrust-lawsuit-should-be-dismissed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-21, 21:25:00](https://hardware.slashdot.org/story/24/05/21/2058226/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gordon Bell, an Architect of Our Digital Age, Dies At Age 89](https://hardware.slashdot.org/story/24/05/21/2058226/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89?utm_source=rss1.0mainlinkanon&utm_medium=feed)
