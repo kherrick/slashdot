@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 15:28:00](https://yro.slashdot.org/story/24/05/23/1528236/ifixit-is-breaking-up-with-samsung?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iFixit is Breaking Up With Samsung](https://yro.slashdot.org/story/24/05/23/1528236/ifixit-is-breaking-up-with-samsung?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-23, 14:46:00](https://news.slashdot.org/story/24/05/23/1446250/us-sues-to-break-up-ticketmaster-owner-live-nation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Sues To Break Up Ticketmaster Owner, Live Nation](https://news.slashdot.org/story/24/05/23/1446250/us-sues-to-break-up-ticketmaster-owner-live-nation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-23, 14:00:00](https://slashdot.org/story/24/05/23/1350219/taiwan-says-chip-machines-can-be-remotely-shut-off-if-china-invades?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Taiwan Says Chip Machines Can Be Remotely Shut Off If China Invades](https://slashdot.org/story/24/05/23/1350219/taiwan-says-chip-machines-can-be-remotely-shut-off-if-china-invades?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-23, 10:00:00](https://news.slashdot.org/story/24/05/22/2330220/t-mobile-is-raising-prices-on-some-of-its-older-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [T-Mobile Is Raising Prices On Some of Its Older Plans](https://news.slashdot.org/story/24/05/22/2330220/t-mobile-is-raising-prices-on-some-of-its-older-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
