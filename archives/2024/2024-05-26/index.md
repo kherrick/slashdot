@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 07:34:00](https://mobile.slashdot.org/story/24/05/26/018234/a-startups-faster-than-e-ink-android-tablet-challenges-apples-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Startup's Faster-Than-E-Ink Android Tablet Challenges Apple's IPad](https://mobile.slashdot.org/story/24/05/26/018234/a-startups-faster-than-e-ink-android-tablet-challenges-apples-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-26, 03:34:00](https://politics.slashdot.org/story/24/05/26/0240239/trump-promises-hed-commute-the-life-sentence-of-silk-road-founder-ross-ulbricht?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Promises He'd Commute the Life Sentence of 'Silk Road' Founder Ross Ulbricht](https://politics.slashdot.org/story/24/05/26/0240239/trump-promises-hed-commute-the-life-sentence-of-silk-road-founder-ross-ulbricht?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-05-26, 01:34:00](https://news.slashdot.org/story/24/05/25/2052243/proposed-zero-carbon-cement-solution-called-absolute-miracle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Proposed Zero-Carbon Cement Solution Called 'Absolute Miracle'](https://news.slashdot.org/story/24/05/25/2052243/proposed-zero-carbon-cement-solution-called-absolute-miracle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
