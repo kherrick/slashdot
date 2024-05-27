@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-27](index.md)
+
+* [2024-05-27, 01:34:00](https://tech.slashdot.org/story/24/05/27/0039226/pew-research-finds-64-of-americans-live-within-two-miles-of-a-public-ev-charger?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pew Research Finds 64% of Americans Live Within Two Miles of a Public EV Charger](https://tech.slashdot.org/story/24/05/27/0039226/pew-research-finds-64-of-americans-live-within-two-miles-of-a-public-ev-charger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
