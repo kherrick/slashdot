@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-04](index.md)
+
+* [2024-06-04, 03:30:00](https://it.slashdot.org/story/24/06/03/234219/crooks-threaten-to-leak-3-billion-personal-records-stolen-from-background-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Crooks Threaten To Leak 3 Billion Personal Records 'Stolen From Background Firm'](https://it.slashdot.org/story/24/06/03/234219/crooks-threaten-to-leak-3-billion-personal-records-stolen-from-background-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
