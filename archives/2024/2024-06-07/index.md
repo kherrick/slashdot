@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 20:04:00](https://it.slashdot.org/story/24/06/07/1933238/some-cheap-wired-headphones-are-actually-using-bluetooth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Some Cheap Wired Headphones Are Actually Using Bluetooth](https://it.slashdot.org/story/24/06/07/1933238/some-cheap-wired-headphones-are-actually-using-bluetooth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-07, 19:25:00](https://yro.slashdot.org/story/24/06/07/197216/yelp-can-sue-reputation-company-for-promising-to-suppress-bad-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Yelp Can Sue Reputation Company For Promising To Suppress Bad Reviews](https://yro.slashdot.org/story/24/06/07/197216/yelp-can-sue-reputation-company-for-promising-to-suppress-bad-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-07, 18:45:00](https://news.slashdot.org/story/24/06/07/1843223/canonical-launches-ubuntu-core-24?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canonical Launches Ubuntu Core 24](https://news.slashdot.org/story/24/06/07/1843223/canonical-launches-ubuntu-core-24?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-07, 18:12:00](https://news.slashdot.org/story/24/06/07/1813219/a-27-year-old-tamagotchi-mystery-has-been-solved?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A 27-Year Old Tamagotchi Mystery Has Been Solved](https://news.slashdot.org/story/24/06/07/1813219/a-27-year-old-tamagotchi-mystery-has-been-solved?utm_source=rss1.0mainlinkanon&utm_medium=feed)
