@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 10:00:00](https://science.slashdot.org/story/24/06/06/2047228/radio-signal-from-space-repeats-every-hour-defying-explanation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Radio Signal From Space Repeats Every Hour, Defying Explanation](https://science.slashdot.org/story/24/06/06/2047228/radio-signal-from-space-repeats-every-hour-defying-explanation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-07, 07:00:00](https://science.slashdot.org/story/24/06/06/2030223/boeing-starliner-docks-with-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boeing Starliner Docks With ISS](https://science.slashdot.org/story/24/06/06/2030223/boeing-starliner-docks-with-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-07, 03:30:00](https://news.slashdot.org/story/24/06/06/1928222/costco-plans-to-stop-selling-books-year-round?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Costco Plans To Stop Selling Books Year-Round](https://news.slashdot.org/story/24/06/06/1928222/costco-plans-to-stop-selling-books-year-round?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-07, 02:00:00](https://news.slashdot.org/story/24/06/06/2042214/ebay-to-drop-american-express-over-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [eBay To Drop American Express Over Fees](https://news.slashdot.org/story/24/06/06/2042214/ebay-to-drop-american-express-over-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
