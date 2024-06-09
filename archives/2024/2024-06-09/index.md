@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 04:34:00](https://science.slashdot.org/story/24/06/09/0220234/first-detection-of-negative-ions-on-the-moon-far-side-soil-samples-headed-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Detection of Negative Ions on the Moon, Far-Side Soil Samples Headed to Earth](https://science.slashdot.org/story/24/06/09/0220234/first-detection-of-negative-ions-on-the-moon-far-side-soil-samples-headed-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-09, 01:35:00](https://slashdot.org/story/24/06/09/0126246/us-justice-department-indicts-creators-of-bitcoin-anonymizing-samouri-wallet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Justice Department Indicts Creators of Bitcoin-Anonymizing 'Samouri' Wallet](https://slashdot.org/story/24/06/09/0126246/us-justice-department-indicts-creators-of-bitcoin-anonymizing-samouri-wallet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
