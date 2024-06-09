@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-09](index.md)
+
+* [2024-06-09, 01:35:00](https://slashdot.org/story/24/06/09/0126246/us-justice-department-indicts-creators-of-bitcoin-anonymizing-samouri-wallet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Justice Department Indicts Creators of Bitcoin-Anonymizing 'Samouri' Wallet](https://slashdot.org/story/24/06/09/0126246/us-justice-department-indicts-creators-of-bitcoin-anonymizing-samouri-wallet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
