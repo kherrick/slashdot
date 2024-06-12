@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-12](index.md)
+
+* [2024-06-12, 07:00:00](https://slashdot.org/story/24/06/12/0414248/lynn-conway-leading-computer-scientist-and-transgender-pioneer-dies-at-85?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lynn Conway, Leading Computer Scientist and Transgender Pioneer, Dies At 85](https://slashdot.org/story/24/06/12/0414248/lynn-conway-leading-computer-scientist-and-transgender-pioneer-dies-at-85?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-06-12, 03:30:00](https://news.slashdot.org/story/24/06/11/2231220/the-rise-and-fall-of-bnn-breaking-an-ai-generated-news-outlet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://news.slashdot.org/story/24/06/11/2231220/the-rise-and-fall-of-bnn-breaking-an-ai-generated-news-outlet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-06-12, 00:45:00](https://news.slashdot.org/story/24/06/11/2245204/best-buy-is-laying-off-more-employees-as-it-reckons-with-falling-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Best Buy Is Laying Off More Employees As It Reckons With Falling Sales](https://news.slashdot.org/story/24/06/11/2245204/best-buy-is-laying-off-more-employees-as-it-reckons-with-falling-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-06-12, 00:02:00](https://yro.slashdot.org/story/24/06/11/2237241/brazil-hires-openai-to-cut-costs-of-court-battles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brazil Hires OpenAI To Cut Costs of Court Battles](https://yro.slashdot.org/story/24/06/11/2237241/brazil-hires-openai-to-cut-costs-of-court-battles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
