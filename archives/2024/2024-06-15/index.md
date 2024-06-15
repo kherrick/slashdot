@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-15](index.md)
+
+* [2024-06-15, 00:45:00](https://it.slashdot.org/story/24/06/14/2156224/ransomware-attackers-quickly-weaponize-php-vulnerability-with-98-severity-rating?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ransomware Attackers Quickly Weaponize PHP Vulnerability With 9.8 Severity Rating](https://it.slashdot.org/story/24/06/14/2156224/ransomware-attackers-quickly-weaponize-php-vulnerability-with-98-severity-rating?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-06-15, 00:02:00](https://slashdot.org/story/24/06/14/2140221/the-verges-david-pierce-reports-on-the-excel-world-championship-from-vegas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Verge's David Pierce Reports On the Excel World Championship From Vegas](https://slashdot.org/story/24/06/14/2140221/the-verges-david-pierce-reports-on-the-excel-world-championship-from-vegas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
