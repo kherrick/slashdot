@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-16](index.md)
+
+* [2024-06-16, 02:24:00](https://developers.slashdot.org/story/24/06/15/1624253/is-c-more-popular-than-c?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is C++ More Popular Than C?](https://developers.slashdot.org/story/24/06/15/1624253/is-c-more-popular-than-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
