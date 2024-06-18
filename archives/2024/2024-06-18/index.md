@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 23:20:00](https://apple.slashdot.org/story/24/06/18/213235/ios-18-could-sherlock-400-million-in-app-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iOS 18 Could 'Sherlock' $400 Million in App Revenue](https://apple.slashdot.org/story/24/06/18/213235/ios-18-could-sherlock-400-million-in-app-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 22:40:00](https://tech.slashdot.org/story/24/06/18/2059243/mozilla-acquires-ad-metrics-firm-anonym?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Acquires Ad Metrics Firm Anonym ](https://tech.slashdot.org/story/24/06/18/2059243/mozilla-acquires-ad-metrics-firm-anonym?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 22:00:00](https://games.slashdot.org/story/24/06/18/2053238/zelda-is-finally-getting-her-own-game?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zelda is Finally Getting Her Own Game](https://games.slashdot.org/story/24/06/18/2053238/zelda-is-finally-getting-her-own-game?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 21:20:00](https://tech.slashdot.org/story/24/06/18/2050203/kde-plasma-61-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [KDE Plasma 6.1 Released](https://tech.slashdot.org/story/24/06/18/2050203/kde-plasma-61-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)

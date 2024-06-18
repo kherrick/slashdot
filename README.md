@@ -1,5 +1,6 @@
 # [Slashdot](https://kherrick.github.io/slashdot/)
 
+* [2024-06-18, 23:20:00](https://apple.slashdot.org/story/24/06/18/213235/ios-18-could-sherlock-400-million-in-app-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iOS 18 Could 'Sherlock' $400 Million in App Revenue](https://apple.slashdot.org/story/24/06/18/213235/ios-18-could-sherlock-400-million-in-app-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 22:40:00](https://tech.slashdot.org/story/24/06/18/2059243/mozilla-acquires-ad-metrics-firm-anonym?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Acquires Ad Metrics Firm Anonym ](https://tech.slashdot.org/story/24/06/18/2059243/mozilla-acquires-ad-metrics-firm-anonym?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 22:00:00](https://games.slashdot.org/story/24/06/18/2053238/zelda-is-finally-getting-her-own-game?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zelda is Finally Getting Her Own Game](https://games.slashdot.org/story/24/06/18/2053238/zelda-is-finally-getting-her-own-game?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 21:20:00](https://tech.slashdot.org/story/24/06/18/2050203/kde-plasma-61-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [KDE Plasma 6.1 Released](https://tech.slashdot.org/story/24/06/18/2050203/kde-plasma-61-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -14,7 +15,6 @@
 * [2024-06-18, 14:40:00](https://tech.slashdot.org/story/24/06/18/1433220/ev-maker-fisker-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EV Maker Fisker Files for Bankruptcy](https://tech.slashdot.org/story/24/06/18/1433220/ev-maker-fisker-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 14:02:00](https://linux.slashdot.org/story/24/06/18/142227/suse-wants-a-piece-of-the-ai-cake-too?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SUSE Wants a Piece of the AI Cake, Too](https://linux.slashdot.org/story/24/06/18/142227/suse-wants-a-piece-of-the-ai-cake-too?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 13:00:00](https://news.slashdot.org/story/24/06/18/0120249/london-underground-hosts-tests-for-quantum-compass-that-could-replace-gps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [London Underground Hosts Tests For 'Quantum Compass' That Could Replace GPS](https://news.slashdot.org/story/24/06/18/0120249/london-underground-hosts-tests-for-quantum-compass-that-could-replace-gps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-06-18, 10:00:00](https://hardware.slashdot.org/story/24/06/18/0111249/apples-battery-supplier-tdk-says-it-made-a-big-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's Battery Supplier TDK Says It Made a Big Breakthrough](https://hardware.slashdot.org/story/24/06/18/0111249/apples-battery-supplier-tdk-says-it-made-a-big-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## [Archives](archives/index.md)
 
