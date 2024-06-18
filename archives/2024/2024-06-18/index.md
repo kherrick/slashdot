@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 16:04:00](https://news.slashdot.org/story/24/06/18/164200/los-angeles-schools-to-consider-ban-on-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Los Angeles Schools To Consider Ban on Smartphones](https://news.slashdot.org/story/24/06/18/164200/los-angeles-schools-to-consider-ban-on-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 15:29:00](https://apple.slashdot.org/story/24/06/18/1529239/apple-suspends-work-on-next-high-end-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Suspends Work on Next High-End Headset](https://apple.slashdot.org/story/24/06/18/1529239/apple-suspends-work-on-next-high-end-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 14:40:00](https://tech.slashdot.org/story/24/06/18/1433220/ev-maker-fisker-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EV Maker Fisker Files for Bankruptcy](https://tech.slashdot.org/story/24/06/18/1433220/ev-maker-fisker-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-18, 14:02:00](https://linux.slashdot.org/story/24/06/18/142227/suse-wants-a-piece-of-the-ai-cake-too?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SUSE Wants a Piece of the AI Cake, Too](https://linux.slashdot.org/story/24/06/18/142227/suse-wants-a-piece-of-the-ai-cake-too?utm_source=rss1.0mainlinkanon&utm_medium=feed)
