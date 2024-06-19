@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-19](index.md)
+
+* [2024-06-19, 00:20:00](https://hardware.slashdot.org/story/24/06/18/2228205/electricity-prices-in-france-turn-negative-as-renewable-energy-floods-the-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Electricity Prices In France Turn Negative As Renewable Energy Floods the Grid](https://hardware.slashdot.org/story/24/06/18/2228205/electricity-prices-in-france-turn-negative-as-renewable-energy-floods-the-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-06-19, 00:02:00](https://tech.slashdot.org/story/24/06/18/214230/an-effort-to-fund-an-internet-subsidy-program-just-got-thwarted-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An Effort To Fund an Internet Subsidy Program Just Got Thwarted Again](https://tech.slashdot.org/story/24/06/18/214230/an-effort-to-fund-an-internet-subsidy-program-just-got-thwarted-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
