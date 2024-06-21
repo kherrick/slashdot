@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 16:51:00](https://apple.slashdot.org/story/24/06/21/1652202/apple-wont-roll-out-ai-tech-in-eu-market-over-regulatory-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Won't Roll Out AI Tech In EU Market Over Regulatory Concerns](https://apple.slashdot.org/story/24/06/21/1652202/apple-wont-roll-out-ai-tech-in-eu-market-over-regulatory-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-21, 16:40:00](https://yro.slashdot.org/story/24/06/21/1630250/federal-jury-convicts-five-in-major-illegal-streaming-case?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Federal Jury Convicts Five in Major Illegal Streaming Case](https://yro.slashdot.org/story/24/06/21/1630250/federal-jury-convicts-five-in-major-illegal-streaming-case?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-21, 16:10:00](https://science.slashdot.org/story/24/06/21/1610234/nasa-faces-first-ever-claim-for-space-debris-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Faces First-Ever Claim for Space Debris Damage](https://science.slashdot.org/story/24/06/21/1610234/nasa-faces-first-ever-claim-for-space-debris-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-21, 15:22:00](https://tech.slashdot.org/story/24/06/21/1516255/30-years-of-freedos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [30 Years of FreeDOS](https://tech.slashdot.org/story/24/06/21/1516255/30-years-of-freedos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
