@@ -1,4 +1,8 @@
-# [Slashdot](https://kherrick.github.io/slashdot/)
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-21](index.md)
 
 * [2024-06-21, 16:10:00](https://science.slashdot.org/story/24/06/21/1610234/nasa-faces-first-ever-claim-for-space-debris-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Faces First-Ever Claim for Space Debris Damage](https://science.slashdot.org/story/24/06/21/1610234/nasa-faces-first-ever-claim-for-space-debris-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-21, 15:22:00](https://tech.slashdot.org/story/24/06/21/1516255/30-years-of-freedos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [30 Years of FreeDOS](https://tech.slashdot.org/story/24/06/21/1516255/30-years-of-freedos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -11,13 +15,3 @@
 * [2024-06-21, 01:50:00](https://yro.slashdot.org/story/24/06/20/2131204/ibm-kyndryl-sued-for-age-discrimination-by-its-own-vps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM, Kyndryl Sued For Age Discrimination By Its Own VPs](https://yro.slashdot.org/story/24/06/20/2131204/ibm-kyndryl-sued-for-age-discrimination-by-its-own-vps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-21, 01:10:00](https://hardware.slashdot.org/story/24/06/20/2113208/sweden-rejects-a-new-electrical-interconnection-with-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sweden Rejects a New Electrical Interconnection With Germany](https://hardware.slashdot.org/story/24/06/20/2113208/sweden-rejects-a-new-electrical-interconnection-with-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-21, 00:30:00](https://news.slashdot.org/story/24/06/20/210202/500000-books-have-been-deleted-from-the-internet-archives-lending-library?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [500,000 Books Have Been Deleted From the Internet Archive's Lending Library](https://news.slashdot.org/story/24/06/20/210202/500000-books-have-been-deleted-from-the-internet-archives-lending-library?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-06-20, 23:50:00](https://linux.slashdot.org/story/24/06/20/2041244/suse-upgrades-its-distros-with-19-years-of-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SUSE Upgrades Its Distros With 19 Years of Support](https://linux.slashdot.org/story/24/06/20/2041244/suse-upgrades-its-distros-with-19-years-of-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-06-20, 23:10:00](https://tech.slashdot.org/story/24/06/20/2029246/x-window-system-turns-40?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [X Window System Turns 40](https://tech.slashdot.org/story/24/06/20/2029246/x-window-system-turns-40?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-06-20, 22:30:00](https://slashdot.org/story/24/06/20/2026225/kraken-accuses-blockchain-security-outfit-certik-of-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Kraken Accuses Blockchain Security Outfit CertiK of Extortion](https://slashdot.org/story/24/06/20/2026225/kraken-accuses-blockchain-security-outfit-certik-of-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-06-20, 21:50:00](https://news.slashdot.org/story/24/06/20/2020203/amazons-ditching-the-plastic-air-pillows-in-its-boxes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon's Ditching the Plastic Air Pillows In Its Boxes](https://news.slashdot.org/story/24/06/20/2020203/amazons-ditching-the-plastic-air-pillows-in-its-boxes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Archives](archives/index.md)
-
-* [2024](archives/2024/index.md)
-* [2023](archives/2023/index.md)
-* [2022](archives/2022/index.md)
