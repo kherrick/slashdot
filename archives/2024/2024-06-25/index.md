@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-25](index.md)
+
+* [2024-06-25, 00:02:00](https://yro.slashdot.org/story/24/06/24/2319232/julian-assange-reaches-plea-deal-with-us-allowing-him-to-go-free?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Julian Assange Reaches Plea Deal With US, Allowing Him To Go Free](https://yro.slashdot.org/story/24/06/24/2319232/julian-assange-reaches-plea-deal-with-us-allowing-him-to-go-free?utm_source=rss1.0mainlinkanon&utm_medium=feed)
