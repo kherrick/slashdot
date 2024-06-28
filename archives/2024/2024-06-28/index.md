@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 18:40:00](https://news.slashdot.org/story/24/06/28/1630246/the-majority-of-gen-z-describe-themselves-as-video-content-creators?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Majority of Gen Z Describe Themselves as Video Content Creators](https://news.slashdot.org/story/24/06/28/1630246/the-majority-of-gen-z-describe-themselves-as-video-content-creators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-28, 17:30:00](https://yro.slashdot.org/story/24/06/28/1715212/supreme-court-ruling-kneecaps-federal-regulators?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Supreme Court Ruling Kneecaps Federal Regulators](https://yro.slashdot.org/story/24/06/28/1715212/supreme-court-ruling-kneecaps-federal-regulators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-28, 17:04:00](https://yro.slashdot.org/story/24/06/28/174236/sec-sues-consensys?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SEC Sues ConsenSys](https://yro.slashdot.org/story/24/06/28/174236/sec-sues-consensys?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-06-28, 16:40:00](https://it.slashdot.org/story/24/06/28/1453217/bulk-of-indonesia-data-hit-by-cyberattack-not-backed-up-officials-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bulk of Indonesia Data Hit by Cyberattack Not Backed Up, Officials Say](https://it.slashdot.org/story/24/06/28/1453217/bulk-of-indonesia-data-hit-by-cyberattack-not-backed-up-officials-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
