@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-29](index.md)
+
+* [2024-06-29, 00:02:00](https://yro.slashdot.org/story/24/06/28/2158237/appeals-court-seems-lost-on-how-internet-archive-harms-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Appeals Court Seems Lost On How Internet Archive Harms Publishers](https://yro.slashdot.org/story/24/06/28/2158237/appeals-court-seems-lost-on-how-internet-archive-harms-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
