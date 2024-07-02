@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 19:23:00](https://it.slashdot.org/story/24/07/02/194246/despite-os-shielding-up-half-of-america-opts-for-third-party-antivirus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Despite OS Shielding Up, Half of America Opts For Third-Party Antivirus](https://it.slashdot.org/story/24/07/02/194246/despite-os-shielding-up-half-of-america-opts-for-third-party-antivirus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-02, 18:44:00](https://news.slashdot.org/story/24/07/02/1843241/canned-water-made-from-air-and-sunlight-to-hit-us-stores-in-september?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canned Water Made From Air and Sunlight To Hit US Stores in September](https://news.slashdot.org/story/24/07/02/1843241/canned-water-made-from-air-and-sunlight-to-hit-us-stores-in-september?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-02, 18:05:00](https://science.slashdot.org/story/24/07/02/1752243/the-rubiks-cube-turns-50?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Rubik's Cube Turns 50](https://science.slashdot.org/story/24/07/02/1752243/the-rubiks-cube-turns-50?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-02, 17:30:00](https://tech.slashdot.org/story/24/07/02/1731203/google-might-abandon-chromeos-flex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Might Abandon ChromeOS Flex](https://tech.slashdot.org/story/24/07/02/1731203/google-might-abandon-chromeos-flex?utm_source=rss1.0mainlinkanon&utm_medium=feed)
