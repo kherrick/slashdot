@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 17:30:00](https://tech.slashdot.org/story/24/07/02/1731203/google-might-abandon-chromeos-flex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Might Abandon ChromeOS Flex](https://tech.slashdot.org/story/24/07/02/1731203/google-might-abandon-chromeos-flex?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-02, 16:45:00](https://entertainment.slashdot.org/story/24/07/02/1645254/netflix-is-starting-to-phase-out-its-cheapest-ad-free-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix is Starting To Phase Out Its Cheapest Ad-Free Plan](https://entertainment.slashdot.org/story/24/07/02/1645254/netflix-is-starting-to-phase-out-its-cheapest-ad-free-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-02, 16:08:00](https://news.slashdot.org/story/24/07/02/168242/greece-introduces-six-day-working-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Greece Introduces Six-day Working Week](https://news.slashdot.org/story/24/07/02/168242/greece-introduces-six-day-working-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-02, 15:33:00](https://tech.slashdot.org/story/24/07/02/1534204/figma-disables-ai-design-tool-that-copied-apple-weather-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Figma Disables AI Design Tool That Copied Apple Weather App](https://tech.slashdot.org/story/24/07/02/1534204/figma-disables-ai-design-tool-that-copied-apple-weather-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
