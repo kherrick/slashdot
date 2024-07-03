@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 16:45:00](https://news.slashdot.org/story/24/07/03/1637232/supreme-court-ruling-will-likely-cause-cyber-regulation-chaos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Supreme Court Ruling Will Likely Cause Cyber Regulation Chaos](https://news.slashdot.org/story/24/07/03/1637232/supreme-court-ruling-will-likely-cause-cyber-regulation-chaos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-03, 16:04:00](https://slashdot.org/story/24/07/03/1554247/japan-wins-war-on-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan Wins War On Floppy Disks](https://slashdot.org/story/24/07/03/1554247/japan-wins-war-on-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-03, 15:26:00](https://hardware.slashdot.org/story/24/07/03/1526226/tech-industry-wants-to-lock-up-nuclear-power-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tech Industry Wants to Lock Up Nuclear Power for AI](https://hardware.slashdot.org/story/24/07/03/1526226/tech-industry-wants-to-lock-up-nuclear-power-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-03, 14:40:00](https://yro.slashdot.org/story/24/07/03/1433248/proton-launches-privacy-focused-alternative-to-google-docs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Proton Launches Privacy-Focused Alternative To Google Docs](https://yro.slashdot.org/story/24/07/03/1433248/proton-launches-privacy-focused-alternative-to-google-docs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
