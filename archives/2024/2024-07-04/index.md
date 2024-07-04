@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 16:01:00](https://apple.slashdot.org/story/24/07/04/1342248/apple-bows-to-kremlin-pressure-to-remove-leading-vpns-from-russian-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Bows To Kremlin Pressure To Remove Leading VPNs From Russian App Store](https://apple.slashdot.org/story/24/07/04/1342248/apple-bows-to-kremlin-pressure-to-remove-leading-vpns-from-russian-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-04, 15:00:00](https://yro.slashdot.org/story/24/07/04/1333206/federal-judge-partially-blocks-us-ban-on-noncompetes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Federal Judge Partially Blocks US Ban On Noncompetes](https://yro.slashdot.org/story/24/07/04/1333206/federal-judge-partially-blocks-us-ban-on-noncompetes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-04, 13:25:00](https://it.slashdot.org/story/24/07/04/1325203/a-hacker-stole-openai-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Hacker Stole OpenAI Secrets](https://it.slashdot.org/story/24/07/04/1325203/a-hacker-stole-openai-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-04, 13:00:00](https://yro.slashdot.org/story/24/07/04/0117224/sony-music-goes-after-piracy-portal-hikari-no-akari?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Music Goes After Piracy Portal 'Hikari-no-Akari'](https://yro.slashdot.org/story/24/07/04/0117224/sony-music-goes-after-piracy-portal-hikari-no-akari?utm_source=rss1.0mainlinkanon&utm_medium=feed)
