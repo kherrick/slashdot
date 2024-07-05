@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 02:25:00](https://tech.slashdot.org/story/24/07/05/0224237/half-of-petrol-stations-expected-to-close-in-next-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Half of Petrol Stations Expected To Close in Next Decade](https://tech.slashdot.org/story/24/07/05/0224237/half-of-petrol-stations-expected-to-close-in-next-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-05, 01:23:00](https://it.slashdot.org/story/24/07/05/0123208/roku-faces-criticism-over-controversial-tv-update?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Roku Faces Criticism Over Controversial TV Update](https://it.slashdot.org/story/24/07/05/0123208/roku-faces-criticism-over-controversial-tv-update?utm_source=rss1.0mainlinkanon&utm_medium=feed)
