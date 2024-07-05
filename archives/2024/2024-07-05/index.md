@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 13:02:00](https://apple.slashdot.org/story/24/07/05/131241/epic-games-says-apple-stalling-launch-of-its-game-store-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Epic Games Says Apple Stalling Launch of Its Game Store in Europe](https://apple.slashdot.org/story/24/07/05/131241/epic-games-says-apple-stalling-launch-of-its-game-store-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-05, 10:25:00](https://yro.slashdot.org/story/24/07/05/1023247/europol-says-mobile-roaming-tech-making-its-job-too-hard?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europol Says Mobile Roaming Tech Making Its Job Too Hard](https://yro.slashdot.org/story/24/07/05/1023247/europol-says-mobile-roaming-tech-making-its-job-too-hard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-05, 08:15:00](https://slashdot.org/story/24/07/05/0813245/ray-kurzweil-still-says-he-will-merge-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ray Kurzweil Still Says He Will Merge With AI](https://slashdot.org/story/24/07/05/0813245/ray-kurzweil-still-says-he-will-merge-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-05, 06:00:00](https://games.slashdot.org/story/24/07/05/0338222/nintendo-ends-wii-u-repairs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nintendo Ends Wii U Repairs](https://games.slashdot.org/story/24/07/05/0338222/nintendo-ends-wii-u-repairs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
