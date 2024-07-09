@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 19:40:00](https://yro.slashdot.org/story/24/07/09/1938250/spain-sentences-15-schoolchildren-over-ai-generated-naked-images?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Spain Sentences 15 Schoolchildren Over AI-Generated Naked Images](https://yro.slashdot.org/story/24/07/09/1938250/spain-sentences-15-schoolchildren-over-ai-generated-naked-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-09, 18:40:00](https://news.slashdot.org/story/24/07/09/1815210/fcc-to-block-phone-company-over-robocalls-pushing-scam-tax-relief-program?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC To Block Phone Company Over Robocalls Pushing Scam 'Tax Relief Program'](https://news.slashdot.org/story/24/07/09/1815210/fcc-to-block-phone-company-over-robocalls-pushing-scam-tax-relief-program?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-09, 18:01:00](https://news.slashdot.org/story/24/07/09/1758213/us-nuke-agency-buys-internet-backbone-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Nuke Agency Buys Internet Backbone Data](https://news.slashdot.org/story/24/07/09/1758213/us-nuke-agency-buys-internet-backbone-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-09, 17:20:00](https://news.slashdot.org/story/24/07/09/1627253/mozilla-releases-firefox-128?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Releases FireFox 128](https://news.slashdot.org/story/24/07/09/1627253/mozilla-releases-firefox-128?utm_source=rss1.0mainlinkanon&utm_medium=feed)
