@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 18:01:00](https://news.slashdot.org/story/24/07/09/1758213/us-nuke-agency-buys-internet-backbone-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Nuke Agency Buys Internet Backbone Data](https://news.slashdot.org/story/24/07/09/1758213/us-nuke-agency-buys-internet-backbone-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-09, 17:20:00](https://news.slashdot.org/story/24/07/09/1627253/mozilla-releases-firefox-128?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Releases FireFox 128](https://news.slashdot.org/story/24/07/09/1627253/mozilla-releases-firefox-128?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-09, 16:41:00](https://tech.slashdot.org/story/24/07/09/1640243/speed-limiters-now-mandatory-in-all-new-eu-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Speed Limiters Now Mandatory In All New EU Cars](https://tech.slashdot.org/story/24/07/09/1640243/speed-limiters-now-mandatory-in-all-new-eu-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-09, 16:02:00](https://it.slashdot.org/story/24/07/09/1548202/australias-cybersecurity-agency-says-china-backed-hackers-behind-online-crimes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Australia's Cybersecurity Agency Says China-backed Hackers Behind Online Crimes](https://it.slashdot.org/story/24/07/09/1548202/australias-cybersecurity-agency-says-china-backed-hackers-behind-online-crimes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
