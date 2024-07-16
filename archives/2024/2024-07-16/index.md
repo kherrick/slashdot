@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 19:24:00](https://tech.slashdot.org/story/24/07/16/1843240/google-now-defaults-to-not-indexing-your-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Now Defaults To Not Indexing Your Content](https://tech.slashdot.org/story/24/07/16/1843240/google-now-defaults-to-not-indexing-your-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-16, 18:50:00](https://it.slashdot.org/story/24/07/16/1832237/hackers-claim-to-have-leaked-11-tb-of-disney-slack-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hackers Claim To Have Leaked 1.1 TB of Disney Slack Messages](https://it.slashdot.org/story/24/07/16/1832237/hackers-claim-to-have-leaked-11-tb-of-disney-slack-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-16, 18:16:00](https://slashdot.org/story/24/07/16/1817230/amazon-enforces-new-office-hours-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Enforces New Office Hours Rule](https://slashdot.org/story/24/07/16/1817230/amazon-enforces-new-office-hours-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-16, 17:25:00](https://tech.slashdot.org/story/24/07/16/1712202/bitcoin-is-legit-blackrocks-larry-fink-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bitcoin is Legit, BlackRock's Larry Fink Says](https://tech.slashdot.org/story/24/07/16/1712202/bitcoin-is-legit-blackrocks-larry-fink-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
