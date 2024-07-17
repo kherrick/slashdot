@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 10:00:00](https://science.slashdot.org/story/24/07/17/0142204/amazing-new-technology-set-to-transform-the-search-for-alien-life?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Amazing' New Technology Set To Transform the Search For Alien Life](https://science.slashdot.org/story/24/07/17/0142204/amazing-new-technology-set-to-transform-the-search-for-alien-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-17, 07:00:00](https://science.slashdot.org/story/24/07/17/0135238/startup-makes-butter-using-co2-and-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Startup Makes Butter Using CO2 and Water](https://science.slashdot.org/story/24/07/17/0135238/startup-makes-butter-using-co2-and-water?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-17, 03:30:00](https://yro.slashdot.org/story/24/07/16/2349233/puerto-rico-files-1-billion-suit-against-fossil-fuel-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Puerto Rico Files $1 Billion Suit Against Fossil Fuel Companies](https://yro.slashdot.org/story/24/07/16/2349233/puerto-rico-files-1-billion-suit-against-fossil-fuel-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-17, 01:25:00](https://news.slashdot.org/story/24/07/16/2337242/uk-nears-1-million-ev-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Nears 1 Million EV Chargers](https://news.slashdot.org/story/24/07/16/2337242/uk-nears-1-million-ev-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
