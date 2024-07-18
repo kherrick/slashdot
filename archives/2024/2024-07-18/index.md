@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-18](index.md)
+
+* [2024-07-18, 00:02:00](https://games.slashdot.org/story/24/07/17/2113205/valve-runs-its-massive-pc-gaming-ecosystem-with-only-about-350-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Valve Runs Its Massive PC Gaming Ecosystem With Only About 350 Employees](https://games.slashdot.org/story/24/07/17/2113205/valve-runs-its-massive-pc-gaming-ecosystem-with-only-about-350-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
