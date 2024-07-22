@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 16:40:00](https://it.slashdot.org/story/24/07/22/1620209/developing-film-photos-is-a-lost-art?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developing Film Photos Is a Lost Art](https://it.slashdot.org/story/24/07/22/1620209/developing-film-photos-is-a-lost-art?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-22, 16:02:00](https://hardware.slashdot.org/story/24/07/22/1558226/intel-says-its-desktop-core-crashes-dont-extend-to-mobile-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Says Its Desktop Core Crashes Don't Extend To Mobile Chips](https://hardware.slashdot.org/story/24/07/22/1558226/intel-says-its-desktop-core-crashes-dont-extend-to-mobile-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-22, 15:28:00](https://science.slashdot.org/story/24/07/22/1528257/us-wins-math-olympiad-for-first-time-in-21-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Wins Math Olympiad For First Time In 21 Years](https://science.slashdot.org/story/24/07/22/1528257/us-wins-math-olympiad-for-first-time-in-21-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-22, 14:42:00](https://news.slashdot.org/story/24/07/22/1443200/heres-what-happens-when-you-give-people-free-money?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Here's What Happens When You Give People Free Money](https://news.slashdot.org/story/24/07/22/1443200/heres-what-happens-when-you-give-people-free-money?utm_source=rss1.0mainlinkanon&utm_medium=feed)
