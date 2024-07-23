@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 18:00:00](https://news.slashdot.org/story/24/07/23/176228/ftc-launches-probe-into-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Launches Probe Into 'Surveillance Pricing'](https://news.slashdot.org/story/24/07/23/176228/ftc-launches-probe-into-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-23, 17:21:00](https://tech.slashdot.org/story/24/07/23/1632257/meta-warns-eu-regulatory-efforts-risk-bloc-missing-out-on-ai-advances?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Warns EU Regulatory Efforts Risk Bloc Missing Out on AI Advances](https://tech.slashdot.org/story/24/07/23/1632257/meta-warns-eu-regulatory-efforts-risk-bloc-missing-out-on-ai-advances?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-23, 16:42:00](https://apple.slashdot.org/story/24/07/23/1641217/apple-moves-forward-with-foldable-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Moves Forward With Foldable iPhone](https://apple.slashdot.org/story/24/07/23/1641217/apple-moves-forward-with-foldable-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-23, 16:05:00](https://tech.slashdot.org/story/24/07/23/165239/meta-launches-powerful-open-source-ai-model-llama-31?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Launches Powerful Open-Source AI Model Llama 3.1](https://tech.slashdot.org/story/24/07/23/165239/meta-launches-powerful-open-source-ai-model-llama-31?utm_source=rss1.0mainlinkanon&utm_medium=feed)
