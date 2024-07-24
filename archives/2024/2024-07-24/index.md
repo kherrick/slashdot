@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 18:41:00](https://tech.slashdot.org/story/24/07/24/1832237/googles-exclusive-reddit-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Exclusive Reddit Access](https://tech.slashdot.org/story/24/07/24/1832237/googles-exclusive-reddit-access?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-24, 18:05:00](https://slashdot.org/story/24/07/24/186204/microsoft-our-licensing-terms-do-not-meaningfully-raise-cloud-rivals-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft: Our Licensing Terms Do Not Meaningfully Raise Cloud Rivals' Costs](https://slashdot.org/story/24/07/24/186204/microsoft-our-licensing-terms-do-not-meaningfully-raise-cloud-rivals-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-24, 17:23:00](https://slashdot.org/story/24/07/24/1722226/openai-could-lose-5-billion-this-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Could Lose $5 Billion This Year](https://slashdot.org/story/24/07/24/1722226/openai-could-lose-5-billion-this-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-24, 16:41:00](https://slashdot.org/story/24/07/24/1617258/t-mobile-expands-fiber-footprint-with-metronet-acquisition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [T-Mobile Expands Fiber Footprint With Metronet Acquisition](https://slashdot.org/story/24/07/24/1617258/t-mobile-expands-fiber-footprint-with-metronet-acquisition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
