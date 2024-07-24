@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 20:01:00](https://it.slashdot.org/story/24/07/24/1952223/a-hacker-ghost-network-is-quietly-spreading-malware-on-github?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Hacker 'Ghost' Network Is Quietly Spreading Malware on GitHub](https://it.slashdot.org/story/24/07/24/1952223/a-hacker-ghost-network-is-quietly-spreading-malware-on-github?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-24, 19:22:00](https://tech.slashdot.org/story/24/07/24/1858222/the-ai-job-interviewer-will-see-you-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The AI Job Interviewer Will See You Now](https://tech.slashdot.org/story/24/07/24/1858222/the-ai-job-interviewer-will-see-you-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-24, 18:41:00](https://tech.slashdot.org/story/24/07/24/1832237/googles-exclusive-reddit-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Exclusive Reddit Access](https://tech.slashdot.org/story/24/07/24/1832237/googles-exclusive-reddit-access?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-24, 18:05:00](https://slashdot.org/story/24/07/24/186204/microsoft-our-licensing-terms-do-not-meaningfully-raise-cloud-rivals-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft: Our Licensing Terms Do Not Meaningfully Raise Cloud Rivals' Costs](https://slashdot.org/story/24/07/24/186204/microsoft-our-licensing-terms-do-not-meaningfully-raise-cloud-rivals-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
