@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 22:00:00](https://it.slashdot.org/story/24/07/25/2028258/secure-boot-is-completely-broken-on-200-models-from-5-big-device-makers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Secure Boot Is Completely Broken On 200+ Models From 5 Big Device Makers](https://it.slashdot.org/story/24/07/25/2028258/secure-boot-is-completely-broken-on-200-models-from-5-big-device-makers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-25, 21:20:00](https://news.slashdot.org/story/24/07/25/206213/kaspersky-alleges-us-snub-amid-ongoing-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Kaspersky Alleges US Snub Amid Ongoing Ban](https://news.slashdot.org/story/24/07/25/206213/kaspersky-alleges-us-snub-amid-ongoing-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-25, 20:41:00](https://news.slashdot.org/story/24/07/25/1815252/uns-call-to-action-on-extreme-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UN's Call To Action on Extreme Heat](https://news.slashdot.org/story/24/07/25/1815252/uns-call-to-action-on-extreme-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-25, 20:00:00](https://news.slashdot.org/story/24/07/25/181246/minnesota-becomes-second-state-to-pass-law-for-flying-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Minnesota Becomes Second State To Pass Law For Flying Cars](https://news.slashdot.org/story/24/07/25/181246/minnesota-becomes-second-state-to-pass-law-for-flying-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
