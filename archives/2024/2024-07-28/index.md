@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 20:36:00](https://yro.slashdot.org/story/24/07/28/2034221/burglars-are-jamming-wi-fi-security-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Burglars are Jamming Wi-FI Security Cameras](https://yro.slashdot.org/story/24/07/28/2034221/burglars-are-jamming-wi-fi-security-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-28, 19:34:00](https://science.slashdot.org/story/24/07/28/1847232/chatgpt-has-been-integrated-into-a-brain-implant?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ChatGPT Has Been Integrated Into a Brain Implant](https://science.slashdot.org/story/24/07/28/1847232/chatgpt-has-been-integrated-into-a-brain-implant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-28, 18:34:00](https://tech.slashdot.org/story/24/07/28/177207/is-modern-software-development-mostly-junky-overhead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Modern Software Development Mostly 'Junky Overhead'?](https://tech.slashdot.org/story/24/07/28/177207/is-modern-software-development-mostly-junky-overhead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-28, 17:35:00](https://hardware.slashdot.org/story/24/07/28/1731243/fords-stock-drops-20-after-11-billion-loss-on-ev-business?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ford's Stock Drops 20% After $1.1 Billion Loss on EV Business](https://hardware.slashdot.org/story/24/07/28/1731243/fords-stock-drops-20-after-11-billion-loss-on-ev-business?utm_source=rss1.0mainlinkanon&utm_medium=feed)
