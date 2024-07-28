@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 04:34:00](https://entertainment.slashdot.org/story/24/07/28/036220/comic-con-2024-new-doctor-who-series-star-trek-movie-keanu-reeves-and-a-red-hulk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comic-Con 2024:  New Doctor Who Series, 'Star Trek' Movie, Keanu Reeves, and a Red Hulk](https://entertainment.slashdot.org/story/24/07/28/036220/comic-con-2024-new-doctor-who-series-star-trek-movie-keanu-reeves-and-a-red-hulk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-28, 02:34:00](https://science.slashdot.org/story/24/07/28/0119234/sharks-near-brazil-test-positive-for-cocaine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sharks Near Brazil Test Positive For Cocaine](https://science.slashdot.org/story/24/07/28/0119234/sharks-near-brazil-test-positive-for-cocaine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-28, 01:01:00](https://hardware.slashdot.org/story/24/07/28/0057247/lz4-compression-algorithm-gets-multi-threaded-update?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LZ4 Compression Algorithm Gets Multi-Threaded Update](https://hardware.slashdot.org/story/24/07/28/0057247/lz4-compression-algorithm-gets-multi-threaded-update?utm_source=rss1.0mainlinkanon&utm_medium=feed)
