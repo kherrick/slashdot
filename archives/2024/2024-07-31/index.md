@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 19:00:00](https://it.slashdot.org/story/24/07/31/1859252/cyberattack-hits-blood-donation-nonprofit-oneblood?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cyberattack Hits Blood-Donation Nonprofit OneBlood](https://it.slashdot.org/story/24/07/31/1859252/cyberattack-hits-blood-donation-nonprofit-oneblood?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-31, 18:00:00](https://it.slashdot.org/story/24/07/31/1458228/germany-says-china-was-behind-a-2021-cyberattack-on-government-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Germany Says China Was Behind a 2021 Cyberattack on Government Agency](https://it.slashdot.org/story/24/07/31/1458228/germany-says-china-was-behind-a-2021-cyberattack-on-government-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-31, 17:20:00](https://it.slashdot.org/story/24/07/31/1431216/aws-quietly-scales-back-some-devops-services?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AWS Quietly Scales Back Some DevOps Services](https://it.slashdot.org/story/24/07/31/1431216/aws-quietly-scales-back-some-devops-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-31, 16:40:00](https://slashdot.org/story/24/07/31/1412242/microsoft-is-removing-ads-from-skype?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft is Removing Ads From Skype](https://slashdot.org/story/24/07/31/1412242/microsoft-is-removing-ads-from-skype?utm_source=rss1.0mainlinkanon&utm_medium=feed)
