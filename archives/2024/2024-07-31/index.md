@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 17:20:00](https://it.slashdot.org/story/24/07/31/1431216/aws-quietly-scales-back-some-devops-services?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AWS Quietly Scales Back Some DevOps Services](https://it.slashdot.org/story/24/07/31/1431216/aws-quietly-scales-back-some-devops-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-31, 16:40:00](https://slashdot.org/story/24/07/31/1412242/microsoft-is-removing-ads-from-skype?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft is Removing Ads From Skype](https://slashdot.org/story/24/07/31/1412242/microsoft-is-removing-ads-from-skype?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-31, 16:40:00](https://news.slashdot.org/story/24/07/31/1421240/air-new-zealand-is-first-major-airline-to-scrap-2030-emissions-target?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Air New Zealand Is First Major Airline To Scrap 2030 Emissions Target](https://news.slashdot.org/story/24/07/31/1421240/air-new-zealand-is-first-major-airline-to-scrap-2030-emissions-target?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-07-31, 16:00:00](https://slashdot.org/story/24/07/31/1350251/intel-to-cut-thousands-of-jobs-to-reduce-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel To Cut Thousands of Jobs To Reduce Costs](https://slashdot.org/story/24/07/31/1350251/intel-to-cut-thousands-of-jobs-to-reduce-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
