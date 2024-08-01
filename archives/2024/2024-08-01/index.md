@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-01](index.md)
+
+* [2024-08-01, 00:20:00](https://news.slashdot.org/story/24/07/31/2225254/taco-bell-is-bringing-ai-to-hundreds-of-drive-thrus-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Taco Bell Is Bringing AI To Hundreds of Drive-Thrus Nationwide](https://news.slashdot.org/story/24/07/31/2225254/taco-bell-is-bringing-ai-to-hundreds-of-drive-thrus-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
