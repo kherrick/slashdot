@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-06](index.md)
+
+* [2024-08-06, 00:20:00](https://news.slashdot.org/story/24/08/05/2227238/iphone-drivers-license-support-coming-soon-to-california?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iPhone Driver's License Support Coming Soon To California](https://news.slashdot.org/story/24/08/05/2227238/iphone-drivers-license-support-coming-soon-to-california?utm_source=rss1.0mainlinkanon&utm_medium=feed)
