@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 22:50:00](https://apple.slashdot.org/story/24/08/06/2127230/apple-discontinues-usb-superdrive-after-16-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Discontinues USB SuperDrive After 16 Years](https://apple.slashdot.org/story/24/08/06/2127230/apple-discontinues-usb-superdrive-after-16-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-06, 22:10:00](https://tech.slashdot.org/story/24/08/06/2116258/where-facebooks-ai-slop-comes-from?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Where Facebook's AI Slop Comes From](https://tech.slashdot.org/story/24/08/06/2116258/where-facebooks-ai-slop-comes-from?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-06, 21:30:00](https://apple.slashdot.org/story/24/08/06/2113250/apples-hidden-ai-prompts-discovered-in-macos-beta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's Hidden AI Prompts Discovered In macOS Beta](https://apple.slashdot.org/story/24/08/06/2113250/apples-hidden-ai-prompts-discovered-in-macos-beta?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-06, 20:52:00](https://hardware.slashdot.org/story/24/08/06/2050220/figure-ais-humanoid-robot-helped-assemble-bmws-at-us-factory?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Figure AI's Humanoid Robot Helped Assemble BMWs At US Factory](https://hardware.slashdot.org/story/24/08/06/2050220/figure-ais-humanoid-robot-helped-assemble-bmws-at-us-factory?utm_source=rss1.0mainlinkanon&utm_medium=feed)
