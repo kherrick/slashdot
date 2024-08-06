@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 19:25:00](https://tech.slashdot.org/story/24/08/06/1918207/amazon-microsoft-google-remind-public-of-their-k-12-cs-education-philanthropy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon, Microsoft, Google Remind Public of Their K-12 CS Education Philanthropy](https://tech.slashdot.org/story/24/08/06/1918207/amazon-microsoft-google-remind-public-of-their-k-12-cs-education-philanthropy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-06, 18:42:00](https://apple.slashdot.org/story/24/08/06/1842234/apple-thinks-bing-is-pretty-bad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Thinks Bing is Pretty Bad](https://apple.slashdot.org/story/24/08/06/1842234/apple-thinks-bing-is-pretty-bad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-06, 18:02:00](https://tech.slashdot.org/story/24/08/06/182213/intel-foundry-achieves-major-milestones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Foundry Achieves Major Milestones](https://tech.slashdot.org/story/24/08/06/182213/intel-foundry-achieves-major-milestones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-06, 17:25:00](https://tech.slashdot.org/story/24/08/06/1725252/google-discontinues-the-chromecast-line?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Discontinues the Chromecast Line](https://tech.slashdot.org/story/24/08/06/1725252/google-discontinues-the-chromecast-line?utm_source=rss1.0mainlinkanon&utm_medium=feed)
