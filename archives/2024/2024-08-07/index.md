@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 18:05:00](https://it.slashdot.org/story/24/08/07/1739206/humanes-daily-returns-are-outpacing-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Humane's Daily Returns Are Outpacing Sales](https://it.slashdot.org/story/24/08/07/1739206/humanes-daily-returns-are-outpacing-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-07, 17:31:00](https://tech.slashdot.org/story/24/08/07/1731222/ai-is-coming-for-indias-famous-tech-hub?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Is Coming for India's Famous Tech Hub](https://tech.slashdot.org/story/24/08/07/1731222/ai-is-coming-for-indias-famous-tech-hub?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-07, 16:49:00](https://tech.slashdot.org/story/24/08/07/1650201/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Parody Site ClownStrike Refused To Bow To CrowdStrike's Bogus DMCA Takedown](https://tech.slashdot.org/story/24/08/07/1650201/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-07, 16:05:00](https://tech.slashdot.org/story/24/08/07/1541211/logitech-says-the-forever-mouse-was-just-an-idea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Logitech Says the 'Forever Mouse' Was Just an Idea](https://tech.slashdot.org/story/24/08/07/1541211/logitech-says-the-forever-mouse-was-just-an-idea?utm_source=rss1.0mainlinkanon&utm_medium=feed)
