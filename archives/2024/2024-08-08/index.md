@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-08](index.md)
+
+* [2024-08-08, 01:20:00](https://news.slashdot.org/story/24/08/07/2237252/uk-royal-mint-to-extract-gold-from-e-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Royal Mint To Extract Gold From E-Waste](https://news.slashdot.org/story/24/08/07/2237252/uk-royal-mint-to-extract-gold-from-e-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-08-08, 00:45:00](https://entertainment.slashdot.org/story/24/08/07/2229247/crunchyroll-passes-15-million-monthly-paid-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Crunchyroll Passes 15 Million Monthly Paid Subscribers](https://entertainment.slashdot.org/story/24/08/07/2229247/crunchyroll-passes-15-million-monthly-paid-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-08-08, 00:02:00](https://slashdot.org/story/24/08/07/2220235/dell-reportedly-laying-off-12500-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dell Reportedly Laying Off 12,500 Employees](https://slashdot.org/story/24/08/07/2220235/dell-reportedly-laying-off-12500-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
