@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-09](index.md)
+
+* [2024-08-09, 01:25:00](https://slashdot.org/story/24/08/09/0022231/ftx-ordered-to-pay-127-billion-to-customers-us-cftc-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTX Ordered To Pay $12.7 Billion To Customers, US CFTC Says](https://slashdot.org/story/24/08/09/0022231/ftx-ordered-to-pay-127-billion-to-customers-us-cftc-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-08-09, 00:45:00](https://slashdot.org/story/24/08/08/2122203/cloud-growth-puts-hyperscalers-on-track-to-60-of-data-capacity-by-2029?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloud Growth Puts Hyperscalers On Track To 60% of Data Capacity By 2029](https://slashdot.org/story/24/08/08/2122203/cloud-growth-puts-hyperscalers-on-track-to-60-of-data-capacity-by-2029?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-08-09, 00:02:00](https://hardware.slashdot.org/story/24/08/08/219233/m4-mac-mini-to-become-apples-smallest-ever-computer-with-complete-redesign?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [M4 Mac Mini To Become Apple's Smallest Ever Computer With Complete Redesign](https://hardware.slashdot.org/story/24/08/08/219233/m4-mac-mini-to-become-apples-smallest-ever-computer-with-complete-redesign?utm_source=rss1.0mainlinkanon&utm_medium=feed)
