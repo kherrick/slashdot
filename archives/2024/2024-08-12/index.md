@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 17:25:00](https://slashdot.org/story/24/08/12/1641251/amd-gains-ground-in-data-center-laptop-cpu-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Gains Ground in Data Center, Laptop CPU Markets](https://slashdot.org/story/24/08/12/1641251/amd-gains-ground-in-data-center-laptop-cpu-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 16:50:00](https://tech.slashdot.org/story/24/08/12/1613256/is-the-us-finally-getting-all-aboard-with-electric-trains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is the US Finally Getting 'All Aboard' With Electric Trains?](https://tech.slashdot.org/story/24/08/12/1613256/is-the-us-finally-getting-all-aboard-with-electric-trains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 16:09:00](https://apple.slashdot.org/story/24/08/12/169246/apple-threatens-to-remove-patreon-from-app-store-over-billing-dispute?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Threatens To Remove Patreon From App Store Over Billing Dispute](https://apple.slashdot.org/story/24/08/12/169246/apple-threatens-to-remove-patreon-from-app-store-over-billing-dispute?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 15:20:00](https://tech.slashdot.org/story/24/08/12/152226/microsoft-to-retire-paint-3d?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Retire Paint 3D](https://tech.slashdot.org/story/24/08/12/152226/microsoft-to-retire-paint-3d?utm_source=rss1.0mainlinkanon&utm_medium=feed)
