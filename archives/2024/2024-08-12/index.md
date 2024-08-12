@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 16:09:00](https://apple.slashdot.org/story/24/08/12/169246/apple-threatens-to-remove-patreon-from-app-store-over-billing-dispute?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Threatens To Remove Patreon From App Store Over Billing Dispute](https://apple.slashdot.org/story/24/08/12/169246/apple-threatens-to-remove-patreon-from-app-store-over-billing-dispute?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 15:20:00](https://tech.slashdot.org/story/24/08/12/152226/microsoft-to-retire-paint-3d?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Retire Paint 3D](https://tech.slashdot.org/story/24/08/12/152226/microsoft-to-retire-paint-3d?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 14:44:00](https://tech.slashdot.org/story/24/08/12/1444258/gas-pipeline-players-in-talks-to-fuel-ai-datacenter-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gas Pipeline Players in Talks To Fuel AI Datacenter Demand](https://tech.slashdot.org/story/24/08/12/1444258/gas-pipeline-players-in-talks-to-fuel-ai-datacenter-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 14:00:00](https://it.slashdot.org/story/24/08/12/140214/co-founder-of-ddosecrets-was-dark-web-drug-kingpin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Co-Founder of DDoSecrets Was Dark Web Drug Kingpin](https://it.slashdot.org/story/24/08/12/140214/co-founder-of-ddosecrets-was-dark-web-drug-kingpin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
