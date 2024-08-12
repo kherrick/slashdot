@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 19:20:00](https://apple.slashdot.org/story/24/08/12/1844235/apple-approves-idos-3-following-emulator-rule-change?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Approves iDOS 3 Following Emulator Rule Change](https://apple.slashdot.org/story/24/08/12/1844235/apple-approves-idos-3-following-emulator-rule-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 18:40:00](https://slashdot.org/story/24/08/12/1837240/the-era-of-freeloading-is-officially-over?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Era of Freeloading is Officially Over](https://slashdot.org/story/24/08/12/1837240/the-era-of-freeloading-is-officially-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 18:05:00](https://tech.slashdot.org/story/24/08/12/1743256/googles-osterloh-looks-to-get-jump-on-apple-with-earlier-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Osterloh Looks To Get Jump on Apple With Earlier Launch](https://tech.slashdot.org/story/24/08/12/1743256/googles-osterloh-looks-to-get-jump-on-apple-with-earlier-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-12, 17:25:00](https://slashdot.org/story/24/08/12/1641251/amd-gains-ground-in-data-center-laptop-cpu-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Gains Ground in Data Center, Laptop CPU Markets](https://slashdot.org/story/24/08/12/1641251/amd-gains-ground-in-data-center-laptop-cpu-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
