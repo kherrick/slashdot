@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 20:40:00](https://tech.slashdot.org/story/24/08/16/203200/ex-google-ceo-says-successful-ai-startups-can-steal-ip-and-hire-lawyers-to-clean-up-the-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ex-Google CEO Says Successful AI Startups Can Steal IP and Hire Lawyers To 'Clean Up the Mess'](https://tech.slashdot.org/story/24/08/16/203200/ex-google-ceo-says-successful-ai-startups-can-steal-ip-and-hire-lawyers-to-clean-up-the-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-16, 20:00:00](https://developers.slashdot.org/story/24/08/16/196212/the-best-worst-codebase?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Best, Worst Codebase'](https://developers.slashdot.org/story/24/08/16/196212/the-best-worst-codebase?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-16, 19:21:00](https://tech.slashdot.org/story/24/08/16/180229/can-google-make-stoplights-smarter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can Google Make Stoplights Smarter?](https://tech.slashdot.org/story/24/08/16/180229/can-google-make-stoplights-smarter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-16, 18:42:00](https://yro.slashdot.org/story/24/08/16/1752206/ai-powered-undressing-websites-are-getting-sued?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI-powered 'Undressing' Websites Are Getting Sued](https://yro.slashdot.org/story/24/08/16/1752206/ai-powered-undressing-websites-are-getting-sued?utm_source=rss1.0mainlinkanon&utm_medium=feed)
