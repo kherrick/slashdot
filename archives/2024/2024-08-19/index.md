@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 16:42:00](https://slashdot.org/story/24/08/19/1541216/gm-cuts-1000-software-jobs-as-it-prioritizes-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GM Cuts 1,000 Software Jobs As It Prioritizes AI](https://slashdot.org/story/24/08/19/1541216/gm-cuts-1000-software-jobs-as-it-prioritizes-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-19, 16:01:00](https://tech.slashdot.org/story/24/08/19/1523223/procreates-anti-ai-pledge-attracts-praise-from-digital-creatives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Procreate's Anti-AI Pledge Attracts Praise From Digital Creatives](https://tech.slashdot.org/story/24/08/19/1523223/procreates-anti-ai-pledge-attracts-praise-from-digital-creatives?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-19, 15:21:00](https://tech.slashdot.org/story/24/08/19/1439241/raspberry-pi-launches-50-2gb-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Raspberry Pi Launches $50 2GB Model](https://tech.slashdot.org/story/24/08/19/1439241/raspberry-pi-launches-50-2gb-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-19, 14:40:00](https://tech.slashdot.org/story/24/08/19/1426215/amd-to-acquire-server-maker-zt-systems-in-49-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD To Acquire Server Maker ZT Systems in $4.9 Billion Deal](https://tech.slashdot.org/story/24/08/19/1426215/amd-to-acquire-server-maker-zt-systems-in-49-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
