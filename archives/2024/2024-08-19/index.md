@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 18:01:00](https://tech.slashdot.org/story/24/08/19/1746254/google-denies-report-that-its-discontinuing-fitbit-products?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Denies Report That It's Discontinuing Fitbit Products](https://tech.slashdot.org/story/24/08/19/1746254/google-denies-report-that-its-discontinuing-fitbit-products?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-19, 17:20:00](https://yro.slashdot.org/story/24/08/19/176211/vpn-apps-vanish-from-brazilian-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VPN Apps Vanish from Brazilian App Store](https://yro.slashdot.org/story/24/08/19/176211/vpn-apps-vanish-from-brazilian-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-19, 16:42:00](https://slashdot.org/story/24/08/19/1541216/gm-cuts-1000-software-jobs-as-it-prioritizes-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GM Cuts 1,000 Software Jobs As It Prioritizes AI](https://slashdot.org/story/24/08/19/1541216/gm-cuts-1000-software-jobs-as-it-prioritizes-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-19, 16:01:00](https://tech.slashdot.org/story/24/08/19/1523223/procreates-anti-ai-pledge-attracts-praise-from-digital-creatives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Procreate's Anti-AI Pledge Attracts Praise From Digital Creatives](https://tech.slashdot.org/story/24/08/19/1523223/procreates-anti-ai-pledge-attracts-praise-from-digital-creatives?utm_source=rss1.0mainlinkanon&utm_medium=feed)
