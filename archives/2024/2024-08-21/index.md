@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 13:00:00](https://slashdot.org/story/24/08/21/011258/missing-scissors-cause-36-flight-cancellations-in-japan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Missing Scissors Cause 36 Flight Cancellations In Japan](https://slashdot.org/story/24/08/21/011258/missing-scissors-cause-36-flight-cancellations-in-japan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-21, 10:00:00](https://games.slashdot.org/story/24/08/21/0053227/valve-bans-razer-and-wootings-new-keyboard-features-in-counter-strike-2?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Valve Bans Razer and Wooting's New Keyboard Features In Counter-Strike 2](https://games.slashdot.org/story/24/08/21/0053227/valve-bans-razer-and-wootings-new-keyboard-features-in-counter-strike-2?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-21, 07:00:00](https://slashdot.org/story/24/08/21/0045249/china-is-backing-off-coal-power-plant-approvals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Is Backing Off Coal Power Plant Approvals](https://slashdot.org/story/24/08/21/0045249/china-is-backing-off-coal-power-plant-approvals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-21, 03:30:00](https://news.slashdot.org/story/24/08/21/0038231/us-birthrate-hits-new-low-cdc-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Birthrate Hits New Low, CDC Data Shows](https://news.slashdot.org/story/24/08/21/0038231/us-birthrate-hits-new-low-cdc-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
