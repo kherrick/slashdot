@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 14:44:00](https://slashdot.org/story/24/08/27/1440249/klarna-aims-to-halve-workforce-with-ai-driven-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Klarna Aims To Halve Workforce With AI-Driven Gains](https://slashdot.org/story/24/08/27/1440249/klarna-aims-to-halve-workforce-with-ai-driven-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-27, 14:00:00](https://tech.slashdot.org/story/24/08/27/0612257/ex-googlers-discover-that-startups-are-hard?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ex-Googlers Discover That Startups Are Hard](https://tech.slashdot.org/story/24/08/27/0612257/ex-googlers-discover-that-startups-are-hard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-27, 10:00:00](https://slashdot.org/story/24/08/27/028255/hobbyists-discover-how-to-insert-custom-fonts-into-ai-generated-images?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hobbyists Discover How To Insert Custom Fonts Into AI-Generated Images](https://slashdot.org/story/24/08/27/028255/hobbyists-discover-how-to-insert-custom-fonts-into-ai-generated-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-27, 07:00:00](https://science.slashdot.org/story/24/08/27/056248/stem-cell-therapy-frees-woman-from-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stem Cell Therapy Frees Woman From Diabetes](https://science.slashdot.org/story/24/08/27/056248/stem-cell-therapy-frees-woman-from-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
