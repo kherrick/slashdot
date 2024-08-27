@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 22:10:00](https://tech.slashdot.org/story/24/08/27/2023204/gen-z-and-millennials-are-hung-up-on-answering-the-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gen Z And Millennials Are Hung Up On Answering the Phone](https://tech.slashdot.org/story/24/08/27/2023204/gen-z-and-millennials-are-hung-up-on-answering-the-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-27, 21:30:00](https://news.slashdot.org/story/24/08/27/2032255/how-do-you-define-open-source-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Do You Define 'Open Source AI'?](https://news.slashdot.org/story/24/08/27/2032255/how-do-you-define-open-source-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-27, 20:50:00](https://tech.slashdot.org/story/24/08/27/2043216/microsoft-donates-the-mono-project-to-wine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Donates the Mono Project To Wine](https://tech.slashdot.org/story/24/08/27/2043216/microsoft-donates-the-mono-project-to-wine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-27, 20:15:00](https://science.slashdot.org/story/24/08/27/2015259/us-says-genetically-modified-wheat-safe-to-grow-pending-trials?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Says Genetically Modified Wheat Safe To Grow, Pending Trials](https://science.slashdot.org/story/24/08/27/2015259/us-says-genetically-modified-wheat-safe-to-grow-pending-trials?utm_source=rss1.0mainlinkanon&utm_medium=feed)
