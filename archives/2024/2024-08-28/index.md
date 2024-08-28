@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 22:40:00](https://tech.slashdot.org/story/24/08/28/2051216/google-to-relaunch-tool-for-creating-ai-generated-images-of-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Relaunch Tool For Creating AI-Generated Images of People](https://tech.slashdot.org/story/24/08/28/2051216/google-to-relaunch-tool-for-creating-ai-generated-images-of-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-28, 22:00:00](https://tech.slashdot.org/story/24/08/28/2042226/threads-deepens-its-ties-to-the-fediverse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Threads Deepens Its Ties To the Fediverse](https://tech.slashdot.org/story/24/08/28/2042226/threads-deepens-its-ties-to-the-fediverse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-28, 21:20:00](https://science.slashdot.org/story/24/08/28/203227/the-papers-that-most-heavily-cite-retracted-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Papers That Most Heavily Cite Retracted Studies](https://science.slashdot.org/story/24/08/28/203227/the-papers-that-most-heavily-cite-retracted-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-28, 20:41:00](https://slashdot.org/story/24/08/28/1940223/office-usage-has-peaked-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Office Usage Has Peaked in North America](https://slashdot.org/story/24/08/28/1940223/office-usage-has-peaked-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
