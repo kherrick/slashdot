@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 21:20:00](https://science.slashdot.org/story/24/08/28/203227/the-papers-that-most-heavily-cite-retracted-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Papers That Most Heavily Cite Retracted Studies](https://science.slashdot.org/story/24/08/28/203227/the-papers-that-most-heavily-cite-retracted-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-28, 20:41:00](https://slashdot.org/story/24/08/28/1940223/office-usage-has-peaked-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Office Usage Has Peaked in North America](https://slashdot.org/story/24/08/28/1940223/office-usage-has-peaked-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-28, 20:05:00](https://yro.slashdot.org/story/24/08/28/206217/telegram-ceo-indicted-in-paris-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Telegram CEO Indicted in Paris Court](https://yro.slashdot.org/story/24/08/28/206217/telegram-ceo-indicted-in-paris-court?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-28, 20:00:00](https://slashdot.org/story/24/08/28/1949233/openai-in-talks-for-funding-round-valuing-it-above-100-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI in Talks for Funding Round Valuing It Above $100 Billion](https://slashdot.org/story/24/08/28/1949233/openai-in-talks-for-funding-round-valuing-it-above-100-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
