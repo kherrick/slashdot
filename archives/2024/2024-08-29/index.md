@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 23:30:00](https://hardware.slashdot.org/story/24/08/29/2050206/can-a-youtube-video-really-fix-your-wet-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can a YouTube Video Really Fix Your Wet Phone?](https://hardware.slashdot.org/story/24/08/29/2050206/can-a-youtube-video-really-fix-your-wet-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 22:50:00](https://hardware.slashdot.org/story/24/08/29/221245/emudeck-enters-the-mini-pc-market-with-linux-powered-emudeck-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EmuDeck Enters the Mini PC Market With Linux-Powered 'EmuDeck Machines'](https://hardware.slashdot.org/story/24/08/29/221245/emudeck-enters-the-mini-pc-market-with-linux-powered-emudeck-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 22:10:00](https://science.slashdot.org/story/24/08/29/2028247/who-wins-from-natures-genetic-bounty?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Who Wins From Nature's Genetic Bounty?](https://science.slashdot.org/story/24/08/29/2028247/who-wins-from-natures-genetic-bounty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 21:30:00](https://apple.slashdot.org/story/24/08/29/2016225/apple-announces-rare-wave-of-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces Rare Wave of Job Cuts](https://apple.slashdot.org/story/24/08/29/2016225/apple-announces-rare-wave-of-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
