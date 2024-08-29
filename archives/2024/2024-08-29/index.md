@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 19:22:00](https://news.slashdot.org/story/24/08/29/1922251/cable-providers-top-telecom-rivals-for-internet-reliability?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cable Providers Top Telecom Rivals for Internet Reliability](https://news.slashdot.org/story/24/08/29/1922251/cable-providers-top-telecom-rivals-for-internet-reliability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 18:23:00](https://apple.slashdot.org/story/24/08/29/1823252/apple-is-in-talks-to-invest-in-openai-wsj-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Is in Talks To Invest in OpenAI, WSJ Says](https://apple.slashdot.org/story/24/08/29/1823252/apple-is-in-talks-to-invest-in-openai-wsj-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 18:08:00](https://news.slashdot.org/story/24/08/29/188216/gen-z-students-show-declining-school-engagement-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gen Z Students Show Declining School Engagement, Survey Finds](https://news.slashdot.org/story/24/08/29/188216/gen-z-students-show-declining-school-engagement-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 17:27:00](https://slashdot.org/story/24/08/29/1728202/eu-investigating-telegram-over-user-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Investigating Telegram Over User Numbers](https://slashdot.org/story/24/08/29/1728202/eu-investigating-telegram-over-user-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
