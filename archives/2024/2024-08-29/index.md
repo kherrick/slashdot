@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 22:10:00](https://science.slashdot.org/story/24/08/29/2028247/who-wins-from-natures-genetic-bounty?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Who Wins From Nature's Genetic Bounty?](https://science.slashdot.org/story/24/08/29/2028247/who-wins-from-natures-genetic-bounty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 21:30:00](https://apple.slashdot.org/story/24/08/29/2016225/apple-announces-rare-wave-of-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces Rare Wave of Job Cuts](https://apple.slashdot.org/story/24/08/29/2016225/apple-announces-rare-wave-of-job-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 20:50:00](https://hardware.slashdot.org/story/24/08/29/2012226/midjourney-says-its-getting-into-hardware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Midjourney Says It's 'Getting Into Hardware'](https://hardware.slashdot.org/story/24/08/29/2012226/midjourney-says-its-getting-into-hardware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 20:07:00](https://yro.slashdot.org/story/24/08/29/206200/california-legislature-passes-controversial-kill-switch-ai-safety-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Legislature Passes Controversial 'Kill Switch' AI Safety Bill](https://yro.slashdot.org/story/24/08/29/206200/california-legislature-passes-controversial-kill-switch-ai-safety-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
