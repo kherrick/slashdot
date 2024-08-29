@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 01:25:00](https://yro.slashdot.org/story/24/08/28/2337256/backpagecom-founder-michael-lacey-sentenced-to-5-years-in-prison-fined-3-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Backpage.com Founder Michael Lacey Sentenced To 5 Years In Prison, Fined $3 Million ](https://yro.slashdot.org/story/24/08/28/2337256/backpagecom-founder-michael-lacey-sentenced-to-5-years-in-prison-fined-3-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-08-29, 00:45:00](https://tech.slashdot.org/story/24/08/28/2112225/south-korea-faces-deepfake-porn-emergency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korea Faces Deepfake Porn 'Emergency'](https://tech.slashdot.org/story/24/08/28/2112225/south-korea-faces-deepfake-porn-emergency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-29, 00:02:00](https://science.slashdot.org/story/24/08/28/2331215/faa-grounds-spacexs-falcon-9-rocket-following-landing-mishap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FAA Grounds SpaceX's Falcon 9 Rocket Following Landing Mishap](https://science.slashdot.org/story/24/08/28/2331215/faa-grounds-spacexs-falcon-9-rocket-following-landing-mishap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
