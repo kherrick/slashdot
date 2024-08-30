@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 22:40:00](https://yro.slashdot.org/story/24/08/30/227217/city-of-columbus-sues-man-after-he-discloses-severity-of-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [City of Columbus Sues Man After He Discloses Severity of Ransomware Attack](https://yro.slashdot.org/story/24/08/30/227217/city-of-columbus-sues-man-after-he-discloses-severity-of-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-30, 22:20:00](https://tech.slashdot.org/story/24/08/30/2219245/brazil-blocks-x?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brazil Blocks X](https://tech.slashdot.org/story/24/08/30/2219245/brazil-blocks-x?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-30, 22:02:00](https://it.slashdot.org/story/24/08/30/2047211/malware-infiltrates-pidgin-messengers-official-plugin-repository?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Malware Infiltrates Pidgin Messenger's Official Plugin Repository](https://it.slashdot.org/story/24/08/30/2047211/malware-infiltrates-pidgin-messengers-official-plugin-repository?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-08-30, 21:25:00](https://slashdot.org/story/24/08/30/2031230/amazon-turns-to-anthropics-ai-for-alexa-revamp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Turns To Anthropic's AI For Alexa Revamp](https://slashdot.org/story/24/08/30/2031230/amazon-turns-to-anthropics-ai-for-alexa-revamp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
