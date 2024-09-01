@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 19:17:00](https://news.slashdot.org/story/24/09/01/1914233/trump-sons-plan-crypto-startup?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Sons Plan Crypto Startup](https://news.slashdot.org/story/24/09/01/1914233/trump-sons-plan-crypto-startup?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-01, 17:34:00](https://it.slashdot.org/story/24/09/01/1643238/my-fake-job-in-y2k-preparedness?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['My Fake Job In Y2K Preparedness'](https://it.slashdot.org/story/24/09/01/1643238/my-fake-job-in-y2k-preparedness?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-01, 16:34:00](https://science.slashdot.org/story/24/08/31/2217244/a-simple-blood-test-predicts-a-persons-heart-disease-risk-30-years-out-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Simple Blood Test Predicts a Person's Heart Disease Risk 30 Years Out, Study Finds](https://science.slashdot.org/story/24/08/31/2217244/a-simple-blood-test-predicts-a-persons-heart-disease-risk-30-years-out-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-01, 15:34:00](https://yro.slashdot.org/story/24/09/01/0141216/was-the-arrest-of-telegrams-ceo-inevitable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Was the Arrest of Telegram's CEO Inevitable?](https://yro.slashdot.org/story/24/09/01/0141216/was-the-arrest-of-telegrams-ceo-inevitable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
