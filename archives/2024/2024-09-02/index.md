@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 17:01:00](https://tech.slashdot.org/story/24/09/02/1633202/googles-james-manyika-the-productivity-gains-from-ai-are-not-guaranteed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's James Manyika: 'The Productivity Gains From AI Are Not Guaranteed'](https://tech.slashdot.org/story/24/09/02/1633202/googles-james-manyika-the-productivity-gains-from-ai-are-not-guaranteed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-02, 15:40:00](https://news.slashdot.org/story/24/09/02/1539211/abolish-the-penny?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Abolish the Penny?](https://news.slashdot.org/story/24/09/02/1539211/abolish-the-penny?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-02, 15:09:00](https://tech.slashdot.org/story/24/09/02/1510212/windows-11-is-now-the-most-popular-os-for-pc-gaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 11 is Now the Most Popular OS For PC Gaming](https://tech.slashdot.org/story/24/09/02/1510212/windows-11-is-now-the-most-popular-os-for-pc-gaming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-02, 14:01:00](https://slashdot.org/story/24/09/02/1353217/intel-ceo-to-pitch-board-on-plans-to-shed-assets-cut-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel CEO To Pitch Board on Plans To Shed Assets, Cut Costs](https://slashdot.org/story/24/09/02/1353217/intel-ceo-to-pitch-board-on-plans-to-shed-assets-cut-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
