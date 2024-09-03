@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 14:00:00](https://science.slashdot.org/story/24/09/03/1332228/how-do-gold-nuggets-form-earthquakes-may-be-the-key?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Do Gold Nuggets Form? Earthquakes May Be the Key](https://science.slashdot.org/story/24/09/03/1332228/how-do-gold-nuggets-form-earthquakes-may-be-the-key?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-03, 12:55:00](https://slashdot.org/story/24/09/03/1254250/canva-to-hike-subscription-prices-up-to-300-amid-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canva To Hike Subscription Prices Up To 300% Amid AI Push](https://slashdot.org/story/24/09/03/1254250/canva-to-hike-subscription-prices-up-to-300-amid-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-03, 10:30:00](https://entertainment.slashdot.org/story/24/09/03/1014230/star-wars-outlaws-is-a-crappy-masterpiece?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Star Wars Outlaws Is A Crappy Masterpiece](https://entertainment.slashdot.org/story/24/09/03/1014230/star-wars-outlaws-is-a-crappy-masterpiece?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-03, 09:01:00](https://news.slashdot.org/story/24/09/03/0838232/sweden-caps-screen-time-for-kids-and-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sweden Caps Screen Time for Kids and Teens](https://news.slashdot.org/story/24/09/03/0838232/sweden-caps-screen-time-for-kids-and-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed)
