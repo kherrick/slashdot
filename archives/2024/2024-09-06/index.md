@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 14:00:00](https://slashdot.org/story/24/09/06/1330218/openai-japan-exec-teases-gpt-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Japan Exec Teases 'GPT-Next'](https://slashdot.org/story/24/09/06/1330218/openai-japan-exec-teases-gpt-next?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-06, 12:50:00](https://tech.slashdot.org/story/24/09/06/1250236/threads-is-trading-trust-for-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Threads is Trading Trust For Growth](https://tech.slashdot.org/story/24/09/06/1250236/threads-is-trading-trust-for-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-06, 10:00:00](https://news.slashdot.org/story/24/09/06/0632241/largest-dam-removal-in-us-history-is-complete?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Largest Dam Removal In US History Is Complete](https://news.slashdot.org/story/24/09/06/0632241/largest-dam-removal-in-us-history-is-complete?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-06, 07:00:00](https://science.slashdot.org/story/24/09/05/2248237/part-of-brain-network-much-bigger-in-people-with-depression-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Part of Brain Network Much Bigger In People With Depression, Scientists Find](https://science.slashdot.org/story/24/09/05/2248237/part-of-brain-network-much-bigger-in-people-with-depression-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
