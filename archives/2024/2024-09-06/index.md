@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 15:25:00](https://hardware.slashdot.org/story/24/09/06/1450235/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America's EV Charging Infrastructure Has Doubled In Less Than Four Years](https://hardware.slashdot.org/story/24/09/06/1450235/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-06, 14:45:00](https://it.slashdot.org/story/24/09/06/1446215/gen-z-ers-are-computer-whizzes-just-dont-ask-them-to-type?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gen Z-ers Are Computer Whizzes. Just Don't Ask Them to Type.](https://it.slashdot.org/story/24/09/06/1446215/gen-z-ers-are-computer-whizzes-just-dont-ask-them-to-type?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-06, 14:00:00](https://slashdot.org/story/24/09/06/1330218/openai-japan-exec-teases-gpt-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Japan Exec Teases 'GPT-Next'](https://slashdot.org/story/24/09/06/1330218/openai-japan-exec-teases-gpt-next?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-06, 12:50:00](https://tech.slashdot.org/story/24/09/06/1250236/threads-is-trading-trust-for-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Threads is Trading Trust For Growth](https://tech.slashdot.org/story/24/09/06/1250236/threads-is-trading-trust-for-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
