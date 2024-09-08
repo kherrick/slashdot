@@ -1,4 +1,8 @@
-# [Slashdot](https://kherrick.github.io/slashdot/)
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-08](index.md)
 
 * [2024-09-08, 20:22:00](https://news.slashdot.org/story/24/09/08/2019209/solar-farms-look-to-produce-something-apart-from-power-friendly-habitats-for-wildlife?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Solar Farms Look to Produce Something Apart From Power: Friendly Habitats for Wildlife](https://news.slashdot.org/story/24/09/08/2019209/solar-farms-look-to-produce-something-apart-from-power-friendly-habitats-for-wildlife?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-08, 18:59:00](https://yro.slashdot.org/story/24/09/08/1857213/during-georgia-school-shooting-newly-installed-tech-spread-warnings-and-called-police?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [During Georgia School Shooting, Newly-Installed Tech Spread Warnings and Called Police](https://yro.slashdot.org/story/24/09/08/1857213/during-georgia-school-shooting-newly-installed-tech-spread-warnings-and-called-police?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -10,14 +14,3 @@
 * [2024-09-08, 04:58:00](https://developers.slashdot.org/story/24/09/08/0455238/two-android-engineers-explain-how-they-extended-rust-in-androids-firmware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Two Android Engineers Explain How They Extended Rust In Android's Firmware](https://developers.slashdot.org/story/24/09/08/0455238/two-android-engineers-explain-how-they-extended-rust-in-androids-firmware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-08, 02:41:00](https://tech.slashdot.org/story/24/09/08/028252/gpt-fabricated-scientific-papers-found-on-google-scholar-by-misinformation-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GPT-Fabricated Scientific Papers Found on Google Scholar by Misinformation Researchers](https://tech.slashdot.org/story/24/09/08/028252/gpt-fabricated-scientific-papers-found-on-google-scholar-by-misinformation-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-08, 00:41:00](https://yro.slashdot.org/story/24/09/08/0038246/ftc-urged-to-stop-tech-makers-downgrading-devices-after-youve-bought-them?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Urged To Stop Tech Makers Downgrading Devices After You've Bought Them](https://yro.slashdot.org/story/24/09/08/0038246/ftc-urged-to-stop-tech-makers-downgrading-devices-after-youve-bought-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-09-07, 21:50:00](https://news.slashdot.org/story/24/09/07/2148218/mit-cs-professor-tests-ais-impact-on-educating-programmers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MIT CS Professor Tests AI's Impact on Educating Programmers](https://news.slashdot.org/story/24/09/07/2148218/mit-cs-professor-tests-ais-impact-on-educating-programmers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-09-07, 20:50:00](https://news.slashdot.org/story/24/09/07/0258256/how-should-the-foss-movement-respond-to-proprietary-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Should the FOSS Movement Respond to Proprietary Software?](https://news.slashdot.org/story/24/09/07/0258256/how-should-the-foss-movement-respond-to-proprietary-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-09-07, 19:34:00](https://yro.slashdot.org/story/24/09/07/194232/new-york-times-calls-telegram-a-playground-for-criminals-extremists-and-terrorists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York Times Calls Telegram 'A Playground for Criminals, Extremists and Terrorists'](https://yro.slashdot.org/story/24/09/07/194232/new-york-times-calls-telegram-a-playground-for-criminals-extremists-and-terrorists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-09-07, 18:34:00](https://games.slashdot.org/story/24/09/07/0136247/1000-autonomous-ai-agents-collaborating-altera-simulates-it-in-minecraft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [1,000 Autonomous AI Agents Collaborating?  Altera Simulates It In Minecraft](https://games.slashdot.org/story/24/09/07/0136247/1000-autonomous-ai-agents-collaborating-altera-simulates-it-in-minecraft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-09-07, 17:34:00](https://yro.slashdot.org/story/24/09/07/064222/signal-is-more-than-encrypted-messaging-it-wants-to-prove-surveillance-capitalism-is-wrong?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Signal is More Than Encrypted Messaging. It Wants to Prove Surveillance Capitalism Is Wrong](https://yro.slashdot.org/story/24/09/07/064222/signal-is-more-than-encrypted-messaging-it-wants-to-prove-surveillance-capitalism-is-wrong?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Archives](archives/index.md)
-
-* [2024](archives/2024/index.md)
-* [2023](archives/2023/index.md)
-* [2022](archives/2022/index.md)
