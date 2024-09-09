@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 22:20:00](https://entertainment.slashdot.org/story/24/09/09/227251/james-earl-jones-beloved-actor-and-voice-of-darth-vader-dies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [James Earl Jones, Beloved Actor and Voice of Darth Vader, Dies](https://entertainment.slashdot.org/story/24/09/09/227251/james-earl-jones-beloved-actor-and-voice-of-darth-vader-dies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-09, 22:00:00](https://tech.slashdot.org/story/24/09/09/2112257/us-prepares-to-challenge-googles-online-ad-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Prepares To Challenge Google's Online Ad Dominance](https://tech.slashdot.org/story/24/09/09/2112257/us-prepares-to-challenge-googles-online-ad-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-09, 21:22:00](https://science.slashdot.org/story/24/09/09/216216/airpods-pro-2-adds-clinical-grade-hearing-aid-feature?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AirPods Pro 2 Adds 'Clinical Grade' Hearing Aid Feature](https://science.slashdot.org/story/24/09/09/216216/airpods-pro-2-adds-clinical-grade-hearing-aid-feature?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-09, 20:41:00](https://yro.slashdot.org/story/24/09/09/2021250/the-nsa-has-a-podcast?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The NSA Has a Podcast](https://yro.slashdot.org/story/24/09/09/2021250/the-nsa-has-a-podcast?utm_source=rss1.0mainlinkanon&utm_medium=feed)
