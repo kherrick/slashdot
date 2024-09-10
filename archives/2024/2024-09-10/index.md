@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 19:20:00](https://yro.slashdot.org/story/24/09/10/1837252/malaysias-plan-to-block-overseas-dns-dies-after-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Malaysia's Plan To Block Overseas DNS Dies After a Day](https://yro.slashdot.org/story/24/09/10/1837252/malaysias-plan-to-block-overseas-dns-dies-after-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-10, 18:41:00](https://tech.slashdot.org/story/24/09/10/170205/russia-to-spend-646-million-to-block-vpns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia To Spend $646 Million To Block VPNs](https://tech.slashdot.org/story/24/09/10/170205/russia-to-spend-646-million-to-block-vpns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-10, 18:02:00](https://tech.slashdot.org/story/24/09/10/183208/microsoft-performs-operations-with-multiple-error-corrected-qubits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Performs Operations With Multiple Error-Corrected Qubits](https://tech.slashdot.org/story/24/09/10/183208/microsoft-performs-operations-with-multiple-error-corrected-qubits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-10, 17:22:00](https://games.slashdot.org/story/24/09/10/1655248/sony-unveils-700-playstation-5-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Unveils $700 PlayStation 5 Pro](https://games.slashdot.org/story/24/09/10/1655248/sony-unveils-700-playstation-5-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
