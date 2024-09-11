@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 23:20:00](https://news.slashdot.org/story/24/09/11/2234258/bluesky-lets-you-post-videos-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky Lets You Post Videos Now](https://news.slashdot.org/story/24/09/11/2234258/bluesky-lets-you-post-videos-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-11, 22:40:00](https://tech.slashdot.org/story/24/09/11/2224235/mark-zuckerberg-says-hes-done-apologizing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mark Zuckerberg Says He's Done Apologizing](https://tech.slashdot.org/story/24/09/11/2224235/mark-zuckerberg-says-hes-done-apologizing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-11, 22:05:00](https://developers.slashdot.org/story/24/09/11/223243/android-apps-can-now-block-sideloading-force-downloads-through-google-play?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android Apps Can Now Block Sideloading, Force Downloads Through Google Play](https://developers.slashdot.org/story/24/09/11/223243/android-apps-can-now-block-sideloading-force-downloads-through-google-play?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-11, 21:20:00](https://tech.slashdot.org/story/24/09/11/2045254/human-drivers-keep-rear-ending-waymos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Human Drivers Keep Rear-Ending Waymos](https://tech.slashdot.org/story/24/09/11/2045254/human-drivers-keep-rear-ending-waymos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
