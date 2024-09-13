@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 16:41:00](https://tech.slashdot.org/story/24/09/13/1520205/united-airlines-taps-starlink-for-free-in-flight-wi-fi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [United Airlines Taps Starlink for Free In-Flight Wi-Fi](https://tech.slashdot.org/story/24/09/13/1520205/united-airlines-taps-starlink-for-free-in-flight-wi-fi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-13, 16:00:00](https://it.slashdot.org/story/24/09/13/1539247/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fortinet Confirms Data Breach After Hacker Claims To Steal 440GB of Files](https://it.slashdot.org/story/24/09/13/1539247/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-13, 15:21:00](https://tech.slashdot.org/story/24/09/13/1511218/can-ai-really-replace-salesforce-and-workday?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can AI Really Replace Salesforce and Workday?](https://tech.slashdot.org/story/24/09/13/1511218/can-ai-really-replace-salesforce-and-workday?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-13, 14:40:00](https://news.slashdot.org/story/24/09/13/1427242/the-irs-says-theres-always-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The IRS Says There's Always Next Year'](https://news.slashdot.org/story/24/09/13/1427242/the-irs-says-theres-always-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
