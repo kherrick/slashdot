@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 20:45:00](https://news.slashdot.org/story/24/09/16/1917216/us-government-expands-sanctions-against-spyware-maker-intellexa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Government Expands Sanctions Against Spyware Maker Intellexa](https://news.slashdot.org/story/24/09/16/1917216/us-government-expands-sanctions-against-spyware-maker-intellexa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-16, 20:04:00](https://slashdot.org/story/24/09/16/198242/ai-pioneers-call-for-protections-against-catastrophic-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Pioneers Call for Protections Against 'Catastrophic Risks'](https://slashdot.org/story/24/09/16/198242/ai-pioneers-call-for-protections-against-catastrophic-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-16, 19:28:00](https://linux.slashdot.org/story/24/09/16/1928224/linux-kernel-611-is-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Kernel 6.11 is Out](https://linux.slashdot.org/story/24/09/16/1928224/linux-kernel-611-is-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-16, 18:45:00](https://slashdot.org/story/24/09/16/1845223/amazon-ceo-tells-employees-to-return-to-office-five-days-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon CEO Tells Employees To Return To Office Five Days a Week](https://slashdot.org/story/24/09/16/1845223/amazon-ceo-tells-employees-to-return-to-office-five-days-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
