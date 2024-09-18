@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 20:41:00](https://slashdot.org/story/24/09/18/1931220/23andme-board-resigns-in-new-blow-to-dna-testing-company?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [23andMe Board Resigns in New Blow To DNA-Testing Company](https://slashdot.org/story/24/09/18/1931220/23andme-board-resigns-in-new-blow-to-dna-testing-company?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-18, 20:00:00](https://slashdot.org/story/24/09/18/1934222/ibm-is-quietly-axing-thousands-of-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ IBM is Quietly Axing Thousands of Jobs](https://slashdot.org/story/24/09/18/1934222/ibm-is-quietly-axing-thousands-of-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-18, 19:21:00](https://apple.slashdot.org/story/24/09/18/1851258/apple-and-google-diverge-on-photography-philosophy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple and Google Diverge on Photography Philosophy](https://apple.slashdot.org/story/24/09/18/1851258/apple-and-google-diverge-on-photography-philosophy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-18, 18:40:00](https://it.slashdot.org/story/24/09/18/1838228/global-police-dismantle-encrypted-messaging-app-used-by-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Global Police Dismantle Encrypted Messaging App Used By Criminals](https://it.slashdot.org/story/24/09/18/1838228/global-police-dismantle-encrypted-messaging-app-used-by-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
