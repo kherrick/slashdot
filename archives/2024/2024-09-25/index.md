@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 19:58:00](https://slashdot.org/story/24/09/25/1959208/openai-cto-mira-murati-is-leaving-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI CTO Mira Murati Is Leaving Firm](https://slashdot.org/story/24/09/25/1959208/openai-cto-mira-murati-is-leaving-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-25, 19:20:00](https://yro.slashdot.org/story/24/09/25/1853232/openai-pitched-white-house-on-unprecedented-data-center-buildout?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Pitched White House On Unprecedented Data Center Buildout](https://yro.slashdot.org/story/24/09/25/1853232/openai-pitched-white-house-on-unprecedented-data-center-buildout?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-25, 18:41:00](https://entertainment.slashdot.org/story/24/09/25/1840253/lg-tvs-start-showing-ads-on-screensavers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LG TVs Start Showing Ads On Screensavers](https://entertainment.slashdot.org/story/24/09/25/1840253/lg-tvs-start-showing-ads-on-screensavers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-25, 18:02:00](https://tech.slashdot.org/story/24/09/25/181226/meta-unveils-ar-glasses-prototype?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Unveils AR Glasses Prototype](https://tech.slashdot.org/story/24/09/25/181226/meta-unveils-ar-glasses-prototype?utm_source=rss1.0mainlinkanon&utm_medium=feed)
