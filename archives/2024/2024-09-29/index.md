@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-29](index.md)
+
+* [2024-09-29, 01:34:00](https://tech.slashdot.org/story/24/09/28/2344234/why-boeing-is-dismissing-a-top-executive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Boeing is Dismissing a Top Executive ](https://tech.slashdot.org/story/24/09/28/2344234/why-boeing-is-dismissing-a-top-executive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
