@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 18:41:00](https://news.slashdot.org/story/24/09/30/1836228/directv-to-buy-rival-dish-network?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DirecTV To Buy Rival Dish Network](https://news.slashdot.org/story/24/09/30/1836228/directv-to-buy-rival-dish-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-30, 18:01:00](https://tech.slashdot.org/story/24/09/30/1753257/reddit-is-making-sitewide-protests-basically-impossible?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit is Making Sitewide Protests Basically Impossible](https://tech.slashdot.org/story/24/09/30/1753257/reddit-is-making-sitewide-protests-basically-impossible?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-30, 17:20:00](https://news.slashdot.org/story/24/09/30/177218/us-approves-billions-in-aid-to-restart-michigan-nuclear-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Approves Billions in Aid To Restart Michigan Nuclear Plant](https://news.slashdot.org/story/24/09/30/177218/us-approves-billions-in-aid-to-restart-michigan-nuclear-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-09-30, 16:40:00](https://news.slashdot.org/story/24/09/30/1557210/uk-ends-142-year-coal-power-era-in-industrys-birthplace?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Ends 142-Year Coal Power Era in Industry's Birthplace](https://news.slashdot.org/story/24/09/30/1557210/uk-ends-142-year-coal-power-era-in-industrys-birthplace?utm_source=rss1.0mainlinkanon&utm_medium=feed)
