@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 07:00:00](https://tech.slashdot.org/story/24/10/01/0052226/russia-is-banning-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia Is Banning Discord](https://tech.slashdot.org/story/24/10/01/0052226/russia-is-banning-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-01, 03:30:00](https://news.slashdot.org/story/24/10/01/0044230/switzerland-and-italy-redraw-border-due-to-melting-glaciers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Switzerland and Italy Redraw Border Due To Melting Glaciers](https://news.slashdot.org/story/24/10/01/0044230/switzerland-and-italy-redraw-border-due-to-melting-glaciers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-01, 01:25:00](https://yro.slashdot.org/story/24/10/01/0026213/google-wins-lawsuit-against-scammers-who-weaponized-dmca-takedowns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Wins Lawsuit Against Scammers Who 'Weaponized' DMCA Takedowns](https://yro.slashdot.org/story/24/10/01/0026213/google-wins-lawsuit-against-scammers-who-weaponized-dmca-takedowns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-01, 00:59:00](https://slashdot.org/story/24/10/01/0030246/ai-chipmaker-cerebras-files-for-ipo-to-take-on-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Chipmaker Cerebras Files For IPO To Take On Nvidia](https://slashdot.org/story/24/10/01/0030246/ai-chipmaker-cerebras-files-for-ipo-to-take-on-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
