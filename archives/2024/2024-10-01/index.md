@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 14:05:00](https://it.slashdot.org/story/24/10/01/145259/sonos-unveils-overhaul-plan-after-app-debacle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sonos Unveils Overhaul Plan After App Debacle](https://it.slashdot.org/story/24/10/01/145259/sonos-unveils-overhaul-plan-after-app-debacle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-01, 10:00:00](https://slashdot.org/story/24/10/01/010256/verizon-leases-over-6300-wireless-towers-to-vertical-bridge-for-33-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Verizon Leases Over 6,300 Wireless Towers To Vertical Bridge For $3.3 Billion](https://slashdot.org/story/24/10/01/010256/verizon-leases-over-6300-wireless-towers-to-vertical-bridge-for-33-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-01, 07:00:00](https://tech.slashdot.org/story/24/10/01/0052226/russia-is-banning-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia Is Banning Discord](https://tech.slashdot.org/story/24/10/01/0052226/russia-is-banning-discord?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-01, 03:30:00](https://news.slashdot.org/story/24/10/01/0044230/switzerland-and-italy-redraw-border-due-to-melting-glaciers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Switzerland and Italy Redraw Border Due To Melting Glaciers](https://news.slashdot.org/story/24/10/01/0044230/switzerland-and-italy-redraw-border-due-to-melting-glaciers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
