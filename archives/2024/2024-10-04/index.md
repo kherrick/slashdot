@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 20:01:00](https://tech.slashdot.org/story/24/10/04/1925239/matt-mullenweg-wordpressorg-just-belongs-to-me?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Matt Mullenweg: 'WordPress.org Just Belongs To Me'](https://tech.slashdot.org/story/24/10/04/1925239/matt-mullenweg-wordpressorg-just-belongs-to-me?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 19:21:00](https://science.slashdot.org/story/24/10/04/1845237/bird-flu-fears-stoke-the-race-for-an-mrna-flu-vaccine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bird Flu Fears Stoke the Race for an mRNA Flu Vaccine](https://science.slashdot.org/story/24/10/04/1845237/bird-flu-fears-stoke-the-race-for-an-mrna-flu-vaccine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 18:40:00](https://science.slashdot.org/story/24/10/04/1834239/we-may-have-passed-peak-obesity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [We May Have Passed Peak Obesity](https://science.slashdot.org/story/24/10/04/1834239/we-may-have-passed-peak-obesity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 18:01:00](https://linux.slashdot.org/story/24/10/04/1759201/thousands-of-linux-systems-infected-by-stealthy-malware-since-2021?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Thousands of Linux Systems Infected By Stealthy Malware Since 2021](https://linux.slashdot.org/story/24/10/04/1759201/thousands-of-linux-systems-infected-by-stealthy-malware-since-2021?utm_source=rss1.0mainlinkanon&utm_medium=feed)
