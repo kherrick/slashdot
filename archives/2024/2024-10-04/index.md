@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 13:00:00](https://yro.slashdot.org/story/24/10/04/0723228/cloudflare-defeats-patent-troll?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Defeats Patent Troll](https://yro.slashdot.org/story/24/10/04/0723228/cloudflare-defeats-patent-troll?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 10:00:00](https://slashdot.org/story/24/10/04/021203/ai-agent-promotes-itself-to-sysadmin-trashes-boot-sequence?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Agent Promotes Itself To Sysadmin, Trashes Boot Sequence](https://slashdot.org/story/24/10/04/021203/ai-agent-promotes-itself-to-sysadmin-trashes-boot-sequence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 07:00:00](https://science.slashdot.org/story/24/10/04/0148245/cheetos-food-dye-turns-mice-transparent?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cheetos Food Dye Turns Mice Transparent](https://science.slashdot.org/story/24/10/04/0148245/cheetos-food-dye-turns-mice-transparent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 03:30:00](https://science.slashdot.org/story/24/10/04/007212/23andme-is-on-the-brink-what-happens-to-all-its-dna-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [23andMe Is On the Brink. What Happens To All Its DNA Data?](https://science.slashdot.org/story/24/10/04/007212/23andme-is-on-the-brink-what-happens-to-all-its-dna-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
