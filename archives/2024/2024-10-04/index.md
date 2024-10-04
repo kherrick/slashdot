@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 01:25:00](https://science.slashdot.org/story/24/10/03/2345201/fly-brain-breakthrough-huge-leap-to-unlock-human-mind?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fly Brain Breakthrough 'Huge Leap' To Unlock Human Mind](https://science.slashdot.org/story/24/10/03/2345201/fly-brain-breakthrough-huge-leap-to-unlock-human-mind?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 00:45:00](https://slashdot.org/story/24/10/03/2338205/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Launches New 'Canvas' ChatGPT Interface Tailored To Writing and Coding Projects](https://slashdot.org/story/24/10/03/2338205/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-04, 00:02:00](https://slashdot.org/story/24/10/03/2330200/mystery-creator-of-bitcoin-identified-new-hbo-documentary-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mystery Creator of Bitcoin Identified, New HBO Documentary Claims](https://slashdot.org/story/24/10/03/2330200/mystery-creator-of-bitcoin-identified-new-hbo-documentary-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed)
