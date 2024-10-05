@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-05](index.md)
+
+* [2024-10-05, 00:45:00](https://tech.slashdot.org/story/24/10/04/221231/samsungs-one-ui-is-expanding-to-all-of-its-consumer-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Samsung's 'One UI' Is Expanding To All of Its Consumer Devices](https://tech.slashdot.org/story/24/10/04/221231/samsungs-one-ui-is-expanding-to-all-of-its-consumer-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-10-05, 00:02:00](https://slashdot.org/story/24/10/04/2144244/sec-appeals-decision-in-landmark-ripple-case?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SEC Appeals Decision In Landmark Ripple Case](https://slashdot.org/story/24/10/04/2144244/sec-appeals-decision-in-landmark-ripple-case?utm_source=rss1.0mainlinkanon&utm_medium=feed)
