@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 22:01:00](https://yro.slashdot.org/story/24/10/07/2014216/smart-tvs-are-like-a-digital-trojan-horse-in-peoples-homes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Smart TVs Are Like 'a Digital Trojan Horse' in People's Homes](https://yro.slashdot.org/story/24/10/07/2014216/smart-tvs-are-like-a-digital-trojan-horse-in-peoples-homes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-07, 21:20:00](https://yro.slashdot.org/story/24/10/07/1956245/us-antitrust-case-against-amazon-to-move-forward?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Antitrust Case Against Amazon To Move Forward](https://yro.slashdot.org/story/24/10/07/1956245/us-antitrust-case-against-amazon-to-move-forward?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-07, 20:41:00](https://science.slashdot.org/story/24/10/07/1953218/microrna-pioneers-win-nobel-prize-in-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MicroRNA Pioneers Win Nobel Prize in Medicine](https://science.slashdot.org/story/24/10/07/1953218/microrna-pioneers-win-nobel-prize-in-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-07, 20:01:00](https://tech.slashdot.org/story/24/10/07/1938237/the-slow-death-of-the-hyperlink?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Slow Death of the Hyperlink](https://tech.slashdot.org/story/24/10/07/1938237/the-slow-death-of-the-hyperlink?utm_source=rss1.0mainlinkanon&utm_medium=feed)
