@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 18:01:00](https://slashdot.org/story/24/10/08/1245259/samsung-apologizes-for-making-just-68-billion-last-quarter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Samsung Apologizes For Making Just $6.8 Billion Last Quarter](https://slashdot.org/story/24/10/08/1245259/samsung-apologizes-for-making-just-68-billion-last-quarter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-08, 17:20:00](https://games.slashdot.org/story/24/10/08/1231233/nintendo-switch-modder-faces-tech-giant-in-court-without-lawyer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nintendo Switch Modder Faces Tech Giant in Court Without Lawyer](https://games.slashdot.org/story/24/10/08/1231233/nintendo-switch-modder-faces-tech-giant-in-court-without-lawyer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-08, 16:40:00](https://news.slashdot.org/story/24/10/08/1114222/how-long-will-life-exist-on-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Long Will Life Exist on Earth?](https://news.slashdot.org/story/24/10/08/1114222/how-long-will-life-exist-on-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-08, 16:00:00](https://tech.slashdot.org/story/24/10/08/103200/where-have-all-the-chief-metaverse-officers-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Where Have All the Chief Metaverse Officers Gone?](https://tech.slashdot.org/story/24/10/08/103200/where-have-all-the-chief-metaverse-officers-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
