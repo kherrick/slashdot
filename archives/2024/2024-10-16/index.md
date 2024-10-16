@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 17:20:00](https://news.slashdot.org/story/24/10/16/1716242/a-nobel-for-the-big-big-questions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['A Nobel For the Big Big Questions'](https://news.slashdot.org/story/24/10/16/1716242/a-nobel-for-the-big-big-questions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-16, 16:40:00](https://it.slashdot.org/story/24/10/16/1638251/digital-river-runs-dry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Digital River Runs Dry](https://it.slashdot.org/story/24/10/16/1638251/digital-river-runs-dry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-16, 16:01:00](https://news.slashdot.org/story/24/10/16/1550257/ftc-takes-on-subscription-traps-with-click-to-cancel-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Takes on Subscription Traps With 'Click To Cancel' Rule](https://news.slashdot.org/story/24/10/16/1550257/ftc-takes-on-subscription-traps-with-click-to-cancel-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-16, 15:21:00](https://hardware.slashdot.org/story/24/10/16/1416235/amazon-finally-has-a-color-kindle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Finally Has a Color Kindle](https://hardware.slashdot.org/story/24/10/16/1416235/amazon-finally-has-a-color-kindle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
