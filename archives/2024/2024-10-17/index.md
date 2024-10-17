@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 21:30:00](https://apple.slashdot.org/story/24/10/17/2044225/developers-now-required-to-share-phone-number-and-address-on-eu-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developers Now Required To Share Phone Number and Address On EU App Store](https://apple.slashdot.org/story/24/10/17/2044225/developers-now-required-to-share-phone-number-and-address-on-eu-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-17, 20:50:00](https://mobile.slashdot.org/story/24/10/17/2049232/all-mobile-phones-must-be-hearing-aid-compatible-under-new-fcc-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [All Mobile Phones Must Be Hearing Aid Compatible Under New FCC Rules](https://mobile.slashdot.org/story/24/10/17/2049232/all-mobile-phones-must-be-hearing-aid-compatible-under-new-fcc-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-17, 18:08:00](https://tech.slashdot.org/story/24/10/17/188221/qualcomm-halts-snapdragon-dev-kit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qualcomm Halts Snapdragon Dev Kit](https://tech.slashdot.org/story/24/10/17/188221/qualcomm-halts-snapdragon-dev-kit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-17, 17:39:00](https://it.slashdot.org/story/24/10/17/1739228/why-microsoft-excel-wont-die?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Microsoft Excel Won't Die](https://it.slashdot.org/story/24/10/17/1739228/why-microsoft-excel-wont-die?utm_source=rss1.0mainlinkanon&utm_medium=feed)
