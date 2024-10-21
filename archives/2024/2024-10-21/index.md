@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-21](index.md)
+
+* [2024-10-21, 00:03:00](https://developers.slashdot.org/story/24/10/20/2359227/an-alternative-to-rewriting-memory-unsafe-code-in-rust-the-safe-c-extensions-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An Alternative to Rewriting Memory-Unsafe Code in Rust: the 'Safe C++ Extensions' Proposal](https://developers.slashdot.org/story/24/10/20/2359227/an-alternative-to-rewriting-memory-unsafe-code-in-rust-the-safe-c-extensions-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
