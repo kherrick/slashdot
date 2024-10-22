@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 19:25:00](https://news.slashdot.org/story/24/10/22/1848224/uk-considers-new-smartphone-bans-for-children?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Considers New Smartphone Bans for Children](https://news.slashdot.org/story/24/10/22/1848224/uk-considers-new-smartphone-bans-for-children?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-22, 18:48:00](https://games.slashdot.org/story/24/10/22/1829256/netflix-closes-aaa-game-studio-before-it-ever-released-a-game?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Closes AAA Game Studio Before It Ever Released a Game](https://games.slashdot.org/story/24/10/22/1829256/netflix-closes-aaa-game-studio-before-it-ever-released-a-game?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-22, 18:10:00](https://tech.slashdot.org/story/24/10/22/1810240/evs-are-just-going-to-win?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EVs Are Just Going To Win](https://tech.slashdot.org/story/24/10/22/1810240/evs-are-just-going-to-win?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-22, 17:22:00](https://news.slashdot.org/story/24/10/22/1717236/operating-in-the-stone-age-nhs-staffs-daily-struggle-with-outdated-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Operating in the Stone Age': NHS Staff's Daily Struggle With Outdated Tech](https://news.slashdot.org/story/24/10/22/1717236/operating-in-the-stone-age-nhs-staffs-daily-struggle-with-outdated-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
