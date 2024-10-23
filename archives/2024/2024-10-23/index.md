@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 18:03:00](https://slashdot.org/story/24/10/23/1312230/users-say-t-mobile-must-pay-for-killing-lifetime-price-lock?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Users Say T-Mobile Must Pay For Killing 'Lifetime' Price Lock](https://slashdot.org/story/24/10/23/1312230/users-say-t-mobile-must-pay-for-killing-lifetime-price-lock?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-23, 17:20:00](https://news.slashdot.org/story/24/10/23/1659204/white-collar-jobs-freeze-triggers-mba-applications-boom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [White-Collar Jobs Freeze Triggers MBA Applications Boom](https://news.slashdot.org/story/24/10/23/1659204/white-collar-jobs-freeze-triggers-mba-applications-boom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-23, 16:45:00](https://slashdot.org/story/24/10/23/1137243/foursquare-to-kill-its-city-guide-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Foursquare To Kill Its City Guide App](https://slashdot.org/story/24/10/23/1137243/foursquare-to-kill-its-city-guide-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-23, 16:04:00](https://apple.slashdot.org/story/24/10/23/1229226/why-is-apple-so-bad-at-marketing-its-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why is Apple So Bad at Marketing Its TV Shows?](https://apple.slashdot.org/story/24/10/23/1229226/why-is-apple-so-bad-at-marketing-its-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
