@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-23](index.md)
+
+* [2024-10-23, 00:45:00](https://hardware.slashdot.org/story/24/10/22/2349258/san-francisco-munis-rail-system-will-spend-212-million-to-upgrade-from-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [San Francisco Muni's Rail System Will Spend $212 Million To Upgrade From Floppy Disks](https://hardware.slashdot.org/story/24/10/22/2349258/san-francisco-munis-rail-system-will-spend-212-million-to-upgrade-from-floppy-disks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-10-23, 00:02:00](https://yro.slashdot.org/story/24/10/22/2342258/lawsuit-argues-warrantless-use-of-flock-surveillance-cameras-is-unconstitutional?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lawsuit Argues Warrantless Use of Flock Surveillance Cameras Is Unconstitutional](https://yro.slashdot.org/story/24/10/22/2342258/lawsuit-argues-warrantless-use-of-flock-surveillance-cameras-is-unconstitutional?utm_source=rss1.0mainlinkanon&utm_medium=feed)
