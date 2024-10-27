@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-27](index.md)
+
+* [2024-10-27, 01:34:00](https://science.slashdot.org/story/24/10/26/2318201/did-capturing-carbon-from-the-air-just-get-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Did Capturing Carbon from the Air Just Get Easier?](https://science.slashdot.org/story/24/10/26/2318201/did-capturing-carbon-from-the-air-just-get-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
