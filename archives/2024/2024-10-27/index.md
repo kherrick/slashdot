@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 04:34:00](https://hardware.slashdot.org/story/24/10/27/0225224/nvidia-passes-apple-to-become-the-worlds-most-valuable-company---powered-by-demand-for-ai-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Passes Apple to Become the World's Most Valuable Company - Powered by Demand for AI Chips](https://hardware.slashdot.org/story/24/10/27/0225224/nvidia-passes-apple-to-become-the-worlds-most-valuable-company---powered-by-demand-for-ai-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-27, 01:34:00](https://science.slashdot.org/story/24/10/26/2318201/did-capturing-carbon-from-the-air-just-get-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Did Capturing Carbon from the Air Just Get Easier?](https://science.slashdot.org/story/24/10/26/2318201/did-capturing-carbon-from-the-air-just-get-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
