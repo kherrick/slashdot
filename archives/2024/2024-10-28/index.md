@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 22:50:00](https://slashdot.org/story/24/10/28/2057252/att-announces-1-billion-fiber-deal-with-corning?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AT&amp;T Announces $1 Billion Fiber Deal With Corning](https://slashdot.org/story/24/10/28/2057252/att-announces-1-billion-fiber-deal-with-corning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-28, 22:10:00](https://mobile.slashdot.org/story/24/10/28/2053259/apple-intelligence-is-out-today?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Intelligence Is Out Today](https://mobile.slashdot.org/story/24/10/28/2053259/apple-intelligence-is-out-today?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-28, 21:30:00](https://games.slashdot.org/story/24/10/28/2027229/a-million-people-play-this-video-wargame-so-does-the-pentagon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Million People Play This Video Wargame. So Does the Pentagon.](https://games.slashdot.org/story/24/10/28/2027229/a-million-people-play-this-video-wargame-so-does-the-pentagon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-28, 20:50:00](https://news.slashdot.org/story/24/10/28/1947245/britain-to-axe-up-to-15-million-lampposts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Britain To Axe Up To 1.5 Million Lampposts](https://news.slashdot.org/story/24/10/28/1947245/britain-to-axe-up-to-15-million-lampposts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
