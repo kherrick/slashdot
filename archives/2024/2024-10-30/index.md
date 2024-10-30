@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 14:00:00](https://tech.slashdot.org/story/24/10/30/1240255/visa-coinbase-offer-real-time-crypto-purchases-via-debit-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Visa, Coinbase Offer Real-Time Crypto Purchases Via Debit Cards](https://tech.slashdot.org/story/24/10/30/1240255/visa-coinbase-offer-real-time-crypto-purchases-via-debit-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-30, 10:00:00](https://tech.slashdot.org/story/24/10/30/0241200/reddit-is-profitable-for-the-first-time-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Is Profitable For the First Time Ever](https://tech.slashdot.org/story/24/10/30/0241200/reddit-is-profitable-for-the-first-time-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-30, 07:00:00](https://yro.slashdot.org/story/24/10/30/0235258/russian-court-fines-google-20-decillion-for-blocking-media-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russian Court Fines Google $20 Decillion For Blocking Media Content](https://yro.slashdot.org/story/24/10/30/0235258/russian-court-fines-google-20-decillion-for-blocking-media-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-10-30, 03:30:00](https://entertainment.slashdot.org/story/24/10/30/0230259/alien-signal-decoded?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Alien' Signal Decoded](https://entertainment.slashdot.org/story/24/10/30/0230259/alien-signal-decoded?utm_source=rss1.0mainlinkanon&utm_medium=feed)
