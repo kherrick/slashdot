@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-06](index.md)
+
+* [2024-11-06, 00:42:00](https://slashdot.org/story/24/11/05/2224228/amazon-ceo-denies-full-in-office-mandate-is-backdoor-layoff?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon CEO Denies Full In-Office Mandate is 'Backdoor Layoff'](https://slashdot.org/story/24/11/05/2224228/amazon-ceo-denies-full-in-office-mandate-is-backdoor-layoff?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2024-11-06, 00:02:00](https://tech.slashdot.org/story/24/11/05/2217233/the-hyperloop-lives-on-as-a-112th-scale-model-in-switzerland?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Hyperloop Lives On As a 1/12th Scale Model In Switzerland](https://tech.slashdot.org/story/24/11/05/2217233/the-hyperloop-lives-on-as-a-112th-scale-model-in-switzerland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
