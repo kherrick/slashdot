@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 18:10:00](https://tech.slashdot.org/story/24/11/07/1724248/just-have-ai-build-an-app-for-that?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Just Have AI Build an App For That'](https://tech.slashdot.org/story/24/11/07/1724248/just-have-ai-build-an-app-for-that?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 17:30:00](https://tech.slashdot.org/story/24/11/07/1716210/what-tired-texans-wrote-to-the-fcc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Tired Texans Wrote To the FCC](https://tech.slashdot.org/story/24/11/07/1716210/what-tired-texans-wrote-to-the-fcc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 16:52:00](https://news.slashdot.org/story/24/11/07/1652216/plastic-pollution-is-changing-entire-earth-system-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plastic Pollution is Changing Entire Earth System, Scientists Find](https://news.slashdot.org/story/24/11/07/1652216/plastic-pollution-is-changing-entire-earth-system-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 16:02:00](https://slashdot.org/story/24/11/07/1529211/malwarebytes-acquires-azirevpn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Malwarebytes Acquires AzireVPN](https://slashdot.org/story/24/11/07/1529211/malwarebytes-acquires-azirevpn?utm_source=rss1.0mainlinkanon&utm_medium=feed)

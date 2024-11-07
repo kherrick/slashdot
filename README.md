@@ -1,5 +1,6 @@
 # [Slashdot](https://kherrick.github.io/slashdot/)
 
+* [2024-11-07, 18:10:00](https://tech.slashdot.org/story/24/11/07/1724248/just-have-ai-build-an-app-for-that?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Just Have AI Build an App For That'](https://tech.slashdot.org/story/24/11/07/1724248/just-have-ai-build-an-app-for-that?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 17:30:00](https://tech.slashdot.org/story/24/11/07/1716210/what-tired-texans-wrote-to-the-fcc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Tired Texans Wrote To the FCC](https://tech.slashdot.org/story/24/11/07/1716210/what-tired-texans-wrote-to-the-fcc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 16:52:00](https://news.slashdot.org/story/24/11/07/1652216/plastic-pollution-is-changing-entire-earth-system-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plastic Pollution is Changing Entire Earth System, Scientists Find](https://news.slashdot.org/story/24/11/07/1652216/plastic-pollution-is-changing-entire-earth-system-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 16:02:00](https://slashdot.org/story/24/11/07/1529211/malwarebytes-acquires-azirevpn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Malwarebytes Acquires AzireVPN](https://slashdot.org/story/24/11/07/1529211/malwarebytes-acquires-azirevpn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -14,7 +15,6 @@
 * [2024-11-07, 00:50:00](https://yro.slashdot.org/story/24/11/06/2211220/intel-sued-over-raptor-lake-voltage-instability?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Sued Over Raptor Lake Voltage Instability](https://yro.slashdot.org/story/24/11/06/2211220/intel-sued-over-raptor-lake-voltage-instability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 00:10:00](https://news.slashdot.org/story/24/11/06/2343250/canada-bans-tiktok-citing-national-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canada Bans TikTok Citing National Security Concerns](https://news.slashdot.org/story/24/11/06/2343250/canada-bans-tiktok-citing-national-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-06, 23:30:00](https://tech.slashdot.org/story/24/11/06/224243/openai-acquires-chatcom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Acquires Chat.com](https://tech.slashdot.org/story/24/11/06/224243/openai-acquires-chatcom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-11-06, 22:50:00](https://news.slashdot.org/story/24/11/06/2159204/anthropics-haiku-35-surprises-experts-with-an-intelligence-price-increase?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic's Haiku 3.5 Surprises Experts With an 'Intelligence' Price Increase](https://news.slashdot.org/story/24/11/06/2159204/anthropics-haiku-35-surprises-experts-with-an-intelligence-price-increase?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## [Archives](archives/index.md)
 
