@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 16:52:00](https://news.slashdot.org/story/24/11/07/1652216/plastic-pollution-is-changing-entire-earth-system-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plastic Pollution is Changing Entire Earth System, Scientists Find](https://news.slashdot.org/story/24/11/07/1652216/plastic-pollution-is-changing-entire-earth-system-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 16:02:00](https://slashdot.org/story/24/11/07/1529211/malwarebytes-acquires-azirevpn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Malwarebytes Acquires AzireVPN](https://slashdot.org/story/24/11/07/1529211/malwarebytes-acquires-azirevpn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 15:21:00](https://games.slashdot.org/story/24/11/07/1515236/sega-delisting-over-60-classic-games-from-virtual-stores?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sega Delisting Over 60 Classic Games From Virtual Stores](https://games.slashdot.org/story/24/11/07/1515236/sega-delisting-over-60-classic-games-from-virtual-stores?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-07, 14:42:00](https://tech.slashdot.org/story/24/11/07/1442231/nvidia-sets-100-hour-monthly-cap-on-cloud-gaming-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Sets 100-Hour Monthly Cap on Cloud Gaming Service](https://tech.slashdot.org/story/24/11/07/1442231/nvidia-sets-100-hour-monthly-cap-on-cloud-gaming-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
