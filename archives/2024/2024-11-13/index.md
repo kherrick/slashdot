@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 16:41:00](https://developers.slashdot.org/story/24/11/13/1138224/the-ultimate-in-debugging?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Ultimate in Debugging](https://developers.slashdot.org/story/24/11/13/1138224/the-ultimate-in-debugging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-13, 16:02:00](https://yro.slashdot.org/story/24/11/13/1132245/secret-service-says-you-agreed-to-be-tracked-with-location-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Secret Service Says You Agreed To Be Tracked With Location Data](https://yro.slashdot.org/story/24/11/13/1132245/secret-service-says-you-agreed-to-be-tracked-with-location-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-13, 15:21:00](https://developers.slashdot.org/story/24/11/13/1145205/will-we-care-about-frameworks-in-the-future?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will We Care About Frameworks in the Future?](https://developers.slashdot.org/story/24/11/13/1145205/will-we-care-about-frameworks-in-the-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-13, 14:41:00](https://apple.slashdot.org/story/24/11/13/1121225/apple-defends-mac-mini-power-button-relocation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Defends Mac Mini Power Button Relocation](https://apple.slashdot.org/story/24/11/13/1121225/apple-defends-mac-mini-power-button-relocation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
