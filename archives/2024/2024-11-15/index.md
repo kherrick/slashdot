@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 17:34:00](https://slashdot.org/story/24/11/15/1735220/sonys-had-the-year-from-hell?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony's Had the Year From Hell](https://slashdot.org/story/24/11/15/1735220/sonys-had-the-year-from-hell?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-15, 16:52:00](https://slashdot.org/story/24/11/15/1652256/is-anyone-crazy-enough-to-audit-super-micro-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Anyone Crazy Enough To Audit Super Micro Computer?](https://slashdot.org/story/24/11/15/1652256/is-anyone-crazy-enough-to-audit-super-micro-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-15, 16:06:00](https://it.slashdot.org/story/24/11/15/166250/cloud-migration-is-back-if-you-ignore-the-actual-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloud Migration Is Back (If You Ignore the Actual Numbers)](https://it.slashdot.org/story/24/11/15/166250/cloud-migration-is-back-if-you-ignore-the-actual-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-15, 15:31:00](https://slashdot.org/story/24/11/15/1531244/virgin-media-o2-deploys-ai-decoy-to-waste-scammers-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Virgin Media O2 Deploys AI Decoy To Waste Scammers' Time](https://slashdot.org/story/24/11/15/1531244/virgin-media-o2-deploys-ai-decoy-to-waste-scammers-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
