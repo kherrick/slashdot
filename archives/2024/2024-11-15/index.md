@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 10:00:00](https://yro.slashdot.org/story/24/11/15/018247/open-source-fights-back-we-wont-get-patent-trolled-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Open Source Fights Back: 'We Won't Get Patent-Trolled Again'](https://yro.slashdot.org/story/24/11/15/018247/open-source-fights-back-we-wont-get-patent-trolled-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-15, 07:00:00](https://science.slashdot.org/story/24/11/15/011215/rocket-lab-signs-first-neutron-launch-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rocket Lab Signs First Neutron Launch Customer](https://science.slashdot.org/story/24/11/15/011215/rocket-lab-signs-first-neutron-launch-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-15, 03:30:00](https://games.slashdot.org/story/24/11/14/2230244/half-life-2-celebrates-20th-anniversary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Half-Life 2 Celebrates 20th Anniversary](https://games.slashdot.org/story/24/11/14/2230244/half-life-2-celebrates-20th-anniversary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-15, 02:02:00](https://science.slashdot.org/story/24/11/14/2216239/meet-evo-the-dna-trained-ai-that-creates-genomes-from-scratch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meet Evo, the DNA-trained AI That Creates Genomes From Scratch](https://science.slashdot.org/story/24/11/14/2216239/meet-evo-the-dna-trained-ai-that-creates-genomes-from-scratch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
