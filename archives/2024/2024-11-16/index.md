@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 07:00:00](https://science.slashdot.org/story/24/11/16/0048219/is-nasas-moon-rocket-getting-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is NASA's Moon Rocket Getting Canceled?](https://science.slashdot.org/story/24/11/16/0048219/is-nasas-moon-rocket-getting-canceled?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-16, 03:30:00](https://tech.slashdot.org/story/24/11/15/2323226/with-first-mechanical-qubit-quantum-computing-goes-steampunk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [With First Mechanical Qubit, Quantum Computing Goes Steampunk](https://tech.slashdot.org/story/24/11/15/2323226/with-first-mechanical-qubit-quantum-computing-goes-steampunk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-16, 01:40:00](https://yro.slashdot.org/story/24/11/15/2314234/nso-not-government-clients-operates-its-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NSO, Not Government Clients, Operates Its Spyware](https://yro.slashdot.org/story/24/11/15/2314234/nso-not-government-clients-operates-its-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-16, 01:20:00](https://yro.slashdot.org/story/24/11/16/013236/t-mobile-hacked-in-massive-chinese-breach-of-telecom-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [T-Mobile Hacked In Massive Chinese Breach of Telecom Networks](https://yro.slashdot.org/story/24/11/16/013236/t-mobile-hacked-in-massive-chinese-breach-of-telecom-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
