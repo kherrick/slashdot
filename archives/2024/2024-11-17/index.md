@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 18:39:00](https://it.slashdot.org/story/24/11/17/1838210/amazon-makes-it-harder-for-disabled-employees-to-work-from-home?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Makes It Harder for Disabled Employees to Work From Home](https://it.slashdot.org/story/24/11/17/1838210/amazon-makes-it-harder-for-disabled-employees-to-work-from-home?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-17, 17:34:00](https://slashdot.org/story/24/11/16/2258231/google-ai-gemini-threatens-college-student-human-please-die?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google AI Gemini Threatens College Student:  'Human... Please Die'](https://slashdot.org/story/24/11/16/2258231/google-ai-gemini-threatens-college-student-human-please-die?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-17, 16:34:00](https://science.slashdot.org/story/24/11/16/052216/china-unveils-haolong-space-shuttle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Unveils 'Haolong' Space Shuttle](https://science.slashdot.org/story/24/11/16/052216/china-unveils-haolong-space-shuttle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-17, 15:34:00](https://it.slashdot.org/story/24/11/16/2058247/is-remote-working-causing-an-exodus-to-the-exurbs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Remote Working Causing an Exodus to the Exurbs?](https://it.slashdot.org/story/24/11/16/2058247/is-remote-working-causing-an-exodus-to-the-exurbs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
