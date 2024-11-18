@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 18:15:00](https://slashdot.org/story/24/11/18/1814244/weekends-were-a-mistake-says-infosys-co-founder-narayana-murthy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Weekends Were a Mistake, Says Infosys Co-founder Narayana Murthy](https://slashdot.org/story/24/11/18/1814244/weekends-were-a-mistake-says-infosys-co-founder-narayana-murthy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-18, 17:30:00](https://news.slashdot.org/story/24/11/18/1721232/china-population-set-for-51-million-drop-as-pro-birth-moves-fail?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Population Set for 51 Million Drop as Pro-Birth Moves Fail](https://news.slashdot.org/story/24/11/18/1721232/china-population-set-for-51-million-drop-as-pro-birth-moves-fail?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-18, 16:54:00](https://yro.slashdot.org/story/24/11/18/1654250/belgian-region-trials-web-founders-data-privacy-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Belgian Region Trials Web Founder's Data Privacy System](https://yro.slashdot.org/story/24/11/18/1654250/belgian-region-trials-web-founders-data-privacy-system?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-18, 16:24:00](https://games.slashdot.org/story/24/11/18/1624212/world-of-warcraft-turns-20?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [World of Warcraft Turns 20](https://games.slashdot.org/story/24/11/18/1624212/world-of-warcraft-turns-20?utm_source=rss1.0mainlinkanon&utm_medium=feed)
