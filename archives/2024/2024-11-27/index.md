@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-27](index.md)
+
+* [2024-11-27, 00:25:00](https://slashdot.org/story/24/11/26/215211/job-seekers-doubt-ais-promised-productivity-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Job Seekers Doubt AI's Promised Productivity Gains](https://slashdot.org/story/24/11/26/215211/job-seekers-doubt-ais-promised-productivity-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
