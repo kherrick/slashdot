@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 18:32:00](https://news.slashdot.org/story/24/11/28/1831249/coffee-at-highest-price-in-47-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Coffee at Highest Price in 47 years](https://news.slashdot.org/story/24/11/28/1831249/coffee-at-highest-price-in-47-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-28, 17:12:00](https://it.slashdot.org/story/24/11/28/1712216/french-porn-block-fails-on-site-url-detail?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [French Porn Block Fails on Site URL Detail](https://it.slashdot.org/story/24/11/28/1712216/french-porn-block-fails-on-site-url-detail?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-28, 16:08:00](https://news.slashdot.org/story/24/11/28/168214/even-central-banks-are-losing-faith-in-cbdcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Even Central Banks Are Losing Faith in CBDCs](https://news.slashdot.org/story/24/11/28/168214/even-central-banks-are-losing-faith-in-cbdcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-28, 15:01:00](https://news.slashdot.org/story/24/11/28/1454234/plastics-lobbyists-make-up-biggest-group-at-vital-un-treaty-talks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plastics Lobbyists Make Up Biggest Group at Vital UN Treaty Talks](https://news.slashdot.org/story/24/11/28/1454234/plastics-lobbyists-make-up-biggest-group-at-vital-un-treaty-talks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
