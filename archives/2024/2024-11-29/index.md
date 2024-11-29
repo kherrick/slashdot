@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 18:02:00](https://tech.slashdot.org/story/24/11/29/1643218/meta-plans-10-billion-global-mother-of-all-subsea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Plans $10 Billion Global 'Mother of All' Subsea Cables](https://tech.slashdot.org/story/24/11/29/1643218/meta-plans-10-billion-global-mother-of-all-subsea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 17:00:00](https://news.slashdot.org/story/24/11/29/170207/the-new-climate-math-on-hurricanes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The New Climate Math on Hurricanes](https://news.slashdot.org/story/24/11/29/170207/the-new-climate-math-on-hurricanes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 16:01:00](https://science.slashdot.org/story/24/11/29/1534212/journal-scam-targets-top-science-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Journal Scam Targets Top Science Publishers](https://science.slashdot.org/story/24/11/29/1534212/journal-scam-targets-top-science-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 15:01:00](https://slashdot.org/story/24/11/29/1315219/big-tech-slams-australias-youth-social-media-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Big Tech Slams Australia's Youth Social Media Ban](https://slashdot.org/story/24/11/29/1315219/big-tech-slams-australias-youth-social-media-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
