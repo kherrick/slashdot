@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 23:18:00](https://news.slashdot.org/story/24/11/29/2317259/canadas-major-news-organizations-band-together-to-sue-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canada's Major News Organizations Band Together To Sue OpenAI](https://news.slashdot.org/story/24/11/29/2317259/canadas-major-news-organizations-band-together-to-sue-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 20:55:00](https://tech.slashdot.org/story/24/11/29/2055220/both-kde-and-gnome-to-offer-official-distros?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Both KDE and GNOME To Offer Official Distros](https://tech.slashdot.org/story/24/11/29/2055220/both-kde-and-gnome-to-offer-official-distros?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 18:02:00](https://tech.slashdot.org/story/24/11/29/1643218/meta-plans-10-billion-global-mother-of-all-subsea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Plans $10 Billion Global 'Mother of All' Subsea Cables](https://tech.slashdot.org/story/24/11/29/1643218/meta-plans-10-billion-global-mother-of-all-subsea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 17:00:00](https://news.slashdot.org/story/24/11/29/170207/the-new-climate-math-on-hurricanes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The New Climate Math on Hurricanes](https://news.slashdot.org/story/24/11/29/170207/the-new-climate-math-on-hurricanes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
