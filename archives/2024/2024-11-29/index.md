@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 16:01:00](https://science.slashdot.org/story/24/11/29/1534212/journal-scam-targets-top-science-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Journal Scam Targets Top Science Publishers](https://science.slashdot.org/story/24/11/29/1534212/journal-scam-targets-top-science-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 15:01:00](https://slashdot.org/story/24/11/29/1315219/big-tech-slams-australias-youth-social-media-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Big Tech Slams Australia's Youth Social Media Ban](https://slashdot.org/story/24/11/29/1315219/big-tech-slams-australias-youth-social-media-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 13:23:00](https://news.slashdot.org/story/24/11/29/1323218/crypto-entrepreneur-eats-6-million-banana-on-stage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Crypto Entrepreneur Eats $6 Million Banana on Stage](https://news.slashdot.org/story/24/11/29/1323218/crypto-entrepreneur-eats-6-million-banana-on-stage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-11-29, 13:05:00](https://tech.slashdot.org/story/24/11/29/134239/gimp-30---a-milestone-for-open-source-image-editing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GIMP 3.0 - a Milestone For Open-Source Image Editing](https://tech.slashdot.org/story/24/11/29/134239/gimp-30---a-milestone-for-open-source-image-editing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
