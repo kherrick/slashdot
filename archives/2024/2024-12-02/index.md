@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-02](index.md)
+
+* [2024-12-02, 00:06:00](https://tech.slashdot.org/story/24/12/02/002258/oxfords-word-of-the-year-brain-rot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oxford's Word of the Year:  'Brain Rot'](https://tech.slashdot.org/story/24/12/02/002258/oxfords-word-of-the-year-brain-rot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
