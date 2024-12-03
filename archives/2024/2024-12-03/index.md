@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 18:31:00](https://slashdot.org/story/24/12/03/1635220/amazon-ai-data-centers-to-double-as-carbon-capture-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon AI Data Centers To Double as Carbon Capture Machines](https://slashdot.org/story/24/12/03/1635220/amazon-ai-data-centers-to-double-as-carbon-capture-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-03, 17:30:00](https://yro.slashdot.org/story/24/12/03/1628201/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Bans Location Data Company That Powers the Surveillance Ecosystem](https://yro.slashdot.org/story/24/12/03/1628201/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-03, 16:30:00](https://slashdot.org/story/24/12/03/1620246/intel-debuts-arc-battlemage-discrete-graphics-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Debuts Arc Battlemage Discrete Graphics Cards](https://slashdot.org/story/24/12/03/1620246/intel-debuts-arc-battlemage-discrete-graphics-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-03, 15:35:00](https://slashdot.org/story/24/12/03/1534254/middle-manager-hiring-has-plunged?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Middle Manager Hiring has Plunged](https://slashdot.org/story/24/12/03/1534254/middle-manager-hiring-has-plunged?utm_source=rss1.0mainlinkanon&utm_medium=feed)
