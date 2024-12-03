@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-03](index.md)
+
+* [2024-12-03, 00:45:00](https://yro.slashdot.org/story/24/12/02/2336239/mexican-cartels-lure-chemistry-students-to-make-fentanyl?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mexican Cartels Lure Chemistry Students To Make Fentanyl](https://yro.slashdot.org/story/24/12/02/2336239/mexican-cartels-lure-chemistry-students-to-make-fentanyl?utm_source=rss1.0mainlinkanon&utm_medium=feed)
