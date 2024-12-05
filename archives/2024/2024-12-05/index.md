@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 02:50:00](https://news.slashdot.org/story/24/12/05/0330210/bitcoin-reaches-and-surpasses-100k-usd?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bitcoin Reaches and Surpasses $100k USD](https://news.slashdot.org/story/24/12/05/0330210/bitcoin-reaches-and-surpasses-100k-usd?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-05, 02:39:00](https://yro.slashdot.org/story/24/12/05/0141258/internet-archive-we-will-not-appeal-hachette-v-internet-archive-ruling?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Internet Archive: We Will Not Appeal 'Hachette v. Internet Archive' Ruling](https://yro.slashdot.org/story/24/12/05/0141258/internet-archive-we-will-not-appeal-hachette-v-internet-archive-ruling?utm_source=rss1.0mainlinkanon&utm_medium=feed)
