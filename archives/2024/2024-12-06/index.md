@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-06](index.md)
+
+* [2024-12-06, 00:25:00](https://news.slashdot.org/story/24/12/05/2324206/earth-began-absorbing-more-sunlight-in-2023-climate-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Earth Began Absorbing More Sunlight in 2023, Climate Researchers Find](https://news.slashdot.org/story/24/12/05/2324206/earth-began-absorbing-more-sunlight-in-2023-climate-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
