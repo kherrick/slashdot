@@ -1,0 +1,3 @@
+# [Published on 2024-12-07](index.md)
+
+* [2024-12-07, 23:50:00](https://science.slashdot.org/story/24/12/07/2124249/wuhan-lab-researcher-fully-sequences-genomes-of-coronavirus-samples-from-2004-to-2021-finds-no-close-relatives-to-sars-cov-2?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Wuhan Lab Researcher Fully Sequences Genomes of Coronavirus Samples From 2004 to 2021, Finds No Close Relatives to SARS-CoV-2](https://science.slashdot.org/story/24/12/07/2124249/wuhan-lab-researcher-fully-sequences-genomes-of-coronavirus-samples-from-2004-to-2021-finds-no-close-relatives-to-sars-cov-2?utm_source=rss1.0mainlinkanon&utm_medium=feed)
