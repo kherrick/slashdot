@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 17:15:00](https://tech.slashdot.org/story/24/12/09/1715219/scientific-breakthrough-gives-new-hope-to-building-quantum-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientific Breakthrough Gives New Hope To Building Quantum Computers](https://tech.slashdot.org/story/24/12/09/1715219/scientific-breakthrough-gives-new-hope-to-building-quantum-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-09, 16:00:00](https://slashdot.org/story/24/12/09/1548200/microsoft-ai-chief-says-conversational-ai-will-replace-web-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft AI Chief Says Conversational AI Will Replace Web Browsers](https://slashdot.org/story/24/12/09/1548200/microsoft-ai-chief-says-conversational-ai-will-replace-web-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-09, 15:08:00](https://slashdot.org/story/24/12/09/159202/ai-boosts-materials-discovery-by-44-at-major-us-lab?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Boosts Materials Discovery By 44% at Major US Lab](https://slashdot.org/story/24/12/09/159202/ai-boosts-materials-discovery-by-44-at-major-us-lab?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-09, 14:01:00](https://news.slashdot.org/story/24/12/09/1312203/everybody-loves-fred?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Everybody Loves FRED](https://news.slashdot.org/story/24/12/09/1312203/everybody-loves-fred?utm_source=rss1.0mainlinkanon&utm_medium=feed)
