@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 01:00:00](https://developers.slashdot.org/story/24/12/10/2334221/open-source-maintainers-are-drowning-in-junk-bug-reports-written-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Open Source Maintainers Are Drowning in Junk Bug Reports Written By AI](https://developers.slashdot.org/story/24/12/10/2334221/open-source-maintainers-are-drowning-in-junk-bug-reports-written-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-11, 00:01:00](https://science.slashdot.org/story/24/12/10/2330228/livestock-antibiotic-use-in-asia-dwarfs-european-levels-amid-resistance-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Livestock Antibiotic Use in Asia Dwarfs European Levels Amid Resistance Fears](https://science.slashdot.org/story/24/12/10/2330228/livestock-antibiotic-use-in-asia-dwarfs-european-levels-amid-resistance-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed)
