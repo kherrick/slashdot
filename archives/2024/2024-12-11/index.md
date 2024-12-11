@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-11](index.md)
+
+* [2024-12-11, 00:01:00](https://science.slashdot.org/story/24/12/10/2330228/livestock-antibiotic-use-in-asia-dwarfs-european-levels-amid-resistance-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Livestock Antibiotic Use in Asia Dwarfs European Levels Amid Resistance Fears](https://science.slashdot.org/story/24/12/10/2330228/livestock-antibiotic-use-in-asia-dwarfs-european-levels-amid-resistance-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed)
