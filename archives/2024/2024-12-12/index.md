@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-12](index.md)
+
+* [2024-12-12, 02:01:00](https://it.slashdot.org/story/24/12/11/1854238/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Startup Will Brick $800 Emotional Support Robot For Kids Without Refunds](https://it.slashdot.org/story/24/12/11/1854238/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
