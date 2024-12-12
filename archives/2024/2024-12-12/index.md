@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 15:24:00](https://it.slashdot.org/story/24/12/12/1523248/amazon-paused-rollout-of-microsoft-office-for-a-year-after-hacks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Paused Rollout of Microsoft Office for a Year After Hacks](https://it.slashdot.org/story/24/12/12/1523248/amazon-paused-rollout-of-microsoft-office-for-a-year-after-hacks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-12, 14:42:00](https://news.slashdot.org/story/24/12/12/1443205/youtube-tv-price-hike-coming-january-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube TV Price Hike Coming January 2025](https://news.slashdot.org/story/24/12/12/1443205/youtube-tv-price-hike-coming-january-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-12, 12:05:00](https://slashdot.org/story/24/12/12/124214/former-intel-ceo-calls-for-prayer-and-fasting-for-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Former Intel CEO Calls For Prayer and Fasting For Employees](https://slashdot.org/story/24/12/12/124214/former-intel-ceo-calls-for-prayer-and-fasting-for-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-12, 10:01:00](https://hardware.slashdot.org/story/24/12/12/0957229/lg-discontinues-blu-ray-players?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LG Discontinues Blu-ray Players](https://hardware.slashdot.org/story/24/12/12/0957229/lg-discontinues-blu-ray-players?utm_source=rss1.0mainlinkanon&utm_medium=feed)
