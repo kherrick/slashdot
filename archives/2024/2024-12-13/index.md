@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 23:00:00](https://tech.slashdot.org/story/24/12/13/2224202/tumblr-adds-reddit-like-communities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tumblr Adds Reddit-Like 'Communities'](https://tech.slashdot.org/story/24/12/13/2224202/tumblr-adds-reddit-like-communities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-13, 22:41:00](https://tech.slashdot.org/story/24/12/13/2110259/russian-watchdog-blocks-viber-messaging-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russian Watchdog Blocks Viber Messaging App](https://tech.slashdot.org/story/24/12/13/2110259/russian-watchdog-blocks-viber-messaging-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-13, 22:01:00](https://tech.slashdot.org/story/24/12/13/211229/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The US Military is Now Talking Openly About Going On the Attack in Space](https://tech.slashdot.org/story/24/12/13/211229/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-13, 21:20:00](https://yro.slashdot.org/story/24/12/13/214233/officials-demand-explanation-on-mysterious-drone-sightings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Officials Demand Explanation On Mysterious Drone Sightings](https://yro.slashdot.org/story/24/12/13/214233/officials-demand-explanation-on-mysterious-drone-sightings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
