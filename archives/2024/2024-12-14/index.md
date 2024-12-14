@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 16:34:00](https://apple.slashdot.org/story/24/12/14/016212/airpods-to-be-made-in-india-for-the-first-time-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AirPods To Be Made In India For the First Time Next Year](https://apple.slashdot.org/story/24/12/14/016212/airpods-to-be-made-in-india-for-the-first-time-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-14, 15:34:00](https://science.slashdot.org/story/24/12/14/0051211/nasa-thinks-it-knows-why-ingenuity-crashed-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Thinks It Knows Why Ingenuity Crashed On Mars](https://science.slashdot.org/story/24/12/14/0051211/nasa-thinks-it-knows-why-ingenuity-crashed-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-14, 13:00:00](https://linux.slashdot.org/story/24/12/14/0058244/linux-predictions-for-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Predictions For 2025](https://linux.slashdot.org/story/24/12/14/0058244/linux-predictions-for-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-14, 10:00:00](https://news.slashdot.org/story/24/12/14/0518203/police-report-openai-whistleblower-committed-suicide-in-november?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Police Report OpenAI Whistleblower Committed Suicide in November](https://news.slashdot.org/story/24/12/14/0518203/police-report-openai-whistleblower-committed-suicide-in-november?utm_source=rss1.0mainlinkanon&utm_medium=feed)
