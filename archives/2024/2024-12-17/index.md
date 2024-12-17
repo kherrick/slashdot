@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 13:00:00](https://yro.slashdot.org/story/24/12/17/0233232/tiktok-asks-supreme-court-to-block-law-banning-its-us-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TikTok Asks Supreme Court To Block Law Banning Its US Operations](https://yro.slashdot.org/story/24/12/17/0233232/tiktok-asks-supreme-court-to-block-law-banning-its-us-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-17, 10:00:00](https://tech.slashdot.org/story/24/12/17/0228202/waymo-robotaxis-are-coming-to-tokyo-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waymo Robotaxis Are Coming To Tokyo In 2025](https://tech.slashdot.org/story/24/12/17/0228202/waymo-robotaxis-are-coming-to-tokyo-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-17, 07:00:00](https://science.slashdot.org/story/24/12/17/0222233/huge-math-error-corrected-in-black-plastic-study?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Huge Math Error Corrected In Black Plastic Study](https://science.slashdot.org/story/24/12/17/0222233/huge-math-error-corrected-in-black-plastic-study?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-17, 05:31:00](https://slashdot.org/story/24/12/16/2253203/infosys-founder-calls-for-70-hour-work-week-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Infosys Founder Calls For 70-Hour Work Week, Again](https://slashdot.org/story/24/12/16/2253203/infosys-founder-calls-for-70-hour-work-week-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
