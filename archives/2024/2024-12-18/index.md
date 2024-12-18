@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 18:41:00](https://slashdot.org/story/24/12/18/1835222/openai-brings-chatgpt-to-landline?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Brings ChatGPT To Landline](https://slashdot.org/story/24/12/18/1835222/openai-brings-chatgpt-to-landline?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-18, 18:01:00](https://yro.slashdot.org/story/24/12/18/1723209/nebraska-sues-unitedhealth-unit-over-100-million-patient-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nebraska Sues UnitedHealth Unit Over 100 Million Patient Data Breach](https://yro.slashdot.org/story/24/12/18/1723209/nebraska-sues-unitedhealth-unit-over-100-million-patient-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-18, 17:20:00](https://it.slashdot.org/story/24/12/18/173242/australia-moves-to-drop-some-cryptography-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Australia Moves To Drop Some Cryptography By 2030](https://it.slashdot.org/story/24/12/18/173242/australia-moves-to-drop-some-cryptography-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-18, 16:40:00](https://tech.slashdot.org/story/24/12/18/1345236/bluesky-has-an-extortion-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky Has an Extortion Problem](https://tech.slashdot.org/story/24/12/18/1345236/bluesky-has-an-extortion-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
