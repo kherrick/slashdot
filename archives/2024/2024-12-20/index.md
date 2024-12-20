@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 16:42:00](https://news.slashdot.org/story/24/12/20/1524250/academic-writing-is-getting-harder-to-read?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Academic Writing is Getting Harder To Read](https://news.slashdot.org/story/24/12/20/1524250/academic-writing-is-getting-harder-to-read?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-20, 16:02:00](https://it.slashdot.org/story/24/12/20/1512221/japanese-firms-usb-c-cable-rotates-360-degrees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japanese Firm's USB-C Cable Rotates 360 Degrees](https://it.slashdot.org/story/24/12/20/1512221/japanese-firms-usb-c-cable-rotates-360-degrees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-20, 15:22:00](https://games.slashdot.org/story/24/12/20/151224/steam-gamers-spend-just-15-of-time-on-new-releases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Steam Gamers Spend Just 15% of Time on New Releases](https://games.slashdot.org/story/24/12/20/151224/steam-gamers-spend-just-15-of-time-on-new-releases?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-20, 14:45:00](https://tech.slashdot.org/story/24/12/20/1438217/google-cuts-managers-and-vps-in-efficiency-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Cuts Managers and VPs in Efficiency Drive](https://tech.slashdot.org/story/24/12/20/1438217/google-cuts-managers-and-vps-in-efficiency-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
