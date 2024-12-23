@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 16:43:00](https://tech.slashdot.org/story/24/12/23/1643248/nissan-and-honda-agree-to-merge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nissan and Honda Agree To Merge](https://tech.slashdot.org/story/24/12/23/1643248/nissan-and-honda-agree-to-merge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-23, 16:01:00](https://hardware.slashdot.org/story/24/12/23/1523259/xerox-to-buy-printer-maker-lexmark-from-chinese-owners-in-15-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Xerox To Buy Printer Maker Lexmark From Chinese Owners in $1.5 Billion Deal](https://hardware.slashdot.org/story/24/12/23/1523259/xerox-to-buy-printer-maker-lexmark-from-chinese-owners-in-15-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-23, 15:20:00](https://slashdot.org/story/24/12/23/1511251/paypals-honey-accused-of-misleading-users-hiding-discounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PayPal's Honey Accused of Misleading Users, Hiding Discounts](https://slashdot.org/story/24/12/23/1511251/paypals-honey-accused-of-misleading-users-hiding-discounts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-23, 14:43:00](https://slashdot.org/story/24/12/23/1443225/telegram-turns-a-profit-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Telegram Turns a Profit for the First Time](https://slashdot.org/story/24/12/23/1443225/telegram-turns-a-profit-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
