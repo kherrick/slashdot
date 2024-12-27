@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 15:20:00](https://slashdot.org/story/24/12/27/1338252/boom-in-us-retail-real-estate-defies-prediction-of-ecommerce-apocalypse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boom in US Retail Real Estate Defies Prediction of Ecommerce Apocalypse](https://slashdot.org/story/24/12/27/1338252/boom-in-us-retail-real-estate-defies-prediction-of-ecommerce-apocalypse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 14:40:00](https://slashdot.org/story/24/12/27/1328226/the-usb-c-charging-mandate-arrives-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The USB-C Charging Mandate Arrives in the EU](https://slashdot.org/story/24/12/27/1328226/the-usb-c-charging-mandate-arrives-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 13:21:00](https://slashdot.org/story/24/12/27/1321234/openai-plans-corporate-overhaul-to-draw-more-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plans Corporate Overhaul To Draw More Investment](https://slashdot.org/story/24/12/27/1321234/openai-plans-corporate-overhaul-to-draw-more-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 12:05:00](https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Paper Passport Is Dying'](https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
