@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 14:40:00](https://slashdot.org/story/24/12/27/1328226/the-usb-c-charging-mandate-arrives-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The USB-C Charging Mandate Arrives in the EU](https://slashdot.org/story/24/12/27/1328226/the-usb-c-charging-mandate-arrives-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 13:21:00](https://slashdot.org/story/24/12/27/1321234/openai-plans-corporate-overhaul-to-draw-more-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plans Corporate Overhaul To Draw More Investment](https://slashdot.org/story/24/12/27/1321234/openai-plans-corporate-overhaul-to-draw-more-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 12:05:00](https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Paper Passport Is Dying'](https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 10:45:00](https://games.slashdot.org/story/24/12/27/1044226/video-games-cant-afford-to-look-this-good?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Video Games Can't Afford To Look This Good](https://games.slashdot.org/story/24/12/27/1044226/video-games-cant-afford-to-look-this-good?utm_source=rss1.0mainlinkanon&utm_medium=feed)
