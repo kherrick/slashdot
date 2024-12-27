@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 13:21:00](https://slashdot.org/story/24/12/27/1321234/openai-plans-corporate-overhaul-to-draw-more-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plans Corporate Overhaul To Draw More Investment](https://slashdot.org/story/24/12/27/1321234/openai-plans-corporate-overhaul-to-draw-more-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 12:05:00](https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Paper Passport Is Dying'](https://tech.slashdot.org/story/24/12/27/124245/the-paper-passport-is-dying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 10:45:00](https://games.slashdot.org/story/24/12/27/1044226/video-games-cant-afford-to-look-this-good?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Video Games Can't Afford To Look This Good](https://games.slashdot.org/story/24/12/27/1044226/video-games-cant-afford-to-look-this-good?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-27, 07:30:00](https://slashdot.org/story/24/12/27/0728219/japans-megabank-mufg-suffers-online-banking-glitch-hints-at-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan's Megabank MUFG Suffers Online Banking Glitch, Hints At Cyberattack](https://slashdot.org/story/24/12/27/0728219/japans-megabank-mufg-suffers-online-banking-glitch-hints-at-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
