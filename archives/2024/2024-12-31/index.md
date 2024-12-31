@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 15:22:00](https://news.slashdot.org/story/24/12/31/1512212/us-files-complaint-against-fintech-app-dave-and-its-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Files Complaint Against Fintech App Dave And Its CEO](https://news.slashdot.org/story/24/12/31/1512212/us-files-complaint-against-fintech-app-dave-and-its-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 14:44:00](https://games.slashdot.org/story/24/12/31/1444241/playstation-to-continue-focusing-on-live-service-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PlayStation To Continue Focusing on Live Service Games](https://games.slashdot.org/story/24/12/31/1444241/playstation-to-continue-focusing-on-live-service-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 13:00:00](https://news.slashdot.org/story/24/12/31/0457231/what-has-biden-wrought?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Has Biden Wrought?](https://news.slashdot.org/story/24/12/31/0457231/what-has-biden-wrought?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 10:00:00](https://hardware.slashdot.org/story/24/12/31/0344200/china-to-build-thorium-molten-salt-reactor-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China To Build Thorium Molten-Salt Reactor In 2025](https://hardware.slashdot.org/story/24/12/31/0344200/china-to-build-thorium-molten-salt-reactor-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
