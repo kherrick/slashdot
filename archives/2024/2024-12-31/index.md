@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 21:45:00](https://slashdot.org/story/24/12/31/204219/microstrategys-big-bet-on-bitcoin-went-stratospheric?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MicroStrategy's Big Bet On Bitcoin Went Stratospheric](https://slashdot.org/story/24/12/31/204219/microstrategys-big-bet-on-bitcoin-went-stratospheric?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 21:05:00](https://yro.slashdot.org/story/24/12/31/1954200/us-army-soldier-arrested-in-att-verizon-extortions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Army Soldier Arrested In AT&amp;T, Verizon Extortions](https://yro.slashdot.org/story/24/12/31/1954200/us-army-soldier-arrested-in-att-verizon-extortions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 20:20:00](https://linux.slashdot.org/story/24/12/31/205245/is-2025-the-year-of-the-linux-desktop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is 2025 the Year of the Linux Desktop?](https://linux.slashdot.org/story/24/12/31/205245/is-2025-the-year-of-the-linux-desktop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 19:45:00](https://slashdot.org/story/24/12/31/1944255/legacy-airlines-are-now-coming-for-your-carry-on-bag?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Legacy Airlines Are Now Coming For Your Carry-on Bag](https://slashdot.org/story/24/12/31/1944255/legacy-airlines-are-now-coming-for-your-carry-on-bag?utm_source=rss1.0mainlinkanon&utm_medium=feed)
