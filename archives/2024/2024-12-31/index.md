@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 10:00:00](https://hardware.slashdot.org/story/24/12/31/0344200/china-to-build-thorium-molten-salt-reactor-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China To Build Thorium Molten-Salt Reactor In 2025](https://hardware.slashdot.org/story/24/12/31/0344200/china-to-build-thorium-molten-salt-reactor-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 08:15:00](https://mobile.slashdot.org/story/24/12/31/0810217/the-collapse-of-mid-range-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Collapse of Mid-Range Smartphones](https://mobile.slashdot.org/story/24/12/31/0810217/the-collapse-of-mid-range-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 07:00:00](https://science.slashdot.org/story/24/12/31/0334248/astronomers-discover-an-ultra-massive-grand-design-spiral-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Astronomers Discover an Ultra-Massive Grand-Design Spiral Galaxy](https://science.slashdot.org/story/24/12/31/0334248/astronomers-discover-an-ultra-massive-grand-design-spiral-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 03:30:00](https://science.slashdot.org/story/24/12/30/2243201/evolution-journal-editors-resign-en-masse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Evolution Journal Editors Resign En Masse](https://science.slashdot.org/story/24/12/30/2243201/evolution-journal-editors-resign-en-masse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
