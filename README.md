@@ -1,5 +1,7 @@
 # [Slashdot](https://kherrick.github.io/slashdot/)
 
+* [2025-01-01, 01:01:00](https://tech.slashdot.org/story/24/12/31/229254/venezuela-issues-10-million-fine-for-tiktok-over-deadly-viral-challenges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Venezuela Issues $10 Million Fine For TikTok Over Deadly Viral Challenges](https://tech.slashdot.org/story/24/12/31/229254/venezuela-issues-10-million-fine-for-tiktok-over-deadly-viral-challenges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-01, 00:25:00](https://hardware.slashdot.org/story/24/12/31/222226/california-grid-ran-on-100-renewables-for-a-record-98-days?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Grid Ran On 100% Renewables For a Record 98 Days](https://hardware.slashdot.org/story/24/12/31/222226/california-grid-ran-on-100-renewables-for-a-record-98-days?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 23:45:00](https://news.slashdot.org/story/24/12/31/2042227/new-york-retires-iconic-subway-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York Retires Iconic Subway Cars](https://news.slashdot.org/story/24/12/31/2042227/new-york-retires-iconic-subway-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 23:05:00](https://slashdot.org/story/24/12/31/2014246/ai-might-start-selling-your-choices-before-you-make-them-study-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Might Start Selling Your Choices Before You Make Them, Study Warns](https://slashdot.org/story/24/12/31/2014246/ai-might-start-selling-your-choices-before-you-make-them-study-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 22:25:00](https://games.slashdot.org/story/24/12/31/2012216/russia-admits-its-homegrown-consoles-cant-match-the-ps5-or-xbox-series?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia Admits Its Homegrown Consoles Can't Match the PS5 or Xbox Series](https://games.slashdot.org/story/24/12/31/2012216/russia-admits-its-homegrown-consoles-cant-match-the-ps5-or-xbox-series?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -13,11 +15,10 @@
 * [2024-12-31, 16:09:00](https://news.slashdot.org/story/24/12/31/169209/10-million-trees-to-be-planted-in-us-to-replace-ones-destroyed-by-hurricanes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [10 Million Trees To Be Planted in US To Replace Ones Destroyed By Hurricanes](https://news.slashdot.org/story/24/12/31/169209/10-million-trees-to-be-planted-in-us-to-replace-ones-destroyed-by-hurricanes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 15:22:00](https://news.slashdot.org/story/24/12/31/1512212/us-files-complaint-against-fintech-app-dave-and-its-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Files Complaint Against Fintech App Dave And Its CEO](https://news.slashdot.org/story/24/12/31/1512212/us-files-complaint-against-fintech-app-dave-and-its-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2024-12-31, 14:44:00](https://games.slashdot.org/story/24/12/31/1444241/playstation-to-continue-focusing-on-live-service-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PlayStation To Continue Focusing on Live Service Games](https://games.slashdot.org/story/24/12/31/1444241/playstation-to-continue-focusing-on-live-service-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-12-31, 14:00:00](https://mobile.slashdot.org/story/24/12/31/0810217/the-collapse-of-mid-range-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Collapse of Mid-Range Smartphones](https://mobile.slashdot.org/story/24/12/31/0810217/the-collapse-of-mid-range-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2024-12-31, 13:00:00](https://news.slashdot.org/story/24/12/31/0457231/what-has-biden-wrought?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Has Biden Wrought?](https://news.slashdot.org/story/24/12/31/0457231/what-has-biden-wrought?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## [Archives](archives/index.md)
 
+* [2025](archives/2025/index.md)
 * [2024](archives/2024/index.md)
 * [2023](archives/2023/index.md)
 * [2022](archives/2022/index.md)
