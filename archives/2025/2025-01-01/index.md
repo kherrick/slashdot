@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 19:00:00](https://news.slashdot.org/story/25/01/01/1858248/india-again-delays-rules-to-break-payments-duopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India Again Delays Rules To Break Payments Duopoly](https://news.slashdot.org/story/25/01/01/1858248/india-again-delays-rules-to-break-payments-duopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-01, 17:11:00](https://it.slashdot.org/story/25/01/01/1711230/tintin-popeye-enter-public-domain-as-1929-works-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tintin, Popeye Enter Public Domain as 1929 Works Released](https://it.slashdot.org/story/25/01/01/1711230/tintin-popeye-enter-public-domain-as-1929-works-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-01, 16:10:00](https://news.slashdot.org/story/25/01/01/168241/sec-writes-off-10-billion-in-fines-it-cant-collect?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SEC Writes Off $10 Billion in Fines It Can't Collect](https://news.slashdot.org/story/25/01/01/168241/sec-writes-off-10-billion-in-fines-it-cant-collect?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-01, 15:13:00](https://news.slashdot.org/story/25/01/01/1513246/why-breakfast-is-busting-your-food-budget?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Breakfast Is Busting Your Food Budget](https://news.slashdot.org/story/25/01/01/1513246/why-breakfast-is-busting-your-food-budget?utm_source=rss1.0mainlinkanon&utm_medium=feed)
