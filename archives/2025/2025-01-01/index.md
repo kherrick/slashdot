@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 23:59:00](https://it.slashdot.org/story/25/01/01/238238/people-are-playing-a-new-doom-themed-captcha?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [People Are Playing a New DOOM-Themed CAPTCHA](https://it.slashdot.org/story/25/01/01/238238/people-are-playing-a-new-doom-themed-captcha?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-01, 23:00:00](https://slashdot.org/story/25/01/01/230210/how-ai-is-unlocking-ancient-texts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How AI is Unlocking Ancient Texts](https://slashdot.org/story/25/01/01/230210/how-ai-is-unlocking-ancient-texts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-01, 20:30:00](https://slashdot.org/story/25/01/01/2030250/belgium-becomes-first-eu-country-to-ban-sale-of-disposable-vapes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Belgium Becomes First EU Country To Ban Sale of Disposable Vapes](https://slashdot.org/story/25/01/01/2030250/belgium-becomes-first-eu-country-to-ban-sale-of-disposable-vapes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-01, 19:00:00](https://news.slashdot.org/story/25/01/01/1858248/india-again-delays-rules-to-break-payments-duopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India Again Delays Rules To Break Payments Duopoly](https://news.slashdot.org/story/25/01/01/1858248/india-again-delays-rules-to-break-payments-duopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
