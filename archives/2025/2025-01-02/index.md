@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 17:33:00](https://news.slashdot.org/story/25/01/02/1733235/uk-develops-quantum-clock-to-cut-military-gps-dependence?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Develops Quantum Clock To Cut Military GPS Dependence](https://news.slashdot.org/story/25/01/02/1733235/uk-develops-quantum-clock-to-cut-military-gps-dependence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-02, 16:42:00](https://news.slashdot.org/story/25/01/02/1642245/us-considers-potential-rules-to-restrict-or-bar-chinese-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Considers Potential Rules To Restrict or Bar Chinese Drones](https://news.slashdot.org/story/25/01/02/1642245/us-considers-potential-rules-to-restrict-or-bar-chinese-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-02, 16:00:00](https://news.slashdot.org/story/25/01/02/1432246/babies-and-the-macroeconomy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Babies and the Macroeconomy](https://news.slashdot.org/story/25/01/02/1432246/babies-and-the-macroeconomy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-02, 15:22:00](https://tech.slashdot.org/story/25/01/02/1422259/nearly-all-new-cars-sold-in-norway-were-electric-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nearly All New Cars Sold in Norway Were Electric in 2024](https://tech.slashdot.org/story/25/01/02/1422259/nearly-all-new-cars-sold-in-norway-were-electric-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
