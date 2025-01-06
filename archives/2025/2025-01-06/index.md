@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 03:49:00](https://tech.slashdot.org/story/25/01/06/0237226/america-still-has-net-neutrality-laws---in-states-like-california-and-new-york?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America Still Has Net Neutrality Laws - In States Like California and New York](https://tech.slashdot.org/story/25/01/06/0237226/america-still-has-net-neutrality-laws---in-states-like-california-and-new-york?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-06, 01:49:00](https://tech.slashdot.org/story/25/01/06/0148208/man-trapped-in-circling-waymo-on-way-to-airport?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Man Trapped in Circling Waymo on Way to Airport](https://tech.slashdot.org/story/25/01/06/0148208/man-trapped-in-circling-waymo-on-way-to-airport?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-06, 00:49:00](https://tech.slashdot.org/story/25/01/05/2331251/how-the-os2-flop-went-on-to-shape-modern-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How the OS/2 Flop Went On To Shape Modern Software](https://tech.slashdot.org/story/25/01/05/2331251/how-the-os2-flop-went-on-to-shape-modern-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
