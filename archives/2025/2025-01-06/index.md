@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 21:40:00](https://hardware.slashdot.org/story/25/01/06/2135241/dell-will-no-longer-make-xps-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dell Will No Longer Make XPS Computers](https://hardware.slashdot.org/story/25/01/06/2135241/dell-will-no-longer-make-xps-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-06, 20:42:00](https://science.slashdot.org/story/25/01/06/1819206/why-computer-scientists-consult-oracles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Computer Scientists Consult Oracles](https://science.slashdot.org/story/25/01/06/1819206/why-computer-scientists-consult-oracles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-06, 20:02:00](https://news.slashdot.org/story/25/01/06/1838245/hundreds-of-us-locations-had-their-hottest-year-on-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hundreds of US Locations Had Their Hottest Year On Record](https://news.slashdot.org/story/25/01/06/1838245/hundreds-of-us-locations-had-their-hottest-year-on-record?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-06, 19:25:00](https://hardware.slashdot.org/story/25/01/06/1830247/intel-says-new-laptop-chips-will-extend-computer-battery-life?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Says New Laptop Chips Will Extend Computer Battery Life](https://hardware.slashdot.org/story/25/01/06/1830247/intel-says-new-laptop-chips-will-extend-computer-battery-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
