@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 16:50:00](https://apple.slashdot.org/story/25/01/07/1650247/apples-ai-is-proving-its-anything-but-intelligent?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's AI Is Proving It's Anything But Intelligent](https://apple.slashdot.org/story/25/01/07/1650247/apples-ai-is-proving-its-anything-but-intelligent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-07, 16:02:00](https://tech.slashdot.org/story/25/01/07/1539237/nvidia-unveils-3000-personal-ai-supercomputer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Unveils $3,000 Personal AI Supercomputer](https://tech.slashdot.org/story/25/01/07/1539237/nvidia-unveils-3000-personal-ai-supercomputer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-07, 15:27:00](https://tech.slashdot.org/story/25/01/07/1527237/nvidia-to-deploy-ai-teammates-in-video-games-this-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia To Deploy AI Teammates in Video Games this Year](https://tech.slashdot.org/story/25/01/07/1527237/nvidia-to-deploy-ai-teammates-in-video-games-this-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-07, 14:40:00](https://slashdot.org/story/25/01/07/1440229/getty-images-and-shutterstock-agree-to-merge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Getty Images and Shutterstock Agree To Merge](https://slashdot.org/story/25/01/07/1440229/getty-images-and-shutterstock-agree-to-merge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
