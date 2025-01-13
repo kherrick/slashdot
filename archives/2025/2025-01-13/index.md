@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 03:34:00](https://tech.slashdot.org/story/25/01/13/0139237/starlinks-satellite-internet-is-cheaper-than-leading-isps-in-five-african-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Starlink's Satellite Internet is Cheaper than Leading ISPs in Five African Countries](https://tech.slashdot.org/story/25/01/13/0139237/starlinks-satellite-internet-is-cheaper-than-leading-isps-in-five-african-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-13, 01:07:00](https://linux.slashdot.org/story/25/01/13/006249/will-nvidia-spark-a-new-generation-of-linux-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will Nvidia Spark a New Generation of Linux PCs?](https://linux.slashdot.org/story/25/01/13/006249/will-nvidia-spark-a-new-generation-of-linux-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-13, 00:07:00](https://news.slashdot.org/story/25/01/12/235245/britain-seeks-to-build-a-homegrown-openai-rival-become-a-world-leader-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Britain Seeks to Build a Homegrown OpenAI Rival, Become a World Leader in AI](https://news.slashdot.org/story/25/01/12/235245/britain-seeks-to-build-a-homegrown-openai-rival-become-a-world-leader-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
