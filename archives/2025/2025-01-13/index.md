@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 20:40:00](https://tech.slashdot.org/story/25/01/13/2038215/mastodon-announces-transition-to-nonprofit-structure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mastodon Announces Transition To Nonprofit Structure](https://tech.slashdot.org/story/25/01/13/2038215/mastodon-announces-transition-to-nonprofit-structure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-13, 18:49:00](https://apple.slashdot.org/story/25/01/13/1830218/eu-probes-apples-new-app-store-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Probes Apple's New App Store Fees](https://apple.slashdot.org/story/25/01/13/1830218/eu-probes-apples-new-app-store-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-13, 18:10:00](https://it.slashdot.org/story/25/01/13/1810214/after-years-of-usb-word-salad-new-labels-strip-everything-but-the-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After Years of USB Word Salad, New Labels Strip Everything But the Speed](https://it.slashdot.org/story/25/01/13/1810214/after-years-of-usb-word-salad-new-labels-strip-everything-but-the-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-13, 17:30:00](https://it.slashdot.org/story/25/01/13/1712224/microsoft-is-testing-45-m365-price-hikes-in-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Is Testing 45% M365 Price Hikes in Asia](https://it.slashdot.org/story/25/01/13/1712224/microsoft-is-testing-45-m365-price-hikes-in-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
