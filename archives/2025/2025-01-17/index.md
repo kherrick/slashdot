@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 14:00:00](https://science.slashdot.org/story/25/01/17/1348221/why-fires-spread-quickly-in-modern-cities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Fires Spread Quickly in Modern Cities ](https://science.slashdot.org/story/25/01/17/1348221/why-fires-spread-quickly-in-modern-cities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-17, 12:00:00](https://tech.slashdot.org/story/25/01/17/1116254/indonesia-plans-minimum-age-for-social-media-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Indonesia Plans Minimum Age For Social Media Use](https://tech.slashdot.org/story/25/01/17/1116254/indonesia-plans-minimum-age-for-social-media-use?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-17, 10:00:00](https://tech.slashdot.org/story/25/01/17/0040216/gm-banned-from-selling-your-driving-data-for-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GM Banned From Selling Your Driving Data For Five Years](https://tech.slashdot.org/story/25/01/17/0040216/gm-banned-from-selling-your-driving-data-for-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-17, 07:00:00](https://tech.slashdot.org/story/25/01/17/0012237/google-wont-add-fact-checks-despite-new-eu-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Won't Add Fact Checks Despite New EU Law](https://tech.slashdot.org/story/25/01/17/0012237/google-wont-add-fact-checks-despite-new-eu-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
