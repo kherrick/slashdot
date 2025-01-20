@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 14:10:00](https://news.slashdot.org/story/25/01/20/1411247/the-pentagon-says-ai-is-speeding-up-its-kill-chain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Pentagon Says AI is Speeding Up Its 'Kill Chain'](https://news.slashdot.org/story/25/01/20/1411247/the-pentagon-says-ai-is-speeding-up-its-kill-chain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-20, 12:34:00](https://yro.slashdot.org/story/25/01/20/037229/california-drops-its-pending-zero-emission-truck-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Drops Its Pending Zero-Emission Truck Rules](https://yro.slashdot.org/story/25/01/20/037229/california-drops-its-pending-zero-emission-truck-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-20, 08:34:00](https://linux.slashdot.org/story/25/01/20/0555227/linux-613-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux 6.13 Released](https://linux.slashdot.org/story/25/01/20/0555227/linux-613-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-20, 05:34:00](https://it.slashdot.org/story/25/01/20/0516216/after-forced-return-to-office-some-amazon-workers-find-not-enough-desks-no-parking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After Forced Return-to-Office, Some Amazon Workers Find Not Enough Desks, No Parking](https://it.slashdot.org/story/25/01/20/0516216/after-forced-return-to-office-some-amazon-workers-find-not-enough-desks-no-parking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
