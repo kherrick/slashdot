@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 14:45:00](https://news.slashdot.org/story/25/01/20/1436225/eu-plans-ban-on-forever-chemicals-in-consumer-products?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Plans Ban on 'Forever Chemicals' in Consumer Products](https://news.slashdot.org/story/25/01/20/1436225/eu-plans-ban-on-forever-chemicals-in-consumer-products?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-20, 14:10:00](https://news.slashdot.org/story/25/01/20/1411247/the-pentagon-says-ai-is-speeding-up-its-kill-chain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Pentagon Says AI is Speeding Up Its 'Kill Chain'](https://news.slashdot.org/story/25/01/20/1411247/the-pentagon-says-ai-is-speeding-up-its-kill-chain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-20, 12:34:00](https://yro.slashdot.org/story/25/01/20/037229/california-drops-its-pending-zero-emission-truck-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Drops Its Pending Zero-Emission Truck Rules](https://yro.slashdot.org/story/25/01/20/037229/california-drops-its-pending-zero-emission-truck-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-20, 08:34:00](https://linux.slashdot.org/story/25/01/20/0555227/linux-613-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux 6.13 Released](https://linux.slashdot.org/story/25/01/20/0555227/linux-613-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
