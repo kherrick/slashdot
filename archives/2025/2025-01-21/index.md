@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-01-21](index.md)
+
+* [2025-01-21, 00:10:00](https://yro.slashdot.org/story/25/01/20/2214205/cias-chatbot-stands-in-for-world-leaders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CIA's Chatbot Stands In For World Leaders](https://yro.slashdot.org/story/25/01/20/2214205/cias-chatbot-stands-in-for-world-leaders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
