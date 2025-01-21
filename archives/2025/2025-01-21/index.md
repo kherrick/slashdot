@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 18:45:00](https://news.slashdot.org/story/25/01/21/1844251/uk-to-launch-digital-wallet-for-passports-driving-licences-and-more?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK To Launch Digital Wallet For Passports, Driving Licences, and More](https://news.slashdot.org/story/25/01/21/1844251/uk-to-launch-digital-wallet-for-passports-driving-licences-and-more?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-21, 18:10:00](https://news.slashdot.org/story/25/01/21/1810255/us-to-exit-who?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US To Exit WHO](https://news.slashdot.org/story/25/01/21/1810255/us-to-exit-who?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-21, 17:26:00](https://news.slashdot.org/story/25/01/21/1715259/scale-ai-ceo-to-trump-america-must-win-the-ai-war?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scale AI CEO To Trump: 'America Must Win the AI War'](https://news.slashdot.org/story/25/01/21/1715259/scale-ai-ceo-to-trump-america-must-win-the-ai-war?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-21, 16:50:00](https://slashdot.org/story/25/01/21/1640215/softbank-backed-fish-startup-allegedly-faked-most-of-its-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SoftBank-Backed Fish Startup Allegedly Faked Most of Its Sales](https://slashdot.org/story/25/01/21/1640215/softbank-backed-fish-startup-allegedly-faked-most-of-its-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed)
