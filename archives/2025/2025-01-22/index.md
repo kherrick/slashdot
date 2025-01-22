@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 15:22:00](https://entertainment.slashdot.org/story/25/01/22/1521250/netflix-raises-prices-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Raises Prices Again](https://entertainment.slashdot.org/story/25/01/22/1521250/netflix-raises-prices-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-22, 14:41:00](https://tech.slashdot.org/story/25/01/22/1426231/google-invests-another-1-billion-in-ai-developer-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Invests Another $1 Billion in AI Developer Anthropic](https://tech.slashdot.org/story/25/01/22/1426231/google-invests-another-1-billion-in-ai-developer-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-22, 14:00:00](https://it.slashdot.org/story/25/01/22/140247/ddos-attacks-soar-53-to-213-million-cloudflare-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DDoS Attacks Soar 53% To 21.3 Million, Cloudflare Reports](https://it.slashdot.org/story/25/01/22/140247/ddos-attacks-soar-53-to-213-million-cloudflare-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-22, 12:00:00](https://tech.slashdot.org/story/25/01/22/056208/calm-tech-certification-rewards-less-distracting-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Calm Tech Certification 'Rewards' Less Distracting Tech](https://tech.slashdot.org/story/25/01/22/056208/calm-tech-certification-rewards-less-distracting-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
