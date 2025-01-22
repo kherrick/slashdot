@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 16:25:00](https://slashdot.org/story/25/01/22/1624227/chatgpt-maker-to-launch-web-automation-tool-operator-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ChatGPT-Maker To Launch Web Automation Tool 'Operator' This Week](https://slashdot.org/story/25/01/22/1624227/chatgpt-maker-to-launch-web-automation-tool-operator-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-22, 15:54:00](https://tech.slashdot.org/story/25/01/22/1558219/plex-adds-public-reviews-profiles-in-social-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plex Adds Public Reviews, Profiles in Social Push](https://tech.slashdot.org/story/25/01/22/1558219/plex-adds-public-reviews-profiles-in-social-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-22, 15:22:00](https://entertainment.slashdot.org/story/25/01/22/1521250/netflix-raises-prices-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Raises Prices Again](https://entertainment.slashdot.org/story/25/01/22/1521250/netflix-raises-prices-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-22, 14:41:00](https://tech.slashdot.org/story/25/01/22/1426231/google-invests-another-1-billion-in-ai-developer-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Invests Another $1 Billion in AI Developer Anthropic](https://tech.slashdot.org/story/25/01/22/1426231/google-invests-another-1-billion-in-ai-developer-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
