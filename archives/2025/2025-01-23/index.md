@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 01:25:00](https://news.slashdot.org/story/25/01/22/2318216/ai-apps-saw-over-1-billion-in-consumer-spending-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Apps Saw Over $1 Billion In Consumer Spending In 2024](https://news.slashdot.org/story/25/01/22/2318216/ai-apps-saw-over-1-billion-in-consumer-spending-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-23, 00:45:00](https://tech.slashdot.org/story/25/01/22/2311239/google-fiber-is-coming-to-las-vegas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Fiber Is Coming To Las Vegas](https://tech.slashdot.org/story/25/01/22/2311239/google-fiber-is-coming-to-las-vegas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-23, 00:02:00](https://yro.slashdot.org/story/25/01/22/236253/microsofts-linkedinn-sued-for-disclosing-customer-information-to-train-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's LinkedInn Sued For Disclosing Customer Information To Train AI Models](https://yro.slashdot.org/story/25/01/22/236253/microsofts-linkedinn-sued-for-disclosing-customer-information-to-train-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
