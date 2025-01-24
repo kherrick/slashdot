@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 01:40:00](https://news.slashdot.org/story/25/01/24/004211/misinformation-and-cyberespionage-top-wefs-global-risks-report-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Misinformation and Cyberespionage Top WEF's Global Risks Report 2025](https://news.slashdot.org/story/25/01/24/004211/misinformation-and-cyberespionage-top-wefs-global-risks-report-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-24, 01:00:00](https://games.slashdot.org/story/25/01/23/2350253/epic-games-to-cover-developer-ios-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Epic Games To Cover Developer iOS Fees](https://games.slashdot.org/story/25/01/23/2350253/epic-games-to-cover-developer-ios-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-24, 00:20:00](https://linux.slashdot.org/story/25/01/23/2333254/linux-614-adds-support-for-the-microsoft-copilot-key-found-on-new-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux 6.14 Adds Support For The Microsoft Copilot Key Found On New Laptops](https://linux.slashdot.org/story/25/01/23/2333254/linux-614-adds-support-for-the-microsoft-copilot-key-found-on-new-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed)
