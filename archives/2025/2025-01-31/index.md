@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 20:42:00](https://slashdot.org/story/25/01/31/1944207/dell-is-making-everyone-return-to-office-too?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dell is Making Everyone Return To Office, Too](https://slashdot.org/story/25/01/31/1944207/dell-is-making-everyone-return-to-office-too?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 20:05:00](https://tech.slashdot.org/story/25/01/31/1929233/cursing-disables-googles-ai-overviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cursing Disables Google's AI Overviews](https://tech.slashdot.org/story/25/01/31/1929233/cursing-disables-googles-ai-overviews?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 19:16:00](https://slashdot.org/story/25/01/31/1916254/openais-o3-mini-faster-cheaper-ai-that-fact-checks-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI's o3-mini: Faster, Cheaper AI That Fact-Checks Itself](https://slashdot.org/story/25/01/31/1916254/openais-o3-mini-faster-cheaper-ai-that-fact-checks-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 18:40:00](https://news.slashdot.org/story/25/01/31/1656220/magical-efficient-market-theory-rebuked-in-era-of-passive-investing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Magical' Efficient-Market Theory Rebuked in Era of Passive Investing](https://news.slashdot.org/story/25/01/31/1656220/magical-efficient-market-theory-rebuked-in-era-of-passive-investing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
