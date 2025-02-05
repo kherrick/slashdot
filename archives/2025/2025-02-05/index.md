@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 17:20:00](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Granny' Driving Scammers Up the Wall](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 16:40:00](https://tech.slashdot.org/story/25/02/05/1156248/google-to-spend-75-billion-on-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Spend $75 Billion on AI Push](https://tech.slashdot.org/story/25/02/05/1156248/google-to-spend-75-billion-on-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 16:00:00](https://it.slashdot.org/story/25/02/05/1314221/developer-runs-doom-on-50-apple-lightning-to-hdmi-adapter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developer Runs Doom On $50 Apple Lightning To HDMI Adapter](https://it.slashdot.org/story/25/02/05/1314221/developer-runs-doom-on-50-apple-lightning-to-hdmi-adapter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 15:20:00](https://news.slashdot.org/story/25/02/05/1213210/temperatures-at-north-pole-20c-above-average-and-beyond-ice-melting-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Temperatures at North Pole 20C Above Average and Beyond Ice Melting Point](https://news.slashdot.org/story/25/02/05/1213210/temperatures-at-north-pole-20c-above-average-and-beyond-ice-melting-point?utm_source=rss1.0mainlinkanon&utm_medium=feed)
