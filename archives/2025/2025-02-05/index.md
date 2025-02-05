@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 20:01:00](https://news.slashdot.org/story/25/02/05/1819218/im-done-with-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['I'm Done With Ubuntu'](https://news.slashdot.org/story/25/02/05/1819218/im-done-with-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 19:20:00](https://tech.slashdot.org/story/25/02/05/1458211/nissan-set-to-step-back-from-merger-with-honda?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nissan Set To Step Back From Merger With Honda](https://tech.slashdot.org/story/25/02/05/1458211/nissan-set-to-step-back-from-merger-with-honda?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 18:40:00](https://science.slashdot.org/story/25/02/05/1448222/the-long-quest-for-artificial-blood?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Long Quest for Artificial Blood](https://science.slashdot.org/story/25/02/05/1448222/the-long-quest-for-artificial-blood?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 18:01:00](https://tech.slashdot.org/story/25/02/05/1436238/microsofts-windows-10-extended-security-updates-will-start-at-61-per-pc-for-businesses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Windows 10 Extended Security Updates Will Start at $61 per PC for Businesses](https://tech.slashdot.org/story/25/02/05/1436238/microsofts-windows-10-extended-security-updates-will-start-at-61-per-pc-for-businesses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
