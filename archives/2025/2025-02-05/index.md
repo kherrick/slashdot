@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 18:40:00](https://science.slashdot.org/story/25/02/05/1448222/the-long-quest-for-artificial-blood?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Long Quest for Artificial Blood](https://science.slashdot.org/story/25/02/05/1448222/the-long-quest-for-artificial-blood?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 18:01:00](https://tech.slashdot.org/story/25/02/05/1436238/microsofts-windows-10-extended-security-updates-will-start-at-61-per-pc-for-businesses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Windows 10 Extended Security Updates Will Start at $61 per PC for Businesses](https://tech.slashdot.org/story/25/02/05/1436238/microsofts-windows-10-extended-security-updates-will-start-at-61-per-pc-for-businesses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 17:20:00](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Granny' Driving Scammers Up the Wall](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 16:40:00](https://tech.slashdot.org/story/25/02/05/1156248/google-to-spend-75-billion-on-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Spend $75 Billion on AI Push](https://tech.slashdot.org/story/25/02/05/1156248/google-to-spend-75-billion-on-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
