@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 10:00:00](https://science.slashdot.org/story/25/02/07/0058237/boeings-starliner-losses-top-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boeing's Starliner Losses Top $2 Billion](https://science.slashdot.org/story/25/02/07/0058237/boeings-starliner-losses-top-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-07, 07:00:00](https://science.slashdot.org/story/25/02/07/0052210/nasa-plans-twitch-stream-from-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Plans Twitch Stream From ISS](https://science.slashdot.org/story/25/02/07/0052210/nasa-plans-twitch-stream-from-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-07, 03:30:00](https://it.slashdot.org/story/25/02/07/0049222/ransomware-payments-dropped-35-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ransomware Payments Dropped 35% In 2024](https://it.slashdot.org/story/25/02/07/0049222/ransomware-payments-dropped-35-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-07, 02:10:00](https://slashdot.org/story/25/02/07/0026240/arm-ends-legal-efforts-to-terminate-qualcomms-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Arm Ends Legal Efforts To Terminate Qualcomm's License](https://slashdot.org/story/25/02/07/0026240/arm-ends-legal-efforts-to-terminate-qualcomms-license?utm_source=rss1.0mainlinkanon&utm_medium=feed)
