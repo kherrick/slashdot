@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 14:41:00](https://science.slashdot.org/story/25/02/11/1323249/microplastics-can-block-blood-vessels-in-mice-brains-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microplastics Can Block Blood Vessels in Mice Brains, Researchers Find](https://science.slashdot.org/story/25/02/11/1323249/microplastics-can-block-blood-vessels-in-mice-brains-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-11, 14:00:00](https://news.slashdot.org/story/25/02/11/1316202/uk-and-us-refuse-to-sign-international-ai-declaration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK and US Refuse To Sign International AI Declaration](https://news.slashdot.org/story/25/02/11/1316202/uk-and-us-refuse-to-sign-international-ai-declaration?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-11, 13:00:00](https://slashdot.org/story/25/02/11/0137223/ai-can-now-replicate-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Can Now Replicate Itself](https://slashdot.org/story/25/02/11/0137223/ai-can-now-replicate-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-11, 10:00:00](https://news.slashdot.org/story/25/02/11/0130213/earths-inner-core-may-have-changed-shape-say-scientists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Earth's Inner Core May Have Changed Shape, Say Scientists](https://news.slashdot.org/story/25/02/11/0130213/earths-inner-core-may-have-changed-shape-say-scientists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
