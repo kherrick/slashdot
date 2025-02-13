@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 03:30:00](https://news.slashdot.org/story/25/02/12/2346252/titan-sub-implosion-audio-released-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Titan Sub Implosion Audio Released For the First Time](https://news.slashdot.org/story/25/02/12/2346252/titan-sub-implosion-audio-released-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-13, 01:10:00](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Ultra-High-Energy Neutrino Detected](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-13, 00:30:00](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Woeful Security On Financial Phone Apps Is Getting People Murdered](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed)
