@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-14](index.md)
+
+* [2025-02-14, 01:40:00](https://slashdot.org/story/25/02/14/0033232/amazon-is-closing-a-kindle-loophole-that-makes-it-easy-to-remove-drm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Is Closing a Kindle Loophole That Makes It Easy To Remove DRM](https://slashdot.org/story/25/02/14/0033232/amazon-is-closing-a-kindle-loophole-that-makes-it-easy-to-remove-drm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 01:00:00](https://hardware.slashdot.org/story/25/02/14/0026249/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Arm Is Launching Its Own Chip This Year With Meta As a Customer](https://hardware.slashdot.org/story/25/02/14/0026249/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 00:40:00](https://apple.slashdot.org/story/25/02/14/0037255/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple To Restore TikTok To US App Store Following Justice Department Letter](https://apple.slashdot.org/story/25/02/14/0037255/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 00:20:00](https://tech.slashdot.org/story/25/02/14/0019213/ai-licensing-deals-with-google-and-openai-make-up-10-of-reddits-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Licensing Deals With Google and OpenAI Make Up 10% of Reddit's Revenue](https://tech.slashdot.org/story/25/02/14/0019213/ai-licensing-deals-with-google-and-openai-make-up-10-of-reddits-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
