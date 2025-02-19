@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-19](index.md)
+
+* [2025-02-19, 00:20:00](https://apple.slashdot.org/story/25/02/18/2158214/google-play-books-purchases-on-ios-now-skirt-the-app-stores-commission?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Play Books Purchases on iOS Now Skirt the App Store's Commission](https://apple.slashdot.org/story/25/02/18/2158214/google-play-books-purchases-on-ios-now-skirt-the-app-stores-commission?utm_source=rss1.0mainlinkanon&utm_medium=feed)
