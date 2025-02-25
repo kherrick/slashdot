@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 01:40:00](https://hardware.slashdot.org/story/25/02/24/2342219/microsoft-trims-more-cpus-from-windows-11-compatibility-list?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Trims More CPUs From Windows 11 Compatibility List](https://hardware.slashdot.org/story/25/02/24/2342219/microsoft-trims-more-cpus-from-windows-11-compatibility-list?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-25, 01:00:00](https://yro.slashdot.org/story/25/02/24/2327231/googles-ai-previews-erode-the-internet-edtech-company-says-in-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's AI Previews Erode the Internet, Edtech Company Says In Lawsuit](https://yro.slashdot.org/story/25/02/24/2327231/googles-ai-previews-erode-the-internet-edtech-company-says-in-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-25, 00:20:00](https://science.slashdot.org/story/25/02/24/2319218/theranos-founder-elizabeth-holmes-fraud-convictions-upheld?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Theranos Founder Elizabeth Holmes' Fraud Convictions Upheld](https://science.slashdot.org/story/25/02/24/2319218/theranos-founder-elizabeth-holmes-fraud-convictions-upheld?utm_source=rss1.0mainlinkanon&utm_medium=feed)
