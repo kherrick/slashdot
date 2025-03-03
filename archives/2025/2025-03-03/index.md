@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 20:50:00](https://slashdot.org/story/25/03/03/2029218/call-centers-using-ai-to-whiten-indian-accents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Call Centers Using AI To 'Whiten' Indian Accents](https://slashdot.org/story/25/03/03/2029218/call-centers-using-ai-to-whiten-indian-accents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 20:11:00](https://news.slashdot.org/story/25/03/03/2011256/the-us-cities-whose-workers-are-most-exposed-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The US Cities Whose Workers Are Most Exposed to AI](https://news.slashdot.org/story/25/03/03/2011256/the-us-cities-whose-workers-are-most-exposed-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 18:10:00](https://news.slashdot.org/story/25/03/03/182255/how-the-british-broke-their-own-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How the British Broke Their Own Economy](https://news.slashdot.org/story/25/03/03/182255/how-the-british-broke-their-own-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 17:40:00](https://news.slashdot.org/story/25/03/03/1740212/waiting-for-the-paperback-good-luck?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waiting For the Paperback? Good Luck.](https://news.slashdot.org/story/25/03/03/1740212/waiting-for-the-paperback-good-luck?utm_source=rss1.0mainlinkanon&utm_medium=feed)
