@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 17:43:00](https://apple.slashdot.org/story/25/03/04/1743218/apple-launches-legal-challenge-to-uk-back-door-order?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Launches Legal Challenge To UK 'Back Door' Order](https://apple.slashdot.org/story/25/03/04/1743218/apple-launches-legal-challenge-to-uk-back-door-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 17:27:00](https://it.slashdot.org/story/25/03/04/1728200/after-exam-fiasco-california-state-bar-staff-recommend-reverting-to-in-person-exams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After Exam Fiasco, California State Bar Staff Recommend Reverting To In-person Exams](https://it.slashdot.org/story/25/03/04/1728200/after-exam-fiasco-california-state-bar-staff-recommend-reverting-to-in-person-exams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 16:40:00](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Create 'Woolly Mice'](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 16:00:00](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Unveils iPad Air With M3 Chip](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
