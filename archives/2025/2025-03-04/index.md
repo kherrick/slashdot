@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 16:40:00](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Create 'Woolly Mice'](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 16:00:00](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Unveils iPad Air With M3 Chip](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 15:20:00](https://science.slashdot.org/story/25/03/04/1348203/europes-biggest-battery-powered-up-in-scotland?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe's Biggest Battery Powered Up In Scotland](https://science.slashdot.org/story/25/03/04/1348203/europes-biggest-battery-powered-up-in-scotland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 14:40:00](https://science.slashdot.org/story/25/03/04/1331210/chinas-supreme-court-calls-for-crack-down-on-paper-mills?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's Supreme Court Calls For Crack Down on Paper Mills](https://science.slashdot.org/story/25/03/04/1331210/chinas-supreme-court-calls-for-crack-down-on-paper-mills?utm_source=rss1.0mainlinkanon&utm_medium=feed)
