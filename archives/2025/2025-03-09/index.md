@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 15:34:00](https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will an 'AI Makeover' Help McDonald's?](https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 14:34:00](https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Your Gut Influences Your Brain](https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 11:34:00](https://tech.slashdot.org/story/25/03/09/0232250/americas-justice-department-still-wants-google-to-sell-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America's Justice Department Still Wants Google to Sell Chrome](https://tech.slashdot.org/story/25/03/09/0232250/americas-justice-department-still-wants-google-to-sell-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 08:34:00](https://news.slashdot.org/story/25/03/09/0359219/is-america-closer-to-ending-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is America Closer to Ending Daylight Saving Time?](https://news.slashdot.org/story/25/03/09/0359219/is-america-closer-to-ending-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
