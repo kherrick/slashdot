@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 17:34:00](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stem Cell Therapy Trial Reverses 'Irreversible' Damage to Cornea](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 16:34:00](https://science.slashdot.org/story/25/03/08/2133224/mice-give-first-aid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mice Give First Aid](https://science.slashdot.org/story/25/03/08/2133224/mice-give-first-aid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 15:34:00](https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will an 'AI Makeover' Help McDonald's?](https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 14:34:00](https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Your Gut Influences Your Brain](https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
