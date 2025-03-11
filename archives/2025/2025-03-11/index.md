@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 14:40:00](https://news.slashdot.org/story/25/03/11/1436211/california-pension-fund-labels-chevron-and-saudi-aramco-as-climate-investments?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Pension Fund Labels Chevron and Saudi Aramco as Climate Investments](https://news.slashdot.org/story/25/03/11/1436211/california-pension-fund-labels-chevron-and-saudi-aramco-as-climate-investments?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 14:00:00](https://tech.slashdot.org/story/25/03/11/1125227/spacex-readies-starlink-india-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SpaceX Readies Starlink India Launch](https://tech.slashdot.org/story/25/03/11/1125227/spacex-readies-starlink-india-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 13:00:00](https://tech.slashdot.org/story/25/03/11/0018244/facebook-was-hand-in-glove-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Was 'Hand In Glove' With China](https://tech.slashdot.org/story/25/03/11/0018244/facebook-was-hand-in-glove-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 11:25:00](https://tech.slashdot.org/story/25/03/11/1125227/spacex-partners-with-airtel-to-launch-starlink-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SpaceX Partners With Airtel To Launch Starlink in India](https://tech.slashdot.org/story/25/03/11/1125227/spacex-partners-with-airtel-to-launch-starlink-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)
