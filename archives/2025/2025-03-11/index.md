@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-03-11](index.md)
+
+* [2025-03-11, 00:50:00](https://tech.slashdot.org/story/25/03/10/2321254/asana-ceo-announces-retirement-stock-plummets-25?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Asana CEO Announces Retirement, Stock Plummets 25%](https://tech.slashdot.org/story/25/03/10/2321254/asana-ceo-announces-retirement-stock-plummets-25?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-11, 00:10:00](https://entertainment.slashdot.org/story/25/03/10/2111223/bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky CEO Jay Graber Pokes Fun At Mark Zuckerberg With Latin Phrase T-Shirt](https://entertainment.slashdot.org/story/25/03/10/2111223/bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
