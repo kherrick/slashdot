@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 20:10:00](https://slashdot.org/story/25/03/12/1839244/the-curious-surge-of-productivity-in-us-restaurants?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Curious Surge of Productivity in US Restaurants](https://slashdot.org/story/25/03/12/1839244/the-curious-surge-of-productivity-in-us-restaurants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 19:30:00](https://tech.slashdot.org/story/25/03/12/1835207/d-wave-claims-quantum-supremacy-beating-traditional-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [D-Wave Claims 'Quantum Supremacy,' Beating Traditional Computers](https://tech.slashdot.org/story/25/03/12/1835207/d-wave-claims-quantum-supremacy-beating-traditional-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 18:50:00](https://it.slashdot.org/story/25/03/12/1717207/rules-for-portable-batteries-on-planes-are-changing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rules for Portable Batteries on Planes Are Changing.](https://it.slashdot.org/story/25/03/12/1717207/rules-for-portable-batteries-on-planes-are-changing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 18:10:00](https://tech.slashdot.org/story/25/03/12/1710248/global-smartwatch-sales-fall-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Global Smartwatch Sales Fall For First Time](https://tech.slashdot.org/story/25/03/12/1710248/global-smartwatch-sales-fall-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
