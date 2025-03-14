@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 23:00:00](https://tech.slashdot.org/story/25/03/14/2121205/google-is-officially-replacing-assistant-with-gemini?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Is Officially Replacing Assistant With Gemini](https://tech.slashdot.org/story/25/03/14/2121205/google-is-officially-replacing-assistant-with-gemini?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-14, 22:20:00](https://yro.slashdot.org/story/25/03/14/2113257/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Everything You Say To Your Echo Will Be Sent To Amazon Starting On March 28](https://yro.slashdot.org/story/25/03/14/2113257/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-14, 21:40:00](https://slashdot.org/story/25/03/14/2034209/strava-bans-user-for-running-in-north-korea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Strava Bans User for Running in North Korea](https://slashdot.org/story/25/03/14/2034209/strava-bans-user-for-running-in-north-korea?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-14, 21:00:00](https://slashdot.org/story/25/03/14/2027208/ai-summaries-are-coming-to-notepad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Summaries Are Coming To Notepad](https://slashdot.org/story/25/03/14/2027208/ai-summaries-are-coming-to-notepad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
