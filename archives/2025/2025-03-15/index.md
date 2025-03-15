@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 23:48:00](https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Accused of Blocking Niche Browsers](https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 21:48:00](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [340 European Cities Restrict Usage of Cars](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 20:34:00](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elon Musk Says SpaceX's First Mission to Mars Will Launch Next Year](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 19:34:00](https://science.slashdot.org/story/25/03/15/1923253/is-our-universe-trapped-inside-a-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Our Universe Trapped Inside a Black Hole?](https://science.slashdot.org/story/25/03/15/1923253/is-our-universe-trapped-inside-a-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
