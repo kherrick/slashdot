@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 16:00:00](https://science.slashdot.org/story/25/03/17/0954252/have-humans-passed-peak-brain-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Have Humans Passed Peak Brain Power?](https://science.slashdot.org/story/25/03/17/0954252/have-humans-passed-peak-brain-power?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-17, 15:20:00](https://news.slashdot.org/story/25/03/17/0749239/should-friday-be-the-new-saturday?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Should Friday be the New Saturday? ](https://news.slashdot.org/story/25/03/17/0749239/should-friday-be-the-new-saturday?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-17, 14:40:00](https://news.slashdot.org/story/25/03/17/1435237/heat-can-age-you-as-much-as-smoking-a-new-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Heat Can Age You As Much As Smoking, a New Study Finds](https://news.slashdot.org/story/25/03/17/1435237/heat-can-age-you-as-much-as-smoking-a-new-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-17, 14:06:00](https://yro.slashdot.org/story/25/03/17/146214/hr-tech-firm-rippling-sues-rival-deel-for-corporate-espionage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HR Tech Firm Rippling Sues Rival Deel for Corporate Espionage](https://yro.slashdot.org/story/25/03/17/146214/hr-tech-firm-rippling-sues-rival-deel-for-corporate-espionage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
