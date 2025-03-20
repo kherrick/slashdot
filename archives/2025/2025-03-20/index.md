@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 19:02:00](https://tech.slashdot.org/story/25/03/20/1811249/ai-driven-weather-prediction-breakthrough-reported?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI-Driven Weather Prediction Breakthrough Reported](https://tech.slashdot.org/story/25/03/20/1811249/ai-driven-weather-prediction-breakthrough-reported?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 18:01:00](https://slashdot.org/story/25/03/20/177251/ibm-cuts-thousands-of-jobs-cloud-classic-unit-hit-hard-report?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Cuts Thousands of Jobs, Cloud Classic Unit Hit Hard: Report](https://slashdot.org/story/25/03/20/177251/ibm-cuts-thousands-of-jobs-cloud-classic-unit-hit-hard-report?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 17:01:00](https://it.slashdot.org/story/25/03/20/170225/nvidia-sells-rtx-gpus-from-a-food-truck?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Sells RTX GPUs From a 'Food Truck'](https://it.slashdot.org/story/25/03/20/170225/nvidia-sells-rtx-gpus-from-a-food-truck?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 16:07:00](https://apple.slashdot.org/story/25/03/20/168205/apple-shakes-up-ai-executive-ranks-in-bid-to-turn-around-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Shakes Up AI Executive Ranks in Bid to Turn Around Siri](https://apple.slashdot.org/story/25/03/20/168205/apple-shakes-up-ai-executive-ranks-in-bid-to-turn-around-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed)
