@@ -1,5 +1,6 @@
 # [Slashdot](https://kherrick.github.io/slashdot/)
 
+* [2025-03-20, 05:30:00](https://slashdot.org/story/25/03/20/0354205/nvidia-not-approached-for-intel-stake-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Not Approached for Intel Stake, CEO Says](https://slashdot.org/story/25/03/20/0354205/nvidia-not-approached-for-intel-stake-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 03:30:00](https://tech.slashdot.org/story/25/03/20/0324212/gnome-48-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GNOME 48 Released](https://tech.slashdot.org/story/25/03/20/0324212/gnome-48-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 02:28:00](https://slashdot.org/story/25/03/20/0227246/openais-o1-pro-is-the-companys-most-expensive-ai-model-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI's o1-pro is the Company's Most Expensive AI Model Yet](https://slashdot.org/story/25/03/20/0227246/openais-o1-pro-is-the-companys-most-expensive-ai-model-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 00:06:00](https://tech.slashdot.org/story/25/03/20/006216/lg-ceases-xr-product-efforts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LG Ceases XR Product Efforts](https://tech.slashdot.org/story/25/03/20/006216/lg-ceases-xr-product-efforts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -14,7 +15,6 @@
 * [2025-03-19, 13:00:00](https://slashdot.org/story/25/03/18/2321249/five-charged-in-european-parliament-huawei-bribery-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Five Charged In European Parliament Huawei Bribery Probe](https://slashdot.org/story/25/03/18/2321249/five-charged-in-european-parliament-huawei-bribery-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-19, 10:00:00](https://yro.slashdot.org/story/25/03/18/2047251/the-effect-of-application-fees-on-entry-into-patenting?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Effect of Application Fees on Entry into Patenting](https://yro.slashdot.org/story/25/03/18/2047251/the-effect-of-application-fees-on-entry-into-patenting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-19, 07:00:00](https://hardware.slashdot.org/story/25/03/18/2312229/nvidia-says-the-age-of-generalist-robotics-is-here?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Says 'the Age of Generalist Robotics Is Here'](https://hardware.slashdot.org/story/25/03/18/2312229/nvidia-says-the-age-of-generalist-robotics-is-here?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-19, 03:30:00](https://science.slashdot.org/story/25/03/18/2243230/researchers-engineer-bacteria-to-produce-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Engineer Bacteria To Produce Plastics](https://science.slashdot.org/story/25/03/18/2243230/researchers-engineer-bacteria-to-produce-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## [Archives](archives/index.md)
 
