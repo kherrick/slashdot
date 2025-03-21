@@ -1,5 +1,6 @@
 # [Slashdot](https://kherrick.github.io/slashdot/)
 
+* [2025-03-21, 18:00:00](https://news.slashdot.org/story/25/03/21/1611253/us-removes-tornado-cash-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Removes Tornado Cash Sanctions](https://news.slashdot.org/story/25/03/21/1611253/us-removes-tornado-cash-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-21, 16:25:00](https://tech.slashdot.org/story/25/03/21/1623227/microsoft-tells-windows-10-users-to-buy-new-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Tells Windows 10 Users To Buy New PCs](https://tech.slashdot.org/story/25/03/21/1623227/microsoft-tells-windows-10-users-to-buy-new-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-21, 15:50:00](https://tech.slashdot.org/story/25/03/21/1550212/yahoo-sells-techcrunch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Yahoo Sells TechCrunch](https://tech.slashdot.org/story/25/03/21/1550212/yahoo-sells-techcrunch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-21, 15:00:00](https://tech.slashdot.org/story/25/03/21/1126233/google-sues-scammers-over-fake-maps-listings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Sues Scammers Over Fake Maps Listings](https://tech.slashdot.org/story/25/03/21/1126233/google-sues-scammers-over-fake-maps-listings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -14,7 +15,6 @@
 * [2025-03-20, 21:00:00](https://tech.slashdot.org/story/25/03/20/1839239/gmail-rolls-out-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gmail Rolls Out AI-Powered Search](https://tech.slashdot.org/story/25/03/20/1839239/gmail-rolls-out-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 20:00:00](https://news.slashdot.org/story/25/03/20/1918213/kids-are-spending-too-much-class-time-on-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Kids Are Spending Too Much Class Time on Laptops'](https://news.slashdot.org/story/25/03/20/1918213/kids-are-spending-too-much-class-time-on-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-20, 19:02:00](https://tech.slashdot.org/story/25/03/20/1811249/ai-driven-weather-prediction-breakthrough-reported?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI-Driven Weather Prediction Breakthrough Reported](https://tech.slashdot.org/story/25/03/20/1811249/ai-driven-weather-prediction-breakthrough-reported?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-20, 18:01:00](https://slashdot.org/story/25/03/20/177251/ibm-cuts-thousands-of-jobs-cloud-classic-unit-hit-hard-report?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Cuts Thousands of Jobs, Cloud Classic Unit Hit Hard: Report](https://slashdot.org/story/25/03/20/177251/ibm-cuts-thousands-of-jobs-cloud-classic-unit-hit-hard-report?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## [Archives](archives/index.md)
 
