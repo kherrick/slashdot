@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 15:26:00](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Will Impact GDP of Every Country By Double Digits, Says Mistral CEO](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-24, 14:48:00](https://linux.slashdot.org/story/25/03/24/1448217/linux-kernel-614-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Kernel 6.14 Officially Released](https://linux.slashdot.org/story/25/03/24/1448217/linux-kernel-614-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-24, 14:00:00](https://slashdot.org/story/25/03/24/0517231/dna-testing-firm-23andme-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DNA-Testing Firm 23andMe Files for Bankruptcy](https://slashdot.org/story/25/03/24/0517231/dna-testing-firm-23andme-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-24, 11:34:00](https://tech.slashdot.org/story/25/03/23/1742225/why-the-internet-archive-is-more-relevant-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why the Internet Archive is More Relevant Than Ever](https://tech.slashdot.org/story/25/03/23/1742225/why-the-internet-archive-is-more-relevant-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
