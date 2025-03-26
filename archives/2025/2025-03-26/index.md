@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 17:22:00](https://news.slashdot.org/story/25/03/26/172241/who-wins-nobel-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Who Wins Nobel Prizes?](https://news.slashdot.org/story/25/03/26/172241/who-wins-nobel-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 16:45:00](https://slashdot.org/story/25/03/26/1641211/quitting-your-job-wont-help-you-get-paid-more-money-right-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Quitting Your Job Won't Help You Get Paid More Money Right Now](https://slashdot.org/story/25/03/26/1641211/quitting-your-job-wont-help-you-get-paid-more-money-right-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 16:05:00](https://it.slashdot.org/story/25/03/26/1536221/signal-president-blasts-whatsapps-privacy-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Signal President Blasts WhatsApp's Privacy Claims](https://it.slashdot.org/story/25/03/26/1536221/signal-president-blasts-whatsapps-privacy-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 15:22:00](https://entertainment.slashdot.org/story/25/03/26/1518225/streaming-services-are-facing-identity-crisis-research-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Streaming Services Are Facing Identity Crisis, Research Shows](https://entertainment.slashdot.org/story/25/03/26/1518225/streaming-services-are-facing-identity-crisis-research-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
