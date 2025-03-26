@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 23:30:00](https://news.slashdot.org/story/25/03/26/211250/over-4-million-gen-zers-are-jobless?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Over 4 Million Gen Zers Are Jobless](https://news.slashdot.org/story/25/03/26/211250/over-4-million-gen-zers-are-jobless?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 22:50:00](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Expands Export Blacklist To Keep Computing Tech Out of China](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 22:10:00](https://news.slashdot.org/story/25/03/26/2035210/business-schools-are-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Business Schools Are Back](https://news.slashdot.org/story/25/03/26/2035210/business-schools-are-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 21:30:00](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VMware Sues Siemens For Allegedly Using Unlicensed Software](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
