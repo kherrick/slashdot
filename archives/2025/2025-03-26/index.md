@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 22:10:00](https://news.slashdot.org/story/25/03/26/2035210/business-schools-are-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Business Schools Are Back](https://news.slashdot.org/story/25/03/26/2035210/business-schools-are-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 21:30:00](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VMware Sues Siemens For Allegedly Using Unlicensed Software](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 20:50:00](https://news.slashdot.org/story/25/03/26/2017227/google-will-develop-the-android-os-fully-in-private?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Will Develop the Android OS Fully In Private](https://news.slashdot.org/story/25/03/26/2017227/google-will-develop-the-android-os-fully-in-private?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 20:14:00](https://slashdot.org/story/25/03/26/2014204/dells-staff-numbers-have-dropped-by-25000-in-just-2-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dell's Staff Numbers Have Dropped By 25,000 in Just 2 Years](https://slashdot.org/story/25/03/26/2014204/dells-staff-numbers-have-dropped-by-25000-in-just-2-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
