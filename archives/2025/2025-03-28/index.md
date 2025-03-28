@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 23:50:00](https://science.slashdot.org/story/25/03/28/232215/a-new-image-file-format-efficiently-stores-invisible-light-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A New Image File Format Efficiently Stores Invisible Light Data](https://science.slashdot.org/story/25/03/28/232215/a-new-image-file-format-efficiently-stores-invisible-light-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 23:10:00](https://developers.slashdot.org/story/25/03/28/2148205/doge-to-rewrite-ssa-codebase-in-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DOGE To Rewrite SSA Codebase In 'Months'](https://developers.slashdot.org/story/25/03/28/2148205/doge-to-rewrite-ssa-codebase-in-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 22:30:00](https://developers.slashdot.org/story/25/03/28/2025251/oracle-health-breach-compromises-patient-data-at-us-hospitals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle Health Breach Compromises Patient Data At US Hospitals](https://developers.slashdot.org/story/25/03/28/2025251/oracle-health-breach-compromises-patient-data-at-us-hospitals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 22:10:00](https://tech.slashdot.org/story/25/03/28/2156237/xai-acquires-x?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [xAI Acquires X](https://tech.slashdot.org/story/25/03/28/2156237/xai-acquires-x?utm_source=rss1.0mainlinkanon&utm_medium=feed)
