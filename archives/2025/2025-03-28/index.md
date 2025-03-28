@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 08:00:00](https://science.slashdot.org/story/25/03/28/0720237/as-nasa-faces-cuts-china-reveals-ambitious-plans-for-planetary-exploration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As NASA Faces Cuts, China Reveals Ambitious Plans For Planetary Exploration](https://science.slashdot.org/story/25/03/28/0720237/as-nasa-faces-cuts-china-reveals-ambitious-plans-for-planetary-exploration?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 06:14:00](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic Maps AI Model 'Thought' Processes](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 04:30:00](https://it.slashdot.org/story/25/03/28/0421236/labor-arbitrage-rip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Labor Arbitrage RIP](https://it.slashdot.org/story/25/03/28/0421236/labor-arbitrage-rip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 03:30:00](https://tech.slashdot.org/story/25/03/28/0019211/virginia-will-punish-fast-drivers-with-devices-that-limit-their-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Virginia Will Punish Fast Drivers With Devices That Limit Their Speed](https://tech.slashdot.org/story/25/03/28/0019211/virginia-will-punish-fast-drivers-with-devices-that-limit-their-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
