@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 15:20:00](https://yro.slashdot.org/story/25/04/02/1517217/alleged-deel-spy-confesses-to-coordinating-with-deel-ceo-alex-bouaziz?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Alleged Deel Spy Confesses To Coordinating with Deel CEO Alex Bouaziz](https://yro.slashdot.org/story/25/04/02/1517217/alleged-deel-spy-confesses-to-coordinating-with-deel-ceo-alex-bouaziz?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-02, 14:43:00](https://news.slashdot.org/story/25/04/02/1443242/lawmakers-propose-cap-on-credit-card-interest-rates?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lawmakers Propose Cap on Credit Card Interest Rates](https://news.slashdot.org/story/25/04/02/1443242/lawmakers-propose-cap-on-credit-card-interest-rates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-02, 14:08:00](https://games.slashdot.org/story/25/04/02/148251/nintendo-switch-2-arrives-on-june-5-priced-at-450?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nintendo Switch 2 Arrives on June 5, Priced at $450](https://games.slashdot.org/story/25/04/02/148251/nintendo-switch-2-arrives-on-june-5-priced-at-450?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-02, 13:00:00](https://news.slashdot.org/story/25/04/02/0654238/zelle-is-shutting-down-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zelle Is Shutting Down Its App](https://news.slashdot.org/story/25/04/02/0654238/zelle-is-shutting-down-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
