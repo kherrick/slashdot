@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 16:53:00](https://slashdot.org/story/25/04/03/1653226/climate-firm-that-partnered-with-meta-microsoft-goes-bankrupt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Climate Firm That Partnered With Meta, Microsoft Goes Bankrupt](https://slashdot.org/story/25/04/03/1653226/climate-firm-that-partnered-with-meta-microsoft-goes-bankrupt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-03, 16:11:00](https://slashdot.org/story/25/04/03/1611223/intel-refreshes-iconic-brand?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Refreshes Iconic Brand](https://slashdot.org/story/25/04/03/1611223/intel-refreshes-iconic-brand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-03, 15:27:00](https://news.slashdot.org/story/25/04/03/1526250/av1-is-supposed-to-make-streaming-better-so-why-isnt-everyone-using-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AV1 is Supposed To Make Streaming Better, So Why Isn't Everyone Using It?](https://news.slashdot.org/story/25/04/03/1526250/av1-is-supposed-to-make-streaming-better-so-why-isnt-everyone-using-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-03, 14:47:00](https://tech.slashdot.org/story/25/04/03/1447221/schrodingers-economics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Schrodinger's Economics](https://tech.slashdot.org/story/25/04/03/1447221/schrodingers-economics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
