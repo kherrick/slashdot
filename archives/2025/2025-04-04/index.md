@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-04](index.md)
+
+* [2025-04-04, 00:20:00](https://games.slashdot.org/story/25/04/03/2248237/louvre-museum-in-paris-to-discontinue-nintendo-3ds-audio-guides?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Louvre Museum In Paris to Discontinue Nintendo 3DS Audio Guides](https://games.slashdot.org/story/25/04/03/2248237/louvre-museum-in-paris-to-discontinue-nintendo-3ds-audio-guides?utm_source=rss1.0mainlinkanon&utm_medium=feed)
