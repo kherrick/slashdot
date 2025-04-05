@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-05](index.md)
+
+* [2025-04-05, 00:20:00](https://linux.slashdot.org/story/25/04/04/2320234/an-interactive-speed-linux-computer-made-of-only-3-8-pin-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An Interactive-Speed Linux Computer Made of Only 3 8-Pin Chips](https://linux.slashdot.org/story/25/04/04/2320234/an-interactive-speed-linux-computer-made-of-only-3-8-pin-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
