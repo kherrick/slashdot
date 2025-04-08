@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 15:04:00](https://hardware.slashdot.org/story/25/04/08/154257/micron-to-impose-tariff-related-surcharge-on-ssds-other-products?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Micron To Impose Tariff-Related Surcharge on SSDs, Other Products](https://hardware.slashdot.org/story/25/04/08/154257/micron-to-impose-tariff-related-surcharge-on-ssds-other-products?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-08, 14:00:00](https://tech.slashdot.org/story/25/04/08/133257/meta-got-caught-gaming-ai-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Got Caught Gaming AI Benchmarks](https://tech.slashdot.org/story/25/04/08/133257/meta-got-caught-gaming-ai-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-08, 11:16:00](https://it.slashdot.org/story/25/04/08/1116241/indias-frankenstein-laptop-economy-thrives-against-planned-obsolescence?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India's 'Frankenstein' Laptop Economy Thrives Against Planned Obsolescence](https://it.slashdot.org/story/25/04/08/1116241/indias-frankenstein-laptop-economy-thrives-against-planned-obsolescence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-08, 09:00:00](https://tech.slashdot.org/story/25/04/08/0524221/bluesky-cant-take-a-joke?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bluesky Can't Take a Joke](https://tech.slashdot.org/story/25/04/08/0524221/bluesky-cant-take-a-joke?utm_source=rss1.0mainlinkanon&utm_medium=feed)
