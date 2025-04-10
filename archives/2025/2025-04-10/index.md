@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 20:30:00](https://hardware.slashdot.org/story/25/04/10/2019233/data-centres-will-use-twice-as-much-energy-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Data Centres Will Use Twice as Much Energy By 2030](https://hardware.slashdot.org/story/25/04/10/2019233/data-centres-will-use-twice-as-much-energy-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-10, 17:30:00](https://slashdot.org/story/25/04/10/1727255/openai-expands-chatgpt-memory-to-draw-on-full-conversation-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Expands ChatGPT Memory To Draw on Full Conversation History](https://slashdot.org/story/25/04/10/1727255/openai-expands-chatgpt-memory-to-draw-on-full-conversation-history?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-10, 17:00:00](https://tech.slashdot.org/story/25/04/10/1628209/meta-says-llama-4-targets-left-leaning-bias?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Says Llama 4 Targets Left-Leaning Bias](https://tech.slashdot.org/story/25/04/10/1628209/meta-says-llama-4-targets-left-leaning-bias?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-10, 16:00:00](https://entertainment.slashdot.org/story/25/04/10/1551222/china-to-restrict-us-film-releases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China To Restrict US Film Releases](https://entertainment.slashdot.org/story/25/04/10/1551222/china-to-restrict-us-film-releases?utm_source=rss1.0mainlinkanon&utm_medium=feed)
