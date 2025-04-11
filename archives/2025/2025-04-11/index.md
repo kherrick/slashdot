@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 01:45:00](https://it.slashdot.org/story/25/04/11/0143227/microsoft-is-about-to-launch-recall-for-real-this-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft is About To Launch Recall For Real This Time](https://it.slashdot.org/story/25/04/11/0143227/microsoft-is-about-to-launch-recall-for-real-this-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-11, 00:18:00](https://yro.slashdot.org/story/25/04/11/0018218/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fintech Founder Charged With Fraud After 'AI' Shopping App Found To Be Powered By Humans in the Philippines](https://yro.slashdot.org/story/25/04/11/0018218/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
