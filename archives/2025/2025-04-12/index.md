@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 14:34:00](https://tech.slashdot.org/story/25/04/12/067219/facebook-whistleblower-alleges-metas-ai-model-llama-was-used-to-help-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Whistleblower Alleges Meta's AI Model Llama Was Used to Help DeepSeek](https://tech.slashdot.org/story/25/04/12/067219/facebook-whistleblower-alleges-metas-ai-model-llama-was-used-to-help-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-12, 12:05:00](https://news.slashdot.org/story/25/04/12/125242/leaving-money-on-the-table?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Leaving Money on the Table](https://news.slashdot.org/story/25/04/12/125242/leaving-money-on-the-table?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-12, 07:20:00](https://tech.slashdot.org/story/25/04/12/0720212/facebook-is-just-craigslist-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Is Just Craigslist Now](https://tech.slashdot.org/story/25/04/12/0720212/facebook-is-just-craigslist-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-12, 04:30:00](https://tech.slashdot.org/story/25/04/12/026211/adobe-retreats-from-bluesky-after-massive-user-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Adobe Retreats from Bluesky After Massive User Backlash](https://tech.slashdot.org/story/25/04/12/026211/adobe-retreats-from-bluesky-after-massive-user-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
