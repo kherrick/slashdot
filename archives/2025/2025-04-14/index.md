@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 13:52:00](https://news.slashdot.org/story/25/04/14/1352243/nvidia-to-make-ai-supercomputers-in-us-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia To Make AI Supercomputers in US for First Time](https://news.slashdot.org/story/25/04/14/1352243/nvidia-to-make-ai-supercomputers-in-us-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-14, 11:34:00](https://hardware.slashdot.org/story/25/04/14/0154240/can-ai-help-manage-nuclear-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can AI Help Manage Nuclear Reactors?](https://hardware.slashdot.org/story/25/04/14/0154240/can-ai-help-manage-nuclear-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-14, 07:34:00](https://tech.slashdot.org/story/25/04/14/0542240/an-electric-racecar-drives-upside-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An Electric Racecar Drives Upside Down](https://tech.slashdot.org/story/25/04/14/0542240/an-electric-racecar-drives-upside-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-14, 04:34:00](https://it.slashdot.org/story/25/04/14/0356212/the-effs-certbot-now-supports-six-day-certs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The EFF's 'Certbot' Now Supports Six-Day Certs](https://it.slashdot.org/story/25/04/14/0356212/the-effs-certbot-now-supports-six-day-certs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
