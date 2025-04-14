@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 20:10:00](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Starts Using Data From EU Users To Train Its AI Models](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-14, 19:30:00](https://tech.slashdot.org/story/25/04/14/1917246/nato-inks-deal-with-palantir-for-maven-ai-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NATO Inks Deal With Palantir For Maven AI System](https://tech.slashdot.org/story/25/04/14/1917246/nato-inks-deal-with-palantir-for-maven-ai-system?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-14, 18:51:00](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VMware Revives Its Free ESXi Hypervisor](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-14, 18:14:00](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Issues US-bound Staff With Burner Phones Over Spying Fears](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed)
