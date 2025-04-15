@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-15](index.md)
+
+* [2025-04-15, 00:50:00](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple To Analyze User Data on Devices To Bolster AI Technology](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
