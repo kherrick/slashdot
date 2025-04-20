@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 17:34:00](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Bees Are Disappearing Again ](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-20, 16:34:00](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is There a Greener Way to Produce Iron?](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-20, 15:34:00](https://linux.slashdot.org/story/25/04/19/1954232/arcolinux-lead-steps-down-after-eight-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ArcoLinux Lead Steps Down After Eight Years](https://linux.slashdot.org/story/25/04/19/1954232/arcolinux-lead-steps-down-after-eight-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-20, 14:34:00](https://news.slashdot.org/story/25/04/19/0436210/water-on-earth-may-not-have-originated-from-an-asteroid-impact-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Water on Earth May Not Have Originated from an Asteroid Impact, Study Finds](https://news.slashdot.org/story/25/04/19/0436210/water-on-earth-may-not-have-originated-from-an-asteroid-impact-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
