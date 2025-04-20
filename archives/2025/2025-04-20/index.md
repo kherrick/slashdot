@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 19:23:00](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Famed AI Researcher Launches Controversial Startup to Replace All Human Workers Everywhere](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-20, 17:34:00](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Bees Are Disappearing Again ](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-20, 16:34:00](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is There a Greener Way to Produce Iron?](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-20, 15:34:00](https://linux.slashdot.org/story/25/04/19/1954232/arcolinux-lead-steps-down-after-eight-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ArcoLinux Lead Steps Down After Eight Years](https://linux.slashdot.org/story/25/04/19/1954232/arcolinux-lead-steps-down-after-eight-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
