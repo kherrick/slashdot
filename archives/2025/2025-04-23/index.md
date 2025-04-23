@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 14:01:00](https://tech.slashdot.org/story/25/04/23/140227/deep-sea-fishers-fight-for-wi-fi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Deep-Sea Fishers Fight for Wi-Fi](https://tech.slashdot.org/story/25/04/23/140227/deep-sea-fishers-fight-for-wi-fi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-23, 13:00:00](https://yro.slashdot.org/story/25/04/22/2215255/shopify-must-face-data-privacy-lawsuit-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Shopify Must Face Data Privacy Lawsuit In US](https://yro.slashdot.org/story/25/04/22/2215255/shopify-must-face-data-privacy-lawsuit-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-23, 07:00:00](https://tech.slashdot.org/story/25/04/22/226251/california-is-about-to-run-out-of-license-plate-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Is About To Run Out of License Plate Numbers](https://tech.slashdot.org/story/25/04/22/226251/california-is-about-to-run-out-of-license-plate-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-23, 03:30:00](https://tech.slashdot.org/story/25/04/22/220256/yahoo-will-give-millions-to-a-settlement-fund-for-chinese-dissidents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Yahoo Will Give Millions To a Settlement Fund For Chinese Dissidents](https://tech.slashdot.org/story/25/04/22/220256/yahoo-will-give-millions-to-a-settlement-fund-for-chinese-dissidents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
