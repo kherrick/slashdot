@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 20:05:00](https://slashdot.org/story/25/04/25/1844209/intels-ai-pc-chips-arent-selling-well?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel's AI PC Chips Aren't Selling Well](https://slashdot.org/story/25/04/25/1844209/intels-ai-pc-chips-arent-selling-well?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 19:20:00](https://politics.slashdot.org/story/25/04/25/1854224/how-democrats-and-republicans-cite-science?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Democrats and Republicans Cite Science](https://politics.slashdot.org/story/25/04/25/1854224/how-democrats-and-republicans-cite-science?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 18:45:00](https://slashdot.org/story/25/04/25/1818257/swiss-national-bank-chairman-rebuffs-bitcoin-as-reserve-asset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Swiss National Bank Chairman Rebuffs Bitcoin as Reserve Asset](https://slashdot.org/story/25/04/25/1818257/swiss-national-bank-chairman-rebuffs-bitcoin-as-reserve-asset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 18:06:00](https://slashdot.org/story/25/04/25/186205/microsofts-big-ai-hire-cant-match-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Big AI Hire Can't Match OpenAI](https://slashdot.org/story/25/04/25/186205/microsofts-big-ai-hire-cant-match-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
