@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 22:02:00](https://yro.slashdot.org/story/25/04/25/2049213/government-censorship-comes-to-bluesky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Government Censorship Comes To Bluesky](https://yro.slashdot.org/story/25/04/25/2049213/government-censorship-comes-to-bluesky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 21:24:00](https://news.slashdot.org/story/25/04/25/1931247/top-colleges-are-too-costly-even-for-parents-making-300000?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Top Colleges Are Too Costly Even for Parents Making $300,000](https://news.slashdot.org/story/25/04/25/1931247/top-colleges-are-too-costly-even-for-parents-making-300000?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 20:45:00](https://it.slashdot.org/story/25/04/25/1830232/microsoft-launches-windows-recall-after-year-long-delay?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Launches Windows Recall After Year-Long Delay](https://it.slashdot.org/story/25/04/25/1830232/microsoft-launches-windows-recall-after-year-long-delay?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 20:05:00](https://slashdot.org/story/25/04/25/1844209/intels-ai-pc-chips-arent-selling-well?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel's AI PC Chips Aren't Selling Well](https://slashdot.org/story/25/04/25/1844209/intels-ai-pc-chips-arent-selling-well?utm_source=rss1.0mainlinkanon&utm_medium=feed)
