@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 18:45:00](https://slashdot.org/story/25/04/25/1818257/swiss-national-bank-chairman-rebuffs-bitcoin-as-reserve-asset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Swiss National Bank Chairman Rebuffs Bitcoin as Reserve Asset](https://slashdot.org/story/25/04/25/1818257/swiss-national-bank-chairman-rebuffs-bitcoin-as-reserve-asset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 18:06:00](https://slashdot.org/story/25/04/25/186205/microsofts-big-ai-hire-cant-match-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Big AI Hire Can't Match OpenAI](https://slashdot.org/story/25/04/25/186205/microsofts-big-ai-hire-cant-match-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 17:26:00](https://it.slashdot.org/story/25/04/25/1726238/microsoft-to-kill-windows-maps-app-in-july?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Kill Windows Maps App in July](https://it.slashdot.org/story/25/04/25/1726238/microsoft-to-kill-windows-maps-app-in-july?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 16:41:00](https://it.slashdot.org/story/25/04/25/166214/the-you-wouldnt-steal-a-car-campaign-used-a-pirated-font?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The 'You Wouldn't Steal a Car' Campaign Used a Pirated Font](https://it.slashdot.org/story/25/04/25/166214/the-you-wouldnt-steal-a-car-campaign-used-a-pirated-font?utm_source=rss1.0mainlinkanon&utm_medium=feed)
