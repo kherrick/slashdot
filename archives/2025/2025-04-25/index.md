@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 23:20:00](https://news.slashdot.org/story/25/04/25/2125224/doordash-makes-36-billion-offer-for-deliveroo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DoorDash Makes $3.6 Billion Offer For Deliveroo](https://news.slashdot.org/story/25/04/25/2125224/doordash-makes-36-billion-offer-for-deliveroo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 22:40:00](https://tech.slashdot.org/story/25/04/25/2052237/google-is-killing-software-support-for-early-nest-thermostats?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Is Killing Software Support For Early Nest Thermostats](https://tech.slashdot.org/story/25/04/25/2052237/google-is-killing-software-support-for-early-nest-thermostats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 22:02:00](https://yro.slashdot.org/story/25/04/25/2049213/government-censorship-comes-to-bluesky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Government Censorship Comes To Bluesky](https://yro.slashdot.org/story/25/04/25/2049213/government-censorship-comes-to-bluesky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-25, 21:24:00](https://news.slashdot.org/story/25/04/25/1931247/top-colleges-are-too-costly-even-for-parents-making-300000?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Top Colleges Are Too Costly Even for Parents Making $300,000](https://news.slashdot.org/story/25/04/25/1931247/top-colleges-are-too-costly-even-for-parents-making-300000?utm_source=rss1.0mainlinkanon&utm_medium=feed)
