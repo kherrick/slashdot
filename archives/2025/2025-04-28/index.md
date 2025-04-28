@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 15:23:00](https://news.slashdot.org/story/25/04/28/1523232/ibm-pledges-150-billion-us-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Pledges $150 Billion US Investment](https://news.slashdot.org/story/25/04/28/1523232/ibm-pledges-150-billion-us-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-28, 14:45:00](https://tech.slashdot.org/story/25/04/28/1444215/dont-make-google-sell-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Don't Make Google Sell Chrome'](https://tech.slashdot.org/story/25/04/28/1444215/dont-make-google-sell-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-28, 12:45:00](https://slashdot.org/story/25/04/28/1245258/widespread-power-outage-is-reported-in-spain-france-and-portugal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Widespread Power Outage Is Reported in Spain, France and Portugal](https://slashdot.org/story/25/04/28/1245258/widespread-power-outage-is-reported-in-spain-france-and-portugal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-28, 11:34:00](https://tech.slashdot.org/story/25/04/28/0736204/americas-electric-vehicle-sales-have-jumped-106-compared-to-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America's Electric Vehicle Sales Have Jumped 10.6% Compared to 2024](https://tech.slashdot.org/story/25/04/28/0736204/americas-electric-vehicle-sales-have-jumped-106-compared-to-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
