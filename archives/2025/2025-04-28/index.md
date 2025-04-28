@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 16:04:00](https://slashdot.org/story/25/04/28/164253/dyson-founder-says-he-has-lived-a-life-of-failure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dyson Founder Says He Has Lived a 'Life of Failure'](https://slashdot.org/story/25/04/28/164253/dyson-founder-says-he-has-lived-a-life-of-failure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-28, 15:23:00](https://news.slashdot.org/story/25/04/28/1523232/ibm-pledges-150-billion-us-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM Pledges $150 Billion US Investment](https://news.slashdot.org/story/25/04/28/1523232/ibm-pledges-150-billion-us-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-28, 14:45:00](https://tech.slashdot.org/story/25/04/28/1444215/dont-make-google-sell-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Don't Make Google Sell Chrome'](https://tech.slashdot.org/story/25/04/28/1444215/dont-make-google-sell-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-28, 12:45:00](https://slashdot.org/story/25/04/28/1245258/widespread-power-outage-is-reported-in-spain-france-and-portugal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Widespread Power Outage Is Reported in Spain, France and Portugal](https://slashdot.org/story/25/04/28/1245258/widespread-power-outage-is-reported-in-spain-france-and-portugal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
