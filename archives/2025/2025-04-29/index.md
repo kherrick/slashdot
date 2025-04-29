@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 13:00:00](https://bsd.slashdot.org/story/25/04/29/0456227/openbsd-77-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenBSD 7.7 Released](https://bsd.slashdot.org/story/25/04/29/0456227/openbsd-77-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-29, 10:31:00](https://slashdot.org/story/25/04/29/1031207/amazon-to-display-tariff-costs-for-consumers-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon To Display Tariff Costs For Consumers, Report Says](https://slashdot.org/story/25/04/29/1031207/amazon-to-display-tariff-costs-for-consumers-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-29, 10:00:00](https://slashdot.org/story/25/04/29/0445225/openai-microsoft-alliance-fractures-as-ai-titans-chart-separate-paths?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI-Microsoft Alliance Fractures as AI Titans Chart Separate Paths](https://slashdot.org/story/25/04/29/0445225/openai-microsoft-alliance-fractures-as-ai-titans-chart-separate-paths?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-04-29, 07:00:00](https://tech.slashdot.org/story/25/04/29/0435203/amazon-launches-first-kuiper-internet-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Launches First Kuiper Internet Satellites](https://tech.slashdot.org/story/25/04/29/0435203/amazon-launches-first-kuiper-internet-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
