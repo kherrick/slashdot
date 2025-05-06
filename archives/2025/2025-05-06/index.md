@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 20:37:00](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Debuts an Updated Gemini 2.5 Pro AI Model Ahead of I/O](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-06, 19:25:00](https://slashdot.org/story/25/05/06/1843232/ceo-departures-hit-record-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CEO Departures Hit Record Levels](https://slashdot.org/story/25/05/06/1843232/ceo-departures-hit-record-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-06, 18:45:00](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Law Firm Offering $2.7 Legal Letters Wins 'Landmark' Approval](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-06, 18:05:00](https://tech.slashdot.org/story/25/05/06/185254/microsoft-unveils-ai-powered-overhaul-for-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Unveils AI-Powered Overhaul for Windows 11](https://tech.slashdot.org/story/25/05/06/185254/microsoft-unveils-ai-powered-overhaul-for-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed)
