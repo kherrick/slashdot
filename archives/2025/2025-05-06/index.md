@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 13:00:00](https://slashdot.org/story/25/05/06/0152211/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Reaches Agreement To Buy Startup Windsurf For $3 Billion](https://slashdot.org/story/25/05/06/0152211/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-06, 10:00:00](https://slashdot.org/story/25/05/06/0139251/hugo-administrators-resign-in-wake-of-chatgpt-controversy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hugo Administrators Resign in Wake of ChatGPT Controversy](https://slashdot.org/story/25/05/06/0139251/hugo-administrators-resign-in-wake-of-chatgpt-controversy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-06, 08:00:00](https://games.slashdot.org/story/25/05/06/0126208/half-life-3-is-reportedly-playable-in-its-entirety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Half-Life 3 Is Reportedly Playable In Its Entirety](https://games.slashdot.org/story/25/05/06/0126208/half-life-3-is-reportedly-playable-in-its-entirety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-06, 06:30:00](https://it.slashdot.org/story/25/05/06/0050212/open-document-format-turns-20?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Open Document Format Turns 20](https://it.slashdot.org/story/25/05/06/0050212/open-document-format-turns-20?utm_source=rss1.0mainlinkanon&utm_medium=feed)
