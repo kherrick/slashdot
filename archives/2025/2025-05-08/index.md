@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-08](index.md)
+
+* [2025-05-08, 03:15:00](https://tech.slashdot.org/story/25/05/08/0314235/google-refutes-apples-claims-of-search-traffic-decline?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Refutes Apple's Claims of Search Traffic Decline](https://tech.slashdot.org/story/25/05/08/0314235/google-refutes-apples-claims-of-search-traffic-decline?utm_source=rss1.0mainlinkanon&utm_medium=feed)
