@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 15:20:00](https://hardware.slashdot.org/story/25/05/12/1519209/western-digital-invests-in-ceramic-storage-firm-that-claims-5000-year-data-retention?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Western Digital Invests in Ceramic Storage Firm That Claims 5,000-Year Data Retention](https://hardware.slashdot.org/story/25/05/12/1519209/western-digital-invests-in-ceramic-storage-firm-that-claims-5000-year-data-retention?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-12, 14:40:00](https://apple.slashdot.org/story/25/05/12/1251211/apple-considering-raising-iphone-prices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Considering Raising iPhone Prices](https://apple.slashdot.org/story/25/05/12/1251211/apple-considering-raising-iphone-prices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-12, 11:34:00](https://science.slashdot.org/story/25/05/12/0549234/is-there-water-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is There Water on Mars?](https://science.slashdot.org/story/25/05/12/0549234/is-there-water-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-12, 08:26:00](https://news.slashdot.org/story/25/05/12/0826256/us-and-china-agree-to-temporarily-slash-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US and China Agree To Temporarily Slash Tariffs](https://news.slashdot.org/story/25/05/12/0826256/us-and-china-agree-to-temporarily-slash-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
