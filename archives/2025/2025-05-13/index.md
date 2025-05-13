@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 07:00:00](https://science.slashdot.org/story/25/05/13/0057207/universe-expected-to-decay-much-sooner-than-previously-thought?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Universe Expected To Decay Much Sooner Than Previously Thought](https://science.slashdot.org/story/25/05/13/0057207/universe-expected-to-decay-much-sooner-than-previously-thought?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-13, 05:30:00](https://news.slashdot.org/story/25/05/12/2033217/creatives-demand-ai-comes-clean-on-what-its-scraping?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Creatives Demand AI Comes Clean On What It's Scraping](https://news.slashdot.org/story/25/05/12/2033217/creatives-demand-ai-comes-clean-on-what-its-scraping?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-13, 03:30:00](https://tech.slashdot.org/story/25/05/12/2112256/reddit-turns-20?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Turns 20](https://tech.slashdot.org/story/25/05/12/2112256/reddit-turns-20?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-13, 01:25:00](https://developers.slashdot.org/story/25/05/12/225206/google-developing-software-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Developing Software AI Agent](https://developers.slashdot.org/story/25/05/12/225206/google-developing-software-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
