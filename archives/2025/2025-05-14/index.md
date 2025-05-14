@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 16:55:00](https://it.slashdot.org/story/25/05/14/1655244/rogue-communication-devices-found-in-chinese-solar-power-inverters?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rogue Communication Devices Found in Chinese Solar Power Inverters](https://it.slashdot.org/story/25/05/14/1655244/rogue-communication-devices-found-in-chinese-solar-power-inverters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-14, 16:18:00](https://entertainment.slashdot.org/story/25/05/14/1618216/hbo-maxes-out-on-rebranding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HBO Maxes Out on Rebranding](https://entertainment.slashdot.org/story/25/05/14/1618216/hbo-maxes-out-on-rebranding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-14, 15:21:00](https://games.slashdot.org/story/25/05/14/1440243/sony-considers-ps5-price-hikes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Considers PS5 Price Hikes](https://games.slashdot.org/story/25/05/14/1440243/sony-considers-ps5-price-hikes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-14, 14:40:00](https://slashdot.org/story/25/05/14/1428219/inflated-salaries-put-targets-on-workers-backs-as-market-cools?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inflated Salaries Put Targets on Workers' Backs as Market Cools](https://slashdot.org/story/25/05/14/1428219/inflated-salaries-put-targets-on-workers-backs-as-market-cools?utm_source=rss1.0mainlinkanon&utm_medium=feed)
