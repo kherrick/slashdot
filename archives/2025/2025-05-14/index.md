@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 18:30:00](https://slashdot.org/story/25/05/14/1830212/palantir-ceo-slams-europes-ai-ambitions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Palantir CEO Slams Europe's AI Ambitions](https://slashdot.org/story/25/05/14/1830212/palantir-ceo-slams-europes-ai-ambitions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-14, 17:30:00](https://yro.slashdot.org/story/25/05/14/1715234/judge-slams-lawyers-for-bogus-ai-generated-research?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Judge Slams Lawyers For 'Bogus AI-Generated Research'](https://yro.slashdot.org/story/25/05/14/1715234/judge-slams-lawyers-for-bogus-ai-generated-research?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-14, 16:55:00](https://it.slashdot.org/story/25/05/14/1655244/rogue-communication-devices-found-in-chinese-solar-power-inverters?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rogue Communication Devices Found in Chinese Solar Power Inverters](https://it.slashdot.org/story/25/05/14/1655244/rogue-communication-devices-found-in-chinese-solar-power-inverters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-14, 16:18:00](https://entertainment.slashdot.org/story/25/05/14/1618216/hbo-maxes-out-on-rebranding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HBO Maxes Out on Rebranding](https://entertainment.slashdot.org/story/25/05/14/1618216/hbo-maxes-out-on-rebranding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
