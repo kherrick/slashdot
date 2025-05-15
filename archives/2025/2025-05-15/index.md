@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 21:25:00](https://meta.slashdot.org/story/25/05/15/2022210/meta-delays-behemoth-ai-model-release?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Delays 'Behemoth' AI Model Release](https://meta.slashdot.org/story/25/05/15/2022210/meta-delays-behemoth-ai-model-release?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-15, 20:45:00](https://tech.slashdot.org/story/25/05/15/208221/google-restores-file-permissions-for-nexcloud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Restores File Permissions For Nexcloud](https://tech.slashdot.org/story/25/05/15/208221/google-restores-file-permissions-for-nexcloud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-15, 20:07:00](https://yro.slashdot.org/story/25/05/15/205236/telegram-bans-35-billion-black-markets-used-to-sell-stolen-data-launder-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Telegram Bans $35 Billion Black Markets Used To Sell Stolen Data, Launder Crypto](https://yro.slashdot.org/story/25/05/15/205236/telegram-bans-35-billion-black-markets-used-to-sell-stolen-data-launder-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-15, 19:03:00](https://tech.slashdot.org/story/25/05/15/193236/uber-expects-more-drivers-amid-robotaxi-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Uber Expects More Drivers Amid Robotaxi Push](https://tech.slashdot.org/story/25/05/15/193236/uber-expects-more-drivers-amid-robotaxi-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
