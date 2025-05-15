@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-15](index.md)
+
+* [2025-05-15, 01:25:00](https://slashdot.org/story/25/05/14/2245232/microsoft-cuts-off-access-to-bing-search-data-as-it-shifts-focus-to-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Cuts Off Access To Bing Search Data as It Shifts Focus To Chatbots](https://slashdot.org/story/25/05/14/2245232/microsoft-cuts-off-access-to-bing-search-data-as-it-shifts-focus-to-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-05-15, 00:45:00](https://it.slashdot.org/story/25/05/14/224205/aggressive-hackers-of-uk-retailers-are-now-targeting-us-stores-says-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Aggressive' Hackers of UK Retailers Are Now Targeting US Stores, Says Google](https://it.slashdot.org/story/25/05/14/224205/aggressive-hackers-of-uk-retailers-are-now-targeting-us-stores-says-google?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-05-15, 00:02:00](https://entertainment.slashdot.org/story/25/05/14/2125248/netflix-says-its-ad-tier-now-has-94-million-monthly-active-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Says Its Ad Tier Now Has 94 Million Monthly Active Users](https://entertainment.slashdot.org/story/25/05/14/2125248/netflix-says-its-ad-tier-now-has-94-million-monthly-active-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
