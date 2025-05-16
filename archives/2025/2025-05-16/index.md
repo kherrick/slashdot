@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-16](index.md)
+
+* [2025-05-16, 01:25:00](https://news.slashdot.org/story/25/05/15/2317224/youtube-crackdowns-on-ai-generated-fake-movie-trailers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Crackdowns on AI-Generated Fake Movie Trailers](https://news.slashdot.org/story/25/05/15/2317224/youtube-crackdowns-on-ai-generated-fake-movie-trailers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-05-16, 00:41:00](https://apple.slashdot.org/story/25/05/15/2327216/apple-keeps-fortnite-in-app-store-limbo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Keeps Fortnite in App Store Limbo](https://apple.slashdot.org/story/25/05/15/2327216/apple-keeps-fortnite-in-app-store-limbo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-05-16, 00:02:00](https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI: US Officials Targeted In Voice Deepfake Attacks Since April](https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon&utm_medium=feed)
