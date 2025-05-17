@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 21:34:00](https://hardware.slashdot.org/story/25/05/17/2032204/intel-struggles-to-reverse-amds-share-gains-in-x86-cpu-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Struggles To Reverse AMD's Share Gains In x86 CPU Market](https://hardware.slashdot.org/story/25/05/17/2032204/intel-struggles-to-reverse-amds-share-gains-in-x86-cpu-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-17, 20:34:00](https://slashdot.org/story/25/05/17/1925212/is-the-altruistic-openai-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is the Altruistic OpenAI Gone?](https://slashdot.org/story/25/05/17/1925212/is-the-altruistic-openai-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-17, 19:34:00](https://science.slashdot.org/story/25/05/17/1657219/researchers-finally-link-long-covid-brain-fog-to-inflammation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Finally Link Long Covid 'Brain Fog' to Inflammation](https://science.slashdot.org/story/25/05/17/1657219/researchers-finally-link-long-covid-brain-fog-to-inflammation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-17, 18:34:00](https://news.slashdot.org/story/25/05/17/0645218/the-most-promising-ways-to-destroy-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Most Promising Ways to Destroy 'Forever Chemicals'](https://news.slashdot.org/story/25/05/17/0645218/the-most-promising-ways-to-destroy-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
