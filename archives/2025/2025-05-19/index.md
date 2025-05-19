@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 20:50:00](https://slashdot.org/story/25/05/19/2033214/xais-grok-3-comes-to-microsoft-azure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [xAI's Grok 3 Comes To Microsoft Azure](https://slashdot.org/story/25/05/19/2033214/xais-grok-3-comes-to-microsoft-azure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-19, 20:10:00](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI is More Persuasive Than People in Online Debates](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-19, 19:30:00](https://news.slashdot.org/story/25/05/19/195203/european-green-investments-hold-billions-in-fossil-fuel-majors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [European 'Green' Investments Hold Billions in Fossil Fuel Majors](https://news.slashdot.org/story/25/05/19/195203/european-green-investments-hold-billions-in-fossil-fuel-majors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-19, 18:53:00](https://developers.slashdot.org/story/25/05/19/1853221/microsofts-edit-on-windows-is-a-new-command-line-text-editor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Edit on Windows is a New Command-Line Text Editor](https://developers.slashdot.org/story/25/05/19/1853221/microsofts-edit-on-windows-is-a-new-command-line-text-editor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
