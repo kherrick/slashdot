@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-19](index.md)
+
+* [2025-05-19, 00:06:00](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why We're Unlikely to Get Artificial General Intelligence Any Time Soon](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
