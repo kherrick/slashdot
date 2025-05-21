@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 16:44:00](https://tech.slashdot.org/story/25/05/21/1644208/windows-11-to-get-apple-style-app-continuity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 11 To Get Apple-Style App Continuity ](https://tech.slashdot.org/story/25/05/21/1644208/windows-11-to-get-apple-style-app-continuity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-21, 16:01:00](https://tech.slashdot.org/story/25/05/21/1527224/meta-targets-more-underperformers-in-mid-year-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Targets More 'Underperformers' in Mid-Year Reviews](https://tech.slashdot.org/story/25/05/21/1527224/meta-targets-more-underperformers-in-mid-year-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-21, 15:22:00](https://tech.slashdot.org/story/25/05/21/152229/googles-brin-i-made-a-lot-of-mistakes-with-google-glass?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Brin: 'I Made a Lot of Mistakes With Google Glass'](https://tech.slashdot.org/story/25/05/21/152229/googles-brin-i-made-a-lot-of-mistakes-with-google-glass?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-21, 14:45:00](https://slashdot.org/story/25/05/21/1439218/amazon-gives-refunds-for-years-old-returns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Gives Refunds for Years-Old Returns](https://slashdot.org/story/25/05/21/1439218/amazon-gives-refunds-for-years-old-returns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
