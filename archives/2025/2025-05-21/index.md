@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 15:22:00](https://tech.slashdot.org/story/25/05/21/152229/googles-brin-i-made-a-lot-of-mistakes-with-google-glass?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Brin: 'I Made a Lot of Mistakes With Google Glass'](https://tech.slashdot.org/story/25/05/21/152229/googles-brin-i-made-a-lot-of-mistakes-with-google-glass?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-21, 14:45:00](https://slashdot.org/story/25/05/21/1439218/amazon-gives-refunds-for-years-old-returns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Gives Refunds for Years-Old Returns](https://slashdot.org/story/25/05/21/1439218/amazon-gives-refunds-for-years-old-returns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-21, 14:10:00](https://games.slashdot.org/story/25/05/21/1410249/microsoft-blames-apple-for-xbox-mobile-store-delay?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Blames Apple for Xbox Mobile Store Delay](https://games.slashdot.org/story/25/05/21/1410249/microsoft-blames-apple-for-xbox-mobile-store-delay?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-21, 13:00:00](https://tech.slashdot.org/story/25/05/20/2253221/google-is-baking-gemini-ai-into-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Is Baking Gemini AI Into Chrome](https://tech.slashdot.org/story/25/05/20/2253221/google-is-baking-gemini-ai-into-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed)
