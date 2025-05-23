@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 16:40:00](https://developers.slashdot.org/story/25/05/23/134214/glitch-is-basically-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Glitch is Basically Shutting Down](https://developers.slashdot.org/story/25/05/23/134214/glitch-is-basically-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 16:00:00](https://science.slashdot.org/story/25/05/23/0936251/sharp-knives-reduce-onion-induced-tears-by-limiting-droplet-spray-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sharp Knives Reduce Onion-Induced Tears By Limiting Droplet Spray, Study Finds](https://science.slashdot.org/story/25/05/23/0936251/sharp-knives-reduce-onion-induced-tears-by-limiting-droplet-spray-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 15:20:00](https://slashdot.org/story/25/05/23/0959224/japan-and-the-birth-of-modern-shipbuilding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan and the Birth of Modern Shipbuilding](https://slashdot.org/story/25/05/23/0959224/japan-and-the-birth-of-modern-shipbuilding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 14:40:00](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vietnam Moves To Block Telegram App](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
