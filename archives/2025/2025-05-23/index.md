@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 22:40:00](https://mobile.slashdot.org/story/25/05/23/2028229/lidar-can-permanently-damage-your-phones-camera?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lidar Can Permanently Damage Your Phone's Camera](https://mobile.slashdot.org/story/25/05/23/2028229/lidar-can-permanently-damage-your-phones-camera?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 22:00:00](https://developers.slashdot.org/story/25/05/23/2018217/java-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Java Turns 30](https://developers.slashdot.org/story/25/05/23/2018217/java-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 21:20:00](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's AI Mode Is 'the Definition of Theft,' Publishers Say](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 20:40:00](https://news.slashdot.org/story/25/05/23/201256/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [College Board Keeps Apologizing For Screwing Up Digital SAT and AP Tests](https://news.slashdot.org/story/25/05/23/201256/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
