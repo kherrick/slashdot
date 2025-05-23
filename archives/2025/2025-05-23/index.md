@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 15:20:00](https://slashdot.org/story/25/05/23/0959224/japan-and-the-birth-of-modern-shipbuilding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan and the Birth of Modern Shipbuilding](https://slashdot.org/story/25/05/23/0959224/japan-and-the-birth-of-modern-shipbuilding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 14:40:00](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vietnam Moves To Block Telegram App](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 12:16:00](https://apple.slashdot.org/story/25/05/23/1216240/apple-faces-25-tariff-threat-unless-iphone-manufacturing-moves-to-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Faces 25% Tariff Threat Unless iPhone Manufacturing Moves To US](https://apple.slashdot.org/story/25/05/23/1216240/apple-faces-25-tariff-threat-unless-iphone-manufacturing-moves-to-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-23, 12:00:00](https://tech.slashdot.org/story/25/05/23/0926234/the-technology-revolution-is-leaving-europe-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Technology Revolution is Leaving Europe Behind](https://tech.slashdot.org/story/25/05/23/0926234/the-technology-revolution-is-leaving-europe-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed)
