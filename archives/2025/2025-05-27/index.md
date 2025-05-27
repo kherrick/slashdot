@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 14:40:00](https://entertainment.slashdot.org/story/25/05/27/1352205/everybodys-mad-about-uno?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Everybody's Mad About Uno](https://entertainment.slashdot.org/story/25/05/27/1352205/everybodys-mad-about-uno?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-27, 14:02:00](https://it.slashdot.org/story/25/05/27/141246/browser-company-abandons-arc-for-ai-powered-successor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Browser Company Abandons Arc for AI-Powered Successor](https://it.slashdot.org/story/25/05/27/141246/browser-company-abandons-arc-for-ai-powered-successor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-27, 12:07:00](https://apple.slashdot.org/story/25/05/27/127201/25-iphone-tariff-insufficient-to-drive-us-production-shift-morgan-stanley-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [25% iPhone Tariff Insufficient To Drive US Production Shift, Morgan Stanley Says](https://apple.slashdot.org/story/25/05/27/127201/25-iphone-tariff-insufficient-to-drive-us-production-shift-morgan-stanley-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-05-27, 10:00:00](https://science.slashdot.org/story/25/05/27/0920239/what-do-people-want?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Do People Want?](https://science.slashdot.org/story/25/05/27/0920239/what-do-people-want?utm_source=rss1.0mainlinkanon&utm_medium=feed)
