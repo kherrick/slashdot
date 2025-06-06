@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 01:40:00](https://games.slashdot.org/story/25/06/05/2330221/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nintendo Warns Switch 2 GameChat Users: 'Your Chat Is Recorded'](https://games.slashdot.org/story/25/06/05/2330221/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-06-06, 01:00:00](https://news.slashdot.org/story/25/06/05/2316255/uk-tech-job-openings-climb-21-to-pre-pandemic-highs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Tech Job Openings Climb 21% To Pre-Pandemic Highs](https://news.slashdot.org/story/25/06/05/2316255/uk-tech-job-openings-climb-21-to-pre-pandemic-highs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-06, 00:20:00](https://hardware.slashdot.org/story/25/06/05/2311240/intel-new-products-must-deliver-50-gross-profit-to-get-the-green-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel: New Products Must Deliver 50% Gross Profit To Get the Green Light](https://hardware.slashdot.org/story/25/06/05/2311240/intel-new-products-must-deliver-50-gross-profit-to-get-the-green-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)
