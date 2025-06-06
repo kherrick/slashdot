@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 23:10:00](https://apple.slashdot.org/story/25/06/06/2147236/what-to-expect-from-apples-wwdc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What To Expect From Apple's WWDC](https://apple.slashdot.org/story/25/06/06/2147236/what-to-expect-from-apples-wwdc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-06, 22:30:00](https://tech.slashdot.org/story/25/06/06/2059235/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Top Researchers Leave Intel To Build Startup With 'The Biggest, Baddest CPU'](https://tech.slashdot.org/story/25/06/06/2059235/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-06, 21:50:00](https://it.slashdot.org/story/25/06/06/2049204/lawmakers-vote-to-stop-nypds-attempt-to-encrypt-their-radios?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lawmakers Vote To Stop NYPD's Attempt To Encrypt Their Radios](https://it.slashdot.org/story/25/06/06/2049204/lawmakers-vote-to-stop-nypds-attempt-to-encrypt-their-radios?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-06, 21:10:00](https://news.slashdot.org/story/25/06/06/2041236/uk-exploring-plan-for-digital-id-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK 'Exploring Plan For Digital ID Cards'](https://news.slashdot.org/story/25/06/06/2041236/uk-exploring-plan-for-digital-id-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
