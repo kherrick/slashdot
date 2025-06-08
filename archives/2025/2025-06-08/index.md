@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 03:34:00](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ACLU Accuses California Local Government's Drones of 'Runaway Spying Operation'](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-08, 01:34:00](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&utm_medium=feed)
