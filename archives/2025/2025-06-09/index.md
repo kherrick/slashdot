@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 21:20:00](https://apple.slashdot.org/story/25/06/09/1859253/apple-lets-developers-tap-into-its-offline-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Lets Developers Tap Into Its Offline AI Models](https://apple.slashdot.org/story/25/06/09/1859253/apple-lets-developers-tap-into-its-offline-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-09, 20:40:00](https://apple.slashdot.org/story/25/06/09/1854216/apple-unveils-a-dedicated-games-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Unveils a Dedicated Games App](https://apple.slashdot.org/story/25/06/09/1854216/apple-unveils-a-dedicated-games-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-09, 20:00:00](https://news.slashdot.org/story/25/06/09/1849202/china-shuts-down-ai-tools-during-nationwide-college-exams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Shuts Down AI Tools During Nationwide College Exams](https://news.slashdot.org/story/25/06/09/1849202/china-shuts-down-ai-tools-during-nationwide-college-exams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-09, 19:20:00](https://apple.slashdot.org/story/25/06/09/1843200/apple-finally-brings-mac-like-windowing-and-menu-bar-to-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Finally Brings Mac-like Windowing and Menu Bar To iPad](https://apple.slashdot.org/story/25/06/09/1843200/apple-finally-brings-mac-like-windowing-and-menu-bar-to-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
