@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 23:40:00](https://it.slashdot.org/story/25/06/10/2044217/trump-quietly-throws-out-bidens-cyber-policies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Quietly Throws Out Biden's Cyber Policies](https://it.slashdot.org/story/25/06/10/2044217/trump-quietly-throws-out-bidens-cyber-policies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-10, 23:00:00](https://tech.slashdot.org/story/25/06/10/2039202/40000-iot-cameras-worldwide-stream-secrets-to-anyone-with-a-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [40,000 IoT Cameras Worldwide Stream Secrets To Anyone With a Browser](https://tech.slashdot.org/story/25/06/10/2039202/40000-iot-cameras-worldwide-stream-secrets-to-anyone-with-a-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-10, 22:20:00](https://slashdot.org/story/25/06/10/2032225/starbucks-to-roll-out-microsoft-azure-openai-assistant-for-baristas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Starbucks To Roll Out Microsoft Azure OpenAI Assistant For Baristas](https://slashdot.org/story/25/06/10/2032225/starbucks-to-roll-out-microsoft-azure-openai-assistant-for-baristas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-10, 21:43:00](https://mobile.slashdot.org/story/25/06/10/2021249/android-16-is-here?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android 16 Is Here](https://mobile.slashdot.org/story/25/06/10/2021249/android-16-is-here?utm_source=rss1.0mainlinkanon&utm_medium=feed)
