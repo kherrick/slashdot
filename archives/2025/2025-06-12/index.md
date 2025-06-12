@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 23:30:00](https://news.slashdot.org/story/25/06/12/2221234/shopify-partners-with-coinbase-and-stripe-in-landmark-stablecoin-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Shopify Partners With Coinbase and Stripe In Landmark Stablecoin Deal](https://news.slashdot.org/story/25/06/12/2221234/shopify-partners-with-coinbase-and-stripe-in-landmark-stablecoin-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-12, 22:50:00](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Doubles Prime Video Ads to 6 Minutes Per Hour](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-12, 22:10:00](https://yro.slashdot.org/story/25/06/12/2044215/cisa-loses-another-senior-exec?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CISA Loses Another Senior Exec](https://yro.slashdot.org/story/25/06/12/2044215/cisa-loses-another-senior-exec?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-12, 21:30:00](https://hardware.slashdot.org/story/25/06/12/2037225/pci-express-70-specs-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PCI Express 7.0 Specs Released](https://hardware.slashdot.org/story/25/06/12/2037225/pci-express-70-specs-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
