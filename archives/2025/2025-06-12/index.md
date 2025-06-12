@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 22:50:00](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Doubles Prime Video Ads to 6 Minutes Per Hour](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-12, 22:10:00](https://yro.slashdot.org/story/25/06/12/2044215/cisa-loses-another-senior-exec?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CISA Loses Another Senior Exec](https://yro.slashdot.org/story/25/06/12/2044215/cisa-loses-another-senior-exec?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-12, 21:30:00](https://hardware.slashdot.org/story/25/06/12/2037225/pci-express-70-specs-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PCI Express 7.0 Specs Released](https://hardware.slashdot.org/story/25/06/12/2037225/pci-express-70-specs-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-12, 20:50:00](https://games.slashdot.org/story/25/06/12/2027249/microsoft-just-teased-its-next-gen-xbox-console-and-nobody-noticed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Just Teased Its Next-Gen Xbox Console, and Nobody Noticed](https://games.slashdot.org/story/25/06/12/2027249/microsoft-just-teased-its-next-gen-xbox-console-and-nobody-noticed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
