@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 16:00:00](https://it.slashdot.org/story/25/06/13/1538236/were-done-with-teams-german-state-hits-uninstall-on-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['We're Done With Teams': German State Hits Uninstall on Microsoft](https://it.slashdot.org/story/25/06/13/1538236/were-done-with-teams-german-state-hits-uninstall-on-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-13, 15:22:00](https://science.slashdot.org/story/25/06/13/152206/tiny-human-hearts-grown-in-pig-embryos-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tiny Human Hearts Grown in Pig Embryos For the First Time](https://science.slashdot.org/story/25/06/13/152206/tiny-human-hearts-grown-in-pig-embryos-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-13, 14:43:00](https://slashdot.org/story/25/06/13/1443216/salesforce-blocks-ai-rivals-from-using-slack-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Salesforce Blocks AI Rivals From Using Slack Data](https://slashdot.org/story/25/06/13/1443216/salesforce-blocks-ai-rivals-from-using-slack-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-13, 14:00:00](https://tech.slashdot.org/story/25/06/13/1359240/google-is-killing-android-instant-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google is Killing Android Instant Apps](https://tech.slashdot.org/story/25/06/13/1359240/google-is-killing-android-instant-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
