@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 02:30:00](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Invests $14.3 Billion in Scale AI](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-13, 01:37:00](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan Urged To Use Gloomier Population Forecasts After Plunge in Births](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-13, 00:10:00](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Previews New Import/Export Feature To Make Passkeys More Interoperable](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
