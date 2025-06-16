@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-16](index.md)
+
+* [2025-06-16, 01:34:00](https://it.slashdot.org/story/25/06/16/0047207/amazons-return-to-office-mandate-sparks-complaints-from-disabled-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon's Return-to-Office Mandate Sparks Complaints from Disabled Employees](https://it.slashdot.org/story/25/06/16/0047207/amazons-return-to-office-mandate-sparks-complaints-from-disabled-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
