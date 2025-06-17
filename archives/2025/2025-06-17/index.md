@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 16:12:00](https://slashdot.org/story/25/06/17/1612248/meetings-after-8-pm-are-on-the-rise-microsoft-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meetings After 8 p.m. Are On the Rise, Microsoft Study Finds](https://slashdot.org/story/25/06/17/1612248/meetings-after-8-pm-are-on-the-rise-microsoft-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-17, 15:25:00](https://news.slashdot.org/story/25/06/17/1520209/firefox-is-dead-to-me?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Firefox Is Dead To Me'](https://news.slashdot.org/story/25/06/17/1520209/firefox-is-dead-to-me?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-17, 14:45:00](https://slashdot.org/story/25/06/17/1432203/ai-use-at-work-nearly-doubles-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Use at Work Nearly Doubles in Two Years](https://slashdot.org/story/25/06/17/1432203/ai-use-at-work-nearly-doubles-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-17, 14:09:00](https://slashdot.org/story/25/06/17/149238/how-do-olympiad-medalists-judge-llms-in-competitive-programming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Do Olympiad Medalists Judge LLMs in Competitive Programming?](https://slashdot.org/story/25/06/17/149238/how-do-olympiad-medalists-judge-llms-in-competitive-programming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
