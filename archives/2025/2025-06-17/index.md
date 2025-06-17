@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 17:36:00](https://tech.slashdot.org/story/25/06/17/1736207/iran-bans-officials-from-using-internet-connected-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Iran Bans Officials From Using Internet-Connected Devices](https://tech.slashdot.org/story/25/06/17/1736207/iran-bans-officials-from-using-internet-connected-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-17, 16:50:00](https://slashdot.org/story/25/06/17/1646203/salesforce-announces-6-price-increase-as-it-pushes-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Salesforce Announces 6% Price Increase as It Pushes AI Features](https://slashdot.org/story/25/06/17/1646203/salesforce-announces-6-price-increase-as-it-pushes-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-17, 16:12:00](https://slashdot.org/story/25/06/17/1612248/meetings-after-8-pm-are-on-the-rise-microsoft-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meetings After 8 p.m. Are On the Rise, Microsoft Study Finds](https://slashdot.org/story/25/06/17/1612248/meetings-after-8-pm-are-on-the-rise-microsoft-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-17, 15:25:00](https://news.slashdot.org/story/25/06/17/1520209/firefox-is-dead-to-me?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Firefox Is Dead To Me'](https://news.slashdot.org/story/25/06/17/1520209/firefox-is-dead-to-me?utm_source=rss1.0mainlinkanon&utm_medium=feed)
