@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-18](index.md)
+
+* [2025-06-18, 00:10:00](https://news.slashdot.org/story/25/06/17/2123211/why-china-is-giving-away-its-tech-for-free?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why China is Giving Away Its Tech For Free](https://news.slashdot.org/story/25/06/17/2123211/why-china-is-giving-away-its-tech-for-free?utm_source=rss1.0mainlinkanon&utm_medium=feed)
