@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 18:40:00](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hackers Are Turning Tech Support Into a Threat](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-19, 18:00:00](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-19, 17:20:00](https://slashdot.org/story/25/06/19/165237/reasoning-llms-deliver-value-today-so-agi-hype-doesnt-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reasoning LLMs Deliver Value Today, So AGI Hype Doesn't Matter](https://slashdot.org/story/25/06/19/165237/reasoning-llms-deliver-value-today-so-agi-hype-doesnt-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-06-19, 16:40:00](https://apple.slashdot.org/story/25/06/19/084215/apple-software-chief-rejects-macos-on-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Software Chief Rejects macOS on iPad](https://apple.slashdot.org/story/25/06/19/084215/apple-software-chief-rejects-macos-on-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
