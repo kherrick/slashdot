@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-20](index.md)
+
+* [2025-06-20, 00:30:00](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MIT Chemical Engineers Develop New Way To Separate Crude Oil](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&utm_medium=feed)
