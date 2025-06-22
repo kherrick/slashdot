@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-22](index.md)
+
+* [2025-06-22, 01:34:00](https://tech.slashdot.org/story/25/06/22/0044222/why-your-cars-touchscreen-is-more-dangerous-than-your-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Your Car's Touchscreen Is More Dangerous Than Your Phone](https://tech.slashdot.org/story/25/06/22/0044222/why-your-cars-touchscreen-is-more-dangerous-than-your-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
