@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-24](index.md)
+
+* [2025-06-24, 01:25:00](https://games.slashdot.org/story/25/06/23/2356213/xbox-app-for-pc-now-integrates-your-steam-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Xbox App For PC Now Integrates Your Steam Games](https://games.slashdot.org/story/25/06/23/2356213/xbox-app-for-pc-now-integrates-your-steam-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-06-24, 00:45:00](https://tech.slashdot.org/story/25/06/23/2140208/microsoft-sets-new-60-day-limit-for-system-restore-points-in-windows-11-update?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Sets New 60-Day Limit For System Restore Points In Windows 11 Update](https://tech.slashdot.org/story/25/06/23/2140208/microsoft-sets-new-60-day-limit-for-system-restore-points-in-windows-11-update?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-06-24, 00:20:00](https://slashdot.org/story/25/06/23/2324250/hinge-ceo-says-dating-ai-chatbots-is-playing-with-fire?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hinge CEO Says Dating AI Chatbots Is 'Playing With Fire'](https://slashdot.org/story/25/06/23/2324250/hinge-ceo-says-dating-ai-chatbots-is-playing-with-fire?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-06-24, 00:02:00](https://news.slashdot.org/story/25/06/23/2054229/magic-lantern-software-for-canon-cameras-is-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Magic Lantern Software for Canon Cameras Is Back](https://news.slashdot.org/story/25/06/23/2054229/magic-lantern-software-for-canon-cameras-is-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
