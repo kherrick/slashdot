@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-07-02](index.md)
+
+* [2025-07-02, 00:02:00](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tinder To Require Facial Recognition Check For New Users In California](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed)
