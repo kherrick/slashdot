@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 21:00:00](https://games.slashdot.org/story/25/07/04/1718221/laid-off-workers-should-use-ai-to-manage-their-emotions-says-xbox-exec?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Laid-Off Workers Should Use AI To Manage Their Emotions, Says Xbox Exec](https://games.slashdot.org/story/25/07/04/1718221/laid-off-workers-should-use-ai-to-manage-their-emotions-says-xbox-exec?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-04, 20:00:00](https://tech.slashdot.org/story/25/07/04/1655206/windows-11-finally-overtakes-windows-10?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 11 Finally Overtakes Windows 10](https://tech.slashdot.org/story/25/07/04/1655206/windows-11-finally-overtakes-windows-10?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-04, 19:00:00](https://tech.slashdot.org/story/25/07/04/1852236/the-software-engineering-squeeze?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Software Engineering 'Squeeze'](https://tech.slashdot.org/story/25/07/04/1852236/the-software-engineering-squeeze?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-04, 18:00:00](https://news.slashdot.org/story/25/07/04/1548253/a-majority-of-companies-are-already-feeling-the-climate-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Majority of Companies Are Already Feeling the Climate Heat](https://news.slashdot.org/story/25/07/04/1548253/a-majority-of-companies-are-already-feeling-the-climate-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
