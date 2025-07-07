@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 18:15:00](https://entertainment.slashdot.org/story/25/07/07/184247/netflix-says-50-of-global-users-now-watch-anime?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Says 50% of Global Users Now Watch Anime](https://entertainment.slashdot.org/story/25/07/07/184247/netflix-says-50-of-global-users-now-watch-anime?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-07, 17:40:00](https://tech.slashdot.org/story/25/07/07/1740250/openai-says-it-has-no-plan-to-use-googles-in-house-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Says It Has No Plan To Use Google's In-house Chip](https://tech.slashdot.org/story/25/07/07/1740250/openai-says-it-has-no-plan-to-use-googles-in-house-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-07, 16:49:00](https://news.slashdot.org/story/25/07/07/1649218/eu-holds-back-on-signing-climate-action-pledge-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Holds Back on Signing Climate Action Pledge With China](https://news.slashdot.org/story/25/07/07/1649218/eu-holds-back-on-signing-climate-action-pledge-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-07, 16:01:00](https://news.slashdot.org/story/25/07/07/1555255/america-has-two-labor-markets-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America Has Two Labor Markets Now](https://news.slashdot.org/story/25/07/07/1555255/america-has-two-labor-markets-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
