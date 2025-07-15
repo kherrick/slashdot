@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 22:10:00](https://tech.slashdot.org/story/25/07/15/1956221/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [KDE's Android TV Alternative, Plasma Bigscreen, Rises From the Dead](https://tech.slashdot.org/story/25/07/15/1956221/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-15, 21:30:00](https://linux.slashdot.org/story/25/07/15/1932202/libreoffice-lands-built-in-support-for-bitcoin-as-currency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LibreOffice Lands Built-In Support For Bitcoin As Currency](https://linux.slashdot.org/story/25/07/15/1932202/libreoffice-lands-built-in-support-for-bitcoin-as-currency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-15, 20:50:00](https://yro.slashdot.org/story/25/07/15/206217/us-prosecutors-close-probe-into-polymarket-betting-website?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Prosecutors Close Probe Into Polymarket Betting Website](https://yro.slashdot.org/story/25/07/15/206217/us-prosecutors-close-probe-into-polymarket-betting-website?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-15, 20:10:00](https://tech.slashdot.org/story/25/07/15/1912208/blender-45-lts-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Blender 4.5 LTS Released](https://tech.slashdot.org/story/25/07/15/1912208/blender-45-lts-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
