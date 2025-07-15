@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-07-15](index.md)
+
+* [2025-07-15, 00:10:00](https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta's Superintelligence Lab Considers Shift To Closed AI Model](https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
