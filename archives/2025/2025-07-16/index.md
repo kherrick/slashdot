@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 19:30:00](https://slashdot.org/story/25/07/16/194217/the-geography-of-innovative-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Geography of Innovative Firms](https://slashdot.org/story/25/07/16/194217/the-geography-of-innovative-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-16, 18:50:00](https://it.slashdot.org/story/25/07/16/1850252/vmware-reboots-its-partner-program-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VMware Reboots Its Partner Program Again](https://it.slashdot.org/story/25/07/16/1850252/vmware-reboots-its-partner-program-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-16, 18:13:00](https://tech.slashdot.org/story/25/07/16/1813221/meta-uses-open-source-ai-to-design-greener-concrete-for-its-next-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Uses Open Source AI To Design Greener Concrete For Its Next Data Center](https://tech.slashdot.org/story/25/07/16/1813221/meta-uses-open-source-ai-to-design-greener-concrete-for-its-next-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-16, 17:32:00](https://tech.slashdot.org/story/25/07/16/1732222/googles-ai-can-now-make-phone-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's AI Can Now Make Phone Calls](https://tech.slashdot.org/story/25/07/16/1732222/googles-ai-can-now-make-phone-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
