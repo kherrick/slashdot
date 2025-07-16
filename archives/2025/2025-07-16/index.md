@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 17:32:00](https://tech.slashdot.org/story/25/07/16/1732222/googles-ai-can-now-make-phone-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's AI Can Now Make Phone Calls](https://tech.slashdot.org/story/25/07/16/1732222/googles-ai-can-now-make-phone-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-16, 16:40:00](https://slashdot.org/story/25/07/16/1634255/amazon-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Turns 30](https://slashdot.org/story/25/07/16/1634255/amazon-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-16, 16:05:00](https://yro.slashdot.org/story/25/07/16/165222/wetransfer-backtracks-on-terms-suggesting-user-files-could-train-ai-models-after-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [WeTransfer Backtracks on Terms Suggesting User Files Could Train AI Models After Backlash](https://yro.slashdot.org/story/25/07/16/165222/wetransfer-backtracks-on-terms-suggesting-user-files-could-train-ai-models-after-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-16, 15:22:00](https://tech.slashdot.org/story/25/07/16/1428240/stock-tracking-tokens-debut-with-price-chaos-amazon-token-spikes-100x?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stock-Tracking Tokens Debut With Price Chaos, Amazon Token Spikes 100x](https://tech.slashdot.org/story/25/07/16/1428240/stock-tracking-tokens-debut-with-price-chaos-amazon-token-spikes-100x?utm_source=rss1.0mainlinkanon&utm_medium=feed)
