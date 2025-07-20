@@ -1,6 +1,9 @@
-# [Slashdot](https://kherrick.github.io/slashdot/)
+# [Slashdot](../../../README.md)
 
-* [2025-07-20, 00:44:00](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-07-19](index.md)
+
 * [2025-07-19, 22:34:00](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [23andMe's Data Sold to Nonprofit Run by Its Co-Founder - 'And I Still Don't Trust It'](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-19, 21:34:00](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [In Shallow Water Ships Trigger Seafloor Methane Emissions, Study Finds](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-19, 20:34:00](https://news.slashdot.org/story/25/07/19/1934209/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android Phones Can Detect Earthquakes Before the Ground Starts Shaking](https://news.slashdot.org/story/25/07/19/1934209/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -15,10 +18,3 @@
 * [2025-07-19, 07:00:00](https://science.slashdot.org/story/25/07/18/2228201/largest-piece-of-mars-on-earth-fetches-53-million-at-auction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Largest Piece of Mars On Earth Fetches $5.3 Million At Auction](https://science.slashdot.org/story/25/07/18/2228201/largest-piece-of-mars-on-earth-fetches-53-million-at-auction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-19, 03:30:00](https://science.slashdot.org/story/25/07/18/2223220/scientists-make-magic-state-breakthrough-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Make 'Magic State' Breakthrough After 20 Years](https://science.slashdot.org/story/25/07/18/2223220/scientists-make-magic-state-breakthrough-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-19, 00:30:00](https://linux.slashdot.org/story/25/07/19/0016204/intel-kills-clear-linux-os-as-support-ends-without-warning?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Kills Clear Linux OS As Support Ends Without Warning](https://linux.slashdot.org/story/25/07/19/0016204/intel-kills-clear-linux-os-as-support-ends-without-warning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Archives](archives/index.md)
-
-* [2025](archives/2025/index.md)
-* [2024](archives/2024/index.md)
-* [2023](archives/2023/index.md)
-* [2022](archives/2022/index.md)
