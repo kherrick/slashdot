@@ -1,0 +1,3 @@
+# [Published on 2025-07-21](index.md)
+
+* [2025-07-21, 19:08:00](https://science.slashdot.org/story/25/07/21/198231/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Advanced Version of Gemini With Deep Think Officially Achieves Gold-Medal Standard at the International Mathematical Olympiad](https://science.slashdot.org/story/25/07/21/198231/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
