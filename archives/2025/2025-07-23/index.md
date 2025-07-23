@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 20:51:00](https://news.slashdot.org/story/25/07/23/204215/why-247-trading-is-a-bad-idea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why 24/7 Trading is a Bad Idea](https://news.slashdot.org/story/25/07/23/204215/why-247-trading-is-a-bad-idea?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-23, 20:10:00](https://tech.slashdot.org/story/25/07/23/1915209/power-cuts-cable-damage-and-government-shutdowns-behind-q2-internet-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Power Cuts, Cable Damage, and Government Shutdowns Behind Q2 Internet Outages](https://tech.slashdot.org/story/25/07/23/1915209/power-cuts-cable-damage-and-government-shutdowns-behind-q2-internet-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-23, 19:30:00](https://tech.slashdot.org/story/25/07/23/192212/war-on-hidden-motors-goes-undercover?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [War on Hidden Motors Goes Undercover](https://tech.slashdot.org/story/25/07/23/192212/war-on-hidden-motors-goes-undercover?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-07-23, 18:50:00](https://games.slashdot.org/story/25/07/23/1810221/sony-is-fighting-climate-change-by-scaling-back-ps5-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony is Fighting Climate Change By Scaling Back PS5 Performance](https://games.slashdot.org/story/25/07/23/1810221/sony-is-fighting-climate-change-by-scaling-back-ps5-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
