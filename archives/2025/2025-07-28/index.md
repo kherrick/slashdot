@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-07-28](index.md)
+
+* [2025-07-28, 01:39:00](https://games.slashdot.org/story/25/07/28/0057226/easy-ntsync-arrives-for-steam-users-with-ge-proton-1010?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Easy NTSYNC Arrives For Steam Users With GE-Proton 10.10](https://games.slashdot.org/story/25/07/28/0057226/easy-ntsync-arrives-for-steam-users-with-ge-proton-1010?utm_source=rss1.0mainlinkanon&utm_medium=feed)
