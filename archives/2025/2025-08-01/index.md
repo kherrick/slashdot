@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 20:02:00](https://apple.slashdot.org/story/25/08/01/191248/tim-cook-says-its-difficult-to-see-a-world-without-iphones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tim Cook Says 'It's Difficult To See a World' Without iPhones](https://apple.slashdot.org/story/25/08/01/191248/tim-cook-says-its-difficult-to-see-a-world-without-iphones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-01, 19:24:00](https://it.slashdot.org/story/25/08/01/1855254/belgium-bans-internet-archives-open-library?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Belgium Bans Internet Archive's 'Open Library'](https://it.slashdot.org/story/25/08/01/1855254/belgium-bans-internet-archives-open-library?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-01, 18:45:00](https://tech.slashdot.org/story/25/08/01/1845229/google-backpedals-on-googl-shutdown-to-preserve-active-links?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Backpedals On Goo.gl Shutdown To Preserve Active Links](https://tech.slashdot.org/story/25/08/01/1845229/google-backpedals-on-googl-shutdown-to-preserve-active-links?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-01, 18:06:00](https://slashdot.org/story/25/08/01/186206/verizon-is-upping-its-fees-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Verizon is Upping Its Fees Again](https://slashdot.org/story/25/08/01/186206/verizon-is-upping-its-fees-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
