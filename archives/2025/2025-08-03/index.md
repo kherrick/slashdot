@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 01:43:00](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fiverr Ad Mocks Vibe Coding - with a Singing Overripe Avocado](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-03, 00:36:00](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
