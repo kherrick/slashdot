@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-04](index.md)
+
+* [2025-08-04, 02:21:00](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Napster Inspired a Generation of Rule-Breaking Entrepreneurs](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-08-04, 00:51:00](https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['A Black Hole': America's New Graduates Discover a Dismal Job Market](https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
