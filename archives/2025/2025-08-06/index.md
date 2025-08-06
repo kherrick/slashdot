@@ -1,0 +1,9 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-06](index.md)
+
+* [2025-08-06, 01:25:00](https://tech.slashdot.org/story/25/08/05/2153232/perplexity-says-cloudflares-accusations-of-stealth-ai-scraping-are-based-on-embarrassing-errors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Perplexity Says Cloudflare's Accusations of 'Stealth' AI Scraping Are Based On Embarrassing Errors](https://tech.slashdot.org/story/25/08/05/2153232/perplexity-says-cloudflares-accusations-of-stealth-ai-scraping-are-based-on-embarrassing-errors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-08-06, 00:45:00](https://yro.slashdot.org/story/25/08/05/2144208/swedish-pm-under-fire-for-using-ai-in-role?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Swedish PM Under Fire For Using AI In Role](https://yro.slashdot.org/story/25/08/05/2144208/swedish-pm-under-fire-for-using-ai-in-role?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-08-06, 00:02:00](https://yro.slashdot.org/story/25/08/05/2130255/openai-offers-20-million-user-chats-in-chatgpt-lawsuit-nyt-wants-120-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Offers 20 Million User Chats In ChatGPT Lawsuit. NYT Wants 120 Million.](https://yro.slashdot.org/story/25/08/05/2130255/openai-offers-20-million-user-chats-in-chatgpt-lawsuit-nyt-wants-120-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
