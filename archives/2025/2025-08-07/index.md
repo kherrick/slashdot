@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 18:22:00](https://tech.slashdot.org/story/25/08/07/1822223/google-tvs-uncertain-future?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google TV's Uncertain Future](https://tech.slashdot.org/story/25/08/07/1822223/google-tvs-uncertain-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-07, 17:30:00](https://slashdot.org/story/25/08/07/1719223/openai-releases-gpt-5?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Releases GPT-5](https://slashdot.org/story/25/08/07/1719223/openai-releases-gpt-5?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-07, 16:50:00](https://news.slashdot.org/story/25/08/07/1637255/openai-pays-bonuses-ranging-up-to-millions-of-dollars-to-1000-researchers-engineers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Pays Bonuses Ranging Up To Millions of Dollars To 1,000 Researchers, Engineers](https://news.slashdot.org/story/25/08/07/1637255/openai-pays-bonuses-ranging-up-to-millions-of-dollars-to-1000-researchers-engineers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-07, 16:10:00](https://slashdot.org/story/25/08/07/1610201/chinas-solar-giants-quietly-shed-a-third-of-their-workforces-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://slashdot.org/story/25/08/07/1610201/chinas-solar-giants-quietly-shed-a-third-of-their-workforces-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
