@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-12](index.md)
+
+* [2025-08-12, 02:02:00](https://hardware.slashdot.org/story/25/08/11/2113213/jellyfish-swarm-forces-french-nuclear-plant-to-shut?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jellyfish Swarm Forces French Nuclear Plant To Shut](https://hardware.slashdot.org/story/25/08/11/2113213/jellyfish-swarm-forces-french-nuclear-plant-to-shut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-08-12, 00:30:00](https://yro.slashdot.org/story/25/08/11/2248200/the-dead-need-right-to-delete-their-data-so-they-cant-be-ai-ified-lawyer-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Dead Need Right To Delete Their Data So They Can't Be AI-ified, Lawyer Says](https://yro.slashdot.org/story/25/08/11/2248200/the-dead-need-right-to-delete-their-data-so-they-cant-be-ai-ified-lawyer-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
