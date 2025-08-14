@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 07:30:00](https://tech.slashdot.org/story/25/08/14/0226212/russia-restricts-calls-via-whatsapp-and-telegram?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia Restricts Calls Via WhatsApp and Telegram](https://tech.slashdot.org/story/25/08/14/0226212/russia-restricts-calls-via-whatsapp-and-telegram?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-14, 03:30:00](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Antidote For Carbon Monoxide Poisoning 'Cleans' Blood In Minutes](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-14, 00:10:00](https://tech.slashdot.org/story/25/08/13/2334249/how-the-unraveling-of-two-pentagon-projects-may-result-in-a-costly-do-over?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How the Unraveling of Two Pentagon Projects May Result In a Costly Do-Over](https://tech.slashdot.org/story/25/08/13/2334249/how-the-unraveling-of-two-pentagon-projects-may-result-in-a-costly-do-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
