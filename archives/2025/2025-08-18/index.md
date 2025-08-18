@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 18:01:00](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI 'Business Agents' Will Kill SaaS by 2030, Says Microsoft](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-18, 17:00:00](https://news.slashdot.org/story/25/08/18/1655234/gamblers-now-bet-on-ai-models-like-racehorses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gamblers Now Bet on AI Models Like Racehorses](https://news.slashdot.org/story/25/08/18/1655234/gamblers-now-bet-on-ai-models-like-racehorses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-18, 16:00:00](https://tech.slashdot.org/story/25/08/18/109237/linkedin-is-the-fakest-platform-of-them-all?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [LinkedIn Is the Fakest Platform of Them All](https://tech.slashdot.org/story/25/08/18/109237/linkedin-is-the-fakest-platform-of-them-all?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-18, 15:00:00](https://tech.slashdot.org/story/25/08/18/102226/the-one-feature-that-keeps-me-from-recommending-flip-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The One Feature That Keeps Me From Recommending Flip Phones'](https://tech.slashdot.org/story/25/08/18/102226/the-one-feature-that-keeps-me-from-recommending-flip-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
