@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 02:25:00](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's 'AI Overview' Pointed Him to a Customer Number.  It Was a Scam](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-18, 00:59:00](https://tech.slashdot.org/story/25/08/18/0055216/81m-trade-secrets-verdict-against-boeing-was-overturned---and-then-reinstated?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [$81M 'Trade Secrets' Verdict Against Boeing Was Overturned - and Then Reinstated](https://tech.slashdot.org/story/25/08/18/0055216/81m-trade-secrets-verdict-against-boeing-was-overturned---and-then-reinstated?utm_source=rss1.0mainlinkanon&utm_medium=feed)
