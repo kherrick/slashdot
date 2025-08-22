@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 21:00:00](https://news.slashdot.org/story/25/08/22/2029253/4chan-refuses-to-pay-uk-online-safety-act-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [4chan Refuses To Pay UK Online Safety Act Fines](https://news.slashdot.org/story/25/08/22/2029253/4chan-refuses-to-pay-uk-online-safety-act-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-22, 20:20:00](https://news.slashdot.org/story/25/08/22/2020223/workers-need-better-protections-from-the-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Workers Need Better Protections From the Heat](https://news.slashdot.org/story/25/08/22/2020223/workers-need-better-protections-from-the-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-22, 19:30:00](https://slashdot.org/story/25/08/22/1925255/europe-is-losing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Is Losing](https://slashdot.org/story/25/08/22/1925255/europe-is-losing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-22, 18:50:00](https://news.slashdot.org/story/25/08/22/1849210/intel-has-agreed-to-a-deal-for-us-to-take-10-equity-stake-trump-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Has Agreed To a Deal For US To Take 10% Equity Stake, Trump Says](https://news.slashdot.org/story/25/08/22/1849210/intel-has-agreed-to-a-deal-for-us-to-take-10-equity-stake-trump-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
