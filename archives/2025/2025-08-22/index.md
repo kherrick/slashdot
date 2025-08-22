@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 22:00:00](https://meta.slashdot.org/story/25/08/22/2043255/meta-signs-10-billion-cloud-deal-with-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Signs $10 Billion Cloud Deal With Google](https://meta.slashdot.org/story/25/08/22/2043255/meta-signs-10-billion-cloud-deal-with-google?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-22, 21:40:00](https://news.slashdot.org/story/25/08/22/2036256/record-solar-growth-keeps-chinas-co2-falling-in-first-half-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Record Solar Growth Keeps China's CO2 Falling in First Half of 2025](https://news.slashdot.org/story/25/08/22/2036256/record-solar-growth-keeps-chinas-co2-falling-in-first-half-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-22, 21:00:00](https://news.slashdot.org/story/25/08/22/2029253/4chan-refuses-to-pay-uk-online-safety-act-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [4chan Refuses To Pay UK Online Safety Act Fines](https://news.slashdot.org/story/25/08/22/2029253/4chan-refuses-to-pay-uk-online-safety-act-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-22, 20:20:00](https://news.slashdot.org/story/25/08/22/2020223/workers-need-better-protections-from-the-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Workers Need Better Protections From the Heat](https://news.slashdot.org/story/25/08/22/2020223/workers-need-better-protections-from-the-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
