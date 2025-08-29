@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-29](index.md)
+
+* [2025-08-29, 00:45:00](https://games.slashdot.org/story/25/08/28/1827215/microsoft-expands-xbox-cloud-gaming-to-cheaper-game-pass-tiers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Expands Xbox Cloud Gaming to Cheaper Game Pass Tiers](https://games.slashdot.org/story/25/08/28/1827215/microsoft-expands-xbox-cloud-gaming-to-cheaper-game-pass-tiers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-08-29, 00:02:00](https://tech.slashdot.org/story/25/08/28/2052249/stellantis-shelves-level-3-driver-assistance-program?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stellantis Shelves Level 3 Driver-Assistance Program](https://tech.slashdot.org/story/25/08/28/2052249/stellantis-shelves-level-3-driver-assistance-program?utm_source=rss1.0mainlinkanon&utm_medium=feed)
