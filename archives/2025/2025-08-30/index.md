@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 15:34:00](https://yro.slashdot.org/story/25/08/30/0618242/is-a-backlash-building-against-smart-glasses-that-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is a Backlash Building Against Smart Glasses That Record?](https://yro.slashdot.org/story/25/08/30/0618242/is-a-backlash-building-against-smart-glasses-that-record?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-30, 14:34:00](https://developers.slashdot.org/story/25/08/30/0314222/new-python-documentary-released-on-youtube?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Python Documentary Released On YouTube](https://developers.slashdot.org/story/25/08/30/0314222/new-python-documentary-released-on-youtube?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-30, 13:00:00](https://tech.slashdot.org/story/25/08/30/0038225/london-targets-noisy-commuters-with-headphone-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [London Targets Noisy Commuters With Headphone Campaign](https://tech.slashdot.org/story/25/08/30/0038225/london-targets-noisy-commuters-with-headphone-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-08-30, 10:00:00](https://slashdot.org/story/25/08/29/231249/alibaba-creates-ai-chip-to-help-china-fill-nvidia-void?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Alibaba Creates AI Chip To Help China Fill Nvidia Void](https://slashdot.org/story/25/08/29/231249/alibaba-creates-ai-chip-to-help-china-fill-nvidia-void?utm_source=rss1.0mainlinkanon&utm_medium=feed)
