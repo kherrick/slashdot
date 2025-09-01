@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 16:15:00](https://news.slashdot.org/story/25/09/01/1614253/americans-are-having-less-sex-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Americans Are Having Less Sex Than Ever](https://news.slashdot.org/story/25/09/01/1614253/americans-are-having-less-sex-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-01, 15:12:00](https://tech.slashdot.org/story/25/09/01/1512223/why-do-waymos-keep-loitering-in-front-of-my-house?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Why Do Waymos Keep Loitering in Front of My House?'](https://tech.slashdot.org/story/25/09/01/1512223/why-do-waymos-keep-loitering-in-front-of-my-house?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-01, 14:03:00](https://science.slashdot.org/story/25/09/01/143252/our-preoccupation-with-protein-intake?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Our Preoccupation With Protein Intake](https://science.slashdot.org/story/25/09/01/143252/our-preoccupation-with-protein-intake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-01, 11:34:00](https://it.slashdot.org/story/25/09/01/0413204/blizzards-diablo-devs-unionize-theres-now-3500-unionized-microsoft-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Blizzard's 'Diablo' Devs Unionize. There's Now 3,500 Unionized Microsoft Workers](https://it.slashdot.org/story/25/09/01/0413204/blizzards-diablo-devs-unionize-theres-now-3500-unionized-microsoft-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
