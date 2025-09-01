@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 18:18:00](https://slashdot.org/story/25/09/01/1818247/the-age-of-cheap-online-shopping-is-ending?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Age of Cheap Online Shopping is Ending](https://slashdot.org/story/25/09/01/1818247/the-age-of-cheap-online-shopping-is-ending?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-01, 17:15:00](https://it.slashdot.org/story/25/09/01/1621214/azure-budget-alerts-go-berserk-after-microsoft-account-migration-misfire?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Azure Budget Alerts Go Berserk After Microsoft Account Migration Misfire](https://it.slashdot.org/story/25/09/01/1621214/azure-budget-alerts-go-berserk-after-microsoft-account-migration-misfire?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-01, 16:15:00](https://news.slashdot.org/story/25/09/01/1614253/americans-are-having-less-sex-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Americans Are Having Less Sex Than Ever](https://news.slashdot.org/story/25/09/01/1614253/americans-are-having-less-sex-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-01, 15:12:00](https://tech.slashdot.org/story/25/09/01/1512223/why-do-waymos-keep-loitering-in-front-of-my-house?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Why Do Waymos Keep Loitering in Front of My House?'](https://tech.slashdot.org/story/25/09/01/1512223/why-do-waymos-keep-loitering-in-front-of-my-house?utm_source=rss1.0mainlinkanon&utm_medium=feed)
