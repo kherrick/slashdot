@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-04](index.md)
+
+* [2025-09-04, 00:02:00](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Switzerland Releases Open-Source AI Model Built For Privacy](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
