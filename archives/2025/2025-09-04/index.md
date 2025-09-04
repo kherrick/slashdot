@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 18:05:00](https://science.slashdot.org/story/25/09/04/1742218/ultra-processed-foods---its-time-for-an-improved-definition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ultra-Processed Foods - It's Time For an Improved Definition](https://science.slashdot.org/story/25/09/04/1742218/ultra-processed-foods---its-time-for-an-improved-definition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-04, 17:27:00](https://it.slashdot.org/story/25/09/04/1710210/nvidia-dominates-gpu-shipments-with-94-share?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Dominates GPU Shipments With 94% Share](https://it.slashdot.org/story/25/09/04/1710210/nvidia-dominates-gpu-shipments-with-94-share?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-04, 16:49:00](https://news.slashdot.org/story/25/09/04/1649210/microsofts-6502-basic-is-now-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's 6502 BASIC Is Now Open Source](https://news.slashdot.org/story/25/09/04/1649210/microsofts-6502-basic-is-now-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-04, 16:08:00](https://news.slashdot.org/story/25/09/04/168211/ai-not-affecting-job-market-much-so-far-new-york-fed-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Not Affecting Job Market Much So Far, New York Fed Says](https://news.slashdot.org/story/25/09/04/168211/ai-not-affecting-job-market-much-so-far-new-york-fed-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
