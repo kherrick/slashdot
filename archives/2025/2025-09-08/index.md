@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-08](index.md)
+
+* [2025-09-08, 11:34:00](https://developers.slashdot.org/story/25/09/08/0235251/some-angry-github-users-are-rebelling-against-githubs-forced-copilot-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Some Angry GitHub Users Are Rebelling Against GitHub's Forced Copilot AI Features](https://developers.slashdot.org/story/25/09/08/0235251/some-angry-github-users-are-rebelling-against-githubs-forced-copilot-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-09-08, 07:34:00](https://it.slashdot.org/story/25/09/08/0423228/theres-50-fewer-young-employees-at-tech-companies-now-than-two-years-ago?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [There's 50% Fewer Young Employees at Tech Companies Now Than Two Years Ago](https://it.slashdot.org/story/25/09/08/0423228/theres-50-fewer-young-employees-at-tech-companies-now-than-two-years-ago?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-09-08, 04:34:00](https://science.slashdot.org/story/25/09/08/0310211/a-new-four-person-crew-will-simulate-a-year-long-mars-mission-nasa-announces?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A New Four-Person Crew Will Simulate a Year-Long Mars Mission, NASA Announces](https://science.slashdot.org/story/25/09/08/0310211/a-new-four-person-crew-will-simulate-a-year-long-mars-mission-nasa-announces?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-09-08, 01:34:00](https://hardware.slashdot.org/story/25/09/08/0125250/microsofts-analog-optical-computer-shows-ai-promise?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Analog Optical Computer Shows AI Promise](https://hardware.slashdot.org/story/25/09/08/0125250/microsofts-analog-optical-computer-shows-ai-promise?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,9 +1,9 @@
-# [Slashdot](https://kherrick.github.io/slashdot/)
+# [Slashdot](../../../README.md)
 
-* [2025-09-08, 11:34:00](https://developers.slashdot.org/story/25/09/08/0235251/some-angry-github-users-are-rebelling-against-githubs-forced-copilot-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Some Angry GitHub Users Are Rebelling Against GitHub's Forced Copilot AI Features](https://developers.slashdot.org/story/25/09/08/0235251/some-angry-github-users-are-rebelling-against-githubs-forced-copilot-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-09-08, 07:34:00](https://it.slashdot.org/story/25/09/08/0423228/theres-50-fewer-young-employees-at-tech-companies-now-than-two-years-ago?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [There's 50% Fewer Young Employees at Tech Companies Now Than Two Years Ago](https://it.slashdot.org/story/25/09/08/0423228/theres-50-fewer-young-employees-at-tech-companies-now-than-two-years-ago?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-09-08, 04:34:00](https://science.slashdot.org/story/25/09/08/0310211/a-new-four-person-crew-will-simulate-a-year-long-mars-mission-nasa-announces?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A New Four-Person Crew Will Simulate a Year-Long Mars Mission, NASA Announces](https://science.slashdot.org/story/25/09/08/0310211/a-new-four-person-crew-will-simulate-a-year-long-mars-mission-nasa-announces?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-09-08, 01:34:00](https://hardware.slashdot.org/story/25/09/08/0125250/microsofts-analog-optical-computer-shows-ai-promise?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Analog Optical Computer Shows AI Promise](https://hardware.slashdot.org/story/25/09/08/0125250/microsofts-analog-optical-computer-shows-ai-promise?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-07](index.md)
+
 * [2025-09-07, 21:57:00](https://tech.slashdot.org/story/25/09/07/2149212/microsofts-cloud-services-disrupted-by-red-sea-cable-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Cloud Services Disrupted by Red Sea Cable Cuts ](https://tech.slashdot.org/story/25/09/07/2149212/microsofts-cloud-services-disrupted-by-red-sea-cable-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-07, 20:34:00](https://yro.slashdot.org/story/25/09/07/1944229/chinese-hackers-impersonated-us-lawmaker-in-email-espionage-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chinese Hackers Impersonated US Lawmaker in Email Espionage Campaign](https://yro.slashdot.org/story/25/09/07/1944229/chinese-hackers-impersonated-us-lawmaker-in-email-espionage-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-07, 19:34:00](https://news.slashdot.org/story/25/09/07/184203/publishers-demand-ai-overview-traffic-stats-from-google-alleging-forced-deals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Publishers Demand 'AI Overview' Traffic Stats from Google, Alleging 'Forced' Deals](https://news.slashdot.org/story/25/09/07/184203/publishers-demand-ai-overview-traffic-stats-from-google-alleging-forced-deals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -15,10 +15,3 @@
 * [2025-09-07, 11:34:00](https://science.slashdot.org/story/25/09/06/1922218/switching-off-one-crucial-protein-appears-to-reverse-brain-aging-in-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Switching Off One Crucial Protein Appears to Reverse Brain Aging in Mice](https://science.slashdot.org/story/25/09/06/1922218/switching-off-one-crucial-protein-appears-to-reverse-brain-aging-in-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-07, 08:08:00](https://it.slashdot.org/story/25/09/07/054212/first-ai-powered-self-composing-ransomware-was-actually-just-a-university-research-project?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First AI-Powered 'Self-Composing' Ransomware Was Actually Just a University Research Project](https://it.slashdot.org/story/25/09/07/054212/first-ai-powered-self-composing-ransomware-was-actually-just-a-university-research-project?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-07, 04:53:00](https://hardware.slashdot.org/story/25/09/07/0153219/how-close-are-we-to-humanoid-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Close Are We to Humanoid Robots?](https://hardware.slashdot.org/story/25/09/07/0153219/how-close-are-we-to-humanoid-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Archives](archives/index.md)
-
-* [2025](archives/2025/index.md)
-* [2024](archives/2024/index.md)
-* [2023](archives/2023/index.md)
-* [2022](archives/2022/index.md)
