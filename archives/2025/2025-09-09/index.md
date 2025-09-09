@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 17:21:00](https://it.slashdot.org/story/25/09/09/177221/microsoft-forces-workers-back-to-the-office?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Forces Workers Back To the Office](https://it.slashdot.org/story/25/09/09/177221/microsoft-forces-workers-back-to-the-office?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-09, 16:40:00](https://news.slashdot.org/story/25/09/09/1535229/the-renewed-bid-to-end-quarterly-earnings-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Renewed Bid To End Quarterly Earnings Reports](https://news.slashdot.org/story/25/09/09/1535229/the-renewed-bid-to-end-quarterly-earnings-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-09, 16:01:00](https://news.slashdot.org/story/25/09/09/1513203/us-created-911000-fewer-jobs-than-previously-thought-in-the-12-months-through-march?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Created 911,000 Fewer Jobs Than Previously Thought in the 12 Months Through March](https://news.slashdot.org/story/25/09/09/1513203/us-created-911000-fewer-jobs-than-previously-thought-in-the-12-months-through-march?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-09, 15:20:00](https://slashdot.org/story/25/09/09/1126247/no-alpha-left-in-public-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [No Alpha Left in Public Markets](https://slashdot.org/story/25/09/09/1126247/no-alpha-left-in-public-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
