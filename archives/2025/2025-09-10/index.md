@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 18:12:00](https://apple.slashdot.org/story/25/09/10/1812206/iphones-17-and-the-sugar-water-trap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iPhones 17 and the Sugar Water Trap](https://apple.slashdot.org/story/25/09/10/1812206/iphones-17-and-the-sugar-water-trap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-10, 17:25:00](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Narrative Podcasts Are Disappearing](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-10, 16:51:00](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Says Mars Rover Discovered Potential Biosignature Last Year](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-10, 16:12:00](https://it.slashdot.org/story/25/09/10/1612256/a-3-billion-error-draws-apology-from-south-africa-energy-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A $3 Billion Error Draws Apology From South Africa Energy Agency](https://it.slashdot.org/story/25/09/10/1612256/a-3-billion-error-draws-apology-from-south-africa-energy-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
