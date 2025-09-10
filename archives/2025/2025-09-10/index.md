@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 19:30:00](https://news.slashdot.org/story/25/09/10/1915206/faa-warns-airlines-about-lithium-battery-dangers-after-50-incidents-this-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FAA Warns Airlines About Lithium Battery Dangers After 50 Incidents This Year](https://news.slashdot.org/story/25/09/10/1915206/faa-warns-airlines-about-lithium-battery-dangers-after-50-incidents-this-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-10, 18:53:00](https://news.slashdot.org/story/25/09/10/1853252/bending-spoons-buys-video-platform-vimeo-for-138-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bending Spoons Buys Video Platform Vimeo for $1.38 Billion](https://news.slashdot.org/story/25/09/10/1853252/bending-spoons-buys-video-platform-vimeo-for-138-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-10, 18:12:00](https://apple.slashdot.org/story/25/09/10/1812206/iphones-17-and-the-sugar-water-trap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iPhones 17 and the Sugar Water Trap](https://apple.slashdot.org/story/25/09/10/1812206/iphones-17-and-the-sugar-water-trap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-10, 17:25:00](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Narrative Podcasts Are Disappearing](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
