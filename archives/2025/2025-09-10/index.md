@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-10](index.md)
+
+* [2025-09-10, 00:02:00](https://yro.slashdot.org/story/25/09/09/2129252/hhs-asks-all-employees-to-start-using-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HHS Asks All Employees To Start Using ChatGPT](https://yro.slashdot.org/story/25/09/09/2129252/hhs-asks-all-employees-to-start-using-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
