@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 17:23:00](https://news.slashdot.org/story/25/09/16/1722223/perceived-importance-of-college-hits-new-low?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Perceived Importance of College Hits New Low](https://news.slashdot.org/story/25/09/16/1722223/perceived-importance-of-college-hits-new-low?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-16, 16:40:00](https://slashdot.org/story/25/09/16/1519202/apollo-explores-sale-of-internet-pioneer-aol?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apollo Explores Sale of Internet Pioneer AOL](https://slashdot.org/story/25/09/16/1519202/apollo-explores-sale-of-internet-pioneer-aol?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-16, 16:01:00](https://slashdot.org/story/25/09/16/0842248/zoom-ceo-latest-executive-to-forecast-shortened-workweeks-from-ai-adoption?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zoom CEO Latest Executive To Forecast Shortened Workweeks From AI Adoption](https://slashdot.org/story/25/09/16/0842248/zoom-ceo-latest-executive-to-forecast-shortened-workweeks-from-ai-adoption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-16, 15:21:00](https://news.slashdot.org/story/25/09/16/0813250/mbas-cost-more-and-are-less-profitable-as-roi-falls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [MBAs Cost More and Are Less Profitable as ROI Falls](https://news.slashdot.org/story/25/09/16/0813250/mbas-cost-more-and-are-less-profitable-as-roi-falls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
