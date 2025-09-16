@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 14:40:00](https://apple.slashdot.org/story/25/09/16/0629209/the-mac-app-flea-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Mac App Flea Market](https://apple.slashdot.org/story/25/09/16/0629209/the-mac-app-flea-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-16, 14:00:00](https://slashdot.org/story/25/09/16/0619228/an-unresponsive-public-is-undermining-government-economic-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An Unresponsive Public Is Undermining Government Economic Data](https://slashdot.org/story/25/09/16/0619228/an-unresponsive-public-is-undermining-government-economic-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-16, 13:00:00](https://yro.slashdot.org/story/25/09/16/000202/google-releases-vaultgemma-its-first-privacy-preserving-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Releases VaultGemma, Its First Privacy-Preserving LLM](https://yro.slashdot.org/story/25/09/16/000202/google-releases-vaultgemma-its-first-privacy-preserving-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-16, 10:00:00](https://yro.slashdot.org/story/25/09/16/007218/uks-mi5-unlawfully-obtained-data-from-former-bbc-journalist?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK's MI5 'Unlawfully' Obtained Data From Former BBC Journalist](https://yro.slashdot.org/story/25/09/16/007218/uks-mi5-unlawfully-obtained-data-from-former-bbc-journalist?utm_source=rss1.0mainlinkanon&utm_medium=feed)
