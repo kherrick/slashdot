@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 03:44:00](https://tech.slashdot.org/story/25/09/21/0056225/pirg-other-groups-criticize-microsofts-plan-to-discontinue-support-for-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PIRG, Other Groups Criticize Microsoft's Plan to Discontinue Support for Windows 11](https://tech.slashdot.org/story/25/09/21/0056225/pirg-other-groups-criticize-microsofts-plan-to-discontinue-support-for-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-09-21, 01:34:00](https://news.slashdot.org/story/25/09/20/029249/google-temporarily-pauses-ai-powered-homework-helper-button-in-chrome-over-cheating-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Temporarily Pauses AI-Powered 'Homework Helper' Button in Chrome Over Cheating Concerns](https://news.slashdot.org/story/25/09/20/029249/google-temporarily-pauses-ai-powered-homework-helper-button-in-chrome-over-cheating-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
