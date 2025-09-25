@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-25](index.md)
+
+* [2025-09-25, 01:30:00](https://apple.slashdot.org/story/25/09/24/2141256/intel-approaches-apple-for-potential-investment-amid-struggles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Approaches Apple For Potential Investment Amid Struggles](https://apple.slashdot.org/story/25/09/24/2141256/intel-approaches-apple-for-potential-investment-amid-struggles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-09-25, 01:10:00](https://hardware.slashdot.org/story/25/09/24/2113246/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qualcomm Announces Snapdragon X2 Elite and Extreme For Windows PCs](https://hardware.slashdot.org/story/25/09/24/2113246/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-09-25, 00:50:00](https://news.slashdot.org/story/25/09/24/2034203/neon-pays-users-to-record-their-phone-calls-sell-data-to-ai-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Neon Pays Users To Record Their Phone Calls, Sell Data To AI Firms](https://news.slashdot.org/story/25/09/24/2034203/neon-pays-users-to-record-their-phone-calls-sell-data-to-ai-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-09-25, 00:10:00](https://it.slashdot.org/story/25/09/24/2022232/broadcoms-prohibitive-vmware-prices-create-a-learning-barrier-it-pro-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Broadcom's Prohibitive VMware Prices Create a Learning 'Barrier,' IT Pro Says](https://it.slashdot.org/story/25/09/24/2022232/broadcoms-prohibitive-vmware-prices-create-a-learning-barrier-it-pro-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
