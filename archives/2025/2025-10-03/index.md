@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-03](index.md)
+
+* [2025-10-03, 00:02:00](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Zealand's Institute of IT Professionals Collapses](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
