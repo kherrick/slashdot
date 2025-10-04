@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 19:19:00](https://news.slashdot.org/story/25/10/04/1854250/the-free-software-foundation-is-livestreaming-its-40th-anniversary-celebration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Free Software Foundation is Livestreaming Its 40th Anniversary Celebration](https://news.slashdot.org/story/25/10/04/1854250/the-free-software-foundation-is-livestreaming-its-40th-anniversary-celebration?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-04, 18:49:00](https://science.slashdot.org/story/25/10/04/0427230/why-do-women-outlive-men-a-study-of-1176-species-points-to-an-answer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Do Women Outlive Men?  A Study of 1,176 Species Points to an Answer](https://science.slashdot.org/story/25/10/04/0427230/why-do-women-outlive-men-a-study-of-1176-species-points-to-an-answer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-04, 17:49:00](https://news.slashdot.org/story/25/10/04/1746211/the-school-that-replaces-teachers-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The School That Replaces Teachers With AI](https://news.slashdot.org/story/25/10/04/1746211/the-school-that-replaces-teachers-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-04, 17:49:00](https://news.slashdot.org/story/25/10/04/1746211/class-dismissed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Class Dismissed](https://news.slashdot.org/story/25/10/04/1746211/class-dismissed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
