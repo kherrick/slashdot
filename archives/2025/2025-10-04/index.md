@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 17:49:00](https://news.slashdot.org/story/25/10/04/1746211/the-school-that-replaces-teachers-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The School That Replaces Teachers With AI](https://news.slashdot.org/story/25/10/04/1746211/the-school-that-replaces-teachers-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-04, 17:49:00](https://news.slashdot.org/story/25/10/04/1746211/class-dismissed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Class Dismissed](https://news.slashdot.org/story/25/10/04/1746211/class-dismissed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-04, 16:34:00](https://hardware.slashdot.org/story/25/10/04/0257229/cnn-warns-food-delivery-robots-are-not-our-friends?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CNN Warns Food Delivery Robots 'Are Not Our Friends'](https://hardware.slashdot.org/story/25/10/04/0257229/cnn-warns-food-delivery-robots-are-not-our-friends?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-04, 15:34:00](https://science.slashdot.org/story/25/10/04/0729235/scientists-grow-mini-human-brains-to-power-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Grow Mini Human Brains To Power Computers](https://science.slashdot.org/story/25/10/04/0729235/scientists-grow-mini-human-brains-to-power-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
