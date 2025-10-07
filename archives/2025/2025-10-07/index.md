@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-07](index.md)
+
+* [2025-10-07, 00:10:00](https://it.slashdot.org/story/25/10/06/222222/redis-warns-of-critical-flaw-impacting-thousands-of-instances?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Redis Warns of Critical Flaw Impacting Thousands of Instances](https://it.slashdot.org/story/25/10/06/222222/redis-warns-of-critical-flaw-impacting-thousands-of-instances?utm_source=rss1.0mainlinkanon&utm_medium=feed)
