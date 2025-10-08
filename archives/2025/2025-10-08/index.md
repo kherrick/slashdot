@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 14:00:00](https://entertainment.slashdot.org/story/25/10/08/0621226/tivo-exiting-legacy-dvr-business?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TiVo Exiting Legacy DVR Business](https://entertainment.slashdot.org/story/25/10/08/0621226/tivo-exiting-legacy-dvr-business?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-08, 13:00:00](https://hardware.slashdot.org/story/25/10/08/0339254/renewables-overtake-coal-as-worlds-biggest-source-of-electricity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Renewables Overtake Coal As World's Biggest Source of Electricity](https://hardware.slashdot.org/story/25/10/08/0339254/renewables-overtake-coal-as-worlds-biggest-source-of-electricity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-08, 10:00:00](https://science.slashdot.org/story/25/10/08/0331218/should-the-autism-spectrum-be-split-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Should the Autism Spectrum Be Split Apart?](https://science.slashdot.org/story/25/10/08/0331218/should-the-autism-spectrum-be-split-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-08, 07:00:00](https://games.slashdot.org/story/25/10/08/038230/wordle-game-show-in-the-works-at-nbc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Wordle Game Show In the Works At NBC](https://games.slashdot.org/story/25/10/08/038230/wordle-game-show-in-the-works-at-nbc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
