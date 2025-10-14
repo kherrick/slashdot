@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 22:40:00](https://slashdot.org/story/25/10/14/2048246/walmart-chatgpt-team-up-for-shopping?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Walmart, ChatGPT Team Up For Shopping](https://slashdot.org/story/25/10/14/2048246/walmart-chatgpt-team-up-for-shopping?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-14, 22:00:00](https://tech.slashdot.org/story/25/10/14/2043238/windows-10-support-ends-today?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 10 Support 'Ends' Today](https://tech.slashdot.org/story/25/10/14/2043238/windows-10-support-ends-today?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-14, 21:21:00](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Salesforce Says AI Customer Service Saves $100 Million Annually](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-14, 20:41:00](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DirecTV Will Soon Bring AI Ads To Your Screensaver](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&utm_medium=feed)
