@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 22:00:00](https://tech.slashdot.org/story/25/10/14/2043238/windows-10-support-ends-today?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Windows 10 Support 'Ends' Today](https://tech.slashdot.org/story/25/10/14/2043238/windows-10-support-ends-today?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-14, 21:21:00](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Salesforce Says AI Customer Service Saves $100 Million Annually](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-14, 20:41:00](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DirecTV Will Soon Bring AI Ads To Your Screensaver](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-14, 20:01:00](https://yro.slashdot.org/story/25/10/14/1542245/lawyer-caught-using-ai-while-explaining-to-court-why-he-used-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lawyer Caught Using AI While Explaining to Court Why He Used AI](https://yro.slashdot.org/story/25/10/14/1542245/lawyer-caught-using-ai-while-explaining-to-court-why-he-used-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
