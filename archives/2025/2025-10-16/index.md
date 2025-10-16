@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 18:50:00](https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fossil Fuels To Dominate Global Energy Use Past 2050, McKinsey Says](https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-16, 18:10:00](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Logitech Open To Adding an AI Agent To Board of Directors, CEO Says](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-16, 17:30:00](https://news.slashdot.org/story/25/10/16/1716226/imf-warns-about-soaring-global-government-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IMF Warns About Soaring Global Government Debt](https://news.slashdot.org/story/25/10/16/1716226/imf-warns-about-soaring-global-government-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-16, 16:55:00](https://news.slashdot.org/story/25/10/16/1656206/china-has-overtaken-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['China Has Overtaken America'](https://news.slashdot.org/story/25/10/16/1656206/china-has-overtaken-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
