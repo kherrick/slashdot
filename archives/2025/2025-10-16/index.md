@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 17:30:00](https://news.slashdot.org/story/25/10/16/1716226/imf-warns-about-soaring-global-government-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IMF Warns About Soaring Global Government Debt](https://news.slashdot.org/story/25/10/16/1716226/imf-warns-about-soaring-global-government-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-16, 16:55:00](https://news.slashdot.org/story/25/10/16/1656206/china-has-overtaken-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['China Has Overtaken America'](https://news.slashdot.org/story/25/10/16/1656206/china-has-overtaken-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-16, 16:10:00](https://news.slashdot.org/story/25/10/16/1551244/south-korea-abandons-ai-textbooks-after-four-month-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korea Abandons AI Textbooks After Four-Month Trial](https://news.slashdot.org/story/25/10/16/1551244/south-korea-abandons-ai-textbooks-after-four-month-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-16, 15:33:00](https://tech.slashdot.org/story/25/10/16/1533223/isps-object-as-california-lets-renters-opt-out-of-bulk-broadband-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ISPs Object as California Lets Renters Opt Out of Bulk Broadband Plans](https://tech.slashdot.org/story/25/10/16/1533223/isps-object-as-california-lets-renters-opt-out-of-bulk-broadband-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
