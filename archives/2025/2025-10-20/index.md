@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 23:40:00](https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chess Influencer and Grandmaster Daniel Naroditsky Dies At 29](https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-20, 23:20:00](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Florida Issues Criminal Subpoenas To Roblox Over Child Safety](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-20, 22:40:00](https://mobile.slashdot.org/story/25/10/20/212258/kohler-unveils-a-camera-for-your-toilet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Kohler Unveils a Camera For Your Toilet](https://mobile.slashdot.org/story/25/10/20/212258/kohler-unveils-a-camera-for-your-toilet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-20, 22:00:00](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Claude Code Gets a Web Version](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&utm_medium=feed)
