@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 19:25:00](https://tech.slashdot.org/story/25/10/20/1925216/google-to-let-superfans-test-in-development-pixel-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Let 'Superfans' Test In-Development Pixel Phones](https://tech.slashdot.org/story/25/10/20/1925216/google-to-let-superfans-test-in-development-pixel-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-20, 18:45:00](https://science.slashdot.org/story/25/10/20/1827201/openais-embarrassing-math?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI's 'Embarrassing' Math](https://science.slashdot.org/story/25/10/20/1827201/openais-embarrassing-math?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-20, 18:08:00](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Sims Mobile is Shutting Down Next Year](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-20, 17:31:00](https://slashdot.org/story/25/10/20/1731258/china-accuses-nsa-of-hacking-national-timekeeping-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Accuses NSA of Hacking National Timekeeping Agency](https://slashdot.org/story/25/10/20/1731258/china-accuses-nsa-of-hacking-national-timekeeping-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
