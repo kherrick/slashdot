@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 22:00:00](https://hardware.slashdot.org/story/25/10/22/1959251/samsung-galaxy-xr-is-the-first-android-xr-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Samsung Galaxy XR Is the First Android XR Headset](https://hardware.slashdot.org/story/25/10/22/1959251/samsung-galaxy-xr-is-the-first-android-xr-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-22, 21:20:00](https://news.slashdot.org/story/25/10/22/1952245/jaguar-land-rover-hack-cost-uk-economy-an-estimated-25-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jaguar Land Rover Hack Cost UK Economy an Estimated $2.5 Billion](https://news.slashdot.org/story/25/10/22/1952245/jaguar-land-rover-hack-cost-uk-economy-an-estimated-25-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-22, 20:44:00](https://news.slashdot.org/story/25/10/22/1936249/global-use-of-coal-hit-record-high-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Global Use of Coal Hit Record High in 2024](https://news.slashdot.org/story/25/10/22/1936249/global-use-of-coal-hit-record-high-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-22, 20:01:00](https://news.slashdot.org/story/25/10/22/192225/youtube-will-help-you-quit-watching-shorts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Will Help You Quit Watching Shorts](https://news.slashdot.org/story/25/10/22/192225/youtube-will-help-you-quit-watching-shorts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
