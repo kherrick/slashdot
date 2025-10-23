@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-23](index.md)
+
+* [2025-10-23, 00:02:00](https://hardware.slashdot.org/story/25/10/22/2022215/google-porting-all-internal-workloads-to-arm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Porting All Internal Workloads To Arm](https://hardware.slashdot.org/story/25/10/22/2022215/google-porting-all-internal-workloads-to-arm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
