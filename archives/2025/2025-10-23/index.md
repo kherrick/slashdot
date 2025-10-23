@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 19:20:00](https://yro.slashdot.org/story/25/10/23/190204/trump-pardons-binance-founder-changpeng-zhao?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Pardons Binance Founder Changpeng Zhao](https://yro.slashdot.org/story/25/10/23/190204/trump-pardons-binance-founder-changpeng-zhao?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-23, 18:41:00](https://slashdot.org/story/25/10/23/1734227/three-decades-after-clippy-microsoft-launches-mico?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Three Decades After Clippy, Microsoft Launches Mico](https://slashdot.org/story/25/10/23/1734227/three-decades-after-clippy-microsoft-launches-mico?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-23, 18:01:00](https://news.slashdot.org/story/25/10/23/1452218/mckinsey-says-bank-profits-face-possible-170-billion-ai-hit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [McKinsey Says Bank Profits Face Possible $170 Billion AI Hit](https://news.slashdot.org/story/25/10/23/1452218/mckinsey-says-bank-profits-face-possible-170-billion-ai-hit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-23, 17:21:00](https://news.slashdot.org/story/25/10/23/1445208/overshooting-15c-climate-target-inevitable-un-chief?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Overshooting 1.5C Climate Target 'Inevitable': UN Chief](https://news.slashdot.org/story/25/10/23/1445208/overshooting-15c-climate-target-inevitable-un-chief?utm_source=rss1.0mainlinkanon&utm_medium=feed)
