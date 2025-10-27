@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 23:30:00](https://apple.slashdot.org/story/25/10/27/2035221/apple-says-us-passport-digital-ids-are-coming-to-wallet-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Says US Passport Digital IDs Are Coming To Wallet 'Soon'](https://apple.slashdot.org/story/25/10/27/2035221/apple-says-us-passport-digital-ids-are-coming-to-wallet-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-27, 22:50:00](https://hardware.slashdot.org/story/25/10/27/2030204/qualcomm-announces-ai-chips-to-compete-with-amd-and-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qualcomm Announces AI Chips To Compete With AMD and Nvidia](https://hardware.slashdot.org/story/25/10/27/2030204/qualcomm-announces-ai-chips-to-compete-with-amd-and-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-27, 22:10:00](https://slashdot.org/story/25/10/27/2026202/real-estate-is-entering-its-ai-slop-era?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Real Estate Is Entering Its AI Slop Era](https://slashdot.org/story/25/10/27/2026202/real-estate-is-entering-its-ai-slop-era?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-27, 21:30:00](https://slashdot.org/story/25/10/27/181215/ai-sets-up-kodak-moment-for-global-consultants?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Sets Up Kodak Moment For Global Consultants'](https://slashdot.org/story/25/10/27/181215/ai-sets-up-kodak-moment-for-global-consultants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
