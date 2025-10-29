@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-29](index.md)
+
+* [2025-10-29, 00:50:00](https://news.slashdot.org/story/25/10/28/231256/ubuntu-unity-faces-possible-shutdown-as-team-member-cries-for-help?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ubuntu Unity Faces Possible Shutdown As Team Member Cries For Help](https://news.slashdot.org/story/25/10/28/231256/ubuntu-unity-faces-possible-shutdown-as-team-member-cries-for-help?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-10-29, 00:10:00](https://yro.slashdot.org/story/25/10/28/2113256/senators-announce-bill-that-would-ban-ai-chatbot-companions-for-minors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Senators Announce Bill That Would Ban AI Chatbot Companions For Minors](https://yro.slashdot.org/story/25/10/28/2113256/senators-announce-bill-that-would-ban-ai-chatbot-companions-for-minors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
