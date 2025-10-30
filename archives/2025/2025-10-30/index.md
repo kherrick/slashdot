@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 13:00:00](https://apple.slashdot.org/story/25/10/30/0242231/mother-describes-the-dark-side-of-apples-family-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mother Describes the Dark Side of Apple's Family Sharing](https://apple.slashdot.org/story/25/10/30/0242231/mother-describes-the-dark-side-of-apples-family-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-30, 10:00:00](https://tech.slashdot.org/story/25/10/30/0224216/alphabet-tops-100-billion-quarterly-revenue-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Alphabet Tops $100 Billion Quarterly Revenue For First Time](https://tech.slashdot.org/story/25/10/30/0224216/alphabet-tops-100-billion-quarterly-revenue-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-30, 07:00:00](https://science.slashdot.org/story/25/10/30/024222/alien-worlds-may-be-able-to-make-their-own-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Alien Worlds May Be Able To Make Their Own Water](https://science.slashdot.org/story/25/10/30/024222/alien-worlds-may-be-able-to-make-their-own-water?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-10-30, 03:30:00](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ex-Intel CEO's Mission To Build a Christian AI](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
