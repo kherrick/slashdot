@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 21:22:00](https://slashdot.org/story/25/11/07/1912220/states-seek-extension-of-ecommerce-tariff-moratorium-at-wto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [States Seek Extension of Ecommerce Tariff Moratorium at WTO](https://slashdot.org/story/25/11/07/1912220/states-seek-extension-of-ecommerce-tariff-moratorium-at-wto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 20:44:00](https://games.slashdot.org/story/25/11/07/1915245/nintendo-wont-shy-away-from-continuing-to-try-anything?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nintendo Won't Shy Away From Continuing To 'Try Anything'](https://games.slashdot.org/story/25/11/07/1915245/nintendo-wont-shy-away-from-continuing-to-try-anything?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 20:00:00](https://news.slashdot.org/story/25/11/07/1934227/direct-file-wont-happen-in-2026-irs-tells-states?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Direct File Won't Happen in 2026, IRS Tells States](https://news.slashdot.org/story/25/11/07/1934227/direct-file-wont-happen-in-2026-irs-tells-states?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 19:25:00](https://games.slashdot.org/story/25/11/07/194204/video-games-hottest-new-platform-is-an-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Video Games' Hottest New Platform is an Old One](https://games.slashdot.org/story/25/11/07/194204/video-games-hottest-new-platform-is-an-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed)
