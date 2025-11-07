@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 20:00:00](https://news.slashdot.org/story/25/11/07/1934227/direct-file-wont-happen-in-2026-irs-tells-states?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Direct File Won't Happen in 2026, IRS Tells States](https://news.slashdot.org/story/25/11/07/1934227/direct-file-wont-happen-in-2026-irs-tells-states?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 19:25:00](https://games.slashdot.org/story/25/11/07/194204/video-games-hottest-new-platform-is-an-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Video Games' Hottest New Platform is an Old One](https://games.slashdot.org/story/25/11/07/194204/video-games-hottest-new-platform-is-an-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 18:45:00](https://apple.slashdot.org/story/25/11/07/1753228/macos-tahoes-terrible-icons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [macOS Tahoe's Terrible Icons](https://apple.slashdot.org/story/25/11/07/1753228/macos-tahoes-terrible-icons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 18:05:00](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As Brazil Cracks Down on Forest Clearing, Emissions Fall](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
