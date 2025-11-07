@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 18:45:00](https://apple.slashdot.org/story/25/11/07/1753228/macos-tahoes-terrible-icons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [macOS Tahoe's Terrible Icons](https://apple.slashdot.org/story/25/11/07/1753228/macos-tahoes-terrible-icons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 18:05:00](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As Brazil Cracks Down on Forest Clearing, Emissions Fall](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 17:21:00](https://slashdot.org/story/25/11/07/1725230/corporate-profits-surge-as-companies-cut-nearly-1-million-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Corporate Profits Surge as Companies Cut Nearly 1 Million Jobs](https://slashdot.org/story/25/11/07/1725230/corporate-profits-surge-as-companies-cut-nearly-1-million-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-07, 16:49:00](https://slashdot.org/story/25/11/07/1649221/amazon-takes-low-cost-ecommerce-service-global?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Takes Low-Cost Ecommerce Service Global](https://slashdot.org/story/25/11/07/1649221/amazon-takes-low-cost-ecommerce-service-global?utm_source=rss1.0mainlinkanon&utm_medium=feed)
