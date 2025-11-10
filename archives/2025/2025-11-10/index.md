@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 18:59:00](https://slashdot.org/story/25/11/10/1859225/how-hr-took-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How HR Took Over the World](https://slashdot.org/story/25/11/10/1859225/how-hr-took-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-10, 18:10:00](https://science.slashdot.org/story/25/11/10/1755247/africa-finally-has-its-own-drug-regulation-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Africa Finally Has Its Own Drug-Regulation Agency](https://science.slashdot.org/story/25/11/10/1755247/africa-finally-has-its-own-drug-regulation-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-10, 17:30:00](https://entertainment.slashdot.org/story/25/11/10/1723223/the-algorithm-failed-music?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Algorithm Failed Music](https://entertainment.slashdot.org/story/25/11/10/1723223/the-algorithm-failed-music?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-10, 16:51:00](https://hardware.slashdot.org/story/25/11/10/1651245/data-centers-in-nvidias-hometown-stand-empty-awaiting-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Data Centers in Nvidia's Hometown Stand Empty Awaiting Power](https://hardware.slashdot.org/story/25/11/10/1651245/data-centers-in-nvidias-hometown-stand-empty-awaiting-power?utm_source=rss1.0mainlinkanon&utm_medium=feed)
