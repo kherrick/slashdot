@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-11-11](index.md)
+
+* [2025-11-11, 01:00:00](https://developers.slashdot.org/story/25/11/10/2250251/the-linux-kernel-looks-to-bite-the-bullet-in-enabling-microsoft-c-extensions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Linux Kernel Looks To 'Bite the Bullet' In Enabling Microsoft C Extensions](https://developers.slashdot.org/story/25/11/10/2250251/the-linux-kernel-looks-to-bite-the-bullet-in-enabling-microsoft-c-extensions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-11-11, 00:20:00](https://yro.slashdot.org/story/25/11/10/2237230/critics-call-proposed-changes-to-landmark-eu-privacy-law-death-by-a-thousand-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Critics Call Proposed Changes To Landmark EU Privacy Law 'Death By a Thousand Cuts'](https://yro.slashdot.org/story/25/11/10/2237230/critics-call-proposed-changes-to-landmark-eu-privacy-law-death-by-a-thousand-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
