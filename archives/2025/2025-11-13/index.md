@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 19:31:00](https://it.slashdot.org/story/25/11/13/1715248/chinese-hackers-used-anthropics-ai-to-automate-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chinese Hackers Used Anthropic's AI To Automate Cyberattacks](https://it.slashdot.org/story/25/11/13/1715248/chinese-hackers-used-anthropics-ai-to-automate-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-13, 18:51:00](https://news.slashdot.org/story/25/11/13/1712207/robinhood-offers-to-bring-cash-to-your-doorstep-for-a-fee?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Robinhood Offers To Bring Cash To Your Doorstep, for a Fee](https://news.slashdot.org/story/25/11/13/1712207/robinhood-offers-to-bring-cash-to-your-doorstep-for-a-fee?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-13, 18:07:00](https://tech.slashdot.org/story/25/11/13/186229/mozilla-launches-ai-window-for-firefox?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Launches AI Window for Firefox](https://tech.slashdot.org/story/25/11/13/186229/mozilla-launches-ai-window-for-firefox?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-13, 17:30:00](https://yro.slashdot.org/story/25/11/13/172239/proton-might-recycle-abandoned-email-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Proton Might Recycle Abandoned Email Addresses](https://yro.slashdot.org/story/25/11/13/172239/proton-might-recycle-abandoned-email-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
