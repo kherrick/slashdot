@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 16:51:00](https://tech.slashdot.org/story/25/11/13/1651220/verizon-to-cut-about-15000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Verizon To Cut About 15,000 Jobs](https://tech.slashdot.org/story/25/11/13/1651220/verizon-to-cut-about-15000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-13, 16:05:00](https://tech.slashdot.org/story/25/11/13/1549226/reddit-cofounder-had-a-bad-feeling-about-giving-data-to-sam-altman?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Cofounder Had a Bad Feeling About Giving Data To Sam Altman](https://tech.slashdot.org/story/25/11/13/1549226/reddit-cofounder-had-a-bad-feeling-about-giving-data-to-sam-altman?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-13, 15:29:00](https://news.slashdot.org/story/25/11/13/1529216/france-fully-lifts-travel-ban-on-telegram-founder-durov?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Fully Lifts Travel Ban on Telegram Founder Durov](https://news.slashdot.org/story/25/11/13/1529216/france-fully-lifts-travel-ban-on-telegram-founder-durov?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-13, 14:16:00](https://tech.slashdot.org/story/25/11/13/1446256/chinas-ev-market-is-imploding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's EV Market Is Imploding](https://tech.slashdot.org/story/25/11/13/1446256/chinas-ev-market-is-imploding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
