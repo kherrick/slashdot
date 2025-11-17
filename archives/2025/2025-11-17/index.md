@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 17:21:00](https://news.slashdot.org/story/25/11/17/1631207/uk-cyber-ransom-ban-risks-collapse-of-essential-services?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Cyber Ransom Ban Risks Collapse of Essential Services](https://news.slashdot.org/story/25/11/17/1631207/uk-cyber-ransom-ban-risks-collapse-of-essential-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-17, 16:41:00](https://tech.slashdot.org/story/25/11/17/1620236/global-web-freedoms-tumble?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Global Web Freedoms Tumble](https://tech.slashdot.org/story/25/11/17/1620236/global-web-freedoms-tumble?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-17, 16:04:00](https://slashdot.org/story/25/11/17/1541210/why-hotel-room-cancellations-disappeared?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Hotel-Room Cancellations Disappeared](https://slashdot.org/story/25/11/17/1541210/why-hotel-room-cancellations-disappeared?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-17, 15:20:00](https://tech.slashdot.org/story/25/11/17/1518202/anthropic-ceo-says-hes-deeply-uncomfortable-with-unelected-tech-elites-shaping-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic CEO Says He's 'Deeply Uncomfortable' With Unelected Tech Elites Shaping AI](https://tech.slashdot.org/story/25/11/17/1518202/anthropic-ceo-says-hes-deeply-uncomfortable-with-unelected-tech-elites-shaping-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
