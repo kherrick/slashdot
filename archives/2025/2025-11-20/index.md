@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 15:20:00](https://slashdot.org/story/25/11/20/1445202/verizon-cutting-more-than-13000-jobs-as-it-restructures?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Verizon Cutting More Than 13,000 Jobs As It Restructures](https://slashdot.org/story/25/11/20/1445202/verizon-cutting-more-than-13000-jobs-as-it-restructures?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-20, 14:40:00](https://slashdot.org/story/25/11/20/1441200/microsoft-exec-asks-why-arent-more-people-impressed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Exec Asks: Why Aren't More People Impressed With AI?](https://slashdot.org/story/25/11/20/1441200/microsoft-exec-asks-why-arent-more-people-impressed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-20, 14:01:00](https://slashdot.org/story/25/11/20/0733244/who-is-openais-auditor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Who is OpenAI's Auditor?](https://slashdot.org/story/25/11/20/0733244/who-is-openais-auditor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-20, 13:00:00](https://yro.slashdot.org/story/25/11/20/0034235/white-house-prepares-executive-order-to-block-state-ai-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [White House Prepares Executive Order To Block State AI Laws](https://yro.slashdot.org/story/25/11/20/0034235/white-house-prepares-executive-order-to-block-state-ai-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
