@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 16:46:00](https://entertainment.slashdot.org/story/25/11/20/1646232/disney-loses-bid-to-block-sling-tvs-one-day-cable-passes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney Loses Bid To Block Sling TV's One-Day Cable Passes](https://entertainment.slashdot.org/story/25/11/20/1646232/disney-loses-bid-to-block-sling-tvs-one-day-cable-passes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-20, 16:03:00](https://science.slashdot.org/story/25/11/20/163208/american-kids-cant-do-math-anymore?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [American Kids Can't Do Math Anymore](https://science.slashdot.org/story/25/11/20/163208/american-kids-cant-do-math-anymore?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-20, 15:20:00](https://slashdot.org/story/25/11/20/1445202/verizon-cutting-more-than-13000-jobs-as-it-restructures?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Verizon Cutting More Than 13,000 Jobs As It Restructures](https://slashdot.org/story/25/11/20/1445202/verizon-cutting-more-than-13000-jobs-as-it-restructures?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-20, 14:40:00](https://slashdot.org/story/25/11/20/1441200/microsoft-exec-asks-why-arent-more-people-impressed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Exec Asks: Why Aren't More People Impressed With AI?](https://slashdot.org/story/25/11/20/1441200/microsoft-exec-asks-why-arent-more-people-impressed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
