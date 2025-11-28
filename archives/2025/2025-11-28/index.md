@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 20:02:00](https://news.slashdot.org/story/25/11/28/1646244/singapore-takes-top-spot-in-global-talent-index?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Singapore Takes Top Spot in Global Talent Index](https://news.slashdot.org/story/25/11/28/1646244/singapore-takes-top-spot-in-global-talent-index?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-28, 19:00:00](https://slashdot.org/story/25/11/28/1712223/europe-fears-it-cant-catch-up-in-great-power-competition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Fears It Can't Catch Up in Great Power Competition](https://slashdot.org/story/25/11/28/1712223/europe-fears-it-cant-catch-up-in-great-power-competition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-28, 18:01:00](https://apple.slashdot.org/story/25/11/28/1531245/someone-is-trying-to-hack-people-through-apple-podcasts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Someone Is Trying To 'Hack' People Through Apple Podcasts](https://apple.slashdot.org/story/25/11/28/1531245/someone-is-trying-to-hack-people-through-apple-podcasts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-11-28, 17:01:00](https://entertainment.slashdot.org/story/25/11/28/1522252/australias-streaming-quotas-become-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Australia's Streaming Quotas Become Law](https://entertainment.slashdot.org/story/25/11/28/1522252/australias-streaming-quotas-become-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
