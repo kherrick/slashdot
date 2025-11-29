@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-11-29](index.md)
+
+* [2025-11-29, 02:02:00](https://science.slashdot.org/story/25/11/28/1721249/scientists-think-theyve-solved-why-one-of-historys-most-advanced-civilizations-vanished?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Think They've Solved Why One of History's Most Advanced Civilizations Vanished](https://science.slashdot.org/story/25/11/28/1721249/scientists-think-theyve-solved-why-one-of-historys-most-advanced-civilizations-vanished?utm_source=rss1.0mainlinkanon&utm_medium=feed)
