@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 20:02:00](https://tech.slashdot.org/story/25/12/01/1710222/a-windows-update-broke-login-button-and-microsofts-advice-is-to-click-where-it-used-to-be?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Windows Update Broke Login Button, and Microsoft's Advice is To Click Where It Used To Be](https://tech.slashdot.org/story/25/12/01/1710222/a-windows-update-broke-login-button-and-microsofts-advice-is-to-click-where-it-used-to-be?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-01, 19:23:00](https://tech.slashdot.org/story/25/12/01/1657222/waymo-has-a-charging-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waymo Has A Charging Problem](https://tech.slashdot.org/story/25/12/01/1657222/waymo-has-a-charging-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-01, 18:41:00](https://entertainment.slashdot.org/story/25/12/01/1649216/netflix-kills-casting-from-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Kills Casting From Phones](https://entertainment.slashdot.org/story/25/12/01/1649216/netflix-kills-casting-from-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-01, 18:01:00](https://news.slashdot.org/story/25/12/01/1644253/colleges-are-preparing-to-self-lobotomize?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Colleges Are Preparing To Self-Lobotomize](https://news.slashdot.org/story/25/12/01/1644253/colleges-are-preparing-to-self-lobotomize?utm_source=rss1.0mainlinkanon&utm_medium=feed)
