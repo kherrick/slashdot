@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 23:23:00](https://hardware.slashdot.org/story/25/12/04/2125206/plane-crashed-after-3d-printed-part-collapsed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Plane Crashed After 3D-Printed Part Collapsed](https://hardware.slashdot.org/story/25/12/04/2125206/plane-crashed-after-3d-printed-part-collapsed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-04, 22:22:00](https://yro.slashdot.org/story/25/12/04/186254/russia-blocks-roblox-apples-facetime?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russia Blocks Roblox, Apple's FaceTime](https://yro.slashdot.org/story/25/12/04/186254/russia-blocks-roblox-apples-facetime?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-04, 21:21:00](https://yro.slashdot.org/story/25/12/04/181250/eu-hits-meta-with-antitrust-probe-over-plans-to-block-ai-rivals-from-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Hits Meta With Antitrust Probe Over Plans To Block AI Rivals From WhatsApp](https://yro.slashdot.org/story/25/12/04/181250/eu-hits-meta-with-antitrust-probe-over-plans-to-block-ai-rivals-from-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-04, 20:20:00](https://news.slashdot.org/story/25/12/04/1751254/bending-spoons-buys-eventbrite-for-500-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bending Spoons Buys Eventbrite For $500 Million](https://news.slashdot.org/story/25/12/04/1751254/bending-spoons-buys-eventbrite-for-500-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
