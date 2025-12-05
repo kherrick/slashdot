@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 16:16:00](https://news.slashdot.org/story/25/12/05/031249/quicktime-turns-34?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [QuickTime Turns 34](https://news.slashdot.org/story/25/12/05/031249/quicktime-turns-34?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-05, 15:15:00](https://yro.slashdot.org/story/25/12/05/0251201/contractors-with-hacking-records-accused-of-wiping-96-government-databases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Contractors With Hacking Records Accused of Wiping 96 Government Databases](https://yro.slashdot.org/story/25/12/05/0251201/contractors-with-hacking-records-accused-of-wiping-96-government-databases?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-05, 14:14:00](https://news.slashdot.org/story/25/12/05/0146253/av1-open-video-codec-now-powers-30-of-netflix-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AV1 Open Video Codec Now Powers 30% of Netflix Streaming](https://news.slashdot.org/story/25/12/05/0146253/av1-open-video-codec-now-powers-30-of-netflix-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-05, 13:13:00](https://politics.slashdot.org/story/25/12/05/0141235/ai-chatbots-can-sway-voters-better-than-political-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Chatbots Can Sway Voters Better Than Political Ads](https://politics.slashdot.org/story/25/12/05/0141235/ai-chatbots-can-sway-voters-better-than-political-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
