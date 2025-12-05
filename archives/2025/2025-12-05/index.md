@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 02:02:00](https://entertainment.slashdot.org/story/25/12/04/2211225/robocop-statue-rises-in-detroit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [RoboCop Statue Rises In Detroit](https://entertainment.slashdot.org/story/25/12/04/2211225/robocop-statue-rises-in-detroit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-05, 01:01:00](https://tech.slashdot.org/story/25/12/04/2158221/us-probes-reports-waymo-self-driving-cars-illegally-passed-school-buses-19-times?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Probes Reports Waymo Self-Driving Cars Illegally Passed School Buses 19 Times](https://tech.slashdot.org/story/25/12/04/2158221/us-probes-reports-waymo-self-driving-cars-illegally-passed-school-buses-19-times?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-05, 00:00:00](https://yro.slashdot.org/story/25/12/04/2153226/microsoft-faces-new-complaint-for-unlawfully-processing-data-on-behalf-of-israeli-military?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Faces New Complaint For Unlawfully Processing Data On Behalf of Israeli Military](https://yro.slashdot.org/story/25/12/04/2153226/microsoft-faces-new-complaint-for-unlawfully-processing-data-on-behalf-of-israeli-military?utm_source=rss1.0mainlinkanon&utm_medium=feed)
