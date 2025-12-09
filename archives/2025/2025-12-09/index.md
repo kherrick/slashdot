@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 16:50:00](https://games.slashdot.org/story/25/12/09/1630206/xbox-is-bleeding-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Xbox Is Bleeding Out](https://games.slashdot.org/story/25/12/09/1630206/xbox-is-bleeding-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 16:11:00](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Rarest of All Diseases Are Becoming Treatable](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 15:21:00](https://news.slashdot.org/story/25/12/09/1511224/colleges-oversold-education-now-they-must-sell-connection?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Colleges Oversold Education. Now They Must Sell Connection'](https://news.slashdot.org/story/25/12/09/1511224/colleges-oversold-education-now-they-must-sell-connection?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 14:41:00](https://it.slashdot.org/story/25/12/09/1428239/microsoft-excel-turns-40-remains-stubbornly-unkillable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Excel Turns 40, Remains Stubbornly Unkillable](https://it.slashdot.org/story/25/12/09/1428239/microsoft-excel-turns-40-remains-stubbornly-unkillable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
