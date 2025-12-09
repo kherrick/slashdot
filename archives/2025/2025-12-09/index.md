@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 20:41:00](https://it.slashdot.org/story/25/12/09/1953225/microsoft-365-prices-rising-for-businesses-and-governments-in-july-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft 365 Prices Rising For Businesses and Governments in July 2026](https://it.slashdot.org/story/25/12/09/1953225/microsoft-365-prices-rising-for-businesses-and-governments-in-july-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 20:01:00](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Inevitable Shape of Cheap Online Retail](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 19:28:00](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Pokemon Cards Became a Stock Market For Millennials](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 18:15:00](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Invest $17.5 Billion in India](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)
