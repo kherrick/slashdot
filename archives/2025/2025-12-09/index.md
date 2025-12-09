@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 20:01:00](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Inevitable Shape of Cheap Online Retail](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 19:28:00](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Pokemon Cards Became a Stock Market For Millennials](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 18:15:00](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Invest $17.5 Billion in India](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-09, 17:25:00](https://news.slashdot.org/story/25/12/09/173219/what-happens-when-an-infinite-money-machine-unravels?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Happens When an 'Infinite-Money Machine' Unravels](https://news.slashdot.org/story/25/12/09/173219/what-happens-when-an-infinite-money-machine-unravels?utm_source=rss1.0mainlinkanon&utm_medium=feed)
