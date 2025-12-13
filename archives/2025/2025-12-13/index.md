@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-13](index.md)
+
+* [2025-12-13, 00:20:00](https://it.slashdot.org/story/25/12/12/2140258/russian-hackers-debut-simple-ransomware-service-but-store-keys-in-plain-text?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Russian Hackers Debut Simple Ransomware Service, But Store Keys In Plain Text](https://it.slashdot.org/story/25/12/12/2140258/russian-hackers-debut-simple-ransomware-service-but-store-keys-in-plain-text?utm_source=rss1.0mainlinkanon&utm_medium=feed)
