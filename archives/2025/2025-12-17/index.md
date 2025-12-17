@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 19:00:00](https://news.slashdot.org/story/25/12/17/1849246/english-has-become-easier-to-read?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [English Has Become Easier To Read](https://news.slashdot.org/story/25/12/17/1849246/english-has-become-easier-to-read?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-17, 18:17:00](https://yro.slashdot.org/story/25/12/17/1817255/fcc-chair-suggests-agency-isnt-independent-word-cut-from-mission-statement?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC Chair Suggests Agency Isn't Independent, Word Cut From Mission Statement](https://yro.slashdot.org/story/25/12/17/1817255/fcc-chair-suggests-agency-isnt-independent-word-cut-from-mission-statement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-17, 17:38:00](https://science.slashdot.org/story/25/12/17/1738215/how-we-ingest-plastic-chemicals-while-consuming-food?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How We Ingest Plastic Chemicals While Consuming Food](https://science.slashdot.org/story/25/12/17/1738215/how-we-ingest-plastic-chemicals-while-consuming-food?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-17, 16:49:00](https://news.slashdot.org/story/25/12/17/1650219/coursera-acquires-udemy-for-930-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Coursera Acquires Udemy For $930 Million](https://news.slashdot.org/story/25/12/17/1650219/coursera-acquires-udemy-for-930-million?utm_source=rss1.0mainlinkanon&utm_medium=feed)
