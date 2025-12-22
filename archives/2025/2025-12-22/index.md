@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-22](index.md)
+
+* [2025-12-22, 01:34:00](https://hardware.slashdot.org/story/25/12/21/2337215/google-launches-co2-battery-plants-for-long-duration-storage-of-renewable-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Launches CO2 Battery Plants for Long-Duration Storage of Renewable Energy](https://hardware.slashdot.org/story/25/12/21/2337215/google-launches-co2-battery-plants-for-long-duration-storage-of-renewable-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
