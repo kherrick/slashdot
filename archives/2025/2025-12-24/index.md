@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 18:01:00](https://news.slashdot.org/story/25/12/24/1710233/some-of-dojs-careful-redactions-can-be-defeated-with-copy-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Some of DOJ's Careful Redactions Can Be Defeated With Copy-Paste](https://news.slashdot.org/story/25/12/24/1710233/some-of-dojs-careful-redactions-can-be-defeated-with-copy-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-24, 17:00:00](https://entertainment.slashdot.org/story/25/12/24/1632200/what-rules-govern-hallmark-christmas-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Rules Govern Hallmark Christmas Movies?](https://entertainment.slashdot.org/story/25/12/24/1632200/what-rules-govern-hallmark-christmas-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-24, 16:00:00](https://hardware.slashdot.org/story/25/12/24/1430253/252-of-energy-eu-used-in-2024-came-from-renewables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [25.2% of Energy EU Used in 2024 Came From Renewables](https://hardware.slashdot.org/story/25/12/24/1430253/252-of-energy-eu-used-in-2024-came-from-renewables?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-24, 15:01:00](https://news.slashdot.org/story/25/12/24/1329210/youtube-has-a-firm-grip-on-daytime-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Has a Firm Grip on Daytime TV](https://news.slashdot.org/story/25/12/24/1329210/youtube-has-a-firm-grip-on-daytime-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed)
