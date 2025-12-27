@@ -1,0 +1,12 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-27](index.md)
+
+* [2025-12-27, 12:00:00](https://slashdot.org/story/25/12/27/0142219/video-call-glitches-evoke-uncanniness-damage-consequential-life-outcomes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Video Call Glitches Evoke Uncanniness, Damage Consequential Life Outcomes](https://slashdot.org/story/25/12/27/0142219/video-call-glitches-evoke-uncanniness-damage-consequential-life-outcomes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-12-27, 10:01:00](https://it.slashdot.org/story/25/12/27/0236249/taiwans-ipass-releases-floppy-disk-pre-paid-cash-card?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Taiwan's iPass Releases Floppy Disk Pre-Paid Cash Card](https://it.slashdot.org/story/25/12/27/0236249/taiwans-ipass-releases-floppy-disk-pre-paid-cash-card?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-12-27, 08:02:00](https://tech.slashdot.org/story/25/12/27/0224259/toll-roads-are-spreading-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Toll Roads Are Spreading in America](https://tech.slashdot.org/story/25/12/27/0224259/toll-roads-are-spreading-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-12-27, 05:01:00](https://science.slashdot.org/story/25/12/27/010236/rocket-crashes-in-brazils-first-commercial-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rocket Crashes in Brazil's First Commercial Launch](https://science.slashdot.org/story/25/12/27/010236/rocket-crashes-in-brazils-first-commercial-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-12-27, 02:00:00](https://mobile.slashdot.org/story/25/12/27/002258/mesh-networks-are-about-to-escape-apple-amazon-and-google-silos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mesh Networks Are About To Escape Apple, Amazon and Google Silos](https://mobile.slashdot.org/story/25/12/27/002258/mesh-networks-are-about-to-escape-apple-amazon-and-google-silos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-12-27, 00:30:00](https://tech.slashdot.org/story/25/12/26/2355244/driverless-future-gains-momentum-with-global-robotaxi-deployments?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Driverless Future Gains Momentum With Global Robotaxi Deployments](https://tech.slashdot.org/story/25/12/26/2355244/driverless-future-gains-momentum-with-global-robotaxi-deployments?utm_source=rss1.0mainlinkanon&utm_medium=feed)
