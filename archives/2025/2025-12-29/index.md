@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 18:06:00](https://news.slashdot.org/story/25/12/29/186242/vc-sees-ai-generated-video-gutting-the-creator-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VC Sees AI-generated Video Gutting the Creator Economy](https://news.slashdot.org/story/25/12/29/186242/vc-sees-ai-generated-video-gutting-the-creator-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-29, 17:22:00](https://news.slashdot.org/story/25/12/29/173237/why-academics-should-do-more-consulting?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Why Academics Should Do More Consulting'](https://news.slashdot.org/story/25/12/29/173237/why-academics-should-do-more-consulting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-29, 16:41:00](https://it.slashdot.org/story/25/12/29/1640245/i-switched-to-esim-in-2025-and-i-am-full-of-regret?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['I Switched To eSIM in 2025, and I am Full of Regret'](https://it.slashdot.org/story/25/12/29/1640245/i-switched-to-esim-in-2025-and-i-am-full-of-regret?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-29, 16:03:00](https://slashdot.org/story/25/12/29/162224/job-apocalypse-not-yet-ai-is-creating-brand-new-occupations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Job Apocalypse? Not Yet. AI is Creating Brand New Occupations](https://slashdot.org/story/25/12/29/162224/job-apocalypse-not-yet-ai-is-creating-brand-new-occupations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
