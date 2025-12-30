@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 20:01:00](https://science.slashdot.org/story/25/12/30/1716246/singapore-study-links-heavy-infant-screen-time-to-teen-anxiety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Singapore Study Links Heavy Infant Screen Time To Teen Anxiety](https://science.slashdot.org/story/25/12/30/1716246/singapore-study-links-heavy-infant-screen-time-to-teen-anxiety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 19:21:00](https://news.slashdot.org/story/25/12/30/1711255/france-pushes-back-plastic-cup-ban-by-four-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Pushes Back Plastic Cup Ban By Four Years](https://news.slashdot.org/story/25/12/30/1711255/france-pushes-back-plastic-cup-ban-by-four-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 18:41:00](https://news.slashdot.org/story/25/12/30/1659234/new-yorks-metrocard-era-ends-after-31-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York's MetroCard Era Ends After 31 Years](https://news.slashdot.org/story/25/12/30/1659234/new-yorks-metrocard-era-ends-after-31-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 18:02:00](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Problem With Letting AI Do the Grunt Work](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)
