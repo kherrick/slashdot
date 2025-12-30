@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 14:40:00](https://news.slashdot.org/story/25/12/30/0716215/life-in-a-shrinking-japan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Life in a Shrinking Japan](https://news.slashdot.org/story/25/12/30/0716215/life-in-a-shrinking-japan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 14:00:00](https://news.slashdot.org/story/25/12/30/0659206/one-of-americas-most-successful-experiments-is-coming-to-a-shuddering-halt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['One of America's Most Successful Experiments Is Coming to a Shuddering Halt'](https://news.slashdot.org/story/25/12/30/0659206/one-of-americas-most-successful-experiments-is-coming-to-a-shuddering-halt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 13:00:00](https://it.slashdot.org/story/25/12/30/0645220/22-million-affected-by-aflac-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [22 Million Affected By Aflac Data Breach](https://it.slashdot.org/story/25/12/30/0645220/22-million-affected-by-aflac-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 10:00:00](https://meta.slashdot.org/story/25/12/30/0640250/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Just Bought Manus, an AI Startup Everyone Has Been Talking About](https://meta.slashdot.org/story/25/12/30/0640250/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about?utm_source=rss1.0mainlinkanon&utm_medium=feed)
