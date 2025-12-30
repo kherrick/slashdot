@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 18:41:00](https://news.slashdot.org/story/25/12/30/1659234/new-yorks-metrocard-era-ends-after-31-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York's MetroCard Era Ends After 31 Years](https://news.slashdot.org/story/25/12/30/1659234/new-yorks-metrocard-era-ends-after-31-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 18:02:00](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Problem With Letting AI Do the Grunt Work](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 17:21:00](https://science.slashdot.org/story/25/12/30/0841215/malaria-shows-no-sign-of-stopping?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Malaria Shows No Sign of Stopping](https://science.slashdot.org/story/25/12/30/0841215/malaria-shows-no-sign-of-stopping?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-30, 16:41:00](https://news.slashdot.org/story/25/12/30/0836252/nepal-to-scrap-failed-mount-everest-waste-deposit-scheme?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nepal To Scrap 'Failed' Mount Everest Waste Deposit Scheme](https://news.slashdot.org/story/25/12/30/0836252/nepal-to-scrap-failed-mount-everest-waste-deposit-scheme?utm_source=rss1.0mainlinkanon&utm_medium=feed)
