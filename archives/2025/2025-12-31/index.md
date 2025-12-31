@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 19:51:00](https://slashdot.org/story/25/12/31/1817247/jpmorgan-says-javice-firms-billed-millions-just-for-attendance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [JPMorgan Says Javice Firms Billed Millions Just for 'Attendance'](https://slashdot.org/story/25/12/31/1817247/jpmorgan-says-javice-firms-billed-millions-just-for-attendance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-31, 19:10:00](https://tech.slashdot.org/story/25/12/31/1736226/net-neutrality-was-back-until-it-wasnt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Net Neutrality Was Back, Until It Wasn't](https://tech.slashdot.org/story/25/12/31/1736226/net-neutrality-was-back-until-it-wasnt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-31, 18:30:00](https://science.slashdot.org/story/25/12/31/1716233/poor-sleep-quality-accelerates-brain-aging?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Poor Sleep Quality Accelerates Brain Aging](https://science.slashdot.org/story/25/12/31/1716233/poor-sleep-quality-accelerates-brain-aging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-31, 17:00:00](https://ask.slashdot.org/story/25/12/31/1643240/slashdot-asks-your-favorite-2025-movies-tv-shows-and-books?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot Asks: Your Favorite 2025 Movies, TV Shows and Books?](https://ask.slashdot.org/story/25/12/31/1643240/slashdot-asks-your-favorite-2025-movies-tv-shows-and-books?utm_source=rss1.0mainlinkanon&utm_medium=feed)
