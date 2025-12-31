@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 07:00:00](https://tech.slashdot.org/story/25/12/31/0020214/israel-deploys-worlds-first-drone-defense-laser?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Israel Deploys World's First Drone Defense Laser](https://tech.slashdot.org/story/25/12/31/0020214/israel-deploys-worlds-first-drone-defense-laser?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-31, 03:30:00](https://hardware.slashdot.org/story/25/12/31/001211/cheap-solar-is-transforming-lives-and-economies-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cheap Solar Is Transforming Lives and Economies Across Africa](https://hardware.slashdot.org/story/25/12/31/001211/cheap-solar-is-transforming-lives-and-economies-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-31, 02:02:00](https://news.slashdot.org/story/25/12/30/2341244/foreign-tech-workers-are-avoiding-travel-to-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Foreign Tech Workers Are Avoiding Travel To the US'](https://news.slashdot.org/story/25/12/30/2341244/foreign-tech-workers-are-avoiding-travel-to-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-12-31, 01:25:00](https://mobile.slashdot.org/story/25/12/30/2335237/first-gaming-handheld-with-a-folding-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Gaming Handheld With a Folding Screen](https://mobile.slashdot.org/story/25/12/30/2335237/first-gaming-handheld-with-a-folding-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
