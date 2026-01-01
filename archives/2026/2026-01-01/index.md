@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 22:30:00](https://science.slashdot.org/story/26/01/01/1758214/some-of-your-cells-are-not-genetically-yours?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Some of Your Cells Are Not Genetically Yours](https://science.slashdot.org/story/26/01/01/1758214/some-of-your-cells-are-not-genetically-yours?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-01, 21:10:00](https://slashdot.org/story/26/01/01/1752221/the-cult-of-costco?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Cult of Costco'](https://slashdot.org/story/26/01/01/1752221/the-cult-of-costco?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-01, 20:11:00](https://news.slashdot.org/story/26/01/01/1744208/iran-offers-to-sell-advanced-weapons-systems-for-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Iran Offers To Sell Advanced Weapons Systems For Crypto](https://news.slashdot.org/story/26/01/01/1744208/iran-offers-to-sell-advanced-weapons-systems-for-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-01, 18:40:00](https://tech.slashdot.org/story/26/01/01/1833202/ipv6-just-turned-30-and-still-hasnt-taken-over-the-world-but-dont-call-it-a-failure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['IPv6 Just Turned 30 and Still Hasn't Taken Over the World, But Don't Call It a Failure'](https://tech.slashdot.org/story/26/01/01/1833202/ipv6-just-turned-30-and-still-hasnt-taken-over-the-world-but-dont-call-it-a-failure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
