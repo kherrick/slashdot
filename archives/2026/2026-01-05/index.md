@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 19:30:00](https://it.slashdot.org/story/26/01/05/1915218/google-to-kill-gmails-pop3-mail-fetching?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Kill Gmail's POP3 Mail Fetching](https://it.slashdot.org/story/26/01/05/1915218/google-to-kill-gmails-pop3-mail-fetching?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-05, 18:50:00](https://slashdot.org/story/26/01/05/1825213/microsoft-is-slowly-turning-edge-into-another-copilot-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft is Slowly Turning Edge Into Another Copilot App](https://slashdot.org/story/26/01/05/1825213/microsoft-is-slowly-turning-edge-into-another-copilot-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-05, 18:10:00](https://science.slashdot.org/story/26/01/05/183201/flu-is-relentless-crispr-might-be-able-to-shut-it-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Flu Is Relentless. Crispr Might Be Able to Shut It Down](https://science.slashdot.org/story/26/01/05/183201/flu-is-relentless-crispr-might-be-able-to-shut-it-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-05, 17:30:00](https://news.slashdot.org/story/26/01/05/1730218/the-college-backlash-is-a-mirage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The College Backlash is a Mirage'](https://news.slashdot.org/story/26/01/05/1730218/the-college-backlash-is-a-mirage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
