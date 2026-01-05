@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 05:35:00](https://tech.slashdot.org/story/26/01/05/0520224/workstation-owner-sadly-marks-the-end-of-life-for-hp-ux?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Workstation Owner Sadly Marks the End-of-Life for HP-UX](https://tech.slashdot.org/story/26/01/05/0520224/workstation-owner-sadly-marks-the-end-of-life-for-hp-ux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-05, 02:34:00](https://yro.slashdot.org/story/26/01/05/0224249/39-million-californians-can-now-legally-demand-data-brokers-delete-their-personal-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [39 Million Californians Can Now Legally Demand Data Brokers Delete Their Personal Data](https://yro.slashdot.org/story/26/01/05/0224249/39-million-californians-can-now-legally-demand-data-brokers-delete-their-personal-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-05, 00:49:00](https://yro.slashdot.org/story/26/01/05/0027243/north-dakota-law-included-fake-critical-minerals-using-lawyers-last-names?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [North Dakota Law Included Fake Critical Minerals Using Lawyers' Last Names](https://yro.slashdot.org/story/26/01/05/0027243/north-dakota-law-included-fake-critical-minerals-using-lawyers-last-names?utm_source=rss1.0mainlinkanon&utm_medium=feed)
