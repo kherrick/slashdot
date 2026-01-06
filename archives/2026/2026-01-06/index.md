@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 13:00:00](https://tech.slashdot.org/story/26/01/06/0437256/vw-brings-back-physical-buttons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VW Brings Back Physical Buttons](https://tech.slashdot.org/story/26/01/06/0437256/vw-brings-back-physical-buttons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-06, 10:00:00](https://hardware.slashdot.org/story/26/01/06/0428249/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dell Admits It Made a Huge Mistake When It Abandoned XPS](https://hardware.slashdot.org/story/26/01/06/0428249/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-06, 07:00:00](https://hardware.slashdot.org/story/26/01/06/0420253/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hyundai and Boston Dynamics Unveil Humanoid Robot Atlas At CES](https://hardware.slashdot.org/story/26/01/06/0420253/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-06, 03:30:00](https://news.slashdot.org/story/26/01/05/2323220/the-nations-strictest-privacy-law-goes-into-effect?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Nation's Strictest Privacy Law Goes Into Effect](https://news.slashdot.org/story/26/01/05/2323220/the-nations-strictest-privacy-law-goes-into-effect?utm_source=rss1.0mainlinkanon&utm_medium=feed)
