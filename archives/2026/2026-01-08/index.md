@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-08](index.md)
+
+* [2026-01-08, 00:02:00](https://science.slashdot.org/story/26/01/07/2151205/openai-launches-chatgpt-health-encouraging-users-to-connect-their-medical-records?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Launches ChatGPT Health, Encouraging Users To Connect Their Medical Records](https://science.slashdot.org/story/26/01/07/2151205/openai-launches-chatgpt-health-encouraging-users-to-connect-their-medical-records?utm_source=rss1.0mainlinkanon&utm_medium=feed)
