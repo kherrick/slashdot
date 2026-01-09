@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 20:41:00](https://news.slashdot.org/story/26/01/09/1832229/identity-and-ideology-in-the-school-boardroom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Identity and Ideology in the School Boardroom](https://news.slashdot.org/story/26/01/09/1832229/identity-and-ideology-in-the-school-boardroom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-09, 20:01:00](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Golden Age of Vaccine Development](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-09, 19:25:00](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America Is Falling Out of Love With Pizza](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-09, 18:44:00](https://slashdot.org/story/26/01/09/1728223/amazons-new-manager-dashboard-flags-low-time-badgers-and-zero-badgers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon's New Manager Dashboard Flags 'Low-Time Badgers' and 'Zero Badgers'](https://slashdot.org/story/26/01/09/1728223/amazons-new-manager-dashboard-flags-low-time-badgers-and-zero-badgers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
