@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 15:30:00](https://it.slashdot.org/story/26/01/09/1516254/send-to-kindle-from-microsoft-word-is-discontinued?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Send To Kindle from Microsoft Word is Discontinued](https://it.slashdot.org/story/26/01/09/1516254/send-to-kindle-from-microsoft-word-is-discontinued?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-09, 14:59:00](https://slashdot.org/story/26/01/09/1459249/why-care-about-debt-to-gdp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Care About Debt-to-GDP?](https://slashdot.org/story/26/01/09/1459249/why-care-about-debt-to-gdp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-09, 14:07:00](https://news.slashdot.org/story/26/01/09/148202/record-ocean-heat-is-intensifying-climate-disasters-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Record Ocean Heat is Intensifying Climate Disasters, Data Shows](https://news.slashdot.org/story/26/01/09/148202/record-ocean-heat-is-intensifying-climate-disasters-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-09, 10:00:00](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fusion Physicists Found a Way Around a Long-Standing Density Limit](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
