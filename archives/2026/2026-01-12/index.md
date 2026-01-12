@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-12](index.md)
+
+* [2026-01-12, 03:09:00](https://slashdot.org/story/26/01/12/036215/amazons-ai-tool-listed-products-from-small-businesses-without-their-knowledge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon's AI Tool Listed Products from Small Businesses Without Their Knowledge](https://slashdot.org/story/26/01/12/036215/amazons-ai-tool-listed-products-from-small-businesses-without-their-knowledge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
