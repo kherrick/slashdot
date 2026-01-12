@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 23:30:00](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Should AI Agents Be Classified As People?](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-12, 22:50:00](https://meta.slashdot.org/story/26/01/12/2216207/meta-plans-to-cut-around-10-of-employees-in-reality-labs-division?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Plans To Cut Around 10% of Employees In Reality Labs Division](https://meta.slashdot.org/story/26/01/12/2216207/meta-plans-to-cut-around-10-of-employees-in-reality-labs-division?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-12, 22:10:00](https://yro.slashdot.org/story/26/01/12/229233/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Supreme Court Takes Case That Could Strip FCC of Authority To Issue Fines](https://yro.slashdot.org/story/26/01/12/229233/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-12, 21:25:00](https://it.slashdot.org/story/26/01/12/2049226/how-markdown-took-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Markdown Took Over the World](https://it.slashdot.org/story/26/01/12/2049226/how-markdown-took-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed)
