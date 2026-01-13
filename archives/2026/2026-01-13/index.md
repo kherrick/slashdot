@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 23:20:00](https://tech.slashdot.org/story/26/01/13/2035229/wine-110-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Wine 11.0 Released](https://tech.slashdot.org/story/26/01/13/2035229/wine-110-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-13, 22:40:00](https://slashdot.org/story/26/01/13/2026229/jpeg-xl-image-support-returns-to-latest-chromechromium-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [JPEG-XL Image Support Returns To Latest Chrome/Chromium Code](https://slashdot.org/story/26/01/13/2026229/jpeg-xl-image-support-returns-to-latest-chromechromium-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-13, 22:02:00](https://tech.slashdot.org/story/26/01/13/2019228/apple-bundles-creative-apps-into-a-single-subscription?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Bundles Creative Apps Into a Single Subscription](https://tech.slashdot.org/story/26/01/13/2019228/apple-bundles-creative-apps-into-a-single-subscription?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-13, 21:21:00](https://slashdot.org/story/26/01/13/206221/taiwan-issues-arrest-warrant-for-oneplus-ceo-for-china-hires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Taiwan Issues Arrest Warrant for OnePlus CEO for China Hires](https://slashdot.org/story/26/01/13/206221/taiwan-issues-arrest-warrant-for-oneplus-ceo-for-china-hires?utm_source=rss1.0mainlinkanon&utm_medium=feed)
