@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 16:02:00](https://slashdot.org/story/26/01/14/1549211/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Matthew McConaughey Trademarks Himself To Fight AI Misuse](https://slashdot.org/story/26/01/14/1549211/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-14, 15:20:00](https://it.slashdot.org/story/26/01/14/1519213/uk-police-blame-microsoft-copilot-for-intelligence-mistake?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Police Blame Microsoft Copilot for Intelligence Mistake](https://it.slashdot.org/story/26/01/14/1519213/uk-police-blame-microsoft-copilot-for-intelligence-mistake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-14, 14:40:00](https://news.slashdot.org/story/26/01/14/1436212/europe-is-rediscovering-the-virtues-of-cash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe is Rediscovering the Virtues of Cash](https://news.slashdot.org/story/26/01/14/1436212/europe-is-rediscovering-the-virtues-of-cash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-14, 14:04:00](https://news.slashdot.org/story/26/01/14/144240/nuclear-weapons-are-now-esg-compliant?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nuclear Weapons Are Now ESG Compliant](https://news.slashdot.org/story/26/01/14/144240/nuclear-weapons-are-now-esg-compliant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
