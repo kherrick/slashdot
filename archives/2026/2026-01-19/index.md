@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 23:10:00](https://tech.slashdot.org/story/26/01/19/2240209/threads-usage-overtakes-x-on-mobile?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Threads Usage Overtakes X On Mobile](https://tech.slashdot.org/story/26/01/19/2240209/threads-usage-overtakes-x-on-mobile?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-19, 22:22:00](https://yro.slashdot.org/story/26/01/19/2221237/congress-wants-to-hand-your-parenting-to-big-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Congress Wants To Hand Your Parenting To Big Tech](https://yro.slashdot.org/story/26/01/19/2221237/congress-wants-to-hand-your-parenting-to-big-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-19, 21:30:00](https://it.slashdot.org/story/26/01/19/1955239/rackspace-customers-grapple-with-devastating-email-hosting-price-hike?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rackspace Customers Grapple With 'Devastating' Email Hosting Price Hike](https://it.slashdot.org/story/26/01/19/1955239/rackspace-customers-grapple-with-devastating-email-hosting-price-hike?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-19, 20:45:00](https://news.slashdot.org/story/26/01/19/1946207/the-rise-and-fall-of-the-american-monoculture?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Rise and Fall of the American Monoculture](https://news.slashdot.org/story/26/01/19/1946207/the-rise-and-fall-of-the-american-monoculture?utm_source=rss1.0mainlinkanon&utm_medium=feed)
