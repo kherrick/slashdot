@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-19](index.md)
+
+* [2026-01-19, 00:04:00](https://it.slashdot.org/story/26/01/19/002212/young-us-college-graduates-suddenly-arent-finding-jobs-faster-than-non-college-graduates?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Young US College Graduates Suddenly Aren't Finding Jobs Faster Than Non-College Graduates](https://it.slashdot.org/story/26/01/19/002212/young-us-college-graduates-suddenly-arent-finding-jobs-faster-than-non-college-graduates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
