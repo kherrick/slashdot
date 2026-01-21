@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 03:30:00](https://news.slashdot.org/story/26/01/20/2244259/era-of-global-water-bankruptcy-is-here-un-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Era of 'Global Water Bankruptcy' Is Here, UN Report Says](https://news.slashdot.org/story/26/01/20/2244259/era-of-global-water-bankruptcy-is-here-un-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 02:02:00](https://it.slashdot.org/story/26/01/20/2251253/curl-removes-bug-bounties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [cURL Removes Bug Bounties](https://it.slashdot.org/story/26/01/20/2251253/curl-removes-bug-bounties?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 01:25:00](https://slashdot.org/story/26/01/20/2234239/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://slashdot.org/story/26/01/20/2234239/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 00:45:00](https://tech.slashdot.org/story/26/01/20/2226236/developer-rescues-stadia-bluetooth-tool-that-google-killed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developer Rescues Stadia Bluetooth Tool That Google Killed](https://tech.slashdot.org/story/26/01/20/2226236/developer-rescues-stadia-bluetooth-tool-that-google-killed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
