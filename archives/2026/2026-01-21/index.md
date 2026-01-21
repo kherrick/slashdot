@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 23:20:00](https://apple.slashdot.org/story/26/01/21/211226/apple-developing-ai-wearable-pin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Developing AI Wearable Pin](https://apple.slashdot.org/story/26/01/21/211226/apple-developing-ai-wearable-pin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 22:40:00](https://slashdot.org/story/26/01/21/2055248/nova-launcher-gets-a-new-owner-and-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nova Launcher Gets a New Owner and Ads](https://slashdot.org/story/26/01/21/2055248/nova-launcher-gets-a-new-owner-and-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 22:02:00](https://tech.slashdot.org/story/26/01/21/2018229/ham-radio-operators-in-belarus-arrested-face-the-death-penalty?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HAM Radio Operators In Belarus Arrested, Face the Death Penalty](https://tech.slashdot.org/story/26/01/21/2018229/ham-radio-operators-in-belarus-arrested-face-the-death-penalty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 21:22:00](https://science.slashdot.org/story/26/01/21/191222/ozempic-is-reshaping-the-fast-food-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ozempic is Reshaping the Fast Food Industry](https://science.slashdot.org/story/26/01/21/191222/ozempic-is-reshaping-the-fast-food-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
