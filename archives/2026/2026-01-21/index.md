@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 10:00:00](https://yro.slashdot.org/story/26/01/21/0449250/snap-settles-social-media-addiction-lawsuit-ahead-of-landmark-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Snap Settles Social media Addiction Lawsuit Ahead of Landmark Trial](https://yro.slashdot.org/story/26/01/21/0449250/snap-settles-social-media-addiction-lawsuit-ahead-of-landmark-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 07:00:00](https://news.slashdot.org/story/26/01/21/0442254/aurora-watch-in-effect-as-severe-solar-storm-slams-into-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Aurora Watch In Effect As Severe Solar Storm Slams Into Earth](https://news.slashdot.org/story/26/01/21/0442254/aurora-watch-in-effect-as-severe-solar-storm-slams-into-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 03:30:00](https://news.slashdot.org/story/26/01/20/2244259/era-of-global-water-bankruptcy-is-here-un-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Era of 'Global Water Bankruptcy' Is Here, UN Report Says](https://news.slashdot.org/story/26/01/20/2244259/era-of-global-water-bankruptcy-is-here-un-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-21, 02:02:00](https://it.slashdot.org/story/26/01/20/2251253/curl-removes-bug-bounties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [cURL Removes Bug Bounties](https://it.slashdot.org/story/26/01/20/2251253/curl-removes-bug-bounties?utm_source=rss1.0mainlinkanon&utm_medium=feed)
