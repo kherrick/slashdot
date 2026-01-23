@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 13:00:00](https://tech.slashdot.org/story/26/01/23/0817218/tiktok-finalizes-deal-to-form-new-american-entity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TikTok Finalizes Deal To Form New American Entity](https://tech.slashdot.org/story/26/01/23/0817218/tiktok-finalizes-deal-to-form-new-american-entity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-23, 10:00:00](https://science.slashdot.org/story/26/01/23/089256/active-sitting-is-better-for-brain-health?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Active' Sitting Is Better For Brain Health](https://science.slashdot.org/story/26/01/23/089256/active-sitting-is-better-for-brain-health?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-23, 07:00:00](https://science.slashdot.org/story/26/01/23/0148249/ai-boosts-research-careers-but-flattens-scientific-discovery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Boosts Research Careers But Flattens Scientific Discovery](https://science.slashdot.org/story/26/01/23/0148249/ai-boosts-research-careers-but-flattens-scientific-discovery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-23, 03:30:00](https://yro.slashdot.org/story/26/01/22/2339207/south-korea-launches-landmark-laws-to-regulate-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korea Launches Landmark Laws To Regulate AI](https://yro.slashdot.org/story/26/01/22/2339207/south-korea-launches-landmark-laws-to-regulate-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
