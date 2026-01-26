@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 19:28:00](https://games.slashdot.org/story/26/01/26/1929203/gta-6s-physical-release-could-be-delayed-to-2027-because-of-leaks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GTA 6's Physical Release Could Be Delayed To 2027 Because of Leaks](https://games.slashdot.org/story/26/01/26/1929203/gta-6s-physical-release-could-be-delayed-to-2027-because-of-leaks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-26, 18:53:00](https://it.slashdot.org/story/26/01/26/1853255/nike-says-its-investigating-possible-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nike Says It's Investigating Possible Data Breach](https://it.slashdot.org/story/26/01/26/1853255/nike-says-its-investigating-possible-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-26, 18:10:00](https://entertainment.slashdot.org/story/26/01/26/1810242/television-turns-100?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Television Turns 100](https://entertainment.slashdot.org/story/26/01/26/1810242/television-turns-100?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-26, 17:30:00](https://tech.slashdot.org/story/26/01/26/1731231/how-a-15000-person-island-stumbled-into-a-70-million-ai-windfall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How a 15,000-Person Island Stumbled Into a $70 Million AI Windfall](https://tech.slashdot.org/story/26/01/26/1731231/how-a-15000-person-island-stumbled-into-a-70-million-ai-windfall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
