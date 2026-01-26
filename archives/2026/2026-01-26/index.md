@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 16:50:00](https://slashdot.org/story/26/01/26/1637238/fixing-retail-with-land-value-capture?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fixing Retail With Land Value Capture](https://slashdot.org/story/26/01/26/1637238/fixing-retail-with-land-value-capture?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-26, 16:12:00](https://news.slashdot.org/story/26/01/26/1612225/world-not-ready-for-rise-in-extreme-heat-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [World Not Ready For Rise In Extreme Heat, Scientists Say](https://news.slashdot.org/story/26/01/26/1612225/world-not-ready-for-rise-in-extreme-heat-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-26, 15:28:00](https://news.slashdot.org/story/26/01/26/1528240/saudi-arabia-to-scale-back-neom-megaproject?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Saudi Arabia To Scale Back Neom Megaproject](https://news.slashdot.org/story/26/01/26/1528240/saudi-arabia-to-scale-back-neom-megaproject?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-26, 14:40:00](https://news.slashdot.org/story/26/01/26/1428221/ai-is-hitting-uk-harder-than-other-big-economies-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI is Hitting UK Harder Than Other Big Economies, Study Finds](https://news.slashdot.org/story/26/01/26/1428221/ai-is-hitting-uk-harder-than-other-big-economies-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
