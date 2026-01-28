@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 15:29:00](https://slashdot.org/story/26/01/28/1529207/30000-more-ups-jobs-on-the-chopping-block-as-amazon-era-ends?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [30,000 More UPS Jobs On the Chopping Block as Amazon Era Ends](https://slashdot.org/story/26/01/28/1529207/30000-more-ups-jobs-on-the-chopping-block-as-amazon-era-ends?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-28, 14:43:00](https://slashdot.org/story/26/01/28/1443215/androids-full-desktop-mode-surfaces-in-accidental-chromium-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android's Full Desktop Mode Surfaces in Accidental Chromium Leak](https://slashdot.org/story/26/01/28/1443215/androids-full-desktop-mode-surfaces-in-accidental-chromium-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-28, 13:00:00](https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Clawdbot' Has AI Techies Buying Mac Minis](https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-28, 10:43:00](https://slashdot.org/story/26/01/28/1043253/amazon-cuts-another-16000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Cuts Another 16,000 Jobs](https://slashdot.org/story/26/01/28/1043253/amazon-cuts-another-16000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
