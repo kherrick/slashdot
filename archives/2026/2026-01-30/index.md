@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-30](index.md)
+
+* [2026-01-30, 02:02:00](https://tech.slashdot.org/story/26/01/29/2324200/comcast-keeps-losing-customers-despite-price-guarantee-unlimited-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comcast Keeps Losing Customers Despite Price Guarantee, Unlimited Data](https://tech.slashdot.org/story/26/01/29/2324200/comcast-keeps-losing-customers-despite-price-guarantee-unlimited-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-01-30, 01:25:00](https://news.slashdot.org/story/26/01/29/230246/cory-doctorow-on-tariffs-and-the-dmca-in-canada?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cory Doctorow On Tariffs and the DMCA In Canada](https://news.slashdot.org/story/26/01/29/230246/cory-doctorow-on-tariffs-and-the-dmca-in-canada?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-01-30, 00:45:00](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Gaming Developers Join Forces To Form the Open Gaming Collective](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-01-30, 00:02:00](https://yro.slashdot.org/story/26/01/29/227207/an-ai-toy-exposed-50k-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An AI Toy Exposed 50K Logs of Its Chats With Kids To Anyone With a Gmail Account](https://yro.slashdot.org/story/26/01/29/227207/an-ai-toy-exposed-50k-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account?utm_source=rss1.0mainlinkanon&utm_medium=feed)
