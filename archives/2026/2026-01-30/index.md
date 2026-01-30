@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 18:45:00](https://search.slashdot.org/story/26/01/30/182230/duckduckgo-users-vote-overwhelmingly-against-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DuckDuckGo Users Vote Overwhelmingly Against AI Features](https://search.slashdot.org/story/26/01/30/182230/duckduckgo-users-vote-overwhelmingly-against-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-30, 18:05:00](https://news.slashdot.org/story/26/01/30/1750253/nobel-hacking-likely-leaked-peace-prize-winner-name-probe-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nobel Hacking Likely Leaked Peace Prize Winner Name, Probe Finds](https://news.slashdot.org/story/26/01/30/1750253/nobel-hacking-likely-leaked-peace-prize-winner-name-probe-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-30, 17:20:00](https://slashdot.org/story/26/01/30/1157228/do-markets-make-us-moral?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Do Markets Make Us Moral?](https://slashdot.org/story/26/01/30/1157228/do-markets-make-us-moral?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-30, 16:41:00](https://mobile.slashdot.org/story/26/01/30/1333208/call-screening-is-aggravating-the-rich-and-powerful?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Call Screening is Aggravating the Rich and Powerful'](https://mobile.slashdot.org/story/26/01/30/1333208/call-screening-is-aggravating-the-rich-and-powerful?utm_source=rss1.0mainlinkanon&utm_medium=feed)
