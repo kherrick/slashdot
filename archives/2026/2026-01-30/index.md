@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 16:01:00](https://news.slashdot.org/story/26/01/30/1241207/the-uk-paid-565-million-for-a-bookmarks-site?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The UK Paid $5.65 Million For a Bookmarks Site](https://news.slashdot.org/story/26/01/30/1241207/the-uk-paid-565-million-for-a-bookmarks-site?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-30, 15:20:00](https://slashdot.org/story/26/01/30/1221255/amazon-in-talks-to-invest-up-to-50-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon in Talks To Invest Up To $50 Billion in OpenAI](https://slashdot.org/story/26/01/30/1221255/amazon-in-talks-to-invest-up-to-50-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-30, 14:40:00](https://tech.slashdot.org/story/26/01/30/1355254/microsoft-is-experimenting-with-a-top-menu-bar-for-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft is Experimenting With a Top Menu Bar for Windows 11](https://tech.slashdot.org/story/26/01/30/1355254/microsoft-is-experimenting-with-a-top-menu-bar-for-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-01-30, 14:00:00](https://tech.slashdot.org/story/26/01/30/1128238/backseat-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Backseat Software](https://tech.slashdot.org/story/26/01/30/1128238/backseat-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
