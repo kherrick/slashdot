@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 17:50:00](https://slashdot.org/story/26/02/06/1749238/big-techs-11-trillion-cloud-computing-backlog?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Big Tech's $1.1 Trillion Cloud Computing Backlog](https://slashdot.org/story/26/02/06/1749238/big-techs-11-trillion-cloud-computing-backlog?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-06, 16:31:00](https://slashdot.org/story/26/02/06/1632210/kpmg-pressed-its-auditor-to-pass-on-ai-cost-savings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [KPMG Pressed Its Auditor To Pass on AI Cost Savings](https://slashdot.org/story/26/02/06/1632210/kpmg-pressed-its-auditor-to-pass-on-ai-cost-savings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-06, 15:34:00](https://science.slashdot.org/story/26/02/06/1534230/the-bizarre-enhancement-claims-rocking-ski-jumping?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Bizarre Enhancement Claims Rocking Ski Jumping](https://science.slashdot.org/story/26/02/06/1534230/the-bizarre-enhancement-claims-rocking-ski-jumping?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-06, 14:31:00](https://tech.slashdot.org/story/26/02/06/1431209/europe-accuses-tiktok-of-addictive-design-and-pushes-for-change?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Accuses TikTok of 'Addictive Design' and Pushes for Change](https://tech.slashdot.org/story/26/02/06/1431209/europe-accuses-tiktok-of-addictive-design-and-pushes-for-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
