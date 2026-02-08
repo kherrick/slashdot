@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 22:06:00](https://slashdot.org/story/26/02/08/220228/do-super-bowl-ads-for-ai-signal-a-bubble-about-to-burst?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Do Super Bowl Ads For AI Signal a Bubble About to Burst?](https://slashdot.org/story/26/02/08/220228/do-super-bowl-ads-for-ai-signal-a-bubble-about-to-burst?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-08, 20:42:00](https://tech.slashdot.org/story/26/02/08/2040202/dave-farber-dies-at-age-91?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dave Farber Dies at Age 91](https://tech.slashdot.org/story/26/02/08/2040202/dave-farber-dies-at-age-91?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-08, 19:35:00](https://it.slashdot.org/story/26/02/08/1933223/after-six-years-two-pentesters-arrested-in-iowa-receive-600000-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After Six Years, Two Pentesters Arrested in Iowa Receive $600,000 Settlement ](https://it.slashdot.org/story/26/02/08/1933223/after-six-years-two-pentesters-arrested-in-iowa-receive-600000-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-08, 18:34:00](https://entertainment.slashdot.org/story/26/02/08/1827216/prankster-launches-super-bowl-party-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Prankster Launches Super Bowl Party For AI Agents](https://entertainment.slashdot.org/story/26/02/08/1827216/prankster-launches-super-bowl-party-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
