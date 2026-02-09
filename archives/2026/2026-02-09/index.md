@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-02-09](index.md)
+
+* [2026-02-09, 02:34:00](https://tech.slashdot.org/story/26/02/09/0030214/carmakers-rush-to-remove-chinese-code-under-new-us-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Carmakers Rush To Remove Chinese Code Under New US Rules](https://tech.slashdot.org/story/26/02/09/0030214/carmakers-rush-to-remove-chinese-code-under-new-us-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
