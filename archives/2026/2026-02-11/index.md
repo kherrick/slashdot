@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 17:00:00](https://hardware.slashdot.org/story/26/02/11/1640236/are-cds-making-a-comeback-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are CDs Making a Comeback? A Statistical Analysis](https://hardware.slashdot.org/story/26/02/11/1640236/are-cds-making-a-comeback-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-11, 16:00:00](https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HP Now Rents Gaming Laptops](https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-11, 15:00:00](https://slashdot.org/story/26/02/11/1431206/sony-will-ship-its-final-blu-ray-recorders-this-month?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Will Ship Its Final Blu-ray Recorders This Month](https://slashdot.org/story/26/02/11/1431206/sony-will-ship-its-final-blu-ray-recorders-this-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-11, 14:01:00](https://tech.slashdot.org/story/26/02/11/141215/t-mobile-will-live-translate-regular-phone-calls-without-an-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [T-Mobile Will Live Translate Regular Phone Calls Without an App](https://tech.slashdot.org/story/26/02/11/141215/t-mobile-will-live-translate-regular-phone-calls-without-an-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
