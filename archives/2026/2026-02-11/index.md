@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 20:01:00](https://news.slashdot.org/story/26/02/11/1754240/us-had-almost-no-job-growth-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Had Almost No Job Growth in 2025](https://news.slashdot.org/story/26/02/11/1754240/us-had-almost-no-job-growth-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-11, 19:00:00](https://tech.slashdot.org/story/26/02/11/176205/evs-could-be-cheaper-to-own-than-gas-cars-in-africa-by-2040?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EVs Could Be Cheaper To Own Than Gas Cars in Africa by 2040](https://tech.slashdot.org/story/26/02/11/176205/evs-could-be-cheaper-to-own-than-gas-cars-in-africa-by-2040?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-11, 18:01:00](https://news.slashdot.org/story/26/02/11/1656216/uk-orders-deletion-of-countrys-largest-court-reporting-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Orders Deletion of Country's Largest Court Reporting Archive](https://news.slashdot.org/story/26/02/11/1656216/uk-orders-deletion-of-countrys-largest-court-reporting-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-11, 17:00:00](https://hardware.slashdot.org/story/26/02/11/1640236/are-cds-making-a-comeback-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are CDs Making a Comeback? A Statistical Analysis](https://hardware.slashdot.org/story/26/02/11/1640236/are-cds-making-a-comeback-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
