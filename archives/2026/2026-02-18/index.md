@@ -1,0 +1,10 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-02-18](index.md)
+
+* [2026-02-18, 02:02:00](https://developers.slashdot.org/story/26/02/17/2313201/claude-sonnet-46-model-brings-much-improved-coding-skills-upgraded-free-tier?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Claude Sonnet 4.6 Model Brings 'Much-Improved Coding Skills', Upgraded Free Tier](https://developers.slashdot.org/story/26/02/17/2313201/claude-sonnet-46-model-brings-much-improved-coding-skills-upgraded-free-tier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-02-18, 01:25:00](https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Is Reportedly Planning To Launch AI-Powered Glasses, a Pendant, and AirPods](https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-02-18, 00:45:00](https://tech.slashdot.org/story/26/02/17/2233250/discord-rival-maxes-out-hosting-capacity-as-players-flee-age-verification-crackdown?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discord Rival Maxes Out Hosting Capacity As Players Flee Age-Verification Crackdown](https://tech.slashdot.org/story/26/02/17/2233250/discord-rival-maxes-out-hosting-capacity-as-players-flee-age-verification-crackdown?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-02-18, 00:02:00](https://yro.slashdot.org/story/26/02/17/227207/nprs-radio-host-david-greene-says-googles-notebooklm-tool-stole-his-voice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NPR's Radio Host David Greene Says Google's NotebookLM Tool Stole His Voice](https://yro.slashdot.org/story/26/02/17/227207/nprs-radio-host-david-greene-says-googles-notebooklm-tool-stole-his-voice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
