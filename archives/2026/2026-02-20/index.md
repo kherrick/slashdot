@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 15:29:00](https://yro.slashdot.org/story/26/02/20/1529240/us-supreme-court-rejects-trumps-global-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Supreme Court Rejects Trump's Global Tariffs](https://yro.slashdot.org/story/26/02/20/1529240/us-supreme-court-rejects-trumps-global-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-20, 14:40:00](https://it.slashdot.org/story/26/02/20/1252243/amazon-service-was-taken-down-by-ai-coding-bot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Service Was Taken Down By AI Coding Bot](https://it.slashdot.org/story/26/02/20/1252243/amazon-service-was-taken-down-by-ai-coding-bot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-20, 13:00:00](https://it.slashdot.org/story/26/02/20/003230/how-private-equity-debt-left-a-leading-vpn-open-to-chinese-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Private Equity Debt Left a Leading VPN Open To Chinese Hackers](https://it.slashdot.org/story/26/02/20/003230/how-private-equity-debt-left-a-leading-vpn-open-to-chinese-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-20, 10:00:00](https://tech.slashdot.org/story/26/02/19/231216/new-york-drops-plan-to-legalize-robotaxis-outside-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New York Drops Plan To Legalize Robotaxis Outside NYC](https://tech.slashdot.org/story/26/02/19/231216/new-york-drops-plan-to-legalize-robotaxis-outside-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
