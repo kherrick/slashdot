@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 17:00:00](https://science.slashdot.org/story/26/02/25/1446236/scientists-crack-the-case-of-screeching-scotch-tape?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Crack the Case of 'Screeching' Scotch Tape](https://science.slashdot.org/story/26/02/25/1446236/scientists-crack-the-case-of-screeching-scotch-tape?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-25, 16:00:00](https://slashdot.org/story/26/02/25/1124220/microsoft-japan-raided-over-suspected-violation-of-anti-monopoly-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Japan Raided Over Suspected Violation of Anti-Monopoly Law](https://slashdot.org/story/26/02/25/1124220/microsoft-japan-raided-over-suspected-violation-of-anti-monopoly-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-25, 15:00:00](https://tech.slashdot.org/story/26/02/25/1321256/uber-previews-its-dubai-air-taxi-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Uber Previews Its Dubai Air Taxi Service](https://tech.slashdot.org/story/26/02/25/1321256/uber-previews-its-dubai-air-taxi-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-25, 14:00:00](https://slashdot.org/story/26/02/25/1355245/anthropic-drops-flagship-safety-pledge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic Drops Flagship Safety Pledge](https://slashdot.org/story/26/02/25/1355245/anthropic-drops-flagship-safety-pledge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
