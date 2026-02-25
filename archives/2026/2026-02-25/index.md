@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 14:00:00](https://slashdot.org/story/26/02/25/1355245/anthropic-drops-flagship-safety-pledge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic Drops Flagship Safety Pledge](https://slashdot.org/story/26/02/25/1355245/anthropic-drops-flagship-safety-pledge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-25, 12:00:00](https://tech.slashdot.org/story/26/02/25/0540220/hp-says-memorys-contribution-to-pc-costs-just-doubled-to-35?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HP Says Memory's Contribution To PC Costs Just Doubled To 35%](https://tech.slashdot.org/story/26/02/25/0540220/hp-says-memorys-contribution-to-pc-costs-just-doubled-to-35?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-25, 08:00:00](https://apple.slashdot.org/story/26/02/25/0435253/apples-touch-screen-macbook-pro-to-have-dynamic-island-new-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's Touch-Screen MacBook Pro To Have Dynamic Island, New Interface](https://apple.slashdot.org/story/26/02/25/0435253/apples-touch-screen-macbook-pro-to-have-dynamic-island-new-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-02-25, 04:01:00](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The US Had a Big Battery Boom Last Year](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
