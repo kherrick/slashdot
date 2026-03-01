@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-01](index.md)
+
+* [2026-03-01, 02:39:00](https://news.slashdot.org/story/26/03/01/0233230/sam-altman-answers-questions-on-xcom-about-pentagon-deal-threats-to-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman Answers Questions on X.com About Pentagon Deal, Threats to Anthropic](https://news.slashdot.org/story/26/03/01/0233230/sam-altman-answers-questions-on-xcom-about-pentagon-deal-threats-to-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
