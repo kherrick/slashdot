@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 05:35:00](https://mobile.slashdot.org/story/26/03/02/0530232/lenovo-unveils-an-attachable-ai-agent-companion-for-their-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lenovo Unveils an Attachable AI Agent 'Companion'  for Their Laptops ](https://mobile.slashdot.org/story/26/03/02/0530232/lenovo-unveils-an-attachable-ai-agent-companion-for-their-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-02, 02:34:00](https://tech.slashdot.org/story/26/03/02/023210/does-a-gas-guzzler-revival-risk-dead-end-futures-for-us-automakers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Does a Gas-Guzzler Revival Risk Dead-End Futures for US Automakers?](https://tech.slashdot.org/story/26/03/02/023210/does-a-gas-guzzler-revival-risk-dead-end-futures-for-us-automakers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
