@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 17:00:00](https://apple.slashdot.org/story/26/03/02/1648230/apple-introduces-iphone-17e-with-magsafe-and-a19?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Introduces iPhone 17e With MagSafe and A19](https://apple.slashdot.org/story/26/03/02/1648230/apple-introduces-iphone-17e-with-magsafe-and-a19?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-02, 16:00:00](https://slashdot.org/story/26/03/02/0424251/south-korean-police-lose-seized-crypto-by-posting-password-online?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korean Police Lose Seized Crypto By Posting Password Online](https://slashdot.org/story/26/03/02/0424251/south-korean-police-lose-seized-crypto-by-posting-password-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-02, 15:00:00](https://hardware.slashdot.org/story/26/03/02/0417223/japan-to-ban-in-flight-use-of-power-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Japan To Ban In-Flight Use of Power Banks](https://hardware.slashdot.org/story/26/03/02/0417223/japan-to-ban-in-flight-use-of-power-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-02, 14:00:00](https://tech.slashdot.org/story/26/03/02/048218/whats-driving-the-saaspocalypse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What's Driving the SaaSpocalypse](https://tech.slashdot.org/story/26/03/02/048218/whats-driving-the-saaspocalypse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
