@@ -1,0 +1,8 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-04](index.md)
+
+* [2026-03-04, 03:00:00](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Possible US Government iPhone-Hacking Toolkit Is Now In the Hands of Foreign Spies, Criminals](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-03-04, 01:00:00](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Is Developing an Alternative To GitHub](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed)
