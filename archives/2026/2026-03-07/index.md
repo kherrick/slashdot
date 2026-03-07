@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 13:00:00](https://yro.slashdot.org/story/26/03/06/2116214/indonesia-to-ban-social-media-for-children-under-16?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Indonesia To Ban Social Media For Children Under 16](https://yro.slashdot.org/story/26/03/06/2116214/indonesia-to-ban-social-media-for-children-under-16?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-07, 10:00:00](https://tech.slashdot.org/story/26/03/07/0038223/china-releases-first-homegrown-quantum-computing-os?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Releases First Homegrown Quantum Computing OS](https://tech.slashdot.org/story/26/03/07/0038223/china-releases-first-homegrown-quantum-computing-os?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-07, 07:00:00](https://science.slashdot.org/story/26/03/07/0028222/asteroid-2024-yr4-will-not-impact-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Asteroid 2024 YR4 Will Not Impact the Moon](https://science.slashdot.org/story/26/03/07/0028222/asteroid-2024-yr4-will-not-impact-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-07, 03:00:00](https://news.slashdot.org/story/26/03/06/2210215/humanity-heating-planet-faster-than-ever-before-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Humanity Heating Planet Faster Than Ever Before, Study Finds](https://news.slashdot.org/story/26/03/06/2210215/humanity-heating-planet-faster-than-ever-before-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
