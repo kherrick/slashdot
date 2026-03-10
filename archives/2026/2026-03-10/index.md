@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-10](index.md)
+
+* [2026-03-10, 01:00:00](https://mobile.slashdot.org/story/26/03/09/2234244/samsung-wants-to-let-you-vibe-code-your-galaxy-phone-experience?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Samsung Wants To Let You Vibe Code Your Galaxy Phone Experience](https://mobile.slashdot.org/story/26/03/09/2234244/samsung-wants-to-let-you-vibe-code-your-galaxy-phone-experience?utm_source=rss1.0mainlinkanon&utm_medium=feed)
