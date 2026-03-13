@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 22:00:00](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-13, 21:00:00](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Don't Get Used To Cheap AI](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-13, 20:00:00](https://tech.slashdot.org/story/26/03/13/1953248/digg-relaunch-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Digg Relaunch Fails](https://tech.slashdot.org/story/26/03/13/1953248/digg-relaunch-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-13, 19:00:00](https://science.slashdot.org/story/26/03/13/182207/backblaze-hosts-314-trillion-digits-of-pi-online?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Backblaze Hosts 314 Trillion Digits of Pi Online](https://science.slashdot.org/story/26/03/13/182207/backblaze-hosts-314-trillion-digits-of-pi-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
