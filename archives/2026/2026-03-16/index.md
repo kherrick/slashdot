@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-16](index.md)
+
+* [2026-03-16, 01:34:00](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
