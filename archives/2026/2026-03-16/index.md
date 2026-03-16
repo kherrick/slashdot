@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 07:34:00](https://news.slashdot.org/story/26/03/16/0255231/android-epic-and-whats-really-behind-googles-existential-threat-to-f-droid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android, Epic, and What's Really Behind Google's 'Existential' Threat to F-Droid](https://news.slashdot.org/story/26/03/16/0255231/android-epic-and-whats-really-behind-googles-existential-threat-to-f-droid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-16, 05:43:00](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FSF Threatens Anthropic Over Infringed Copyright:  Share Your LLMs Freely](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-16, 01:34:00](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
