@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-19](index.md)
+
+* [2026-03-19, 03:30:00](https://yro.slashdot.org/story/26/03/18/217205/fbi-is-buying-location-data-to-track-us-citizens-director-confirms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI Is Buying Location Data To Track US Citizens, Director Confirms](https://yro.slashdot.org/story/26/03/18/217205/fbi-is-buying-location-data-to-track-us-citizens-director-confirms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
