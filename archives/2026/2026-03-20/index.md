@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 17:00:00](https://news.slashdot.org/story/26/03/20/1643218/chuck-norris-dies-at-86?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chuck Norris Dies At 86](https://news.slashdot.org/story/26/03/20/1643218/chuck-norris-dies-at-86?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-20, 16:00:00](https://mobile.slashdot.org/story/26/03/20/1556216/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop](https://mobile.slashdot.org/story/26/03/20/1556216/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-20, 15:00:00](https://slashdot.org/story/26/03/19/2231252/as-openclaw-enthusiasm-grips-china-kids-and-retirees-alike-raise-lobsters?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As OpenClaw Enthusiasm Grips China, Kids and Retirees Alike Raise 'Lobsters'](https://slashdot.org/story/26/03/19/2231252/as-openclaw-enthusiasm-grips-china-kids-and-retirees-alike-raise-lobsters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-20, 11:00:00](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Opera GX Web Browser Comes To Linux](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
