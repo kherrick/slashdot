@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 22:00:00](https://tech.slashdot.org/story/26/03/20/2043213/microsoft-says-it-is-fixing-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Says It Is Fixing Windows 11](https://tech.slashdot.org/story/26/03/20/2043213/microsoft-says-it-is-fixing-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-20, 21:00:00](https://hardware.slashdot.org/story/26/03/20/2035252/work-from-home-and-drive-more-slowly-to-save-energy-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Work From Home and Drive More Slowly To Save Energy, IEA Says](https://hardware.slashdot.org/story/26/03/20/2035252/work-from-home-and-drive-more-slowly-to-save-energy-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-20, 20:00:00](https://slashdot.org/story/26/03/20/1711251/openai-plans-launch-of-desktop-superapp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plans Launch of Desktop 'Superapp'](https://slashdot.org/story/26/03/20/1711251/openai-plans-launch-of-desktop-superapp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-20, 19:00:00](https://news.slashdot.org/story/26/03/20/1725229/oregon-school-cell-phone-ban-engaged-students-joyful-teachers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://news.slashdot.org/story/26/03/20/1725229/oregon-school-cell-phone-ban-engaged-students-joyful-teachers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
