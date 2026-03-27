@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 07:00:00](https://science.slashdot.org/story/26/03/26/2219203/cern-to-host-europes-flagship-open-access-publishing-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CERN To Host Europe's Flagship Open Access Publishing Platform](https://science.slashdot.org/story/26/03/26/2219203/cern-to-host-europes-flagship-open-access-publishing-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-03-27, 03:30:00](https://yro.slashdot.org/story/26/03/26/2146255/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Gives FBI a User's Real Name Hidden Behind 'Hide My Email' Feature](https://yro.slashdot.org/story/26/03/26/2146255/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature?utm_source=rss1.0mainlinkanon&utm_medium=feed)
