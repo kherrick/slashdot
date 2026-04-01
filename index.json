@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-01, 19:00:00",
+      "https://news.slashdot.org/story/26/04/01/1557223/sweden-swaps-screens-for-books-in-the-classroom?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Sweden Swaps Screens For Books In the Classroom",
+      "https://news.slashdot.org/story/26/04/01/1557223/sweden-swaps-screens-for-books-in-the-classroom?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 18:00:00",
+      "https://news.slashdot.org/story/26/04/01/1516246/onlyoffice-suspends-nextcloud-partnership-for-forking-its-project-without-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "OnlyOffice Suspends Nextcloud Partnership For Forking Its Project Without Approval",
+      "https://news.slashdot.org/story/26/04/01/1516246/onlyoffice-suspends-nextcloud-partnership-for-forking-its-project-without-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 17:00:00",
       "https://developers.slashdot.org/story/26/04/01/158240/anthropic-issues-copyright-takedown-requests-to-remove-8000-copies-of-claude-code-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed"
     ],
@@ -127,26 +147,6 @@
     [
       "Claude Code's Source Code Leaks Via npm Source Maps",
       "https://developers.slashdot.org/story/26/03/31/172257/claude-codes-source-code-leaks-via-npm-source-maps?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 16:00:00",
-      "https://slashdot.org/story/26/03/31/0438235/euro-office-wants-to-replace-google-docs-and-microsoft-office?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "Euro-Office Wants To Replace Google Docs and Microsoft Office",
-      "https://slashdot.org/story/26/03/31/0438235/euro-office-wants-to-replace-google-docs-and-microsoft-office?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 15:00:00",
-      "https://yro.slashdot.org/story/26/03/31/0413258/us-paves-way-for-private-assets-to-be-included-in-401k-retirement-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "US Paves Way For Private Assets To Be Included In 401(k) Retirement Plans",
-      "https://yro.slashdot.org/story/26/03/31/0413258/us-paves-way-for-private-assets-to-be-included-in-401k-retirement-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed"
     ]
   ]
 ]
