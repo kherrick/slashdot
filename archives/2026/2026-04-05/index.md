@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 03:34:00](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-05, 01:34:00](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Pulls Then Re-Issues Windows 11 Preview Update.  Also Begins Force-Updating Windows 11](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed)
