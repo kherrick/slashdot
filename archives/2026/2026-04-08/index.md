@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 22:00:00](https://it.slashdot.org/story/26/04/08/2139228/iran-linked-hackers-disrupted-us-oil-gas-water-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Iran-Linked Hackers Disrupted US Oil, Gas, Water Sites](https://it.slashdot.org/story/26/04/08/2139228/iran-linked-hackers-disrupted-us-oil-gas-water-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-08, 21:07:00](https://slashdot.org/story/26/04/08/213203/nyt-claims-adam-back-is-bitcoin-creator-satoshi-nakamoto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NYT Claims Adam Back Is Bitcoin Creator Satoshi Nakamoto](https://slashdot.org/story/26/04/08/213203/nyt-claims-adam-back-is-bitcoin-creator-satoshi-nakamoto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-08, 20:00:00](https://news.slashdot.org/story/26/04/08/1751257/amazon-is-ending-support-for-older-kindles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Is Ending Support For Older Kindles](https://news.slashdot.org/story/26/04/08/1751257/amazon-is-ending-support-for-older-kindles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-08, 19:00:00](https://slashdot.org/story/26/04/08/1746237/iran-demands-bitcoin-for-ships-passing-hormuz-during-ceasefire?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Iran Demands Bitcoin For Ships Passing Hormuz During Ceasefire](https://slashdot.org/story/26/04/08/1746237/iran-demands-bitcoin-for-ships-passing-hormuz-during-ceasefire?utm_source=rss1.0mainlinkanon&utm_medium=feed)
