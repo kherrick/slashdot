@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 20:00:00](https://it.slashdot.org/story/26/04/09/194221/openai-to-limit-new-model-release-on-cybersecurity-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI To Limit New Model Release On Cybersecurity Fears](https://it.slashdot.org/story/26/04/09/194221/openai-to-limit-new-model-release-on-cybersecurity-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-09, 19:00:00](https://yro.slashdot.org/story/26/04/09/1720203/hacker-steals-10-petabytes-of-data-from-chinas-tianjin-supercomputer-center?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hacker Steals 10 Petabytes of Data From China's Tianjin Supercomputer Center](https://yro.slashdot.org/story/26/04/09/1720203/hacker-steals-10-petabytes-of-data-from-chinas-tianjin-supercomputer-center?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-09, 18:00:00](https://yro.slashdot.org/story/26/04/09/1656219/eff-is-leaving-x?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EFF Is Leaving X](https://yro.slashdot.org/story/26/04/09/1656219/eff-is-leaving-x?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-09, 17:00:00](https://tech.slashdot.org/story/26/04/09/1644208/waymo-is-offering-to-help-cities-fix-their-potholes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waymo Is Offering To Help Cities Fix Their Potholes](https://tech.slashdot.org/story/26/04/09/1644208/waymo-is-offering-to-help-cities-fix-their-potholes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
