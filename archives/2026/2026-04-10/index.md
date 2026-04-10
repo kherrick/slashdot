@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-10](index.md)
+
+* [2026-04-10, 03:30:00](https://news.slashdot.org/story/26/04/09/215206/us-fertility-rate-falls-to-all-time-low?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Fertility Rate Falls To All-Time Low](https://news.slashdot.org/story/26/04/09/215206/us-fertility-rate-falls-to-all-time-low?utm_source=rss1.0mainlinkanon&utm_medium=feed)
