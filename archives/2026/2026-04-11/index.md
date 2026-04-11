@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 03:30:00](https://games.slashdot.org/story/26/04/10/219202/to-fill-air-traffic-controller-shortage-faa-turns-to-gamers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [To Fill Air Traffic Controller Shortage, FAA Turns To Gamers](https://games.slashdot.org/story/26/04/10/219202/to-fill-air-traffic-controller-shortage-faa-turns-to-gamers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-11, 01:00:00](https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Artemis II Astronauts Splash Down Off California's Coast](https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&utm_medium=feed)
