@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 21:00:00](https://yro.slashdot.org/story/26/04/13/2037240/fbi-raids-texas-home-of-man-suspected-of-firebombing-sam-altmans-sf-mansion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FBI Raids Texas Home of Man Suspected of Firebombing Sam Altman's SF Mansion](https://yro.slashdot.org/story/26/04/13/2037240/fbi-raids-texas-home-of-man-suspected-of-firebombing-sam-altmans-sf-mansion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-13, 20:00:00](https://yro.slashdot.org/story/26/04/13/1930253/meta-is-warned-that-facial-recognition-glasses-will-arm-sexual-predators?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators](https://yro.slashdot.org/story/26/04/13/1930253/meta-is-warned-that-facial-recognition-glasses-will-arm-sexual-predators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-13, 19:00:00](https://linux.slashdot.org/story/26/04/13/1857240/linux-70-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux 7.0 Released](https://linux.slashdot.org/story/26/04/13/1857240/linux-70-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-13, 18:00:00](https://it.slashdot.org/story/26/04/13/1653212/bookingcom-hit-by-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Booking.com Hit By Data Breach](https://it.slashdot.org/story/26/04/13/1653212/bookingcom-hit-by-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
