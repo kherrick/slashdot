@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 19:00:00](https://linux.slashdot.org/story/26/04/13/1857240/linux-70-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux 7.0 Released](https://linux.slashdot.org/story/26/04/13/1857240/linux-70-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-13, 18:00:00](https://it.slashdot.org/story/26/04/13/1653212/bookingcom-hit-by-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Booking.com Hit By Data Breach](https://it.slashdot.org/story/26/04/13/1653212/bookingcom-hit-by-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-13, 17:00:00](https://meta.slashdot.org/story/26/04/13/1642228/mark-zuckerberg-is-reportedly-building-an-ai-clone-to-replace-him-in-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mark Zuckerberg Is Reportedly Building an AI Clone To Replace Him In Meetings](https://meta.slashdot.org/story/26/04/13/1642228/mark-zuckerberg-is-reportedly-building-an-ai-clone-to-replace-him-in-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-13, 16:00:00](https://yro.slashdot.org/story/26/04/13/0335254/maine-set-to-become-first-state-with-data-center-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Maine Set To Become First State With Data Center Ban](https://yro.slashdot.org/story/26/04/13/0335254/maine-set-to-become-first-state-with-data-center-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
