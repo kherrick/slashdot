@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-15](index.md)
+
+* [2026-04-15, 03:30:00](https://entertainment.slashdot.org/story/26/04/14/2213204/sony-is-removing-many-popular-features-from-its-free-ota-tv-options?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Is Removing Many Popular Features From Its Free OTA TV Options](https://entertainment.slashdot.org/story/26/04/14/2213204/sony-is-removing-many-popular-features-from-its-free-ota-tv-options?utm_source=rss1.0mainlinkanon&utm_medium=feed)
