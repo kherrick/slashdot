@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 23:00:00](https://yro.slashdot.org/story/26/04/16/2052224/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11-recall-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['TotalRecall Reloaded' Tool Finds a Side Entrance To Windows 11 Recall Database](https://yro.slashdot.org/story/26/04/16/2052224/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11-recall-database?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-16, 22:00:00](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI's Big Codex Update Is a Direct Shot At Claude Code](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-16, 21:00:00](https://linux.slashdot.org/story/26/04/16/2029253/is-linux-mint-in-trouble?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Linux Mint In Trouble?](https://linux.slashdot.org/story/26/04/16/2029253/is-linux-mint-in-trouble?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-16, 20:00:00](https://hardware.slashdot.org/story/26/04/16/1916239/europe-has-maybe-6-weeks-of-jet-fuel-left?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Has 'Maybe 6 Weeks of Jet Fuel Left'](https://hardware.slashdot.org/story/26/04/16/1916239/europe-has-maybe-6-weeks-of-jet-fuel-left?utm_source=rss1.0mainlinkanon&utm_medium=feed)
