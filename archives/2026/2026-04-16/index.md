@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 21:00:00](https://linux.slashdot.org/story/26/04/16/2029253/is-linux-mint-in-trouble?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Linux Mint In Trouble?](https://linux.slashdot.org/story/26/04/16/2029253/is-linux-mint-in-trouble?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-16, 20:00:00](https://hardware.slashdot.org/story/26/04/16/1916239/europe-has-maybe-6-weeks-of-jet-fuel-left?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Has 'Maybe 6 Weeks of Jet Fuel Left'](https://hardware.slashdot.org/story/26/04/16/1916239/europe-has-maybe-6-weeks-of-jet-fuel-left?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-16, 19:00:00](https://yro.slashdot.org/story/26/04/16/184240/google-pentagon-discuss-classified-ai-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google, Pentagon Discuss Classified AI Deal](https://yro.slashdot.org/story/26/04/16/184240/google-pentagon-discuss-classified-ai-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-16, 18:00:00](https://tech.slashdot.org/story/26/04/16/1718230/ipv6-usage-reaches-historic-50-across-google-services?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IPv6 Usage Reaches Historic 50% Across Google Services](https://tech.slashdot.org/story/26/04/16/1718230/ipv6-usage-reaches-historic-50-across-google-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
