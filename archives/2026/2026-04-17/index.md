@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-17](index.md)
+
+* [2026-04-17, 03:30:00](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sperm Whales' Communication Closely Parallels Human Language, Study Finds](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
