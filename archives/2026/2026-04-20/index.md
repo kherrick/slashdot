@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 18:00:00](https://tech.slashdot.org/story/26/04/20/1654212/palantir-posts-bond-villain-manifesto-on-x?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Palantir Posts Bond Villain Manifesto On X](https://tech.slashdot.org/story/26/04/20/1654212/palantir-posts-bond-villain-manifesto-on-x?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-20, 17:00:00](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-20, 16:00:00](https://yro.slashdot.org/story/26/04/20/0353220/nsa-using-anthropics-mythos-despite-blacklist?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NSA Using Anthropic's Mythos Despite Blacklist](https://yro.slashdot.org/story/26/04/20/0353220/nsa-using-anthropics-mythos-despite-blacklist?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-20, 15:00:00](https://hardware.slashdot.org/story/26/04/20/0346215/robots-beat-human-records-at-beijing-half-marathon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Robots Beat Human Records At Beijing Half-Marathon](https://hardware.slashdot.org/story/26/04/20/0346215/robots-beat-human-records-at-beijing-half-marathon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
