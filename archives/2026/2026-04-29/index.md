@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 21:00:00](https://tech.slashdot.org/story/26/04/29/1917219/joby-demos-its-air-taxi-in-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Joby Demos Its Air Taxi In NYC](https://tech.slashdot.org/story/26/04/29/1917219/joby-demos-its-air-taxi-in-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-29, 20:00:00](https://apple.slashdot.org/story/26/04/29/1925205/apple-gives-up-on-the-vision-pro-after-m5-refresh-flop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Gives Up On the Vision Pro After M5 Refresh Flop](https://apple.slashdot.org/story/26/04/29/1925205/apple-gives-up-on-the-vision-pro-after-m5-refresh-flop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-29, 19:00:00](https://tech.slashdot.org/story/26/04/29/1627235/california-high-speed-rail-price-tag-jumps-to-231-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California High-Speed Rail Price Tag Jumps To $231 Billion](https://tech.slashdot.org/story/26/04/29/1627235/california-high-speed-rail-price-tag-jumps-to-231-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-04-29, 18:00:00](https://news.slashdot.org/story/26/04/29/1621248/colorados-anti-repair-bill-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Colorado's Anti-Repair Bill Is Dead](https://news.slashdot.org/story/26/04/29/1621248/colorados-anti-repair-bill-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
