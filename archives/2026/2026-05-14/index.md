@@ -1,0 +1,11 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-14](index.md)
+
+* [2026-05-14, 16:00:00](https://slashdot.org/story/26/05/14/067254/overworked-ai-agents-turn-marxist-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Overworked AI Agents Turn Marxist, Researchers Find](https://slashdot.org/story/26/05/14/067254/overworked-ai-agents-turn-marxist-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-05-14, 15:00:00](https://slashdot.org/story/26/05/14/060203/cisco-to-cut-almost-4000-jobs-in-ai-driven-restructuring?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cisco To Cut Almost 4,000 Jobs In AI-Driven Restructuring](https://slashdot.org/story/26/05/14/060203/cisco-to-cut-almost-4000-jobs-in-ai-driven-restructuring?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-05-14, 11:00:00](https://tech.slashdot.org/story/26/05/14/0554201/mystery-microsoft-bug-leaker-keeps-the-zero-days-coming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mystery Microsoft Bug Leaker Keeps the Zero-Days Coming](https://tech.slashdot.org/story/26/05/14/0554201/mystery-microsoft-bug-leaker-keeps-the-zero-days-coming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-05-14, 07:00:00](https://science.slashdot.org/story/26/05/14/0542239/physicists-find-possible-errors-in-100-year-old-model-of-the-universe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Physicists Find Possible Errors In 100-Year-Old Model of the Universe](https://science.slashdot.org/story/26/05/14/0542239/physicists-find-possible-errors-in-100-year-old-model-of-the-universe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-05-14, 04:30:00](https://yro.slashdot.org/story/26/05/14/0420215/openai-trial-wraps-up-with-jackass-trophy-for-challenging-musk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Trial Wraps Up With 'Jackass' Trophy For Challenging Musk](https://yro.slashdot.org/story/26/05/14/0420215/openai-trial-wraps-up-with-jackass-trophy-for-challenging-musk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
