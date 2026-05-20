@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-20](index.md)
+
+* [2026-05-20, 03:30:00](https://yro.slashdot.org/story/26/05/20/0121248/minnesota-becomes-first-state-to-ban-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Minnesota Becomes First State To Ban Prediction Markets](https://yro.slashdot.org/story/26/05/20/0121248/minnesota-becomes-first-state-to-ban-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
