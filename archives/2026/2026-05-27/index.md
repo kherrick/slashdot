@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 22:00:00](https://slashdot.org/story/26/05/27/2132231/nvidia-to-spend-150-billion-a-year-in-taiwan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia To Spend $150 Billion a Year In Taiwan](https://slashdot.org/story/26/05/27/2132231/nvidia-to-spend-150-billion-a-year-in-taiwan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-05-27, 21:00:00](https://linux.slashdot.org/story/26/05/27/208203/rust-will-save-linux-from-ai-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rust Will Save Linux From AI, Says Greg Kroah-Hartman](https://linux.slashdot.org/story/26/05/27/208203/rust-will-save-linux-from-ai-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-05-27, 20:20:00](https://news.slashdot.org/story/26/05/27/1946203/the-ai-fight-brewing-inside-the-new-york-times?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The AI Fight Brewing Inside the New York Times](https://news.slashdot.org/story/26/05/27/1946203/the-ai-fight-brewing-inside-the-new-york-times?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-05-27, 19:00:00](https://news.slashdot.org/story/26/05/27/1936207/youtube-to-automatically-detect-label-ai-generated-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube To Automatically Detect, Label AI-Generated Videos](https://news.slashdot.org/story/26/05/27/1936207/youtube-to-automatically-detect-label-ai-generated-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
