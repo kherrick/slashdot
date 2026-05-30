@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-30](index.md)
+
+* [2026-05-30, 03:30:00](https://entertainment.slashdot.org/story/26/05/30/0246210/rip-marcia-lucas-oscar-winning-star-wars-editor-dies-at-80?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [RIP: Marcia Lucas, Oscar-Winning Star Wars Editor, Dies At 80](https://entertainment.slashdot.org/story/26/05/30/0246210/rip-marcia-lucas-oscar-winning-star-wars-editor-dies-at-80?utm_source=rss1.0mainlinkanon&utm_medium=feed)
