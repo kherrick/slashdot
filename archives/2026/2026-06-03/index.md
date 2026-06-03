@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-03](index.md)
+
+* [2026-06-03, 03:30:00](https://hardware.slashdot.org/story/26/06/02/2327236/microsofts-project-solara-is-an-os-for-devices-that-run-ai-agents-instead-of-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Project Solara Is an OS For Devices That Run AI Agents Instead of Apps](https://hardware.slashdot.org/story/26/06/02/2327236/microsofts-project-solara-is-an-os-for-devices-that-run-ai-agents-instead-of-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
