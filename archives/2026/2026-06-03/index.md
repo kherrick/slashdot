@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 11:00:00](https://tech.slashdot.org/story/26/06/02/2348244/thanks-to-robots-ukraine-is-now-talking-about-winning-not-just-surviving?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Thanks To Robots, Ukraine Is Now Talking About Winning, Not Just Surviving](https://tech.slashdot.org/story/26/06/02/2348244/thanks-to-robots-ukraine-is-now-talking-about-winning-not-just-surviving?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-06-03, 07:00:00](https://news.slashdot.org/story/26/06/02/2336255/trump-administration-to-dismantle-ocean-monitoring-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Administration to Dismantle Ocean Monitoring System](https://news.slashdot.org/story/26/06/02/2336255/trump-administration-to-dismantle-ocean-monitoring-system?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-06-03, 03:30:00](https://hardware.slashdot.org/story/26/06/02/2327236/microsofts-project-solara-is-an-os-for-devices-that-run-ai-agents-instead-of-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Project Solara Is an OS For Devices That Run AI Agents Instead of Apps](https://hardware.slashdot.org/story/26/06/02/2327236/microsofts-project-solara-is-an-os-for-devices-that-run-ai-agents-instead-of-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
