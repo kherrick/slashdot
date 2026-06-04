@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-04](index.md)
+
+* [2026-06-04, 03:30:00](https://tech.slashdot.org/story/26/06/04/0043253/demand-is-booming-for-new-no-tech-repairable-tractor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Demand Is Booming For New No Tech, Repairable Tractor](https://tech.slashdot.org/story/26/06/04/0043253/demand-is-booming-for-new-no-tech-repairable-tractor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
