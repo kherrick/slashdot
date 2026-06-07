@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-07](index.md)
+
+* [2026-06-07, 00:40:00](https://tech.slashdot.org/story/26/06/07/0036228/cheaper-ev-sales-are-increasing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cheaper EV Sales are Increasing](https://tech.slashdot.org/story/26/06/07/0036228/cheaper-ev-sales-are-increasing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
