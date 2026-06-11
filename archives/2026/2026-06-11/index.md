@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-11](index.md)
+
+* [2026-06-11, 03:30:00](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Solar Beats Coal In the US For the First Month Ever](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
