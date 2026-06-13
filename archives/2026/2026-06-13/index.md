@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-13](index.md)
+
+* [2026-06-13, 03:30:00](https://news.slashdot.org/story/26/06/12/2242249/data-center-opponents-have-blocked-or-delayed-projects-worth-nearly-130-billion-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Data Center Opponents Have Blocked Or Delayed Projects Worth Nearly $130 Billion In 2026](https://news.slashdot.org/story/26/06/12/2242249/data-center-opponents-have-blocked-or-delayed-projects-worth-nearly-130-billion-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed)
