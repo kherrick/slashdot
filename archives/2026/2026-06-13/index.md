@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 07:00:00](https://news.slashdot.org/story/26/06/13/0546258/anthropic-suspends-all-mythos-and-fable-access-after-us-order-limiting-foreign-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic 'Suspends' All Mythos and Fable Access After US Order Limiting Foreign Access](https://news.slashdot.org/story/26/06/13/0546258/anthropic-suspends-all-mythos-and-fable-access-after-us-order-limiting-foreign-access?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-06-13, 03:30:00](https://news.slashdot.org/story/26/06/12/2242249/data-center-opponents-have-blocked-or-delayed-projects-worth-nearly-130-billion-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Data Center Opponents Have Blocked Or Delayed Projects Worth Nearly $130 Billion In 2026](https://news.slashdot.org/story/26/06/12/2242249/data-center-opponents-have-blocked-or-delayed-projects-worth-nearly-130-billion-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed)
