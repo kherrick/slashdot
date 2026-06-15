@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-15](index.md)
+
+* [2026-06-15, 01:19:00](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Workers Spend As Much Time 'Botsitting' AI As Producing Useful Work, Survey Finds](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
