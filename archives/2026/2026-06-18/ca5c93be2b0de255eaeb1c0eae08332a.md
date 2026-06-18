@@ -1,0 +1,3 @@
+# [Published on 2026-06-18](index.md)
+
+* [2026-06-18, 17:00:00](https://it.slashdot.org/story/26/06/18/1656252/google-toldl-researchers-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Toldl Researchers 'Nice Catch!' Then Denied Bug Bounty For Flaw It Still Hasn't Fixed](https://it.slashdot.org/story/26/06/18/1656252/google-toldl-researchers-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
