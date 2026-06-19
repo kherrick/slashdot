@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-19](index.md)
+
+* [2026-06-19, 03:30:00](https://news.slashdot.org/story/26/06/18/2052239/trump-admin-backs-off-plans-to-kill-ocean-monitoring?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Admin Backs Off Plans To Kill Ocean Monitoring](https://news.slashdot.org/story/26/06/18/2052239/trump-admin-backs-off-plans-to-kill-ocean-monitoring?utm_source=rss1.0mainlinkanon&utm_medium=feed)
