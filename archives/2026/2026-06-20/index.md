@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 07:00:00](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-06-20, 03:30:00](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&utm_medium=feed)
