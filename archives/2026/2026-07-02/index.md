@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 20:00:00](https://it.slashdot.org/story/26/07/02/1849243/ai-agent-executes-first-end-to-end-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Agent Executes 'First' End-To-End Ransomware Attack](https://it.slashdot.org/story/26/07/02/1849243/ai-agent-executes-first-end-to-end-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-02, 19:00:00](https://games.slashdot.org/story/26/07/02/1839237/godot-game-engine-no-longer-accepts-ai-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Godot Game Engine No Longer Accepts AI Code](https://games.slashdot.org/story/26/07/02/1839237/godot-game-engine-no-longer-accepts-ai-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-02, 18:05:00](https://news.slashdot.org/story/26/07/02/182227/meta-is-charging-a-subscription-for-smart-glasses-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Is Charging a Subscription for Smart Glasses Features](https://news.slashdot.org/story/26/07/02/182227/meta-is-charging-a-subscription-for-smart-glasses-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-02, 17:00:00](https://yro.slashdot.org/story/26/07/02/1623259/openai-in-early-talks-to-give-5-stake-to-us-government?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI 'In Early Talks To Give 5% Stake To US Government'](https://yro.slashdot.org/story/26/07/02/1623259/openai-in-early-talks-to-give-5-stake-to-us-government?utm_source=rss1.0mainlinkanon&utm_medium=feed)
