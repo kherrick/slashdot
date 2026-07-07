@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 19:00:00](https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's DeepSeek Developing Its Own AI Chip](https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-07, 18:00:00](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Major Banks In Talks To Exploit Debit Card Loophole](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-07, 17:00:00](https://yro.slashdot.org/story/26/07/07/1650237/microsoft-can-track-users-via-a-windows-device-id?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Can Track Users Via a Windows Device ID](https://yro.slashdot.org/story/26/07/07/1650237/microsoft-can-track-users-via-a-windows-device-id?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-07, 16:00:00](https://tech.slashdot.org/story/26/07/07/0715252/amazon-will-stop-accepting-new-customers-for-mechanical-turk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Will Stop Accepting New Customers For Mechanical Turk](https://tech.slashdot.org/story/26/07/07/0715252/amazon-will-stop-accepting-new-customers-for-mechanical-turk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
