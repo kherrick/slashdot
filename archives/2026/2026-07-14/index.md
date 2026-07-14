@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 07:05:00](https://science.slashdot.org/story/26/07/14/073233/scientists-find-sugar-deep-in-our-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Find Sugar Deep In Our Galaxy](https://science.slashdot.org/story/26/07/14/073233/scientists-find-sugar-deep-in-our-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-14, 03:30:00](https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Over 200 Economists Say 'We Must Act Now' On AI's Economic Impact](https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact?utm_source=rss1.0mainlinkanon&utm_medium=feed)
