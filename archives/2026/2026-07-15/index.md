@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-07-15](index.md)
+
+* [2026-07-15, 03:30:00](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Iran Abused Mobile Networks' Vulnerabilities To Locate US Military In Middle East](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&utm_medium=feed)
