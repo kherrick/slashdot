@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 20:00:00](https://entertainment.slashdot.org/story/26/07/15/1953229/fcc-plans-to-repeal-39-tv-ownership-cap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC Plans To Repeal 39% TV Ownership Cap](https://entertainment.slashdot.org/story/26/07/15/1953229/fcc-plans-to-repeal-39-tv-ownership-cap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 19:00:00](https://yro.slashdot.org/story/26/07/15/1738217/google-and-epic-cancel-settlement-third-party-app-stores-coming-to-google-play?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google and Epic Cancel Settlement; Third-Party App Stores Coming To Google Play](https://yro.slashdot.org/story/26/07/15/1738217/google-and-epic-cancel-settlement-third-party-app-stores-coming-to-google-play?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 18:00:00](https://bsd.slashdot.org/story/26/07/15/1727252/freebsd-16-retires-the-last-of-its-gpl-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FreeBSD 16 Retires the Last of Its GPL Code](https://bsd.slashdot.org/story/26/07/15/1727252/freebsd-16-retires-the-last-of-its-gpl-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 17:00:00](https://hardware.slashdot.org/story/26/07/15/1659217/openai-launches-a-keypad-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Launches a Keypad for AI Agents](https://hardware.slashdot.org/story/26/07/15/1659217/openai-launches-a-keypad-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
