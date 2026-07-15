@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 17:00:00](https://hardware.slashdot.org/story/26/07/15/1659217/openai-launches-a-keypad-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Launches a Keypad for AI Agents](https://hardware.slashdot.org/story/26/07/15/1659217/openai-launches-a-keypad-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 16:00:00](https://news.slashdot.org/story/26/07/15/047200/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stripe, Advent Offer to Buy PayPal For More Than $53 Billion](https://news.slashdot.org/story/26/07/15/047200/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 15:00:00](https://tech.slashdot.org/story/26/07/15/042220/microsoft-patches-a-record-570-security-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Patches a Record 570 Security Flaws](https://tech.slashdot.org/story/26/07/15/042220/microsoft-patches-a-record-570-security-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 11:00:00](https://science.slashdot.org/story/26/07/15/0354223/astronauts-take-first-x-rays-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Astronauts Take First X-Rays In Space](https://science.slashdot.org/story/26/07/15/0354223/astronauts-take-first-x-rays-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
