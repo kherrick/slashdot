@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 11:00:00](https://science.slashdot.org/story/26/07/15/0354223/astronauts-take-first-x-rays-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Astronauts Take First X-Rays In Space](https://science.slashdot.org/story/26/07/15/0354223/astronauts-take-first-x-rays-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 07:00:00](https://yro.slashdot.org/story/26/07/15/0346241/house-votes-for-permanent-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [House Votes For Permanent Daylight Saving Time](https://yro.slashdot.org/story/26/07/15/0346241/house-votes-for-permanent-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-15, 03:30:00](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Iran Abused Mobile Networks' Vulnerabilities To Locate US Military In Middle East](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&utm_medium=feed)
