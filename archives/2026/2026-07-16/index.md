@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 16:00:00](https://tech.slashdot.org/story/26/07/16/0436218/eu-wont-require-user-replaceable-batteries-for-wearables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EU Won't Require User-Replaceable Batteries for Wearables](https://tech.slashdot.org/story/26/07/16/0436218/eu-wont-require-user-replaceable-batteries-for-wearables?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-16, 15:00:00](https://slashdot.org/story/26/07/16/0431223/south-korea-to-launch-universal-basic-ai-chatbot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [South Korea To Launch Universal Basic AI Chatbot](https://slashdot.org/story/26/07/16/0431223/south-korea-to-launch-universal-basic-ai-chatbot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-16, 11:00:00](https://slashdot.org/story/26/07/16/0425232/chinese-users-bid-farewell-to-ai-companions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chinese Users Bid Farewell To AI Companions](https://slashdot.org/story/26/07/16/0425232/chinese-users-bid-farewell-to-ai-companions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-16, 07:00:00](https://science.slashdot.org/story/26/07/16/0421206/physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Physicists Create First Room-Temperature Quantum Material](https://science.slashdot.org/story/26/07/16/0421206/physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon&utm_medium=feed)
