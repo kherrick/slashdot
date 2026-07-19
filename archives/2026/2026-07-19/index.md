@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-07-19](index.md)
+
+* [2026-07-19, 00:17:00](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Orders ISPs to Block Access to Polymarket](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&utm_medium=feed)
