@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 22:00:00](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tesla Robotaxis Go To Florida](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-21, 21:00:00](https://news.slashdot.org/story/26/07/21/2022247/firefox-153-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firefox 153 Released](https://news.slashdot.org/story/26/07/21/2022247/firefox-153-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-21, 20:10:00](https://news.slashdot.org/story/26/07/21/206243/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop](https://news.slashdot.org/story/26/07/21/206243/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-07-21, 19:00:00](https://news.slashdot.org/story/26/07/21/1750207/canonical-launches-enterprise-store-for-ubuntu-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canonical Launches Enterprise Store For Ubuntu Pro](https://news.slashdot.org/story/26/07/21/1750207/canonical-launches-enterprise-store-for-ubuntu-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
