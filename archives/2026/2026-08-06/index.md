@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-06](index.md)
+
+* [2026-08-06, 03:30:00](https://science.slashdot.org/story/26/08/05/2226251/new-images-of-the-sun-show-its-surface-in-the-finest-detail-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Images of the Sun Show Its Surface In the Finest Detail Yet](https://science.slashdot.org/story/26/08/05/2226251/new-images-of-the-sun-show-its-surface-in-the-finest-detail-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
