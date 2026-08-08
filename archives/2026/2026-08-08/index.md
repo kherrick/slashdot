@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-08](index.md)
+
+* [2026-08-08, 03:30:00](https://hardware.slashdot.org/story/26/08/07/2157219/trump-administration-to-pay-german-firm-12-billion-to-halt-us-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Administration To Pay German Firm $1.2 Billion To Halt US Wind Projects](https://hardware.slashdot.org/story/26/08/07/2157219/trump-administration-to-pay-german-firm-12-billion-to-halt-us-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
