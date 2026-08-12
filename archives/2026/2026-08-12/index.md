@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 18:00:00](https://tech.slashdot.org/story/26/08/12/1525222/the-pixel-tag-is-googles-answer-to-the-airtag?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Pixel Tag Is Google's Answer To the AirTag](https://tech.slashdot.org/story/26/08/12/1525222/the-pixel-tag-is-googles-answer-to-the-airtag?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-12, 17:00:00](https://yro.slashdot.org/story/26/08/12/1518258/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [German Advocacy Group Lodges Criminal Complaint Over Meta AI Glasses](https://yro.slashdot.org/story/26/08/12/1518258/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-12, 16:00:00](https://hardware.slashdot.org/story/26/08/12/1536211/google-unveils-pixel-11-lineup?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Unveils Pixel 11 Lineup](https://hardware.slashdot.org/story/26/08/12/1536211/google-unveils-pixel-11-lineup?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-12, 15:00:00](https://games.slashdot.org/story/26/08/12/0542256/us-hires-over-2000-video-gamers-as-air-traffic-controllers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Hires Over 2,000 Video Gamers As Air Traffic Controllers](https://games.slashdot.org/story/26/08/12/0542256/us-hires-over-2000-video-gamers-as-air-traffic-controllers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
