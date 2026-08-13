@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 03:30:00](https://news.slashdot.org/story/26/08/12/2052214/how-social-media-spurred-a-refugee-crisis-between-spain-and-morocco?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Social Media Spurred a Refugee Crisis Between Spain and Morocco](https://news.slashdot.org/story/26/08/12/2052214/how-social-media-spurred-a-refugee-crisis-between-spain-and-morocco?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-13, 01:00:00](https://news.slashdot.org/story/26/08/13/0052208/trump-administration-enlists-private-companies-to-hack-foreign-cybercrime-groups?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Administration Enlists Private Companies To Hack Foreign Cybercrime Groups](https://news.slashdot.org/story/26/08/13/0052208/trump-administration-enlists-private-companies-to-hack-foreign-cybercrime-groups?utm_source=rss1.0mainlinkanon&utm_medium=feed)
