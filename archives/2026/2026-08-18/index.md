@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 22:00:00](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comcast Is Turning Millions of Its Routers Into Motion Detectors](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-18, 21:00:00](https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney, ABC Sue FCC Over Threats to Broadcast Licenses](https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-18, 20:03:00](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Memory Prices Climb 500% In 12 Months](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-18, 19:00:00](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [You Can Finally Buy a Fairphone In the US](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
