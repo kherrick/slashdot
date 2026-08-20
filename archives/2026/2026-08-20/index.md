@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 07:00:00](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-20, 03:30:00](https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta](https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed)
