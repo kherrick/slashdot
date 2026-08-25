@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 18:00:00](https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds](https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-25, 17:00:00](https://tech.slashdot.org/story/26/08/25/168248/waymo-is-expanding-to-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waymo Is Expanding to Germany](https://tech.slashdot.org/story/26/08/25/168248/waymo-is-expanding-to-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-25, 16:00:00](https://hardware.slashdot.org/story/26/08/25/1553245/apple-announces-new-mac-mini-with-m6-and-m5-pro-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces New Mac Mini With M6 and M5 Pro Chips](https://hardware.slashdot.org/story/26/08/25/1553245/apple-announces-new-mac-mini-with-m6-and-m5-pro-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-08-25, 15:00:00](https://news.slashdot.org/story/26/08/25/0617230/motorolas-2027-flagships-will-officially-support-grapheneos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Motorola's 2027 Flagships Will Officially Support GrapheneOS](https://news.slashdot.org/story/26/08/25/0617230/motorolas-2027-flagships-will-officially-support-grapheneos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
