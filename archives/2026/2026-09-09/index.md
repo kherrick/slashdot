@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
+* [2026-09-09, 07:00:00](https://science.slashdot.org/story/26/09/08/2228220/openai-says-it-has-cracked-one-of-maths-millennium-problems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Says It Has Cracked One of Math's 'Millennium Problems'](https://science.slashdot.org/story/26/09/08/2228220/openai-says-it-has-cracked-one-of-maths-millennium-problems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-09-09, 03:30:00](https://entertainment.slashdot.org/story/26/09/09/0113229/star-trek-turns-60?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Star Trek Turns 60](https://entertainment.slashdot.org/story/26/09/09/0113229/star-trek-turns-60?utm_source=rss1.0mainlinkanon&utm_medium=feed)
