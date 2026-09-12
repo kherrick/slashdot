@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-12](index.md)
+
+* [2026-09-12, 01:00:00](https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Male Fruit Fly Brain Trained to Play Doom](https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
