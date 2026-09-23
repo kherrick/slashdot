@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-23](index.md)
+
+* [2026-09-23, 02:34:00](https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents](https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
