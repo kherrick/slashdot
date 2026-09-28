@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-28, 20:00:00",
+      "https://news.slashdot.org/story/26/09/28/180249/data-center-developer-offers-10000-checks-to-nearby-households?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Data Center Developer Offers $10,000 Checks To Nearby Households",
+      "https://news.slashdot.org/story/26/09/28/180249/data-center-developer-offers-10000-checks-to-nearby-households?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 19:00:00",
+      "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
+      "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 18:00:00",
+      "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+      "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 17:00:00",
+      "https://tech.slashdot.org/story/26/09/28/0626202/amazon-evaluating-drone-deliveries-in-australia-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Amazon Evaluating Drone Deliveries In Australia, Asia",
+      "https://tech.slashdot.org/story/26/09/28/0626202/amazon-evaluating-drone-deliveries-in-australia-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 16:00:00",
+      "https://slashdot.org/story/26/09/28/0615249/bill-gates-says-an-ai-kill-switch-isnt-enough?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Bill Gates Says an AI 'Kill Switch' Isn't Enough",
+      "https://slashdot.org/story/26/09/28/0615249/bill-gates-says-an-ai-kill-switch-isnt-enough?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 15:20:00",
+      "https://science.slashdot.org/story/26/09/28/1513251/spacex-launches-starship-into-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "SpaceX Launches Starship Into Orbit",
+      "https://science.slashdot.org/story/26/09/28/1513251/spacex-launches-starship-into-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 15:00:00",
+      "https://news.slashdot.org/story/26/09/28/060245/walmart-says-its-not-using-personal-info-to-set-prices-as-it-expands-digital-shelf-labels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ],
+    [
+      "Walmart Says It's Not Using Personal Info To Set Prices As It Expands Digital Shelf Labels",
+      "https://news.slashdot.org/story/26/09/28/060245/walmart-says-its-not-using-personal-info-to-set-prices-as-it-expands-digital-shelf-labels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+    ]
+  ],
+  [
+    [
       "2026-09-28, 08:34:00",
       "https://politics.slashdot.org/story/26/09/26/2358224/are-ai-chatbots-spreading-misinformation-to-us-voters?utm_source=rss1.0mainlinkanon&utm_medium=feed"
     ],
@@ -77,76 +147,6 @@
     [
       "KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions",
       "https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 20:34:00",
-      "https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays",
-      "https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 16:04:00",
-      "https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle",
-      "https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 11:34:00",
-      "https://tech.slashdot.org/story/26/09/25/0420247/is-microsoft-quietly-killing-off-its-copilot-pc-brand?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "Is Microsoft Quietly Killing Off Its 'Copilot+ PC' Brand?",
-      "https://tech.slashdot.org/story/26/09/25/0420247/is-microsoft-quietly-killing-off-its-copilot-pc-brand?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 07:04:00",
-      "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
-      "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 02:34:00",
-      "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response",
-      "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 22:04:00",
-      "https://it.slashdot.org/story/26/09/24/1652228/theres-a-new-way-to-break-rsa-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "There's a New Way to Break RSA Encryption",
-      "https://it.slashdot.org/story/26/09/24/1652228/theres-a-new-way-to-break-rsa-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 17:34:00",
-      "https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-    ],
-    [
-      "Asteroids Named After Tom Lehrer and 'Weird Al' Yankovic",
-      "https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic?utm_source=rss1.0mainlinkanon&utm_medium=feed"
     ]
   ]
 ]
