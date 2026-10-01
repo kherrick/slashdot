@@ -1,0 +1,11 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-01](index.md)
+
+* [2026-10-01, 19:00:00](https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cops Can Bypass iPhone's Automatic Reboot To Get Into Locked Phones](https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-10-01, 18:00:00](https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities](https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-10-01, 17:22:00](https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks](https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-10-01, 16:00:00](https://hardware.slashdot.org/story/26/10/01/1514239/hps-answer-to-the-macbook-neo-is-thinner-lighter-and-comes-with-oled?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HP's Answer to the MacBook Neo Is Thinner, Lighter, and Comes With OLED](https://hardware.slashdot.org/story/26/10/01/1514239/hps-answer-to-the-macbook-neo-is-thinner-lighter-and-comes-with-oled?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2026-10-01, 15:15:00](https://games.slashdot.org/story/26/10/01/1510234/ps5-emulation-is-suddenly-making-big-strides-on-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PS5 Emulation Is Suddenly Making Big Strides On PC](https://games.slashdot.org/story/26/10/01/1510234/ps5-emulation-is-suddenly-making-big-strides-on-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
