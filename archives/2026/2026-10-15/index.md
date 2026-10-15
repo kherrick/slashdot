@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 23:00:00](https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ubuntu 26.10 Released](https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-15, 22:00:00](https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IMF Warns of the Real AI Threat: Debt](https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-15, 21:00:00](https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Flock CEO Defends Surveillance Tech Amid National Backlash](https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-15, 20:00:00](https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads](https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
