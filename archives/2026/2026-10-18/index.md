@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-18](index.md)
+
+* [2026-10-18, 01:34:00](https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Woman Arrested After Blocking Delivery Robot to Protest Job Displacements ](https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=rss1.0mainlinkanon&utm_medium=feed)
