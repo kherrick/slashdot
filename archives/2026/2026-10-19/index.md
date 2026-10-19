@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 19:30:00](https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces October 28 'Pro and Tell' Event](https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-19, 19:00:00](https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Florida DMV Hacked After Police Dept Insecurely Stored Login Info](https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-19, 18:00:00](https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elon Musk Vows To Give a SpaceX Share To 'Every Kid In America'](https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-19, 17:10:00](https://tech.slashdot.org/story/26/10/19/176251/wine-ported-to-openbsd?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Wine Ported to OpenBSD](https://tech.slashdot.org/story/26/10/19/176251/wine-ported-to-openbsd?utm_source=rss1.0mainlinkanon&utm_medium=feed)
