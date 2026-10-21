@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 23:00:00](https://slashdot.org/story/26/10/21/2040246/ebay-to-cut-9-of-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [eBay to Cut 9% of Workforce](https://slashdot.org/story/26/10/21/2040246/ebay-to-cut-9-of-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-21, 22:00:00](https://linux.slashdot.org/story/26/10/21/2030239/amd-brings-ryzen-overclocking-driver-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Brings Ryzen Overclocking Driver to Linux](https://linux.slashdot.org/story/26/10/21/2030239/amd-brings-ryzen-overclocking-driver-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-21, 21:00:00](https://yro.slashdot.org/story/26/10/21/1729218/more-than-15-million-canadian-crime-stoppers-tips-leaked?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [More Than 1.5 Million Canadian Crime Stoppers Tips Leaked](https://yro.slashdot.org/story/26/10/21/1729218/more-than-15-million-canadian-crime-stoppers-tips-leaked?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-21, 20:00:00](https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox](https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=rss1.0mainlinkanon&utm_medium=feed)
