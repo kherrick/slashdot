@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 23:00:00](https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Singapore Boffins Weave a GUI Into Fabric](https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-23, 22:00:00](https://entertainment.slashdot.org/story/26/10/23/2034217/people-are-vibe-coding-their-way-to-better-tvs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [People Are Vibe Coding Their Way to Better TVs](https://entertainment.slashdot.org/story/26/10/23/2034217/people-are-vibe-coding-their-way-to-better-tvs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-23, 21:00:00](https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Greece Enacts Social Media Ban For Kids Under 15](https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-23, 20:00:00](https://mobile.slashdot.org/story/26/10/23/1916222/spacex-in-talks-to-access-80000-cell-sites-for-new-network?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SpaceX In Talks to Access 80,000 Cell Sites For New Network](https://mobile.slashdot.org/story/26/10/23/1916222/spacex-in-talks-to-access-80000-cell-sites-for-new-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
