@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 18:00:00](https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces Its First Touchscreen MacBook Pro](https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-28, 17:00:00](https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EMACS Turns 50](https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-28, 16:00:00](https://science.slashdot.org/story/26/10/28/1532238/fcc-approves-amazon-leos-115-billion-acquisition-of-globalstar?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FCC Approves Amazon Leo's $11.5 Billion Acquisition of Globalstar](https://science.slashdot.org/story/26/10/28/1532238/fcc-approves-amazon-leos-115-billion-acquisition-of-globalstar?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-28, 15:00:00](https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Begins Certifying Registered App Stores For Android](https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android?utm_source=rss1.0mainlinkanon&utm_medium=feed)
