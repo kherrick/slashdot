@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 20:00:00](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-28, 19:00:00](https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Finds 'Tokenmaxxing' Lacks Productivity Gains](https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-28, 18:00:00](https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces Its First Touchscreen MacBook Pro](https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-28, 17:00:00](https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EMACS Turns 50](https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50?utm_source=rss1.0mainlinkanon&utm_medium=feed)
