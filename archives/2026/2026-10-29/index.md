@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 16:00:00](https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Is Getting a 'For You' Feed](https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-29, 15:00:00](https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Please Let the Internet Die'](https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-29, 11:00:00](https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Struggling to Make AI Mode Searches Pay](https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-29, 07:00:00](https://slashdot.org/story/26/10/29/0436243/ink-droplets-in-motion-snag-top-prize-in-nikon-small-world-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ink Droplets In Motion Snag Top Prize In Nikon Small World Contest](https://slashdot.org/story/26/10/29/0436243/ink-droplets-in-motion-snag-top-prize-in-nikon-small-world-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed)
