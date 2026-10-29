@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 18:00:00](https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canada to Join EU Network of Supercomputers](https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-29, 17:00:00](https://slashdot.org/story/26/10/29/1644224/doordash-strikes-17-billion-deal-for-us-rival-instacart?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DoorDash Strikes $17 Billion Deal For US Rival Instacart](https://slashdot.org/story/26/10/29/1644224/doordash-strikes-17-billion-deal-for-us-rival-instacart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-29, 16:00:00](https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Is Getting a 'For You' Feed](https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-10-29, 15:00:00](https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Please Let the Internet Die'](https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=rss1.0mainlinkanon&utm_medium=feed)
