@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-06](index.md)
+
+* [2026-11-06, 00:00:00](https://yro.slashdot.org/story/26/11/05/2230215/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Applebee's Exposed Customers' Personal Data After Leaving Database Password In App](https://yro.slashdot.org/story/26/11/05/2230215/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
