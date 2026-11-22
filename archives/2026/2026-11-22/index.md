@@ -1,0 +1,7 @@
+# [Slashdot](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-22](index.md)
+
+* [2026-11-22, 02:34:00](https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Several Waymo Self-Driving Cars Stalled in Traffic as San Francisco's Streets Flooded](https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon&utm_medium=feed)
