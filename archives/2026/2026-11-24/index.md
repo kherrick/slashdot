@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 22:00:00](https://it.slashdot.org/story/26/11/24/197200/hackers-compromise-check-point-servers-in-22-organizations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hackers Compromise Check Point Servers In 22 Organizations](https://it.slashdot.org/story/26/11/24/197200/hackers-compromise-check-point-servers-in-22-organizations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-11-24, 21:00:00](https://it.slashdot.org/story/26/11/24/1859221/microsoft-declares-code-red-after-historic-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Declares 'Code Red' After Historic Outage](https://it.slashdot.org/story/26/11/24/1859221/microsoft-declares-code-red-after-historic-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-11-24, 20:00:00](https://entertainment.slashdot.org/story/26/11/24/1718253/super-bowl-is-coming-to-imax-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Super Bowl Is Coming To IMAX Screens](https://entertainment.slashdot.org/story/26/11/24/1718253/super-bowl-is-coming-to-imax-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2026-11-24, 19:00:00](https://tech.slashdot.org/story/26/11/24/173211/google-alternative-kagi-launches-an-email-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Alternative Kagi Launches An Email Service](https://tech.slashdot.org/story/26/11/24/173211/google-alternative-kagi-launches-an-email-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
